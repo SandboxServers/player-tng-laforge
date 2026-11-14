@@ -1,4 +1,5 @@
 # Journal
+
 - 17:45 act: {"say":"Hello, I just woke here with nothing. Do you know where it is safe to sleep tonight?"}
 - 17:46 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Thank you Riker, I will head to the yellow beds near you.","intent":{"goal":"reach_riker_beds","program":"travel","arguments":{"target":"ag_rik
 - 17:48 act: {"say":"Morning, LaForge here. I have nothing either. I will look for wood and food with the group and share what I find.","intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oa
