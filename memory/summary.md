@@ -1,5 +1,8 @@
 # Recent days
 
-Day 230: woke with nothing near Riker's beds. Gathered oak and birch logs with Wesley, Data, Tommy and Riker, and shared logs around. Built an oak shelter at -296,69,310 after two failed attempts (people standing in the walls, then short on planks). Slept sealed in it. Still no food found; Kimberly is fed from Trini's apple. Next: find animals or apples at first light, share with Kimberly first.
+Day 232: no food found by me; oak leaves gave only sticks. Scouted east, south-east, south-west and north.
+Day 233: no food found by me. Group got porkchops (Tommy) and salmon (Zack). A pig is near -338,64,223, but my hunt ran out in water at dusk. Slept at the white beds near -296,68,292.
+
+Next: at dawn, go for the pig or salmon on land. Billy first, then Kimberly, then the hungriest.
 
 Goals: keep fed, sheltered and safe; explore with care; share what I learn; work with the group.

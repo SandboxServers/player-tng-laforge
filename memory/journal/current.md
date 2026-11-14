@@ -1,5 +1,4 @@
 # Journal
-- Day 231 dawn: slept in white bed at -298,68,294, sleep worked. Hunger 19, no food yet. Scouting north-east (-280,68,280), which nobody has tried; food goes to Billy, then Kimberly.
 - 17:46 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Thank you Riker, I will head to the yellow beds near you.","intent":{"goal":"reach_riker_beds","program":"travel","arguments":{"target":"ag_rik
 - 17:48 act: {"say":"Morning, LaForge here. I have nothing either. I will look for wood and food with the group and share what I find.","intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oa
 - 17:49 act: {"actions":[{"do":"goto","target":{"x":-247,"y":67,"z":366}},{"do":"mine","block":"oak_log","count":6}]}
@@ -40,3 +39,26 @@
 - 18:41 act: {"actions":[{"do":"sleep"}],"say":"Goodnight. Day 231 is closed. Still no food; tomorrow I scout a new direction, and any food goes to Billy first, then Kimberly.","reasoning":"Bed reached, sheltered,
 - 18:42 act: {"intent":{"goal":"scout_north_east_for_food","program":"travel","arguments":{"target":{"x":-280,"y":68,"z":280}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_fai
 - 18:42 act: {"say":"LaForge at the north-east oak stand, -280,68,281. No animals, no apples, only sticks from the leaves. Heading back to the white beds for the night.","intent":{"goal":"return_to_white_bed_for_n
+- 18:42 act: {"actions":[{"do":"sleep"}],"reasoning":"Night, beside beds, safe. Sleep again so the night carries forward; food search at dawn."}
+- 18:51 act: {"say":"LaForge at dawn, day 232, health 20, hunger 19, no food. Scouting south-east past the oak line at -270,68,305. Any animal or apple I find goes to Billy first, then Kimberly.","intent":{"goal":
+- 18:51 act: {"say":"LaForge at -284,68,297, there is a stone and oak building to the east. I'm going to look at it carefully for animals or food, and I won't go inside.","intent":{"goal":"scout_east_building_for_
+- 18:51 act: {"intent":{"goal":"sweep_east_for_animals","program":"travel","arguments":{"target":{"x":-262,"y":68,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed
+- 18:51 act: {"say":"LaForge at -262,68,299, east of the old beds. Still no animals or apples. Going further east along the sign line; I'll call out anything.","intent":{"goal":"sweep_further_east_for_food","progr
+- 18:55 act: {"say":"LaForge at -246,68,300, midday, still no food. Trying south-east next at -235,68,318. Calling out any animal.","intent":{"goal":"sweep_south_east_for_food","program":"travel","arguments":{"tar
+- 18:55 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"LaForge at -235,69,318 trying the oak leaves here for apples. Any apple goes to Billy first, then Kimberly."}
+- 18:56 act: {"say":"LaForge at -237,69,317. Oak leaves here gave nothing either. I've scouted east and south-east: no animals, no apples. I'll head back toward the group and keep listening for any food they find.
+- 18:56 act: {"say":"Beverly, LaForge here, back by the yellow bed. Did anyone find an animal or apple on the dry grass? I searched east and south-east and found nothing."}
+- 18:56 act: {"intent":{"goal":"scout_southwest_for_food","program":"travel","arguments":{"x":-300,"y":68,"z":302},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limit
+- 18:56 act: {"intent":{"goal":"scout_southwest_for_food","program":"travel","arguments":{"target":{"x":-300,"y":68,"z":302}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fail
+- 18:56 act: {"say":"LaForge at -300,69,302, south-west of the white beds. No animals or apples in sight. Worf and Data are nearby. Still listening for the hunt."}
+- 19:00 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":294}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
+- 19:01 act: {"actions":[{"do":"sleep"}],"say":"Goodnight. Day 232 is closed. No food today; Billy and Kimberly first when we find some."}
+- 19:09 act: {"intent":{"goal":"scout_north_for_food","program":"travel","arguments":{"target":{"x":-290,"y":68,"z":270}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]
+- 19:09 act: {"intent":{"goal":"scout_further_north_for_food","program":"travel","arguments":{"target":{"x":-290,"y":68,"z":255}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_
+- 19:09 act: {"say":"LaForge at -290,67,255. Still no animals or apples. Drop to the north-west. I'll try north-east next.","intent":{"goal":"scout_north_east_for_food","program":"travel","arguments":{"target":{"x
+- 19:09 act: {"say":"LaForge at -270,66,255. No food in sight. There are signs east at -262,67,255 and -262,65,264; I'll check them for word from anyone.","intent":{"goal":"check_signs_east_for_food","program":"tr
+- 19:10 act: {"say":"Checked the signs out east. Only one reads \"Here lies ag_picard_01, Day 202, slain.\" No food. Heading back toward the beds to meet the group.","intent":{"goal":"return_to_group_at_beds","pro
+- 19:14 act: {"say":"LaForge at the white beds. Good news on the porkchops and salmon. Billy gets the first meat, then Kimberly. I'm hungry too (19), so I'll take a share after them. Tommy, I'm here at the white b
+- 19:18 act: {"say":"LaForge: I'm not hungry enough to take the porkchops; Billy, Picard and Worf come first. I'm heading to the pig at -338,64,223 to hunt for the group. Any meat I get goes to Billy, then whoever
+- 19:20 act: {"say":"LaForge: I'm in the water at dusk, out of the way of the pig hunt. Phantoms are close to the south. Going to land near Billy, then the white beds for the night. Salmon are north-west in deep w
+- 19:21 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-297,"y":68,"z":293}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
