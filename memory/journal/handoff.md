@@ -1,0 +1,1 @@
+Handoff, day 230: sealed in the oak shelter at -296,69,310. Health 20, hunger 20, no food in pack. No bed yet. Group searching west grass for animals; Kimberly is fed from Trini's apple. Next: first light, look for animals or apples, share with Kimberly first.

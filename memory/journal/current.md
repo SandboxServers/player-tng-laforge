@@ -1,1 +1,21 @@
 # Journal
+- 17:45 act: {"say":"Hello, I just woke here with nothing. Do you know where it is safe to sleep tonight?"}
+- 17:46 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Thank you Riker, I will head to the yellow beds near you.","intent":{"goal":"reach_riker_beds","program":"travel","arguments":{"target":"ag_rik
+- 17:48 act: {"say":"Morning, LaForge here. I have nothing either. I will look for wood and food with the group and share what I find.","intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oa
+- 17:49 act: {"actions":[{"do":"goto","target":{"x":-247,"y":67,"z":366}},{"do":"mine","block":"oak_log","count":6}]}
+- 17:49 act: {"actions":[{"do":"goto","target":{"x":-259,"y":69,"z":385}},{"do":"mine","block":"birch_log","count":4}],"say":"Wesley, I have nothing in my hands, and a share of oak logs would help me a lot. I'm mi
+- 17:49 act: {"actions":[{"do":"unstick"}],"say":"Wesley, could you give me 4 oak logs? I'm stuck on a ledge right now."}
+- 17:49 act: {"actions":[{"do":"mine","block":"birch_log","count":6}]}
+- 17:49 act: {"intent":{"goal":"gather_birch_log","program":"gather","arguments":{"block":"birch_log","count":6},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":24
+- 17:49 act: {"actions":[{"do":"goto","target":{"x":-254,"y":67,"z":373}},{"do":"mine","block":"oak_log","count":3}],"say":"Data, I'm near the oak log by the grass, around x -254, z 373. Planks would help, thank y
+- 17:50 act: {"say":"Thank you Wesley. I have 5 oak logs now. I'll keep an eye out for animals and apples and send any food to Kimberly first."}
+- 17:54 act: {"actions":[{"do":"goto","target":{"x":-292,"y":69,"z":312}}],"say":"Thank you all. I have 9 oak logs to share. I'm joining the west grass search and will call out any animal I see.","intent":{"goal":
+- 17:59 act: {"actions":[{"do":"craft","item":"oak_planks","count":36}]}
+- 17:59 act: {"intent":{"goal":"build_oak_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_planks"},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_fail
+- 17:59 act: {"say":"Could everyone step a few blocks away from my shelter? I'm finishing the walls now.","intent":{"goal":"finish_oak_shelter","program":"build","arguments":{"blueprint":"shelter","block":"oak_pla
+- 17:59 act: {"say":"Shelter walls were blocked by people standing in them. Could everyone move a few blocks off? Rebuilding now before dark.","actions":[{"do":"goto","target":{"x":-296,"y":69,"z":309}}],"intent":
+- 17:59 act: {"intent":{"goal":"gather_oak_log_for_planks","program":"gather","arguments":{"block":"oak_log","count":3},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ti
+- 18:02 act: {"say":"LaForge at -287, 74, 319, up in the leaves by the shelter pad. Tommy, if you can bring 8 planks, please do. Riker and Data, no need to bring more. I'll take what comes and get a bed in the she
+- 18:09 act: {"say":"Morning. LaForge, at the shelter, short 8 planks. Data, could you give me your 4 planks? I'll get logs for the rest and craft them.","actions":[{"do":"goto","target":{"x":-290,"y":68,"z":313}}
+- 18:09 act: {"say":"Data, please give me your 4 planks when you can. Thank you.","actions":[],"intent":{"goal":"gather_logs_for_planks","program":"gather","arguments":{"block":"oak_log","count":3},"wake_on":["goa
+- 18:12 act: {"say":"Thank you Tommy, Data and Riker. I have 9 planks now, enough. Building the shelter at the spot by -296,69,310; please keep clear of the walls.","actions":[{"do":"goto","target":{"x":-296,"y":6
