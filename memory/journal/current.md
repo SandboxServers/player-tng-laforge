@@ -62,3 +62,7 @@
 - 19:18 act: {"say":"LaForge: I'm not hungry enough to take the porkchops; Billy, Picard and Worf come first. I'm heading to the pig at -338,64,223 to hunt for the group. Any meat I get goes to Billy, then whoever
 - 19:20 act: {"say":"LaForge: I'm in the water at dusk, out of the way of the pig hunt. Phantoms are close to the south. Going to land near Billy, then the white beds for the night. Salmon are north-west in deep w
 - 19:21 act: {"intent":{"goal":"reach_white_bed_for_night","program":"travel","arguments":{"target":{"x":-297,"y":68,"z":293}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
+- 19:22 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":293}},{"do":"sleep"}],"say":"LaForge heading to the white bed at -298,68,294 for the night. No food yet; any meat goes to Billy and Jason first."
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}],"reasoning":"Adjacent bed at -282,67,320; prior sleep failed at a different bed. Try this one, the nearest."}
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}],"say":"LaForge at the white beds near -271,67,336. Beds are full and golems are near, so I'll wait a bit and try again. No food; Billy and
+- 19:23 act: {"actions":[{"do":"sleep"}],"reasoning":"Beside the white beds now. Retry sleep once; if refused, stay put and wait."}
