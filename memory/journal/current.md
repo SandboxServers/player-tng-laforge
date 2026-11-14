@@ -1,4 +1,5 @@
 # Journal
+- day 245 morning: health 20, hunger 20, no food. Joined the west grass group at -299,66,300 with Bcrusher and Troi as planned; called out no animals. Still searching for food for Trini and Riker first.
 - 17:46 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Thank you Riker, I will head to the yellow beds near you.","intent":{"goal":"reach_riker_beds","program":"travel","arguments":{"target":"ag_rik
 - 17:48 act: {"say":"Morning, LaForge here. I have nothing either. I will look for wood and food with the group and share what I find.","intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oa
 - 17:49 act: {"actions":[{"do":"goto","target":{"x":-247,"y":67,"z":366}},{"do":"mine","block":"oak_log","count":6}]}
@@ -177,3 +178,4 @@
 - 23:00 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":320}}]}
 - 23:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}]}
 - 23:03 act: {"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max_block_operations":10}},"act
+- 23:11 act: {"say":"Geldar, day 245, health 20, hunger 20. I have no food to share, but I'll go west with Bcrusher to the grass and call out any animal I see.","intent":{"goal":"join_west_grass_hunt","program":"t
