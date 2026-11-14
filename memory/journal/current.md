@@ -35,3 +35,4 @@
 - 18:35 act: {"say":"Ezra: oak leaves gave me only sticks, no apples. Hunger 19, health 20. Still no food. I'll hold near the white beds and watch for animals."}
 - 18:39 act: {"intent":{"goal":"reach_white_beds_for_night","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":295}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
 - 18:40 act: {"actions":[{"do":"sleep"}]}
+- 18:41 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Heading to the white bed for the night. No food yet; Billy and Kimberly first when we find some.","reasoning":"Night
