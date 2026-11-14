@@ -36,3 +36,4 @@
 - 18:39 act: {"intent":{"goal":"reach_white_beds_for_night","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":295}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
 - 18:40 act: {"actions":[{"do":"sleep"}]}
 - 18:41 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Heading to the white bed for the night. No food yet; Billy and Kimberly first when we find some.","reasoning":"Night
+- 18:41 act: {"actions":[{"do":"sleep"}],"say":"Goodnight. Day 231 is closed. Still no food; tomorrow I scout a new direction, and any food goes to Billy first, then Kimberly.","reasoning":"Bed reached, sheltered,
