@@ -139,3 +139,41 @@
 - 21:22 act: {"actions":[{"do":"attack","target":"phantom"}]}
 - 21:22 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
 - 21:23 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
+- 21:23 act: {"say":"LaForge here. I died at the white bed to a phantom, and I'm back at spawn with nothing. My sword and a few things lie at -283,67,320. I'll find food with the group first. Trini, Riker, anyone 
+- 21:29 act: {"actions":[{"do":"goto","target":{"x":-283,"y":67,"z":320}}],"say":"Dawn. I'm going to pick up my dropped sword at -283,67,320, then come straight back to the group. Food to Trini first."}
+- 21:29 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}],"say":"My items at the bed are gone, so I have nothing. I'm back with the group at the white beds. Trini and Zack first for any food."}
+- 21:29 act: {"intent":{"goal":"gather_oak_log_for_tools","program":"gather","arguments":{"block":"oak_log","count":5},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_tic
+- 21:30 act: {"actions":[{"do":"craft","item":"oak_planks","count":8},{"do":"craft","item":"stick","count":4}],"say":"I have 5 logs and no food. Trini is weakest and gets any food first; I'm making planks and stic
+- 21:30 act: {"actions":[{"do":"goto","target":{"x":-274,"y":67,"z":325}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Planks and sticks done. Going to the table to make a sword, then back to the beds wi
+- 21:31 act: {"say":"I have a wooden sword now. I'll guard the beds with Troi and Zack and call out any animal I see. Trini and Zack still eat first."}
+- 21:39 act: {"say":"Laforge: I have no food, only a sword and 3 logs. Trini gets anything found first, then Riker, then Zack. I'll scout the grass east in sight of the group."}
+- 21:51 act: {"intent":{"goal":"check_farm_for_crops","program":"travel","arguments":{"target":{"x":-293,"y":69,"z":288}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 21:51 act: {"say":"Laforge at -293,69,288, the farm spot. No crops or animals here, only water and logs. Heading back to the white beds.","actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}]}
+- 21:52 act: {"say":"No food, Troi. I only have logs, planks and a wooden sword. I checked the farm spot: nothing growing there."}
+- 21:52 act: {"actions":[{"do":"goto","target":{"x":-263,"y":66,"z":321}}]}
+- 21:56 act: {"say":"Data, I have no food either. I'll look north-east, where nobody has searched yet, and call out anything I find.","intent":{"goal":"scout_northeast_for_food","program":"travel","arguments":{"ta
+- 21:56 act: {"actions":[{"do":"goto","target":{"x":-225,"y":66,"z":290}}]}
+- 21:56 act: {"actions":[{"do":"goto","target":{"x":-205,"y":66,"z":275}}]}
+- 21:56 act: {"actions":[{"do":"unstick"}]}
+- 21:57 act: {"say":"I'm out of the pit and heading back to the beds. Nothing edible found in the north-east either.","actions":[{"do":"goto","target":{"x":-272,"y":67,"z":320}}]}
+- 21:57 act: {"say":"Back at the beds. Still no food from the north-east. I'll check whether the beds at -281,67,320 are free before dusk.","actions":[{"do":"goto","target":{"x":-281,"y":67,"z":319}}]}
+- 22:01 act: {"actions":[{"do":"goto","target":{"x":-282,"y":67,"z":320}},{"do":"sleep"}]}
+- 22:10 act: {"say":"Laforge, day 242. Health 20, hunger 20, no food. I'll check the wheat at -263,66,321 with Kimberly, and call out any animal I see.","actions":[{"do":"goto","target":{"x":-264,"y":66,"z":321}}]
+- 22:10 act: {"say":"I'm at the wheat plot, -265,66,321. Nothing ripe here that I can see. Kimberly, tell me when it's ready for Trini.","actions":[]}
+- 22:16 act: {"say":"Laforge, midday day 242. Health 20, hunger 20, no food. Trini has the chicken and eats first. Riker is at 1.8 health and should get the next mutton. I'm holding at the wheat plot and will scou
+- 22:20 act: {"say":"Laforge: dusk, going back to the white beds to stay with the group for the night. No food found.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"intent":{"goal":"rejoin_group_at
+- 22:28 act: {"say":"Laforge, dawn of day 243. Health 20, hunger 20, no food. I'll look at the wheat again and scout the grass to the south-west, in sight of the group. Any food to Trini first.","actions":[{"do":"
+- 22:28 act: {"say":"Laforge at the wheat, nothing ripe, no food. Going back to the beds with the group.","actions":[{"do":"goto","target":{"x":-270,"y":68,"z":320}}]}
+- 22:32 act: {"say":"Laforge joining the western search for pigs or cows, in sight of Billy and Data. Trini and Riker eat first if we find any.","actions":[{"do":"goto","target":{"x":-290,"y":66,"z":318}}],"intent
+- 22:36 act: {"say":"Laforge: west search found no animals. Heading back to the beds with the group.","actions":[{"do":"goto","target":{"x":-270,"y":68,"z":320}}]}
+- 22:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Laforge at the white beds for the night. Health 20, hunger 20, no food. Any food goes to Trini first."}
+- 22:46 act: {"actions":[{"do":"sleep"}]}
+- 22:51 act: {"actions":[{"do":"goto","target":{"x":-266,"y":66,"z":321}}],"intent":{"goal":"check_wheat_plot","program":"travel","arguments":{"target":{"x":-266,"y":66,"z":321}},"wake_on":["goal_completed","direc
+- 22:51 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}]}
+- 22:56 act: {"actions":[{"do":"goto","target":{"x":-250,"y":66,"z":316}}],"intent":{"goal":"search_east_for_animals","program":"travel","arguments":{"target":{"x":-250,"y":66,"z":316}},"wake_on":["goal_completed"
+- 22:56 act: {"actions":[{"do":"goto","target":{"x":-232,"y":66,"z":320}}],"intent":{"goal":"search_east_further","program":"travel","arguments":{"target":{"x":-232,"y":66,"z":320}},"wake_on":["goal_completed","di
+- 22:56 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-270,"y":67,"z":319}}]}
+- 22:57 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}],"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":319}},"wake_on":["goal_completed","directl
+- 23:00 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":320}}]}
+- 23:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}}]}
+- 23:03 act: {"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":12000,"max_block_operations":10}},"act
