@@ -1,1 +1,1 @@
-Handoff, day 230: sealed in the oak shelter at -296,69,310. Health 20, hunger 20, no food in pack. No bed yet. Group searching west grass for animals; Kimberly is fed from Trini's apple. Next: first light, look for animals or apples, share with Kimberly first.
+Handoff, day 231: slept at the white beds (-298,68,295) with the group. Health 20, hunger 19, no food in pack. Still no food found by anyone. Oak leaves give sticks only. Next: at dawn scout a direction nobody has tried, with care for the south-east where bows are heard; share food with Billy first, then Kimberly.

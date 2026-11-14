@@ -1,6 +1,4 @@
 # Journal
-
-- 17:45 act: {"say":"Hello, I just woke here with nothing. Do you know where it is safe to sleep tonight?"}
 - 17:46 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Thank you Riker, I will head to the yellow beds near you.","intent":{"goal":"reach_riker_beds","program":"travel","arguments":{"target":"ag_rik
 - 17:48 act: {"say":"Morning, LaForge here. I have nothing either. I will look for wood and food with the group and share what I find.","intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oa
 - 17:49 act: {"actions":[{"do":"goto","target":{"x":-247,"y":67,"z":366}},{"do":"mine","block":"oak_log","count":6}]}
@@ -27,3 +25,13 @@
 - 18:16 act: {"intent":{"goal":"explore_further_east_for_animals","program":"travel","arguments":{"target":{"x":-215,"y":68,"z":290}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpec
 - 18:17 act: {"intent":{"goal":"explore_east_then_hold","program":"travel","arguments":{"target":{"x":-200,"y":70,"z":285}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage
 - 18:17 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-283,"y":67,"z":320}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_dama
+- 18:24 act: {"say":"Ezra here, by the yellow beds with the group. Hunger is fine for now. I'll try the bed again once the monsters are gone."}
+- 18:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}}]}
+- 18:26 act: {"actions":[{"do":"sleep"}]}
+- 18:31 act: {"say":"Ezra here, dawn of day 231. Health and hunger 20, no food. I'll scout north-west past the oak trees for cows, pigs or apples and call out anything I find. Billy and Kimberly first.","intent":{
+- 18:31 act: {"say":"Ezra at the north-west edge, around -310,68,300. No animals or apples here. There is a drop to the west, so I'm careful. I'll scout north next and call out anything."}
+- 18:34 act: {"intent":{"goal":"scout_north_east_for_food","program":"travel","arguments":{"target":{"x":-280,"y":68,"z":280}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fai
+- 18:35 act: {"actions":[{"do":"mine","block":"oak_leaves","count":6}],"say":"Ezra at the north-east oak stand, -280,68,281. No animals in sight. Trying the leaves for apples now; any apple goes to Billy first."}
+- 18:35 act: {"say":"Ezra: oak leaves gave me only sticks, no apples. Hunger 19, health 20. Still no food. I'll hold near the white beds and watch for animals."}
+- 18:39 act: {"intent":{"goal":"reach_white_beds_for_night","program":"travel","arguments":{"target":{"x":-298,"y":68,"z":295}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
+- 18:40 act: {"actions":[{"do":"sleep"}]}
