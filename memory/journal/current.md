@@ -1,4 +1,5 @@
 # Journal
+- Day 231 dawn: slept in white bed at -298,68,294, sleep worked. Hunger 19, no food yet. Scouting north-east (-280,68,280), which nobody has tried; food goes to Billy, then Kimberly.
 - 17:46 act: {"actions":[{"do":"goto","target":"ag_riker_01"}],"say":"Thank you Riker, I will head to the yellow beds near you.","intent":{"goal":"reach_riker_beds","program":"travel","arguments":{"target":"ag_rik
 - 17:48 act: {"say":"Morning, LaForge here. I have nothing either. I will look for wood and food with the group and share what I find.","intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oa
 - 17:49 act: {"actions":[{"do":"goto","target":{"x":-247,"y":67,"z":366}},{"do":"mine","block":"oak_log","count":6}]}
@@ -37,3 +38,5 @@
 - 18:40 act: {"actions":[{"do":"sleep"}]}
 - 18:41 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}},{"do":"sleep"}],"say":"Heading to the white bed for the night. No food yet; Billy and Kimberly first when we find some.","reasoning":"Night
 - 18:41 act: {"actions":[{"do":"sleep"}],"say":"Goodnight. Day 231 is closed. Still no food; tomorrow I scout a new direction, and any food goes to Billy first, then Kimberly.","reasoning":"Bed reached, sheltered,
+- 18:42 act: {"intent":{"goal":"scout_north_east_for_food","program":"travel","arguments":{"target":{"x":-280,"y":68,"z":280}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_fai
+- 18:42 act: {"say":"LaForge at the north-east oak stand, -280,68,281. No animals, no apples, only sticks from the leaves. Heading back to the white beds for the night.","intent":{"goal":"return_to_white_bed_for_n
