@@ -20,3 +20,10 @@
 - 18:09 act: {"say":"Morning. LaForge, at the shelter, short 8 planks. Data, could you give me your 4 planks? I'll get logs for the rest and craft them.","actions":[{"do":"goto","target":{"x":-290,"y":68,"z":313}}
 - 18:09 act: {"say":"Data, please give me your 4 planks when you can. Thank you.","actions":[],"intent":{"goal":"gather_logs_for_planks","program":"gather","arguments":{"block":"oak_log","count":3},"wake_on":["goa
 - 18:12 act: {"say":"Thank you Tommy, Data and Riker. I have 9 planks now, enough. Building the shelter at the spot by -296,69,310; please keep clear of the walls.","actions":[{"do":"goto","target":{"x":-296,"y":6
+- 18:13 act: {"say":"LaForge here, in my shelter at -296,69,310. Hunger is at 20, so I'm not the weakest; Kimberly first for any apple. I'm getting out of this pit and will try the oak leaves nearby too.","actions
+- 18:14 act: {"intent":{"goal":"reach_oak_tree_for_apples","program":"travel","arguments":{"target":{"x":-286,"y":69,"z":320}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_dam
+- 18:14 act: {"actions":[{"do":"mine","block":"oak_leaves","count":4}],"say":"At the oak tree now, trying the leaves for apples. Any apple goes to Kimberly first.","intent":{"goal":"try_oak_leaves_for_apples","pro
+- 18:16 act: {"intent":{"goal":"explore_north_east_for_animals","program":"travel","arguments":{"target":{"x":-240,"y":68,"z":300}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpecte
+- 18:16 act: {"intent":{"goal":"explore_further_east_for_animals","program":"travel","arguments":{"target":{"x":-215,"y":68,"z":290}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpec
+- 18:17 act: {"intent":{"goal":"explore_east_then_hold","program":"travel","arguments":{"target":{"x":-200,"y":70,"z":285}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage
+- 18:17 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-283,"y":67,"z":320}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_dama
