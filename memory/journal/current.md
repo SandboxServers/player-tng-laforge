@@ -1,1 +1,12 @@
 # Journal
+- 22:00 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1092}}],"say":"Dusk is coming. I'll rest by the beds and hand Data the planks in the morning."}
+- 22:00 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1092}}]}
+- 22:05 act: {"actions":[{"do":"sleep"}],"say":"Goodnight. I have no food to spare, only planks. Data, I'll meet you at first light."}
+- 22:09 act: {"actions":[],"say":"Morning, Data. I still hold 17 oak planks. Tell me how many you need for the build and I'll hand them over."}
+- 22:11 act: {"actions":[{"do":"give","to":"ag_data_01","item":"oak_planks","count":8}],"say":"Here are the 8 planks, Data. Good luck with the shelter."}
+- 22:11 act: {"actions":[],"say":"Data, I can't see you from here. Come back into view and I'll hand over the planks."}
+- 22:14 act: {"actions":[{"do":"goto","target":"ag_data_01"},{"do":"give","to":"ag_data_01","item":"oak_planks","count":8}],"say":"Coming to you, Data, with the planks."}
+- 22:14 act: {"actions":[{"do":"goto","target":{"x":446,"y":107,"z":-1090}}],"say":"Data, I'm walking to the crafting table with the planks."}
+- 22:14 act: {"actions":[],"say":"I'm at the crafting table now. Data, step into view and I'll hand you the planks."}
+- 22:18 act: {"actions":[{"do":"give","to":"ag_data_01","item":"oak_planks","count":8}]}
+- 22:22 act: {"actions":[{"do":"sleep"}],"say":"Night. Planks for Data in the morning, at the table."}
