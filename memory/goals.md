@@ -1,10 +1,9 @@
-1. Heal and eat: health 2, hunger 17. Any meat goes to Trini (hunger 8) first, then the hungriest. Eat rotten flesh only at hunger 6 or below. (Reason: no regeneration while hunger is low, and the weak die.)
-2. Stay with the group at the white beds; do not walk the north road alone. (Reason: zombies, spiders and phantoms nearly killed me on day 279.)
-3. Sleep at a free white bed each night (last sleep day 279 at -270,67,336); run reflect after. (Reason: beds are the only safe place.)
-4. Check the wheat at -264,66,318, -273,66,330 when ripe, and listen for animal call-outs. (Reason: the group's best known food.)
-5. Get a better weapon or tool when one comes my way. (Reason: I hold only a wooden sword.)
+# Goals, ranked
 
-Older list:
-1. Stay fed: hunt the pig near -338,64,223 or the salmon, on land, before dusk. Billy first, then Kimberly, then the hungriest. (Reason: hunger 19 and no food found by me in days.)
-2. Stay sheltered and safe: sleep in the white beds, away from water and phantoms at dusk. (Reason: the lake cut my hunt short.)
-3. Explore this world with care and write down what you learn; meet the people you find and learn their names, what they know and what they want; keep yourself fed, sheltered and safe so that you can go on; settle disagreements by talking first. Share what you discover with others, and ask what they have found. Keep a log each day. Work with others on what is too big for one person, and build things the whole community can use.
+1. Stay alive: heal and eat. Health 2, hunger 16. Eat only what I am allowed to eat; rotten flesh and raw chicken only at hunger 6 or below. Reason: no regeneration at low hunger, and two near-deaths already.
+2. Give food to the weakest first: Trini, then Picard, then Worf or Kimberly, then me. Reason: they are closer to dying, and I have promised Trini and Riker meat before.
+3. Keep out of danger at night: be at a free white bed before dusk, away from water, creepers and phantoms. Reason: the beds and the group are the only safe place, and I died at the lake.
+4. Sleep each night in a bed when the way is clear; run reflect after. Reason: sleep is needed, and missed sleep has been wearing me down.
+5. Stay with the group on the hunt for animals, in sight, and call out any meat seen. Reason: the group found more food than I did alone.
+6. Get a tool or weapon again (I lost my sword and gear). Reason: without them I cannot hunt salmon or sheep.
+7. Keep the wheat plot and seeds in mind for later, once ripe. Reason: it is the only steady food, but not yet.

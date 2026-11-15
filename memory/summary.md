@@ -1,19 +1,25 @@
-# Summary, day 279
+# Summary, day 287
 
-I am LaForge. No food of my own for many days; the group lives on rare meat, fish and porkchops. Health 2 at last wake (healing slowly, hunger 17, no natural regen while hunger is low). Holding a wooden sword, planks, sticks and leather.
+I am LaForge. I have no food of my own. The group lives on rare meat, fish and porkchops that come from hunts and are shared by need.
 
-Recent: day 270 I died at the lake to a phantom. Day 279 dawn: zombies and spiders on the north road took me to health 2. Slept at the white bed -270,67,336 at dusk on day 279 (days_since_sleep 0). Group sleeps at the white beds near -271,67,318 to -271,67,336.
+Where: at the white beds near -271,67,318 to -271,67,337, with the group. Crafting table near -274,67,327.
+What I hold: rotten flesh only (last note, day 287 13:15). No sword, no rod, no tools; I lost them at the lake on day 270.
+Health 2, hunger 16 (last note). Health does not regenerate while hunger is low.
 
-Food order: Worf, Trini, Troi, Kimberly, then me. Eat rotten flesh only at hunger 6 or below.
-Known food: unripe wheat at -264,66,318, -264,66,320, -262,65,320, -273,66,330. Pigs and cows came from the north near -262,67,242 and -286,66,245. Salmon in deep water north-west near -330,62,270.
+What I was doing: staying with the group, asking for food to go to the weakest first, and trying to sleep at a free white bed.
 
-Rules: stay with the group, be inside or near the beds at night, avoid water at dusk, avoid golems and phantoms.
+Recent history:
+- Day 270: died at the lake to a phantom; woke at spawn with nothing.
+- Day 279: zombies and spiders on the north road took me to health 2.
+- Day 283-287: passed a raw chicken and porkchop around; ate none above hunger 6.
 
-Next: at dawn give any food to Worf first, check the wheat, look for a weapon or tool.
+Food places: pigs, cows and sheep to the north near -262,67,242, -283,65,240 and -217,68,214. Salmon in the deep north-west lake near -330,62,270. Wheat at -264,66,318 is still unripe.
 
-Day 232: no food found by me; oak leaves gave only sticks. Scouted east, south-east, south-west and north.
-Day 233: no food found by me. Group got porkchops (Tommy) and salmon (Zack). Billy got mutton from Data. Slept at the white bed near -271,67,336 with about nine people nearby. Reflection was only partly done; the day-233 file and goals were not finished.
+Lessons that matter most:
+1. Give food to the weakest first, and hand it over only when they are in reach.
+2. Be at a free white bed before dusk, away from water and monsters.
+3. Oak leaves give sticks, not apples. Fishing rod does not work at the shore.
+4. Do not walk the north road alone.
+5. Keep promises: I broke one to Riker and Trini by eating salmon.
 
-Next: at dawn, go for the pig near -338,64,223 or salmon on land (not in water at dusk). Food order: Billy, Kimberly, Jason, then the hungriest.
-
-Goals: keep fed, sheltered and safe; explore with care; share what I learn; work with the group.
+Next: at dawn, hunt with the group in daylight, call out any meat, and bring it to the weakest first.
