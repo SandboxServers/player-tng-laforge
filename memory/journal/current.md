@@ -1,1 +1,14 @@
 # Journal
+- 13:33 act: {"say":"Heading to the white beds to rejoin the group. I have one rotten flesh left for whoever is weakest.","actions":[{"do":"goto","target":{"x":-271,"y":67,"z":325}}],"reasoning":"Group is at the w
+- 13:34 act: {"say":"I'm back at the beds. Who is weakest? I have one rotten flesh to share.","actions":[],"reasoning":"Rejoined the group. Hunger is 16 so I should not eat it myself; it should go to someone hungr
+- 13:36 act: {"say":"Troi, I have the rotten flesh. Step within reach and I'll hand it to you.","actions":[],"reasoning":"Troi is the weakest and asked for it. I can only give to someone in sight, so I ask them to
+- 13:40 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"rotten_flesh","count":1}],"say":"Troi, handing you the rotten flesh now.","reasoning":"Troi is the weakest and has asked clearly. Lewis agreed she is
+- 13:40 act: {"say":"Troi, I can't see you yet, so the give failed. Walk close to me, I'm standing on the grass by the signs. Dusk is coming.","actions":[],"reasoning":"The give failed because Troi is not in sight
+- 13:43 act: {"say":"Trini, Troi: the rotten flesh is still with me. Come within arm's reach and I'll give it to whoever is weakest.","actions":[],"reasoning":"Night has come. The flesh has not reached anyone; I w
+- 13:44 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"rotten_flesh","count":1}],"say":"Troi, giving the flesh now.","reasoning":"Troi says she is in sight and is weakest at health 3.8. One more try at th
+- 13:44 act: {"say":"Phantom to the north of me. I'm moving south to the group.","actions":[{"do":"goto","target":{"x":-268,"y":67,"z":330}}],"reasoning":"Health 2 and a phantom 4 blocks north. Get among the group
+- 13:45 act: {"say":"Troi, I still have the flesh. Come into sight and I will hand it over at once.","actions":[],"reasoning":"Moved away from the phantom. Health 2 and night. I will hold the flesh until Troi or T
+- 13:45 act: {"actions":[{"do":"goto","target":{"x":-276,"y":67,"z":330}}],"reasoning":"Health is nearly gone and something unseen is hitting me from behind. Get away from the spot."}
+- 13:47 act: {"say":"I died to a phantom at the edge of the beds and woke here with nothing. My things lie at -276,65,330. I'll stay by the beds until dawn, then fetch them.","actions":[],"reasoning":"Died at nigh
+- 13:51 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"chicken","count":1}],"say":"Dawn. I have a chicken from the dead bed area. Troi, it's yours if you're in sight.","reasoning":"I hold a chicken and my
+- 13:51 act: {"say":"Troi, I'm at the bed at -272,336 with a chicken for you. Come into sight and I'll give it.","actions":[],"reasoning":"Troi is out of sight. I hold the chicken for her and will give it when she
