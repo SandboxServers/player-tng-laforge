@@ -455,3 +455,8 @@
 - 11:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}}],"reasoning":"Golems are closing from the south, 7 blocks away. The nearest bed is 2 blocks north at -270,67,336. Move there first, then tr
 - 11:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}}],"reasoning":"No golems in view now. Walk to the bed at -270,67,336."}
 - 11:03 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"I'm beside the white bed at -271,67,318 with the group. Try it."}
+- 11:12 act: {"actions":[{"do":"eat"}],"say":"Thank you, Kimberly. I'm eating the chicken now, since my health is 2. Picard and Trini are next for any meat we find.","reasoning":"Health 2 cannot wait. Kimberly gav
+- 11:14 act: {"actions":[],"say":"Still at the beds with Kimberly and Troi. I haven't eaten yet; I'll watch whether the chicken goes down.","reasoning":"The eat was queued but the wait shows the chicken still in p
+- 11:15 act: {"actions":[],"say":"Trini, Picard and Jason: I'm holding Kimberly's chicken. My eating did not take, so I'll keep it for whoever is weakest; Trini is at hunger 7. Tell me where you are.","reasoning":
+- 11:20 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"chicken","count":1}],"say":"Picard, here is the chicken from Kimberly. You're at hunger 3, and I'm at 17, so it's yours. Eat it now.","reasoning":"
+- 11:20 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, the chicken went to Picard. Bed right beside me; try once and keep the group near."}
