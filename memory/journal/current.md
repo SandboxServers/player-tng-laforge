@@ -31,3 +31,10 @@
 - 19:50 act: {"say":"LaForge, dawn 307, health 20, hunger 20, no food, no tools. Clark and Troi are lowest; any meat goes to them first. I'll hunt with the group in sight and call out what I see.","intent":{"goal"
 - 19:54 act: {"say":"LaForge leading the hunt to the pigs north-west near -256,67,235. Stay in sight, keep close. Any meat goes to Clark and Troi first. If skeletons shoot, we turn back to the beds.","intent":{"go
 - 19:54 act: {"say":"LaForge: my way north-west is blocked by walls here at -275,68,315. I'm holding by the beds. Worf, Macdonald, Clark: go on with the hunt and call out meat; I'll come if the way is open.","inte
+- 19:59 act: {"say":"LaForge here, no food and no tools. I'll stay with the group. Any meat, call it out and I'll bring it to Clark and Troi first.","intent":{"goal":"stay_near_clark","program":"follow","arguments
+- 20:01 act: {"say":"Dusk. LaForge with Clark, health 20, hunger 20, no food. I'll hold here by the beds through the night."}
+- 20:05 act: {"say":"LaForge at the beds, night 307. I have no food, sorry. Health 20, hunger 20. Chapman and Troi, if you are close, I'll stand with you."}
+- 20:09 act: {"say":"Morning 308. LaForge, no food, health 20, hunger 20. I'll check the dropped items to the west for anything edible and bring it to the lowest.","intent":{"goal":"check_west_drops","program":"tr
+- 20:09 act: {"actions":[{"do":"goto","target":{"x":-280,"y":66,"z":337}}]}
+- 20:09 act: {"actions":[{"do":"goto","target":{"x":-275,"y":68,"z":315}}],"say":"No food at the west drops. Iron golems to the south. Heading back to the beds to stay with the group."}
+- 20:18 act: {"say":"Clark, Macdonald: I'll walk with you to your dropped items. Any food found, I'll carry it back to the lowest.","intent":{"goal":"follow_clark_to_drops","program":"follow","arguments":{"target"
