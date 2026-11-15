@@ -126,3 +126,5 @@
 - 17:25 act: {"actions":[{"do":"sleep"}],"reasoning":"The group is close around me and the sleep was interrupted. Try once more."}
 - 17:29 act: {"actions":[{"do":"note","text":"Dawn 300 at the south white beds. Health 11.5, hunger 15, no food. Asked the group for food."}],"say":"LaForge at the white beds, dawn 300. Hunger 15, health 11.5, not
 - 17:34 act: {"actions":[{"do":"note","text":"No chicken or beef in my pack; Jason's give did not arrive. Hunger 15 still."}],"say":"Jason, I have no chicken in my pack, so the give did not land. Trini, Jason: I'm
+- 17:41 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}}],"say":"LaForge at the south white beds, hunger 15, no food. Wesley, Trini and Jason, I'll take the chicken if I'm still lowest when you call. G
+- 17:45 say: {"text":"LaForge, hunger 15. Trini, Jason, I'm in reach by the bed. Please give one chicken, I'll eat at 6 only. Billy's beef is noted, thanks."}
