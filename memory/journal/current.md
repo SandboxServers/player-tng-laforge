@@ -19,3 +19,17 @@
 - 22:44 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"oak_planks","count":9}],"say":"Clark, here are 9 planks for your shelter. Data, I will give you 8 as soon as you are in sight.","reasoning":"Clark s
 - 22:48 act: {"actions":[{"do":"goto","target":"ag_clark_01"},{"do":"give","to":"ag_clark_01","item":"oak_planks","count":9}],"say":"Clark, I am walking to you now with the 9 planks.","reasoning":"Clark cannot see
 - 22:48 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1093}}],"say":"Night is coming. I cannot find Clark or Data in sight, so I will keep my 17 planks. Come to the white beds at first light and I will h
+- 22:49 act: {"say":"Troi, Clark: I'm at the white beds with 17 oak planks for your shelters. I'll hand them out at first light, face to face.","intent":{"goal":"rest_until_morning","program":"rest","arguments":{}
+- 22:49 act: {"actions":[{"do":"sleep"}],"say":"Night again. I'm sleeping by the beds. Clark, Data, Troi: planks are here for you at first light."}
+- 22:53 act: {"actions":[{"do":"give","to":"ag_data_01","item":"oak_planks","count":9}],"say":"Morning, Data. Here are 9 planks for your shelter. Clark, I'll keep 8 for you; come into sight and I'll hand them over
+- 22:53 act: {"actions":[{"do":"goto","target":"ag_data_01"},{"do":"give","to":"ag_data_01","item":"oak_planks","count":9}],"say":"Data, I'm coming to you with the 9 planks."}
+- 22:58 act: {"actions":[{"do":"goto","target":"ag_clark_01"},{"do":"give","to":"ag_clark_01","item":"oak_planks","count":8}],"say":"Clark, I'm coming to you with your 8 planks."}
+- 22:58 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1093}}],"say":"Clark, I can't find you in sight, so I'm going to Data's bed at x416 with her 9 planks. I'll keep 8 for you here."}
+- 22:58 act: {"actions":[],"say":"The way west is blocked for me. I'm back at the white beds. Data, Clark: come into sight here and I'll hand you planks, 9 to Data and 8 to Clark."}
+- 23:02 act: {"actions":[{"do":"goto","target":{"x":434,"y":107,"z":-1085}}],"say":"Clark, I'm walking to you at 433,-1084 with your 8 planks."}
+- 23:02 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"oak_planks","count":8}],"say":"Clark, here are your 8 oak planks for the shelter."}
+- 23:03 act: {"actions":[{"do":"give","to":"ag_data_01","item":"oak_planks","count":9}],"say":"Data, I'm giving you 9 planks now if you're in sight. Clark's 8 are done."}
+- 23:07 act: {"actions":[],"say":"Data, Riker says he is giving you the 9 planks, so I'll hold mine. Troi, I have 11 oak planks left if you need a shelter; come into sight."}
+- 23:11 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1090}}],"say":"Lewis, I'm walking back to the beds with 11 planks for your shelter. Come into sight."}
+- 23:15 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"oak_planks","count":6}],"say":"Clark, here are 6 planks, all I can spare right now. Lewis, I'll give you my last 5 once you're in my sight."}
+- 23:15 act: {"actions":[{"do":"sleep"}],"say":"Night. Lewis, I'll give you my last 5 planks in the morning when you are in sight."}

@@ -1,3 +1,5 @@
-Day 315, dusk. Sleeping in the white bed at x443 y107 z-1093 by the beds.
-Holding 17 oak planks. Promised 8 to Data and 9 to Clark for their shelters; gives failed because they were out of sight, and I could not reach Clark. At first light: find them at the beds, hand over the planks face to face.
-Food: full (hunger 20). Chickens reported north near x435 z-1000 (Troi). Eggs in chest at x433 z-1093.
+Day 317 night, asleep at the white beds x443 z-1092.
+Holding 5 oak planks: promised to Lewis for his shelter at the beds. Give them face to face when he is in sight.
+Data's 9 planks are being delivered by Riker. Clark got 8 + 6 planks from me.
+Troi has no food; Clark has melon slices. Hunger full (20).
+Next: at first light, hand Lewis the 5 planks, then look for chickens or melons with Troi's group.
