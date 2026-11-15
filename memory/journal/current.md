@@ -1,4 +1,5 @@
 # Journal
+- Day 282 dawn: health 2, hunger 16, no food. Sleep refused by a creeper overnight. Rotten flesh went to Trini (hunger 6) and Data; I got none. Trying sleep again at the bed; any meat goes Trini, then Picard.
 - Day 261 dawn: woke at the white beds -270,67,337 with Lewis, Clark, Riker, Tommy. Health 5.4, hunger 15, no food. Billy has beef for Worf; Trini got the porkchop from Tommy. No animals in reach. Staying with the group; golems to the south-west. Next: wait for food news and send any meat to Trini, then Worf.
 - Day 260 night: slept at white bed -271,67,336 with Trini, Clark, Worf, Tommy (sleep worked, partly). Health 5.4, hunger 15, no food. Troi offered me a porkchop but it went to Worf; Trini and Worf are weaker. Golems close to the south; staying with the group.
 - Day 260 dawn: sleep at white beds refused (interrupted, bed blocked, golems near). Health 5.4, hunger 15, no food. Gave my one wheat to Data (bread needs 3). Unripe wheat near -267,66,325 is not edible yet. Staying with the group; Trini first for any meat.
@@ -460,3 +461,9 @@
 - 11:15 act: {"actions":[],"say":"Trini, Picard and Jason: I'm holding Kimberly's chicken. My eating did not take, so I'll keep it for whoever is weakest; Trini is at hunger 7. Tell me where you are.","reasoning":
 - 11:20 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"chicken","count":1}],"say":"Picard, here is the chicken from Kimberly. You're at hunger 3, and I'm at 17, so it's yours. Eat it now.","reasoning":"
 - 11:20 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, the chicken went to Picard. Bed right beside me; try once and keep the group near."}
+- 11:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"use","at":{"x":-270,"y":67,"z":336}}],"say":"LaForge here, night 281. No food, health 2, hunger 16. Going to sleep in the bed by the
+- 11:27 act: {"actions":[{"do":"sleep"}]}
+- 11:28 say: {"text":"LaForge: sleep refused by a creeper 8 blocks off. I'm not taking the flesh; Trini first at hunger 6. I'll retry the bed soon."}
+- 11:29 say: {"text":"LaForge, dawn 282. No food on me, health 2, hunger 16. Trini first, then Picard, for any meat. I'll look for ripe wheat near the beds."}
+- 11:29 act: {"actions":[{"do":"sleep"}]}
+- 11:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"LaForge going to the yellow bed for the night. No food, health 2, hunger 16. Trini and Picard first at first light."
