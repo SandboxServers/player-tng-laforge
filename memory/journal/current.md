@@ -89,3 +89,40 @@
 - 16:39 act: {"say":"Clark, I'm coming to the beds with my wheat. Step into my reach and say so.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"reasoning":"Clark is the weakest (health 8, hunger 17
 - 16:39 act: {"say":"Golems closing from the southwest. Clark, if you're near, say where and I'll hand you the wheat.","actions":[{"do":"goto","target":{"x":-268,"y":67,"z":322}}],"reasoning":"Two iron golems are 
 - 16:39 say: {"text":"Clark, I have 1 wheat for you. Tell me where you are and I'll come to you."}
+- 16:42 act: {"say":"LaForge here, health 20, hunger 20. I hold 1 wheat for Clark, who was weakest. Clark, step into reach and I'll give it. Billy, if you see Clark, tell him.","intent":{"goal":"hold_near_white_be
+- 16:44 act: {"say":"LaForge: I hold 1 wheat. Wesley and Clark, whichever of you is in reach and weakest, step next to me and say so. Otherwise I'll hold it for dawn.","actions":[]}
+- 16:47 act: {"say":"Clark, LaForge here with 1 wheat for you. Say where you stand and I'll walk to you and hand it over.","actions":[]}
+- 16:49 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"wheat","count":1}],"say":"Troi, you're in reach. Clark already has Picard's wheat, so this one goes to Wesley at health 2. Please hand it to him."}
+- 16:53 act: {"say":"LaForge, health 20, hunger 20, wooden sword in hand. Joining the east pig hunt. Any meat goes to Wesley first, then Clark.","intent":{"goal":"join_east_pig_hunt","program":"travel","arguments"
+- 17:01 act: {"say":"No pigs out east. LaForge going back to the white beds with the group for the night.","intent":{"goal":"return_to_white_beds_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z
+- 17:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 17:02 act: {"actions":[{"do":"goto","target":{"x":-279,"y":67,"z":321}},{"do":"use","at":{"x":-281,"y":67,"z":320}},{"do":"sleep"}]}
+- 17:03 act: {"actions":[{"do":"sleep"}],"reasoning":"Bed use failed because it is a bed; try sleep directly from here, next to the bed.","say":"Trying to sleep at this bed."}
+- 17:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":338}}],"intent":{"goal":"reach_free_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":338}},"wake_on":["directly_addressed","pre
+- 17:03 act: {"actions":[{"do":"sleep"}],"reasoning":"New spot beside the group. One fresh try at sleep here."}
+- 17:06 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"A phantom is 3 blocks away and I have a wooden sword at full health. Fight it rather than let it strike from behind."}
+- 17:09 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":330}}],"intent":{"goal":"join_group_at_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":330}},"wake_on":["directly_addressed",
+- 17:09 act: {"actions":[{"do":"goto","target":{"x":-292,"y":66,"z":330}}],"say":"I have no food. I'll search west for cows or pigs and bring any meat to Picard first.","intent":{"goal":"search_west_for_animals","
+- 17:09 act: {"actions":[{"do":"goto","target":{"x":-279,"y":67,"z":321}},{"do":"sleep"}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-279,"y":67,"z":321}},"wake_on":["dire
+- 17:10 act: {"actions":[{"do":"goto","target":{"x":-300,"y":66,"z":330}}],"say":"I was hit by something here. Heading west away from the golems to hunt with Zack.","intent":{"goal":"search_west_for_animals","prog
+- 17:10 act: {"actions":[{"do":"goto","target":{"x":-320,"y":66,"z":330}}],"intent":{"goal":"search_far_west_for_animals","program":"travel","arguments":{"target":{"x":-320,"y":66,"z":330}},"wake_on":["directly_ad
+- 17:14 act: {"intent":{"goal":"search_west_for_animals","program":"travel","arguments":{"target":{"x":-340,"y":68,"z":330}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wor
+- 17:15 act: {"intent":{"goal":"search_south_west_for_animals","program":"travel","arguments":{"target":{"x":-355,"y":70,"z":350}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"m
+- 17:16 act: {"actions":[{"do":"unstick"}],"say":"I am stuck in a pit to the south-west. Looking for a way out. No animals seen yet."}
+- 17:16 act: {"actions":[{"do":"goto","target":{"x":-354,"y":84,"z":346}}],"say":"A cow to the south-west. I'm going after it for food."}
+- 17:16 act: {"actions":[{"do":"attack","target":"cow"}]}
+- 17:16 act: {"intent":{"goal":"bring_beef_to_picard","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":333}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_
+- 17:16 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"beef","count":1}],"say":"Picard, here is beef from a cow. You eat first."}
+- 17:17 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"beef","count":1}]}
+- 17:17 act: {"intent":{"goal":"hunt_cow_south_west","program":"travel","arguments":{"target":{"x":-355,"y":80,"z":343}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_t
+- 17:18 act: {"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-276,"y":67,"z":336}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_wo
+- 17:23 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Night. A phantom is on me. Trying for the bed at -271,67,336.","reasoning":"Phantom adjacent and attacking, health 15.5. Fight it with the sword 
+- 17:23 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":335}},{"do":"sleep"}],"reasoning":"Golems crowd me; the phantom is gone. Walk to the bed side and try sleeping."}
+- 17:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}],"reasoning":"A phantom is 7 blocks off, so sleep was refused. Try again from beside the south bed."}
+- 17:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}],"reasoning":"Night, unseen attacker, no shelter. Get back to the south bed and try again."}
+- 17:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}],"reasoning":"Retry: walk to the south bed and try sleep."}
+- 17:24 act: {"actions":[{"do":"sleep"}],"reasoning":"I am standing on the north white bed with Trini in reach. Try sleep here."}
+- 17:24 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep blocked here by the crowd. Try the east half of the south bed pair."}
+- 17:25 act: {"actions":[{"do":"sleep"}],"reasoning":"The group is close around me and the sleep was interrupted. Try once more."}
+- 17:29 act: {"actions":[{"do":"note","text":"Dawn 300 at the south white beds. Health 11.5, hunger 15, no food. Asked the group for food."}],"say":"LaForge at the white beds, dawn 300. Hunger 15, health 11.5, not
+- 17:34 act: {"actions":[{"do":"note","text":"No chicken or beef in my pack; Jason's give did not arrive. Hunger 15 still."}],"say":"Jason, I have no chicken in my pack, so the give did not land. Trini, Jason: I'm
