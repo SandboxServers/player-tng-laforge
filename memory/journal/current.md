@@ -334,3 +334,6 @@
 - 06:13 act: {"intent":{"goal":"reach_worf_for_flesh","program":"travel","arguments":{"target":{"x":-277,"y":65,"z":315}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"]
 - 06:13 say: {"text":"Worf, I'm in reach now. Billy asks that the flesh come to me first. Please give me the rotten flesh if you can. Thank you."}
 - 06:15 act: {"actions":[{"do":"eat"}],"say":"LaForge: thank you Worf. I'm eating one rotten flesh now. I'll keep two for Chapman or whoever gets weaker.","reasoning":"Hunger 17 and health 5.4, with no regen. Eat 
+- 06:17 act: {"actions":[{"do":"eat"}],"say":"LaForge awake, day 266. Health 5.4, hunger 17. I have 3 rotten flesh. Trying to eat one now; the rest goes to whoever is weakest.","reasoning":"Hunger is high but heal
+- 06:18 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":334}}],"say":"LaForge, health 5.4 and hunger 17, coming to the white beds for Bcrusher's beef. Jason first if he is weaker; I'll take whatever is
+- 06:18 act: {"actions":[],"say":"LaForge at the white beds, health 5.4. Bcrusher, Jason has a fair claim too (he has hunger 17 like me). Whoever ends up with the beef, I'm not taking it from anyone; I'll hold my 
