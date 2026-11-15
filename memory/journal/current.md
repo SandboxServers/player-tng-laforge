@@ -1,4 +1,6 @@
 # Journal
+- Day 248 dawn: sleep refused at -271,67,336 (creeper 9 blocks away); slept through night anyway. Health 20, hunger 20, no food. Holding at the beds with Riker; Trini first for any food, then Data (health 3).
+- Day 247 dawn: sleep refused again by phantom at the beds. Health 20, hunger 20, no food. Offered to join Riker, Tommy and Troi on the west-lake salmon trip, in sight; fish to Trini first.
 - Day 246 dawn: sleep refused again by a phantom at the beds. No food. Offered Riker help with the west-lake salmon; Trini gets any fish first.
 - Day 245 night: sleep refused twice by a phantom nearby; no phantom in view now. Trying the bed at -270,67,318. Still no food.
 - Day 245 night: sleep at -281,67,320 refused (phantom 4 blocks away). Waited with the group; now trying the bed at -271,67,318. Trini ate her chicken; still no food on me.
@@ -190,3 +192,13 @@
 - 23:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"say":"Laforge trying the other bed now that no phantom is in view. No food; Trini first at light."}
 - 23:31 act: {"actions":[],"say":"Laforge, dawn of day 246. No food on me, health 20, hunger 20. Riker, I'll help carry for the lake salmon; Trini first, then Data. I'll keep to the group."}
 - 23:36 act: {"say":"Laforge at the beds, day 246. Health 20, hunger 20, no food. Bows are drawn to the south, so I'm staying with the group. Riker, if your boat goes to the west lake, I'll carry; fish to Trini fi
+- 23:36 say: {"text":"LaForge at the white beds, day 246. Health 20, hunger 20, no food. Staying with the group; any fish or meat goes to Trini first, then Data."}
+- 23:40 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"LaForge at the white bed for the night, day 246. Health 20, hunger 20, no food. Any food goes to Trini first at dawn
+- 23:43 act: {"actions":[{"do":"sleep"}],"say":"LaForge trying the bed again, night of day 246. Health 20, hunger 20. Any food goes to Trini first at light."}
+- 23:49 act: {"actions":[],"say":"LaForge at dawn, day 247. Health 20, hunger 20, no food. Riker, I'll come to the west lake with you and Tommy, in sight of the group. Any fish goes to Trini first."}
+- 23:52 say: {"text":"Riker, LaForge here, ready to go with you to the west lake. I'll stay in your sight in the boat or on the shore. Any fish goes to Trini first."}
+- 23:55 say: {"text":"Riker, LaForge: I know no shore spot for the lake, so I'll not board the boat. I'll stay at the beds with the group and watch for anything that comes back. Good luck, and Trini first for any 
+- 23:59 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"LaForge trying the bed at dusk, day 247. Health 20, hunger 20, no food. Trini first at light."}
+- 00:03 act: {"actions":[{"do":"sleep"}],"say":"LaForge trying sleep at the white bed, night of day 247. Health 20, hunger 20, no food. Trini first at light."}
+- 00:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Sleep failed at the -318 beds, they were full. Trying the -336 beds now. Trini first at light."}
+- 00:12 say: {"text":"LaForge, dawn of day 248. Health 20, hunger 20, no food. Trini first. I'll walk the grass only in sight of the group."}
