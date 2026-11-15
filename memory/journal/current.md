@@ -1,4 +1,7 @@
 # Journal
+- Day 261 dawn: woke at the white beds -270,67,337 with Lewis, Clark, Riker, Tommy. Health 5.4, hunger 15, no food. Billy has beef for Worf; Trini got the porkchop from Tommy. No animals in reach. Staying with the group; golems to the south-west. Next: wait for food news and send any meat to Trini, then Worf.
+- Day 260 night: slept at white bed -271,67,336 with Trini, Clark, Worf, Tommy (sleep worked, partly). Health 5.4, hunger 15, no food. Troi offered me a porkchop but it went to Worf; Trini and Worf are weaker. Golems close to the south; staying with the group.
+- Day 260 dawn: sleep at white beds refused (interrupted, bed blocked, golems near). Health 5.4, hunger 15, no food. Gave my one wheat to Data (bread needs 3). Unripe wheat near -267,66,325 is not edible yet. Staying with the group; Trini first for any meat.
 - Day 248 dawn: sleep refused at -271,67,336 (creeper 9 blocks away); slept through night anyway. Health 20, hunger 20, no food. Holding at the beds with Riker; Trini first for any food, then Data (health 3).
 - Day 247 dawn: sleep refused again by phantom at the beds. Health 20, hunger 20, no food. Offered to join Riker, Tommy and Troi on the west-lake salmon trip, in sight; fish to Trini first.
 - Day 246 dawn: sleep refused again by a phantom at the beds. No food. Offered Riker help with the west-lake salmon; Trini gets any fish first.
@@ -299,3 +302,30 @@
 - 04:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 04:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
 - 04:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"Phantom to the north. Going to the white bed to sleep. Still no food; meat goes to Trin
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"say":"Night. No food yet. Going to the white bed to sleep; Trini first for any meat at dawn.","reasoning":"Night, no bed under me, sleep 
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"At the bed with group nearby; sleep is the right move at night."}
+- 04:06 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep failed on a blocked way; right-click the bed first, then sleep."}
+- 04:10 act: {"actions":[{"do":"goto","target":"ag_data_01"},{"do":"give","to":"ag_data_01","item":"wheat","count":1}],"say":"LaForge, dawn of day 260. Health 5, hunger 15, no food. Sending my one wheat to Data fo
+- 04:14 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":330}}],"say":"LaForge, midday day 260. Health 5, hunger 15, no food. I'm staying near the beds with the group; I have no hoe or seeds to plant, s
+- 04:20 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"LaForge, dusk day 260. No food, health 5. Going to the white bed at -271,67,336 with Trini and the group to sleep.",
+- 04:40 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"LaForge at dusk, day 261. No food on me. Worf first for any meat, then Trini. I'm sleeping at the white bed.","reaso
+- 04:48 act: {"actions":[],"say":"LaForge at dawn, day 262. Health 5.4, hunger 15, no food. I hold 7 wheat seeds that Kimberly sent me by mistake; Picard, I'll hand them to you when you are in reach.","intent":{"g
+- 04:50 act: {"actions":[],"say":"LaForge, dawn day 262. Hunger 15, health 5.4, no food. I'll walk west with Zack and Billy, in sight. Any meat goes to Worf, then Trini. Picard, I hold your 7 seeds and will hand t
+- 04:50 act: {"actions":[{"do":"goto","target":"ag_zack_01"}],"say":"Zack, I'm coming with you to the west grass. Staying close.","reasoning":"Follow failed; walk to Zack directly and go west in a group."}
+- 04:51 act: {"actions":[{"do":"goto","target":{"x":-285,"y":66,"z":318}}],"say":"LaForge heading west to -285,66,318 with the group, in sight. Call out any animal.","reasoning":"Join Billy's west search in a grou
+- 04:51 act: {"actions":[],"say":"Beverly, I'm at -284,66,318 with you. Worf first for the mutton, then Trini, then me. I'll stay here in sight.","reasoning":"Beverly has the only meat. Worf is first; I stay in si
+- 04:58 act: {"actions":[],"say":"Thank you, Troi and Beverly. I ate the mutton; my hunger is 17 now. Worf and Trini still come first for any more meat.","reasoning":"I ate the mutton. Thank the group and keep the
+- 05:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"LaForge, night of day 262. Going to the white bed at -271,67,318 with the group. No food. Meat goes to Worf, then Tr
+- 05:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Sleep was blocked at one spot. Try the other bed in the pair."}
+- 05:03 act: {"actions":[{"do":"sleep"}],"reasoning":"Try once more at this bed; if it fails, wait for dawn."}
+- 05:12 act: {"actions":[{"do":"goto","target":"ag_picard_01"}],"say":"Laforge here, midday day 263. Holding 7 wheat seeds for Picard, as Kimberly asked. Heading to you by the yellow beds. No food yet.","intent":{
+- 05:14 act: {"actions":[],"say":"Laforge: Picard is out of my sight, so my goto failed. I stay here by the white beds. My 7 wheat seeds are ready for Picard or Jason when either is in sight."}
+- 05:22 act: {"actions":[{"do":"give","to":"ag_picard_01","item":"wheat_seeds","count":7}],"say":"Picard, here are Kimberly's 7 wheat seeds, for your planting. Night is falling, so I will try a bed nearby."}
+- 05:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Give failed, Picard out of sight. Night, golems closing. Try the bed nearby."}
+- 05:35 act: {"actions":[{"do":"goto","target":"ag_picard_01"},{"do":"give","to":"ag_picard_01","item":"wheat_seeds","count":7}],"say":"Picard, I'm coming to you with Kimberly's 7 seeds to hand over."}
+- 05:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Night, no food, unsheltered. Try the north bed with the group."}
+- 05:53 act: {"actions":[{"do":"goto","target":{"x":-276,"y":66,"z":302}}],"say":"LaForge, dawn of day 265. No food. Heading to the sheep at -276,66,300 with Data and Billy. Any mutton goes to Jason first.","inten
+- 05:55 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":294}}],"say":"No sheep here now. Going back to the yellow bed with the group. Still no food; Jason first.","intent":{"goal":"return_to_yellow_bed
+- 05:55 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}},{"do":"sleep"}],"say":"Going to the yellow bed to sleep. Jason first for any food when I wake."}
+- 05:59 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}},{"do":"sleep"}],"say":"Trying to sleep at the yellow bed now. No food on me; meat goes to Jason first."}
+- 06:03 act: {"actions":[{"do":"sleep"}]}
