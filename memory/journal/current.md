@@ -264,3 +264,37 @@
 - 02:12 act: {"actions":[{"do":"goto","target":{"x":-328,"y":59,"z":223}},{"do":"unstick"}]}
 - 02:12 act: {"intent":{"goal":"climb_out_of_lake","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":20}}}
 - 02:12 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}]}
+- 02:16 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":333}}],"intent":{"goal":"reach_trini_with_porkchop","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":333}},"wake_on":["directly_addr
+- 02:16 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"porkchop","count":1}],"say":"Trini, here is your porkchop."}
+- 02:16 act: {"actions":[],"say":"Trini, your porkchop is in your hands now. Eat it at hunger 6 as you planned."}
+- 02:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}},{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"Dusk. Heading to the bed at -271,67,318 for the night. No food on me; I gave my porkcho
+- 02:21 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":319}},{"do":"use","at":{"x":-270,"y":67,"z":318}}]}
+- 02:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"Going to bed at the white bed, sleeping now."}
+- 02:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":319}}]}
+- 02:21 act: {"actions":[{"do":"sleep"}]}
+- 02:30 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}}],"say":"Laforge here, hunger 17, no food. Trying the bed at -271,336 to sleep. Meat goes to Data, then Trini."}
+- 02:30 act: {"actions":[{"do":"sleep"}]}
+- 02:40 act: {"actions":[{"do":"sleep"}],"say":"LaForge at the white beds, dusk day 255. Still no food, hunger 17, health 11. Trying to sleep here; meat goes to Data, then Trini."}
+- 02:43 act: {"actions":[{"do":"sleep"}]}
+- 02:45 act: {"actions":[{"do":"sleep"}]}
+- 02:45 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}}],"say":"LaForge: hit by a creeper blast, health 7. Moving back to the white beds with Billy."}
+- 02:45 act: {"actions":[{"do":"unstick"}]}
+- 02:46 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}}],"say":"Health is low and it is dark. I am trying the bed next to me."}
+- 02:47 act: {"actions":[{"do":"sleep"}],"say":"Trying to sleep now; no monsters close in my sight."}
+- 02:58 act: {"actions":[{"do":"sleep"}]}
+- 03:02 act: {"actions":[{"do":"sleep"}],"say":"Night, day 256. Trying the bed by me."}
+- 03:05 act: {"actions":[{"do":"sleep"}]}
+- 03:09 act: {"actions":[{"do":"goto","target":{"x":-300,"y":67,"z":320}}]}
+- 03:12 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":327}}]}
+- 03:12 act: {"actions":[{"do":"give","to":"ag_tommy_01","item":"wheat_seeds","count":1}]}
+- 03:22 act: {"actions":[{"do":"sleep"}]}
+- 03:24 act: {"actions":[{"do":"sleep"}]}
+- 03:25 act: {"actions":[{"do":"sleep"}]}
+- 03:27 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}]}
+- 03:27 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}}]}
+- 03:27 act: {"actions":[{"do":"sleep"}]}
+- 03:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 03:45 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 03:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 04:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 04:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
