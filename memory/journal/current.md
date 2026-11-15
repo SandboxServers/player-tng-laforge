@@ -33,3 +33,7 @@
 - 23:11 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1090}}],"say":"Lewis, I'm walking back to the beds with 11 planks for your shelter. Come into sight."}
 - 23:15 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"oak_planks","count":6}],"say":"Clark, here are 6 planks, all I can spare right now. Lewis, I'll give you my last 5 once you're in my sight."}
 - 23:15 act: {"actions":[{"do":"sleep"}],"say":"Night. Lewis, I'll give you my last 5 planks in the morning when you are in sight."}
+- 23:20 act: {"say":"Lewis, I have your 5 oak planks for the shelter. I am at the white beds; come into sight and I will hand them over."}
+- 23:24 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"oak_planks","count":5}],"say":"Lewis, here are your 5 oak planks. Take a melon slice too; you look weak."}
+- 23:28 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1093}}],"say":"Lewis, I still cannot see you, so the planks did not go through. Dusk is here and I am going to bed at the white beds. Come into sight
+- 23:28 act: {"actions":[{"do":"sleep"}]}
