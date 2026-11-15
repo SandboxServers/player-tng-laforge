@@ -440,3 +440,18 @@
 - 10:29 act: {"actions":[{"do":"goto","target":{"x":-275,"y":67,"z":300}}],"intent":{"goal":"flee_west_to_beds","program":"travel","arguments":{"target":{"x":-275,"y":67,"z":300}},"wake_on":["goal_completed","dire
 - 10:29 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":327}}],"say":"LaForge: I was hit down to 2 health by zombies and spiders near -250,68,244. Back at the white beds now. Food call: chicken seen at
 - 10:41 act: {"intent":{"goal":"reach_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":335}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200
+- 10:42 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"I'm LaForge, hunger 17 and health 2. Troi, if the chicken is not needed for Trini, I'd be grateful for a share. I'll stay by the be
+- 10:43 act: {"actions":[{"do":"sleep"}],"say":"Trini, thank you. I'll wait by the bed for the chicken, and I'll try to sleep now."}
+- 10:47 act: {"actions":[],"say":"Chapman, thank you. I'm at the white bed at -270,67,318, and I'll take the wheat when you can see me. Trini is weaker than I am by hunger, so she may have a share."}
+- 10:50 act: {"actions":[],"say":"Thank you all. Kimberly, Troi, I'm here at -270,67,318 and I'll step aside so the drop by my feet doesn't block the give. Wheat or chicken, whichever comes first; Trini next."}
+- 10:52 act: {"actions":[],"say":"Kimberly, you have the chicken and Chapman's wheat. Please give me the chicken now, I'm at 2 health. I'll pass the wheat on to Trini."}
+- 10:55 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":316}}],"say":"Kimberly, I've stepped away from the drop at my feet, to -268,67,316. Please hand the chicken over now. Thank you."}
+- 10:58 act: {"actions":[{"do":"eat"}],"say":"Thank you, Kimberly. I have the chicken and will eat it now. Trini, the wheat is yours next.","reasoning":"Chicken is in my pack, hunger 17. Eat now so health can reco
+- 11:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["goal_completed","di
+- 11:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"LaForge: night, day 280. Health 2, hunger 17. Thank you Kimberly and Troi for the chicken; I'll eat it at hunger 6. 
+- 11:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Health 2, perched, something hit me earlier. Get to the bed and sleep."}
+- 11:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"Previous goto failed because another action was running. Retry now."}
+- 11:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}],"reasoning":"Previous goto failed because the sleep action was still queued. Send the goto alone, then sleep after it resolves."}
+- 11:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}}],"reasoning":"Golems are closing from the south, 7 blocks away. The nearest bed is 2 blocks north at -270,67,336. Move there first, then tr
+- 11:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}}],"reasoning":"No golems in view now. Walk to the bed at -270,67,336."}
+- 11:03 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"reasoning":"I'm beside the white bed at -271,67,318 with the group. Try it."}
