@@ -470,3 +470,4 @@
 - 11:42 act: {"say":"Thank you Trini. My hunger is 16, so I'll keep the flesh for you and Jason until I am at 6. I'm going to bed here now.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep
 - 11:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
 - 11:44 act: {"actions":[{"do":"sleep"}]}
+- 11:45 act: {"say":"LaForge here, hunger 16, health 2, no food. Trini, keep the flesh for Picard; I will not eat it above hunger 6. I'm at the yellow bed and will sleep here with the group.","actions":[{"do":"got
