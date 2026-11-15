@@ -467,3 +467,6 @@
 - 11:29 say: {"text":"LaForge, dawn 282. No food on me, health 2, hunger 16. Trini first, then Picard, for any meat. I'll look for ripe wheat near the beds."}
 - 11:29 act: {"actions":[{"do":"sleep"}]}
 - 11:41 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}],"say":"LaForge going to the yellow bed for the night. No food, health 2, hunger 16. Trini and Picard first at first light."
+- 11:42 act: {"say":"Thank you Trini. My hunger is 16, so I'll keep the flesh for you and Jason until I am at 6. I'm going to bed here now.","actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep
+- 11:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 11:44 act: {"actions":[{"do":"sleep"}]}
