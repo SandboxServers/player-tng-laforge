@@ -333,3 +333,4 @@
 - 06:13 say: {"text":"Worf, LaForge at the beds, health 5.4, the weakest here. If your rotten flesh is still spare, I'll come to you now. Chapman, you may have it first if you're closer to starving."}
 - 06:13 act: {"intent":{"goal":"reach_worf_for_flesh","program":"travel","arguments":{"target":{"x":-277,"y":65,"z":315}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"]
 - 06:13 say: {"text":"Worf, I'm in reach now. Billy asks that the flesh come to me first. Please give me the rotten flesh if you can. Thank you."}
+- 06:15 act: {"actions":[{"do":"eat"}],"say":"LaForge: thank you Worf. I'm eating one rotten flesh now. I'll keep two for Chapman or whoever gets weaker.","reasoning":"Hunger 17 and health 5.4, with no regen. Eat 
