@@ -22,3 +22,5 @@
 - 19:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":68,"z":352}},{"do":"sleep"}]}
 - 19:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":355}},{"do":"sleep"}]}
 - 19:25 say: {"text":"Sleeping now at the yellow beds. No food on me. Chapman and Clark, meat goes to you first when it comes."}
+- 19:26 act: {"actions":[{"do":"use","at":{"x":-282,"y":69,"z":371}},{"do":"sleep"}],"say":"LaForge here at the yellow bed, health 20, no food. Trying to sleep.","reasoning":"Night, no food, health full. Sleep at 
+- 19:34 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":340}}],"say":"LaForge, morning 306, health 20, hunger 20, no food. Joining the east scouts in sight. Any meat goes to Chapman and Kimberly first.
