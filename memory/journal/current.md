@@ -471,3 +471,5 @@
 - 11:42 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
 - 11:44 act: {"actions":[{"do":"sleep"}]}
 - 11:45 act: {"say":"LaForge here, hunger 16, health 2, no food. Trini, keep the flesh for Picard; I will not eat it above hunger 6. I'm at the yellow bed and will sleep here with the group.","actions":[{"do":"got
+- 11:46 act: {"say":"LaForge, hunger 16, no food. Trini and Picard are at 6 and 5, so the last flesh stays with them. I'll hold by the beds until dawn and go out with the group for the pig lead.","intent":{"goal":
+- 11:46 act: {"say":"Thanks Troi. I'm at hunger 16, so Trini and Picard go first. I'm trying the bed here.","actions":[{"do":"sleep"}]}
