@@ -298,3 +298,4 @@
 - 03:46 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
 - 04:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
 - 04:03 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"Phantom to the north. Going to the white bed to sleep. Still no food; meat goes to Trin
