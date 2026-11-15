@@ -21,3 +21,40 @@
 - 13:59 act: {"intent":{"goal":"rest_at_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":60
 - 14:03 act: {"actions":[{"do":"sleep"}]}
 - 14:12 act: {"say":"LaForge, dawn 290, hunger 20, health 20. I have no food on me yet. Zack and Leonardo at 10 are lowest: any meat goes to them first, then Trini."}
+- 14:22 act: {"actions":[{"do":"sleep"}]}
+- 14:23 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 14:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}}]}
+- 14:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 14:23 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 14:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 14:24 act: {"actions":[{"do":"sleep"}]}
+- 14:26 act: {"actions":[],"say":"LaForge here, hunger 20, no food. I'll join Lewis and Wesley for the hunt. Any meat goes to Zack and Leonardo first.","intent":{"goal":"join_hunt_north","program":"travel","argume
+- 14:27 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":336}}],"intent":{"goal":"return_to_group_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":336}},"wake_on":["directly_addressed
+- 14:27 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Back with the group. Health 10, hunger 17, no food. Trying the south bed now."}
+- 14:31 act: {"actions":[],"say":"LaForge joining the east pig hunt toward -213,69,351. Meat goes to Zack and Leonardo first.","intent":{"goal":"east_pig_hunt","program":"travel","arguments":{"target":{"x":-230,"y
+- 14:31 act: {"actions":[{"do":"goto","target":{"x":-215,"y":69,"z":350}}],"intent":{"goal":"reach_pig_field","program":"travel","arguments":{"target":{"x":-215,"y":69,"z":350}},"wake_on":["directly_addressed","pr
+- 14:43 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":330}}],"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-272,"y":67,"z":330}},"wake_on":["directly_addressed
+- 14:43 act: {"actions":[{"do":"sleep"}]}
+- 14:44 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":320}}],"intent":{"goal":"reach_north_bed","program":"travel","arguments":{"target":{"x":-269,"y":67,"z":320}},"wake_on":["directly_addressed","pr
+- 14:44 act: {"actions":[{"do":"sleep"}]}
+- 14:48 act: {"actions":[{"do":"goto","target":{"x":-222,"y":68,"z":350}}],"intent":{"goal":"pig_hunt_east","program":"travel","arguments":{"target":{"x":-222,"y":68,"z":350}},"wake_on":["directly_addressed","prec
+- 14:49 act: {"actions":[{"do":"goto","target":{"x":-269,"y":67,"z":320}}],"intent":{"goal":"return_to_beds_for_night","program":"travel","arguments":{"target":{"x":-269,"y":67,"z":320}},"wake_on":["directly_addre
+- 14:49 act: {"say":"LaForge here, hunger 16, no food. Going east with the group to the pig area. Call out any pig.","intent":{"goal":"join_pig_hunt_east","program":"travel","arguments":{"target":{"x":-222,"y":68,
+- 14:49 act: {"intent":{"goal":"return_to_beds_before_dark","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":318}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
+- 14:56 act: {"intent":{"goal":"search_cow_spot_north","program":"travel","arguments":{"target":{"x":-284,"y":66,"z":249}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"
+- 14:57 act: {"intent":{"goal":"catch_chicken_north","program":"travel","arguments":{"target":{"x":-288,"y":65,"z":240}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],
+- 14:57 act: {"actions":[{"do":"goto","target":{"x":-283,"y":65,"z":237}},{"do":"attack","target":"chicken"}]}
+- 14:57 act: {"intent":{"goal":"return_to_beds_with_chicken","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":319}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comp
+- 14:57 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"},{"do":"give","to":"ag_macdonald_01","item":"chicken","count":1}]}
+- 14:57 act: {"say":"I have one raw chicken. Macdonald, where are you? I'll bring it to you.","actions":[{"do":"goto","target":"ag_macdonald_01"}]}
+- 14:57 act: {"actions":[{"do":"goto","target":"ag_billy_01"},{"do":"give","to":"ag_billy_01","item":"chicken","count":1}]}
+- 15:06 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":317}}],"say":"LaForge at the white bed, no food, hunger 16. Trying to sleep now. Call out any meat at dawn.","reasoning":"Night, clear, no monste
+- 15:07 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":330}}],"reasoning":"Hit by something unseen from the front. Move away from the beds to get clear of it, then check again.","intent":{"goal":"get_
+- 15:07 act: {"actions":[{"do":"goto","target":{"x":-281,"y":67,"z":326}}],"reasoning":"Iron golem closing from the east, 7 blocks. Move west away from it.","intent":{"goal":"keep_clear_of_golem","program":"travel
+- 15:07 act: {"actions":[{"do":"attack","target":"phantom"}],"reasoning":"A phantom is 2 blocks away and has hit me twice. I have no sword, but fighting back beats running in the dark. Check health after."}
+- 15:07 act: {"actions":[{"do":"place","block":"dirt","at":"feet"}],"reasoning":"Health 4.4 and falling, phantoms about, no sword. I have 12 dirt. Build up a column under me to get off the ground and out of reach,
+- 15:07 act: {"actions":[{"do":"goto","target":{"x":-288,"y":67,"z":318}}],"reasoning":"Health 2.4. Iron golems are closing from the south-east and east and I am being hit. Break away north-west, away from the gol
+- 15:11 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":322}}],"say":"LaForge at dawn, health 2, hunger 16, no food. Going back to the white beds to join the group. Please call out any meat for me to f
+- 15:11 say: {"text":"LaForge here at the beds, health 2, hunger 15, no food. Any meat, I need it, but Macdonald and Zack first if they are closer."}
+- 15:16 act: {"intent":{"goal":"join_pig_hunt","program":"travel","arguments":{"target":{"x":-213,"y":69,"z":349}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limit
+- 15:16 act: {"intent":{"goal":"return_to_beds_for_chicken","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl

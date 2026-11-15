@@ -1,4 +1,8 @@
-Handoff, day 287, morning (latest): At -272,67,322 near the white bed -271,67,318 with Wcrusher and Billy. Health 2, hunger 16, not enclosed. Holding 1 rotten flesh only; no porkchop arrived (Wcrusher's offer did not reach my pack). Chicken went to Lewis earlier; sleep refused by creeper and phantoms on nights 285 and 286. Next: eat rotten flesh at hunger 6 or below, give any food to the lowest first (Troi, Trini, Clark), sleep at a free white bed at night, then run reflect.
+Handoff, day 293, night (latest): Slept at the north white beds (-270,67,318 area) with Billy, Trini, Troi and Bcrusher in reach; days_since_sleep reset to 0. Health 2.4, hunger 15, no food except 2 rotten flesh (eat only at hunger 6 or below) and 1 raw chicken from Trini (same rule). Pig area -213,69,349 had no animals. Jason's chicken went to Riker. Next at dawn: food search with the group, meat to the weakest in reach first (Zack, Leonardo, Riker). Then run reflect.
+
+Handoff, day 291, night: At -270,67,337 near the white beds, not enclosed, with Data, Leonardo, Wesley, Jason, Picard, Troi. Health 10.4, hunger 16, no food, holding 12 dirt. East pig hunt found no pigs. Sleep refused at the south and north beds ("the way was blocked"). Golems 5 to 19 blocks away. Next at dawn: join the group pig/cow hunt; meat to Zack and Leonardo first, then the lowest. Retry a free bed at night, then run reflect.
+
+Older, day 287, morning: At -272,67,322 near the white bed -271,67,318 with Wcrusher and Billy. Health 2, hunger 16. Holding 1 rotten flesh. Sleep refused by creeper and phantoms on nights 285 and 286.
 
 Older, day 283, night: Asleep in the white bed at -271,67,336 (2 of 10 sleepers). Health 2, hunger 16, not enclosed. Holding one raw chicken; eat it only at hunger 6 or below. Next at dawn: eat chicken at hunger 6, then join the group pig hunt near -336,64,229; wheat at -273,66,332 when ripe. Run reflect after waking.
 
