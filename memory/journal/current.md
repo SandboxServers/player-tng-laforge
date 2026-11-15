@@ -153,3 +153,15 @@
 - 18:28 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}],"say":"LaForge at the yellow bed, health 11, hunger 14, no food. Chapman has the chicken now, so that is settled.","reasoning":"Night, no food 
 - 18:28 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":354}}],"reasoning":"First bed refused. Try the second yellow bed once."}
 - 18:28 act: {"actions":[{"do":"note","text":"Night 302: both yellow beds refused me (occupied). No food. Gave my chicken to Data by mistake; it reached Jason then Chapman. Staying with the group at the yellow bed
+- 18:31 act: {"say":"LaForge here, health 11.5, hunger 14, no food. Chapman first. I'll go north toward the pigs and cows with Riker if he wants company, and call out any meat.","reasoning":"Zack is handling Chapm
+- 18:32 act: {"say":"Lewis, yes, let's go north together for pigs and cows. Keep close to me. Meat goes to Zack and Chapman first.","reasoning":"My wait intent failed. Lewis is going north too, and the north road 
+- 18:33 act: {"say":"At the north field, no animals in sight. There are dropped items to the west near -282,66,242. I'm going to look at them.","reasoning":"Reached the north spot with no animals. Ground items 21 
+- 18:33 act: {"actions":[{"do":"goto","target":{"x":-282,"y":66,"z":242}},{"do":"goto","target":{"x":-283,"y":66,"z":241}}],"reasoning":"Walking onto the dropped items to pick them up and see what they are."}
+- 18:33 act: {"say":"Found only bone and arrows at -282,66,242, no food. Next I'm checking the animal spot at -217,68,214. Call out any meat.","reasoning":"The dropped items were not food. The next known food area
+- 18:33 act: {"actions":[{"do":"attack","target":"skeleton"}],"reasoning":"A skeleton with a bow is 4.7 blocks away and has already shot me. I have a sword and it is close, so I fight rather than run in the open."
+- 18:33 act: {"actions":[{"do":"goto","target":"skeleton"},{"do":"attack","target":"skeleton"}],"reasoning":"The skeleton is closing 6.8 blocks west and keeps shooting. Running from a bow in the open is worse, so 
+- 18:33 act: {"actions":[{"do":"goto","target":{"x":-221,"y":68,"z":245}}],"reasoning":"Health is 4.5 and falling, and the skeleton keeps shooting from 7 blocks away. A sword cannot reach it in time. I retreat sou
+- 18:34 act: {"say":"LaForge at 1.5 health, skeleton shooting me from the north-west. Running south to the beds at -263,67,353. If anyone is near, please come.","actions":[{"do":"goto","target":{"x":-262,"y":67,"z
+- 18:34 act: {"say":"LaForge at the beds, health 1.5, hunger 14. Troi, I can't eat rotten flesh until hunger drops, so keep it for someone else. I need a bed and quiet. Anyone with meat, I can take it if you're in
+- 18:34 act: {"say":"Chapman, you are lower than me. Keep the mutton for yourself, Zack. I have no food to give and I'm at 1.5 health, hunger 14.","reasoning":"Chapman is at health 3 and I am at 1.5 with no food, 
+- 18:38 act: {"say":"Thank you Trini, I ate the beef. Hunger is up to 17 and health should start to come back. Chapman and Billy, thank you for waiting. I'm staying by the beds to rest.","reasoning":"Trini's beef 
