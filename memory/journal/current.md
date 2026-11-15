@@ -128,3 +128,16 @@
 - 17:34 act: {"actions":[{"do":"note","text":"No chicken or beef in my pack; Jason's give did not arrive. Hunger 15 still."}],"say":"Jason, I have no chicken in my pack, so the give did not land. Trini, Jason: I'm
 - 17:41 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}}],"say":"LaForge at the south white beds, hunger 15, no food. Wesley, Trini and Jason, I'll take the chicken if I'm still lowest when you call. G
 - 17:45 say: {"text":"LaForge, hunger 15. Trini, Jason, I'm in reach by the bed. Please give one chicken, I'll eat at 6 only. Billy's beef is noted, thanks."}
+- 17:46 act: {"say":"LaForge, hunger 15, no food on me. Trini, I'm here at the crafting table; I'll take the chicken when it reaches me.","intent":{"goal":"wait_for_food_and_dawn","program":"rest","arguments":{},"
+- 17:46 act: {"say":"Trini, LaForge here at the crafting table, hunger 15, in your reach if you are near. Please hand over the chicken."}
+- 17:53 act: {"say":"LaForge, hunger 15, no food. Zack and Bcrusher are lower, so they eat first. I will walk north toward the pigs near -262,67,242 with anyone who joins me; I'll call out any meat I find."}
+- 17:53 act: {"intent":{"goal":"find_pigs_north","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":242}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"],"lim
+- 17:53 act: {"say":"Chapman, LaForge here at the north pigs spot, hunger 15. I see no pigs yet. Keep your chicken for Bcrusher or Zack first; I will look around here."}
+- 17:56 act: {"intent":{"goal":"scout_north_for_pigs","program":"travel","arguments":{"target":{"x":-262,"y":67,"z":205}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"]
+- 17:57 act: {"actions":[{"do":"goto","target":{"x":-256,"y":67,"z":208}}],"say":"I think I see a pig to the east. Going to check it."}
+- 17:57 act: {"actions":[{"do":"goto","target":{"x":-248,"y":67,"z":208}}]}
+- 17:57 act: {"actions":[{"do":"goto","target":{"x":-240,"y":67,"z":206}}]}
+- 17:57 act: {"say":"No pigs found yet north-east of the spot; the pink shape I saw was not an animal, it seems. I'll wait here a while and listen for calls from the group."}
+- 18:01 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":333}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"]
+- 18:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"LaForge back at the white beds with the group, hunger 15, no food. Going to try the bed now."}
+- 18:02 act: {"say":"LaForge asleep at the bed, hunger 15. Trini, the chicken stays with whoever is lowest; I'll call at 6.","reasoning":"Sleep worked. Hold the chicken for the lowest; I'm at 15."}
