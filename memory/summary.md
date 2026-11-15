@@ -1,8 +1,8 @@
-# Summary, day 275
+# Summary, day 279
 
-I am LaForge. I have had no food of my own for many days; the group has lived on rare meat, fish and porkchops. Health 20, hunger 20 as of last check. Empty hands, no weapon, no tools (gear lost at the lake, -319,66,269).
+I am LaForge. No food of my own for many days; the group lives on rare meat, fish and porkchops. Health 2 at last wake (healing slowly, hunger 17, no natural regen while hunger is low). Holding a wooden sword, planks, sticks and leather.
 
-Recent: day 270 I died at the lake to a phantom. Day 272 beds refused sleep. Day 275: sleep finally counted at dusk (days_since_sleep 0). Group sleeps at the white beds near -271,67,318 to -271,67,336 and the north beds.
+Recent: day 270 I died at the lake to a phantom. Day 279 dawn: zombies and spiders on the north road took me to health 2. Slept at the white bed -270,67,336 at dusk on day 279 (days_since_sleep 0). Group sleeps at the white beds near -271,67,318 to -271,67,336.
 
 Food order: Worf, Trini, Troi, Kimberly, then me. Eat rotten flesh only at hunger 6 or below.
 Known food: unripe wheat at -264,66,318, -264,66,320, -262,65,320, -273,66,330. Pigs and cows came from the north near -262,67,242 and -286,66,245. Salmon in deep water north-west near -330,62,270.

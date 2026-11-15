@@ -399,3 +399,44 @@
 - 09:12 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":321}}],"intent":{"goal":"join_group_food_search","program":"travel","arguments":{"target":{"x":-266,"y":67,"z":321}},"wake_on":["directly_address
 - 09:21 act: {"actions":[{"do":"sleep"}],"say":"Goodnight. I have no food, so at first light the food goes to Worf first, then Trini, Troi and Kimberly.","reasoning":"Night, at the white beds with the group, empty
 - 09:22 act: {"actions":[{"do":"sleep"}],"say":"Night. I am at the white bed here with Troi and Clark nearby. I will sleep.","reasoning":"It is night, I stand at a white bed in dim light with two people near, and 
+- 09:24 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}}],"reasoning":"Night, at a bed, safe. Sleep here."}
+- 09:24 act: {"actions":[{"do":"sleep"}],"reasoning":"At bed at night, sheltered by the group. Sleep."}
+- 09:29 act: {"actions":[{"do":"goto","target":{"x":-264,"y":66,"z":318}}],"say":"Morning. I slept and I'm checking the wheat by the beds for anything ripe. Food goes to Worf first, then Trini, Troi, Kimberly.","r
+- 09:29 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":245}}],"say":"Wheat is still unripe. Going north to the pig and cow area near -262,67,245 to look for food.","reasoning":"Wheat unripe, hunger fu
+- 09:29 act: {"actions":[{"do":"goto","target":{"x":-261,"y":67,"z":236}}],"reasoning":"Dropped items lie just north; might be food. Check them, away from the creeper to the north-west."}
+- 09:29 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":235}}],"reasoning":"Step onto the item stacks to pick them up."}
+- 09:30 act: {"actions":[{"do":"goto","target":{"x":-242,"y":68,"z":226}},{"do":"attack","target":"sheep"}],"reasoning":"Got bone and an arrow, no food. A sheep is near -242,68,224. Go to it and attack by hand."}
+- 09:30 act: {"actions":[{"do":"goto","target":{"x":-264,"y":67,"z":300}}],"say":"I got mutton from a sheep. Taking it back toward the group at the beds, for whoever is hungriest, Trini first if she is there.","re
+- 09:30 act: {"actions":[{"do":"goto","target":{"x":-265,"y":67,"z":312}}],"say":"LaForge here with one mutton. Trini, where are you? Mutton goes to you first.","reasoning":"Clark is near the beds. Move closer to 
+- 09:30 act: {"actions":[{"do":"goto","target":"ag_worf_01"},{"do":"give","to":"ag_worf_01","item":"mutton","count":1}],"say":"Worf, here is my mutton. You are first in my order, and it is all I have.","reasoning"
+- 09:34 act: {"actions":[{"do":"goto","target":{"x":-273,"y":69,"z":316}},{"do":"mine","block":"oak_log","count":4}],"say":"I have no food, so I'll get wood for tools. Troi, Lewis, you have the mutton. Good.","rea
+- 09:35 act: {"actions":[{"do":"goto","target":{"x":-275,"y":69,"z":308}},{"do":"craft","item":"oak_planks","count":8},{"do":"craft","item":"wooden_sword","count":1}],"reasoning":"Have three logs. Walk to the tabl
+- 09:35 act: {"intent":{"goal":"make_wooden_sword","program":"craft","arguments":{"item":"wooden_sword","count":1},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":2400,"max_block_oper
+- 09:35 act: {"intent":{"goal":"reach_sheep_field","program":"travel","arguments":{"target":{"x":-242,"y":68,"z":224}},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":2400,"max_block_
+- 09:36 act: {"intent":{"goal":"reach_cow","program":"travel","arguments":{"target":{"x":-228,"y":68,"z":209}},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":2400,"max_block_operatio
+- 09:36 act: {"actions":[{"do":"goto","target":{"x":-217,"y":68,"z":214}},{"do":"attack","target":"cow"},{"do":"attack","target":"cow"},{"do":"attack","target":"cow"}],"reasoning":"A cow is nearby to the east and 
+- 09:37 act: {"intent":{"goal":"return_to_beds_with_beef","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":316}},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world_ticks":3000,"max
+- 09:38 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}},{"do":"give","to":"ag_troi_01","item":"beef","count":4}],"reasoning":"Troi is at the north beds at hunger 11 and is first in line. Move nex
+- 09:38 act: {"actions":[{"do":"goto","target":"ag_troi_01"},{"do":"give","to":"ag_troi_01","item":"beef","count":4}],"reasoning":"Troi is 3 blocks away, out of reach. Walk to her and give the beef.","say":"Troi, 
+- 09:38 act: {"actions":[{"do":"give","to":"ag_riker_01","item":"beef","count":2}],"reasoning":"Troi stays out of reach. Riker is in reach at hunger 17, so give him 2 beef now and keep 5 for Troi and Trini.","say"
+- 09:41 act: {"actions":[{"do":"goto","target":"ag_troi_01"},{"do":"give","to":"ag_troi_01","item":"beef","count":4}],"say":"Troi, coming to you with the beef now.","reasoning":"Troi is hungry (11) and first in li
+- 09:42 act: {"actions":[],"say":"Leonardo, cow was at about -228,68,209, and sheep near -227,69,224. Troi is not in sight now; I hold 5 beef for Troi and Trini.","reasoning":"Leonardo asked for the cow spot. Shar
+- 09:44 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"beef","count":3}],"say":"Troi, here are 3 beef. Riker's 2 are yours too; I will keep 2 for Trini.","reasoning":"Troi is in reach and starving. Give 3
+- 09:44 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"use","at":{"x":-270,"y":67,"z":318}}],"reasoning":"Night is here and I should sleep. Walk to the white bed and try it."}
+- 09:44 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}],"reasoning":"The first bed refused. Try the second bed once, a different block, then wait with the group if it refuses."}
+- 09:48 act: {"actions":[],"say":"Morning. Has anyone seen Trini? I hold 2 beef for her, and I'll hand them over the moment she is in reach.","reasoning":"Dawn. Trini is the next food in line and I have 2 beef for
+- 09:59 act: {"intent":{"goal":"rest_at_bed","program":"rest","arguments":{},"wake_on":["directly_addressed","goal_completed"],"limits":{"max_world_ticks":2400,"max_block_operations":16}},"actions":[{"do":"sleep"}
+- 10:01 act: {"actions":[{"do":"sleep"}]}
+- 10:02 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 10:12 act: {"say":"Morning. Trini is still not found, and my 2 beef have waited long enough. Whoever comes into my reach hungriest gets them. Tell me when you are close.","intent":{"goal":"hold_for_group","progr
+- 10:16 act: {"actions":[{"do":"goto","target":"ag_chapman_01"},{"do":"give","to":"chapman_01","item":"beef","count":2}],"say":"Chapman, you are hungry and Trini is still not found. I am bringing you my 2 beef."}
+- 10:16 act: {"actions":[{"do":"give","to":"Chapman","item":"beef","count":2}],"say":"Chapman, here is 2 beef."}
+- 10:17 act: {"actions":[{"do":"give","to":"chapman_01","item":"beef","count":2}]}
+- 10:17 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"beef","count":2}],"say":"Chapman, I have 2 beef. Taking it to whoever is hungriest; you first if you are hungry."}
+- 10:17 act: {"actions":[],"say":"Chapman, the 2 beef is yours now. Leonardo at the north beds, Trini and Bcrusher, if you are hungry, call out and I'll help search for the next animal."}
+- 10:25 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"sleep"}],"say":"LaForge going to the white bed for the night. No food on me; Trini and Kimberly first when meat comes."}
+- 10:26 act: {"actions":[{"do":"sleep"}]}
+- 10:28 act: {"actions":[{"do":"goto","target":{"x":-242,"y":68,"z":224}}],"say":"Dawn, day 279. LaForge heading to the sheep spot at -242,68,224 to look for food. Any meat goes to Trini, Kimberly, then the hungri
+- 10:29 act: {"actions":[{"do":"goto","target":{"x":-275,"y":67,"z":300}}],"intent":{"goal":"flee_west_to_beds","program":"travel","arguments":{"target":{"x":-275,"y":67,"z":300}},"wake_on":["goal_completed","dire
+- 10:29 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":327}}],"say":"LaForge: I was hit down to 2 health by zombies and spiders near -250,68,244. Back at the white beds now. Food call: chicken seen at
+- 10:41 act: {"intent":{"goal":"reach_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":335}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200
