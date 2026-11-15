@@ -24,3 +24,10 @@
 - 19:25 say: {"text":"Sleeping now at the yellow beds. No food on me. Chapman and Clark, meat goes to you first when it comes."}
 - 19:26 act: {"actions":[{"do":"use","at":{"x":-282,"y":69,"z":371}},{"do":"sleep"}],"say":"LaForge here at the yellow bed, health 20, no food. Trying to sleep.","reasoning":"Night, no food, health full. Sleep at 
 - 19:34 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":340}}],"say":"LaForge, morning 306, health 20, hunger 20, no food. Joining the east scouts in sight. Any meat goes to Chapman and Kimberly first.
+- 19:39 act: {"say":"LaForge here, health 20, hunger 20, no food, no weapon. I'll stay in sight of Data and Chapman and go for any meat called out. Meat to Chapman first.","intent":{"goal":"stay_with_group","progr
+- 19:41 act: {"say":"LaForge, night, no food, health 20. Going to a white bed to sleep. Meat to Chapman first.","intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}
+- 19:42 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
+- 19:42 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":318}},{"do":"sleep"}]}
+- 19:50 act: {"say":"LaForge, dawn 307, health 20, hunger 20, no food, no tools. Clark and Troi are lowest; any meat goes to them first. I'll hunt with the group in sight and call out what I see.","intent":{"goal"
+- 19:54 act: {"say":"LaForge leading the hunt to the pigs north-west near -256,67,235. Stay in sight, keep close. Any meat goes to Clark and Troi first. If skeletons shoot, we turn back to the beds.","intent":{"go
+- 19:54 act: {"say":"LaForge: my way north-west is blocked by walls here at -275,68,315. I'm holding by the beds. Worf, Macdonald, Clark: go on with the hunt and call out meat; I'll come if the way is open.","inte
