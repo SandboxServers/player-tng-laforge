@@ -70,3 +70,22 @@
 - 15:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
 - 15:41 act: {"actions":[{"do":"sleep"}]}
 - 15:45 act: {"actions":[{"do":"sleep"}],"say":"Night. I'm at the white bed with the group. I'm at full health, no food, and I'll stay close."}
+- 15:50 act: {"say":"LaForge here, dawn 295. Empty-handed, health 20. I'm getting wood for a sword at the oak logs north-west, then I'll join the scouts for animals. Call out any meat or wheat.","intent":{"goal":"
+- 15:52 act: {"actions":[{"do":"craft","item":"oak_planks","count":4},{"do":"craft","item":"stick","count":2},{"do":"craft","item":"wooden_sword","count":1}]}
+- 15:52 act: {"say":"LaForge: I have a wooden sword now. A bow was drawn to the north-west, so I'm going back to the beds with the group. Wesley, I'll stand by you.","intent":{"goal":"return_to_beds_with_group","p
+- 16:00 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"wheat","count":1}],"say":"Wesley, here is the wheat that came to me. You're in reach and the weakest, so it's yours. Eat what you can."}
+- 16:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"use","at":{"x":-271,"y":67,"z":336}}]}
+- 16:00 act: {"actions":[{"do":"sleep"}]}
+- 16:04 act: {"actions":[{"do":"sleep"}]}
+- 16:08 act: {"actions":[{"do":"sleep"}]}
+- 16:09 say: {"text":"LaForge: I have 1 wheat. Whoever is lowest and in sight, step into reach and say so."}
+- 16:12 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":334}},{"do":"give","to":"ag_wcrusher_01","item":"wheat","count":1}],"say":"Wesley, I'm bringing my wheat to the white beds now. If you're in sigh
+- 16:12 say: {"text":"Wesley, my last wheat is here at the white beds. I'll set it on the ground at my feet; step over and take it."}
+- 16:20 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":337}},{"do":"give","to":"ag_wcrusher_01","item":"wheat","count":1}],"say":"Wesley, I'm at the beds with my last wheat. Taking it to you now.","re
+- 16:22 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":335}},{"do":"sleep"}],"reasoning":"Night has come and I am near the free-ish white bed. Wesley isn't in sight, so the wheat waits; try a bed now.
+- 16:23 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":334}},{"do":"sleep"}],"reasoning":"Sleep failed at the crowded spot. Changing place once, then trying the bed again."}
+- 16:32 act: {"actions":[{"do":"goto","target":{"x":-268,"y":67,"z":334}}],"say":"Dawn 297. Clark, you're the weakest I've heard of. I'm holding my wheat at the beds; step into reach and say so and it's yours.","r
+- 16:32 act: {"actions":[{"do":"goto","target":{"x":-264,"y":66,"z":326}}],"say":"Iron golems are closing from the south. I'm moving north, away from them, with my wheat.","reasoning":"Two golems are closing in fr
+- 16:39 act: {"say":"Clark, I'm coming to the beds with my wheat. Step into my reach and say so.","actions":[{"do":"goto","target":{"x":-270,"y":67,"z":334}}],"reasoning":"Clark is the weakest (health 8, hunger 17
+- 16:39 act: {"say":"Golems closing from the southwest. Clark, if you're near, say where and I'll hand you the wheat.","actions":[{"do":"goto","target":{"x":-268,"y":67,"z":322}}],"reasoning":"Two iron golems are 
+- 16:39 say: {"text":"Clark, I have 1 wheat for you. Tell me where you are and I'll come to you."}
