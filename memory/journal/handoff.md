@@ -1,4 +1,12 @@
-Handoff, day 244, night: Health 20, hunger 20, no food. At the white beds -271,67,319 with the group (Trini, Riker, Zack, Data, Jason, Kimberly, Billy, Troi, Picard, Worf). No entities near at night; trying the bed now. Food: none found by anyone. Trini first, then Riker, Zack, Data. Next at dawn: check the wheat, then any animal call-out.
+Handoff, day 253, night (latest): Slept at the white beds near -271,67,327 with the group; days since sleep reset to 0. Health 20, hunger 20, no food. Pig hunt near -255,67,300 found nothing. Trini is at hunger 16 with health 3 and is owed a porkchop from Riker. Next at dawn: food search with the group, Trini and Worf first. Run reflect after sleep.
+
+Older, day 251, night: At -271,67,327 with Worf, Kimberly, Tommy, Troi, Billy. Health 20, hunger 20, no food, no bed. Sleep refused (skeleton and creeper 9 blocks away). Wait and act are returning connection errors. Not enclosed. Next: retry sleep when monsters are gone or a bed frees; at dawn a food search (-250,67,215 area), Worf and Trini first. Run reflect after sleep.
+
+Handoff, day 251, afternoon: Health 20, hunger 20, no food found. Searched west grass, north toward -270,67,270, and the cow spot at -284,66,249: no animals. The pig and cow are gone. Back at the white beds near -272,67,322 before dusk. Trying a bed at -271,67,326 for sleep. Food goes to Worf (hunger 6) and Trini first. Next: sleep, then at dawn a wider food search (maybe -250,67,215 where Troi went). Run reflect after sleep.
+
+Older, day 250, night: Health 20, hunger 20, no food. Trini ate the porkchops (she confirmed). Beds at -271,67,326 and -270,67,326 were taken; sleep failed, golems 19 to 24 blocks south, a bow drawn to the southeast. I am standing at -276,68,321 with no shelter yet. Next: try a free bed, or wait out the night near Riker. At first light: food search, Trini first. Run reflect after sleep.
+
+Older, day 250, dusk: Health 20, hunger 20. Holding 2 porkchop (from a pig at -262,67,242) for Trini; she is out of my sight, last said at -270,67,337. Sleeping at the white bed -271,67,336 with Wcrusher and Billy nearby (2 of 7 asleep). Golems closing from the south. Next: give porkchop to Trini when she is in sight, then food search at light (cow was near -286,66,245). Run reflect after sleep.
 
 Handoff, day 242, night: Health 20, hunger 20, no food. At the white beds -270,68,320 with the group (Trini, Riker, Zack, Data, Kimberly, Picard and others). No free bed for me yet; I'm staying awake with the group. Food search (wheat -265,66,321, grass south and west, sheep field north) found nothing. Trini first, then Riker, Zack, Data. Next at dawn: check the wheat, then any animal call-out.
 

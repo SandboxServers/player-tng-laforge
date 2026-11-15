@@ -202,3 +202,43 @@
 - 00:03 act: {"actions":[{"do":"sleep"}],"say":"LaForge trying sleep at the white bed, night of day 247. Health 20, hunger 20, no food. Trini first at light."}
 - 00:04 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Sleep failed at the -318 beds, they were full. Trying the -336 beds now. Trini first at light."}
 - 00:12 say: {"text":"LaForge, dawn of day 248. Health 20, hunger 20, no food. Trini first. I'll walk the grass only in sight of the group."}
+- 00:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"LaForge waking on day 248, night. Health 20, hunger 20, no food. Trini first for any food I find; I'm trying the whi
+- 00:24 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"LaForge trying the bed at -271,67,318 now. No food; Trini first if anything turns up.","intent":{"goal":"sleep_at_be
+- 00:29 act: {"actions":[{"do":"goto","target":{"x":-245,"y":67,"z":330}}],"say":"LaForge, dawn of day 249, health 20, hunger 20, no food. Searching the grass east of the beds. Any animal or apple goes to Trini fi
+- 00:30 act: {"actions":[{"do":"goto","target":{"x":-225,"y":67,"z":320}}],"say":"LaForge at -246,67,330, morning of day 249. No animals or apples here. Going further east to -225,67,320; I'll call out anything I 
+- 00:30 act: {"actions":[],"say":"LaForge at -225,68,320, day 249 morning. No animals or apples here either. I'll hold on this grass and head back toward the white beds if anyone calls for food."}
+- 00:36 act: {"actions":[{"do":"goto","target":{"x":-240,"y":68,"z":315}}],"say":"LaForge heading to Trini at -240,68,315. Still no food on me; any I find goes to her first.","intent":{"goal":"rejoin_group_near_tr
+- 00:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"LaForge: dusk on day 249, phantoms to the south-east. Going back to the white beds to sleep. Trini, Picard, stay in 
+- 00:49 act: {"intent":{"goal":"scout_sheep_field_north","program":"travel","arguments":{"target":{"x":-283,"y":65,"z":240}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
+- 00:50 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":242}},{"do":"attack","target":"pig"}],"say":"Pig spotted 21 blocks east. Going to take it. Trini gets the meat."}
+- 00:50 act: {"actions":[{"do":"goto","target":"ag_trini_01"},{"do":"give","to":"ag_trini_01","item":"porkchop","count":2}],"say":"Trini, I got 2 porkchop from a pig. Coming to you now."}
+- 00:50 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":320}}],"say":"Heading back to the white beds with the porkchop for Trini."}
+- 00:51 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"porkchop","count":2}],"say":"Trini, where are you? I have 2 porkchop for you. Also a cow was seen near -286,66,245."}
+- 00:51 act: {"actions":[{"do":"goto","target":{"x":-286,"y":66,"z":245}}],"say":"Trini, I'm holding 2 porkchop for you. Tell me where you are and I'll bring it. Going to the cow at -286,66,245 now."}
+- 00:51 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":321}}],"say":"No cow here now. Back at the white beds with 2 porkchop. Trini, come find me and it's yours."}
+- 00:51 act: {"say":"Has anyone seen Trini? I have 2 porkchop for her. Holding at the white beds until she shows."}
+- 00:55 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"give","to":"ag_trini_01","item":"porkchop","count":2}],"say":"Trini, coming to you with the porkchop now."}
+- 00:56 act: {"say":"Trini, I'm at the white bed near -271,67,336 with 2 porkchop. Walk into sight and I'll hand it over."}
+- 01:00 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":337}},{"do":"give","to":"ag_trini_01","item":"porkchop","count":2}],"say":"Trini, I'm at -270,67,337 now. Porkchop is ready."}
+- 01:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"Laforge at the white bed, dusk day 250. Still holding 2 porkchop for Trini; she is not in my sight. Trying to sleep 
+- 01:03 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":328}},{"do":"give","to":"ag_trini_01","item":"porkchop","count":2}],"say":"Trini, walking to you now with the porkchop."}
+- 01:05 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}],"say":"Trini got the porkchop from Jason, good. I'm going to sleep at the yellow bed here."}
+- 01:06 act: {"actions":[{"do":"wait","seconds":60},{"do":"goto","target":{"x":-270,"y":67,"z":326}},{"do":"sleep"}]}
+- 01:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":326}},{"do":"sleep"}]}
+- 01:07 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":322}}],"say":"Laforge here. No food on me, and beds are full. I am staying awake near the group until a bed frees up."}
+- 01:07 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":325}},{"do":"sleep"}]}
+- 01:12 act: {"actions":[{"do":"goto","target":{"x":-278,"y":67,"z":322}}],"say":"Laforge, dawn of day 251. No food on me, health 20. Searching the grass west of the beds in sight of the group. Worf first for any 
+- 01:12 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":312}}],"say":"Laforge: no animals on the west grass here. Last pig I saw was at -262,67,242 at dawn yesterday, and a cow near -286,66,245. I'm ch
+- 01:13 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":270}}],"say":"Laforge heading north toward the pig and cow area, around -270,67,270. Any animal I find goes to Worf or Trini first."}
+- 01:13 act: {"actions":[{"do":"goto","target":{"x":-284,"y":66,"z":248}}]}
+- 01:13 act: {"actions":[],"say":"Laforge at -284,66,249. No cow or animals here now. Tommy, I'm near you. I'll keep searching west and call out anything I see."}
+- 01:17 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":322}}],"say":"Laforge heading back to the white beds before dusk. No food found, and the cow sighting was old."}
+- 01:17 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":325}},{"do":"sleep"}]}
+- 01:18 act: {"actions":[],"say":"Laforge: I have no food. Wesley, the porkchops go to Worf first, then Data and Trini. I agree with Riker and Jason."}
+- 01:22 act: {"actions":[{"do":"sleep"}]}
+- 01:26 act: {"actions":[{"do":"sleep"}],"say":"Trying to sleep now. No food on me; Worf and Trini first at light."}
+- 01:34 act: {"intent":{"goal":"join_pig_hunt","program":"travel","arguments":{"target":{"x":-255,"y":67,"z":300}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limit
+- 01:34 act: {"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":327}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"limi
+- 01:38 act: {"actions":[{"do":"sleep"}],"say":"No food on me; Worf and Kimberly get the meat first. Trying a bed for the night."}
+- 01:43 act: {"actions":[{"do":"sleep"}]}
+- 01:47 act: {"actions":[{"do":"sleep"}]}
