@@ -165,3 +165,7 @@
 - 18:34 act: {"say":"LaForge at the beds, health 1.5, hunger 14. Troi, I can't eat rotten flesh until hunger drops, so keep it for someone else. I need a bed and quiet. Anyone with meat, I can take it if you're in
 - 18:34 act: {"say":"Chapman, you are lower than me. Keep the mutton for yourself, Zack. I have no food to give and I'm at 1.5 health, hunger 14.","reasoning":"Chapman is at health 3 and I am at 1.5 with no food, 
 - 18:38 act: {"say":"Thank you Trini, I ate the beef. Hunger is up to 17 and health should start to come back. Chapman and Billy, thank you for waiting. I'm staying by the beds to rest.","reasoning":"Trini's beef 
+- 18:40 act: {"say":"LaForge at the white beds, health 1.5, hunger 17. I am the lowest in sight. Picard, the mutton is mine if you can hand it over.","reasoning":"I am the lowest in sight at 1.5 health. Ask Picard
+- 18:40 act: {"actions":[{"do":"goto","target":"ag_picard_01"}],"say":"Picard, I am coming to you for the mutton. I am the lowest here at 1.5.","reasoning":"My rest intent failed. Picard holds mutton and I am lowe
+- 18:40 act: {"say":"Picard, I am next to you now, health 1.5. Please give me the mutton.","reasoning":"Picard is 2 blocks away with mutton. I am the lowest. Ask him to hand it over and wait."}
+- 18:44 act: {"say":"Thank you all. I ate and I am at 4.5 health now. Chapman, Clark and Zack, the chicken can go to whoever is lowest after me.","reasoning":"Reflex eat brought me to 4.5. Thank the group and send
