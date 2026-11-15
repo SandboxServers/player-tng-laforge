@@ -17,3 +17,7 @@
 - 13:56 act: {"actions":[],"say":"Trini and Troi, I hold one chicken. Tell me who is lowest now after the beef, and I'll walk to you and hand it over.","reasoning":"Trini just ate beef, so the chicken may go to so
 - 13:58 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":322}}],"say":"Going north to the group at the beds, to find Troi and hand the chicken over.","reasoning":"Trini says Troi is lower and waits by t
 - 13:58 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"chicken","count":1}],"say":"Troi, the chicken is yours. You were lowest after Trini ate.","reasoning":"Troi is in sight and was named lowest. Give th
+- 13:59 act: {"intent":{"goal":"recover_dropped_gear","program":"travel","arguments":{"target":{"x":-276,"y":65,"z":330}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"]
+- 13:59 act: {"intent":{"goal":"rest_at_bed","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":336}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":60
+- 14:03 act: {"actions":[{"do":"sleep"}]}
+- 14:12 act: {"say":"LaForge, dawn 290, hunger 20, health 20. I have no food on me yet. Zack and Leonardo at 10 are lowest: any meat goes to them first, then Trini."}
