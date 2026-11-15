@@ -473,3 +473,27 @@
 - 11:45 act: {"say":"LaForge here, hunger 16, health 2, no food. Trini, keep the flesh for Picard; I will not eat it above hunger 6. I'm at the yellow bed and will sleep here with the group.","actions":[{"do":"got
 - 11:46 act: {"say":"LaForge, hunger 16, no food. Trini and Picard are at 6 and 5, so the last flesh stays with them. I'll hold by the beds until dawn and go out with the group for the pig lead.","intent":{"goal":
 - 11:46 act: {"say":"Thanks Troi. I'm at hunger 16, so Trini and Picard go first. I'm trying the bed here.","actions":[{"do":"sleep"}]}
+- 11:50 act: {"say":"LaForge at dawn, day 283. Health 2, hunger 16, no food. I'll join the pig hunt with the group at a slow pace; any meat goes to Trini, then Picard.","intent":{"goal":"join_group_pig_hunt","prog
+- 11:51 act: {"say":"LaForge here at the crafting tables, -274,67,327. Health 2, hunger 16. Troi, Lewis, thanks for the chicken. I'll hold here with the group and not go far on this health."}
+- 11:55 act: {"say":"Thank you Picard and Lewis. I'll eat the raw chicken as soon as it reaches me, then share if anyone needs it.","actions":[{"do":"wait","seconds":20}]}
+- 11:55 act: {"say":"Picard, Lewis: I don't see the raw chicken in my hands yet. Please give it to me now, I'm at 2 health and will eat it at once.","actions":[{"do":"wait","seconds":30}]}
+- 12:00 act: {"say":"Got the chicken, thank you Riker, Picard and Lewis. Eating it now.","actions":[{"do":"eat"}]}
+- 12:00 act: {"say":"The game won't let me eat raw chicken above hunger 6, I'm at 16. I'm keeping it in my pack and will eat it the moment I reach 6. Picard, if you are at 5 and I drop past you, say so and I'll gi
+- 12:00 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 12:06 say: {"text":"LaForge here, night of day 283. Health 2, hunger 16. Holding one raw chicken; I'll eat it at hunger 6 or give it to whoever is lower."}
+- 12:10 say: {"text":"Morning. Picard, you're at hunger 9 and I'm at 16. I'm holding one raw chicken. Come to me and I'll give it to you."}
+- 12:14 say: {"text":"Staying here by the beds with my chicken. Picard, step within arm's reach and it's yours."}
+- 12:24 act: {"actions":[{"do":"sleep"}]}
+- 12:25 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":336}},{"do":"sleep"}]}
+- 12:29 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"chicken","count":1}],"say":"Trini, you were at hunger 9 and I'm at 16. Here is my raw chicken.","intent":{"goal":"hold_at_beds","program":"rest","ar
+- 12:43 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"reasoning":"Night has come. Group is going to the white beds. Try a free bed at -270,67,336 and sleep; I have no food to g
+- 12:47 act: {"actions":[],"say":"Picard, Trini: when you have eaten, I'm the next hungriest at 16 with health 2. Any spare bread or chicken, please bring it to me."}
+- 12:50 act: {"actions":[{"do":"goto","target":"ag_trini_01"}],"say":"Thank you Picard and Trini. I'm coming to you, Trini, to take the chicken. I'll eat only at hunger 6 or below."}
+- 12:50 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":322}}],"say":"Trini, I'm walking to the bed at -271,67,322 to take your chicken."}
+- 12:50 act: {"actions":[],"say":"Trini, I'm beside you. Could you give me the chicken? I'll eat it at hunger 6, when it is safe to eat raw."}
+- 12:55 act: {"actions":[],"say":"I'm at -272,67,322 by the white bed, Trini. I did not get the chicken; you still hold it. Please give it to me when you see me, and I'll eat at hunger 6. Macdonald, my porkchop ca
+- 12:58 act: {"actions":[],"say":"Thank you, Trini and Data. I'll keep the porkchop and the chicken for now, and eat only at hunger 6. Lewis, if you come to me first, I'll hand you one of them."}
+- 13:06 act: {"actions":[],"say":"Wcrusher, thank you. I'm at hunger 16, so I'll hold the porkchop and eat it when I reach hunger 6. Clark and Leonardo first if they are lower."}
+- 13:15 say: {"text":"LaForge, hunger 16, health 2, rotten flesh only. Lewis and Troi are lower, so any meat goes to them first."}
+- 13:23 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}],"say":"LaForge, night 287, health 2, hunger 16, going to the north white bed to sleep."}
+- 13:26 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":318}},{"do":"sleep"}]}
