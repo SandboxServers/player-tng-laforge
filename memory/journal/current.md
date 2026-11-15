@@ -1,3 +1,4 @@
 # Journal
 - Night 312: crafted 32 oak planks, built a plank shelter (15 of 25 placed, west wall blocked). Walled in enough, slept. days_since_sleep reset to 0. Many people nearby are low on food (Troi health 6, Kimberly health 8, Billy and Lewis hungry). Their beds: white bed near -270,67,336; yellow beds near -274,69,291. I have 17 planks spare and 8 oak logs gone to planks. Next: offer planks to Data for wheat seeds or knowledge; find food.
 - 21:45 act: {"say":"Laforge here. I have 17 oak planks and I am well fed. Meriwether, Data, if you need planks for shelter, come to the beds by the chest and ask.","actions":[{"do":"goto","target":{"x":443,"y":10
+- 21:46 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night is here. I'm going to the bed by the crafting table to rest. Stay safe, everyone."}
