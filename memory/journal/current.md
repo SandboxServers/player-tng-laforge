@@ -13,3 +13,9 @@
 - 22:24 act: {"say":"Troi, I have 17 oak planks if anyone needs them for building. I will stay by the white beds for now.","reasoning":"Full hunger, no one in sight. Offer planks and wait at camp for helpers."}
 - 22:26 act: {"actions":[{"do":"give","to":"ag_data_01","item":"oak_planks","count":8}],"say":"Data, here are 8 oak planks for the shelter.","reasoning":"Data asked for planks and is in view. Hand over the 8 I pro
 - 22:26 act: {"say":"Data, I can't see you from here. I'll hold the 8 planks until you come back into view.","reasoning":"Give failed: Data is out of sight. Wait for her to return rather than walk off."}
+- 22:33 act: {"say":"Geordi here at the beds. I hold 17 oak planks for anyone building. Data, I will give you planks when you are in view. I can also help look for chickens to the south.","reasoning":"Hunger is fu
+- 22:38 act: {"actions":[{"do":"give","to":"ag_data_01","item":"oak_planks","count":8}],"say":"Data, here are the 8 planks. Clark, I still have 9 spare planks if you need them for a shelter.","reasoning":"Data is 
+- 22:41 act: {"actions":[],"say":"Data and Clark, my give failed because you were out of my sight, so you have no planks yet. I am standing at the white beds, x444 z-1093. Step within sight of me and I will hand t
+- 22:44 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"oak_planks","count":9}],"say":"Clark, here are 9 planks for your shelter. Data, I will give you 8 as soon as you are in sight.","reasoning":"Clark s
+- 22:48 act: {"actions":[{"do":"goto","target":"ag_clark_01"},{"do":"give","to":"ag_clark_01","item":"oak_planks","count":9}],"say":"Clark, I am walking to you now with the 9 planks.","reasoning":"Clark cannot see
+- 22:48 act: {"actions":[{"do":"use","at":{"x":443,"y":107,"z":-1093}}],"say":"Night is coming. I cannot find Clark or Data in sight, so I will keep my 17 planks. Come to the white beds at first light and I will h
