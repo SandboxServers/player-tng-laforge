@@ -58,3 +58,15 @@
 - 15:11 say: {"text":"LaForge here at the beds, health 2, hunger 15, no food. Any meat, I need it, but Macdonald and Zack first if they are closer."}
 - 15:16 act: {"intent":{"goal":"join_pig_hunt","program":"travel","arguments":{"target":{"x":-213,"y":69,"z":349}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limit
 - 15:16 act: {"intent":{"goal":"return_to_beds_for_chicken","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":320}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_compl
+- 15:21 act: {"intent":{"goal":"reach_white_bed","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":318}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"],"lim
+- 15:22 act: {"actions":[{"do":"sleep"}],"say":"At the white bed with Billy, Trini and Bcrusher near. No food; I hold one chicken for whoever is weakest at dawn."}
+- 15:22 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}]}
+- 15:22 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}],"say":"Trini, thanks. I'll keep the chicken for whoever is lowest. Trying the other bed here."}
+- 15:26 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"chicken","count":1}],"say":"Troi, you're in reach and were among the weakest. Here is my raw chicken."}
+- 15:30 act: {"intent":{"goal":"follow_group_to_south_farm","program":"follow","arguments":{"target":"ag_data_01"},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ti
+- 15:31 act: {"actions":[{"do":"goto","target":"ag_data_01"}],"say":"Troi, I gave you my chicken yesterday, so I have none now. Bcrusher and Wcrusher need it more. I'm walking to Data at the south farm."}
+- 15:38 act: {"say":"Data, give the chicken to Wcrusher now, he is in reach at health 2. I have only rotten flesh, kept for hunger 6.","actions":[]}
+- 15:41 act: {"actions":[{"do":"give","to":"ag_wcrusher_01","item":"chicken","count":1}],"say":"The chicken is mine to hand over. Wesley, it's yours now, eat it. I'm at 0.4 health myself and hunger 15, so I can't 
+- 15:41 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}}]}
+- 15:41 act: {"actions":[{"do":"sleep"}]}
+- 15:45 act: {"actions":[{"do":"sleep"}],"say":"Night. I'm at the white bed with the group. I'm at full health, no food, and I'll stay close."}
