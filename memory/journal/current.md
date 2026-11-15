@@ -141,3 +141,15 @@
 - 18:01 act: {"intent":{"goal":"return_to_white_beds","program":"travel","arguments":{"target":{"x":-271,"y":67,"z":333}},"wake_on":["directly_addressed","unexpected_damage","precondition_failed","goal_completed"]
 - 18:02 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"LaForge back at the white beds with the group, hunger 15, no food. Going to try the bed now."}
 - 18:02 act: {"say":"LaForge asleep at the bed, hunger 15. Trini, the chicken stays with whoever is lowest; I'll call at 6.","reasoning":"Sleep worked. Hold the chicken for the lowest; I'm at 15."}
+- 18:13 act: {"actions":[{"do":"note","text":"Day 302 dawn. Hunger 15, holding one chicken for whoever is lower. Zack is lowest, so I keep my chicken."}],"say":"LaForge, day 302, hunger 15, holding one chicken. Za
+- 18:17 act: {"intent":{"goal":"rejoin_group_at_white_beds","program":"travel","arguments":{"target":{"x":-270,"y":67,"z":334}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_fa
+- 18:17 act: {"actions":[],"say":"LaForge at the white beds, hunger 14, holding one chicken. Anyone in reach at 8 or lower, say your hunger and it goes to the lowest."}
+- 18:21 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"chicken","count":1}],"say":"Jason, you are in reach at health 2. Here is my chicken. Eat it now."}
+- 18:21 act: {"actions":[{"do":"note","text":"Dusk 302. Gave chicken toward Jason at health 2; the give landed on Data instead (chicken gone from my pack). Still hungry 14, no food. Holding nothing now."}],"say":"
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":337}},{"do":"use","at":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"LaForge going to the white bed for the night, hunger 14, no food. Call o
+- 18:21 act: {"actions":[{"do":"use","at":{"x":-270,"y":67,"z":336}},{"do":"sleep"}]}
+- 18:21 act: {"actions":[{"do":"goto","target":{"x":-262,"y":67,"z":354}},{"do":"use","at":{"x":-263,"y":67,"z":354}},{"do":"sleep"}]}
+- 18:22 act: {"actions":[{"do":"sleep"}],"say":"Jason, I have no food left, the chicken went to Data. I am next to the yellow bed; trying it now."}
+- 18:28 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}],"say":"LaForge at the yellow bed, health 11, hunger 14, no food. Chapman has the chicken now, so that is settled.","reasoning":"Night, no food 
+- 18:28 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":354}}],"reasoning":"First bed refused. Try the second yellow bed once."}
+- 18:28 act: {"actions":[{"do":"note","text":"Night 302: both yellow beds refused me (occupied). No food. Gave my chicken to Data by mistake; it reached Jason then Chapman. Staying with the group at the yellow bed
