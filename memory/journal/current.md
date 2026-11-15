@@ -339,3 +339,5 @@
 - 06:18 act: {"actions":[],"say":"LaForge at the white beds, health 5.4. Bcrusher, Jason has a fair claim too (he has hunger 17 like me). Whoever ends up with the beef, I'm not taking it from anyone; I'll hold my 
 - 06:22 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":336}},{"do":"sleep"}],"say":"LaForge, night. Health 5.4, hunger 17, no food but 3 rotten flesh for later. Trying the white bed at -271,67,336 to 
 - 06:26 act: {"actions":[],"say":"LaForge at the white bed, night, health 5.4, hunger 17. I have 3 rotten flesh. Trini or Kimberly, tell me if you are at 6 or below and I'll hand you one.","reasoning":"Still night
+- 06:33 say: {"text":"LaForge at the white beds, health 5.4, hunger 17, no food on me. Picard, Kimberly, Zack: I'm holding 3 rotten flesh until hunger drops to 6; Kimberly first if she's weaker."}
+- 06:38 act: {"actions":[{"do":"give","to":"ag_kimberly_01","item":"rotten_flesh","count":3}],"say":"Kimberly, you're weakest at hunger 9. I'm sending you my 3 rotten flesh now.","intent":{"goal":"hold_at_beds_and
