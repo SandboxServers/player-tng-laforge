@@ -1,4 +1,4 @@
-Handoff, day 253, night (latest): Slept at the white beds near -271,67,327 with the group; days since sleep reset to 0. Health 20, hunger 20, no food. Pig hunt near -255,67,300 found nothing. Trini is at hunger 16 with health 3 and is owed a porkchop from Riker. Next at dawn: food search with the group, Trini and Worf first. Run reflect after sleep.
+Handoff, day 254, midday (latest): Escaped the deep-water lake by building a dirt column at -328,62,222. Now on grass at -299,68,294 near the white beds. Health 11, hunger 17, holding 1 porkchop (for Trini, owed). Known food: pigs at -330,62,221, -339,62,215, -284,65,229; unripe wheat at -253,66,334. Next: give porkchop to Trini if in sight, then find a free bed before dusk, sleep, run reflect. Avoid goto through water.
 
 Older, day 251, night: At -271,67,327 with Worf, Kimberly, Tommy, Troi, Billy. Health 20, hunger 20, no food, no bed. Sleep refused (skeleton and creeper 9 blocks away). Wait and act are returning connection errors. Not enclosed. Next: retry sleep when monsters are gone or a bed frees; at dawn a food search (-250,67,215 area), Worf and Trini first. Run reflect after sleep.
 

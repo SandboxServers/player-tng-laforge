@@ -242,3 +242,25 @@
 - 01:38 act: {"actions":[{"do":"sleep"}],"say":"No food on me; Worf and Kimberly get the meat first. Trying a bed for the night."}
 - 01:43 act: {"actions":[{"do":"sleep"}]}
 - 01:47 act: {"actions":[{"do":"sleep"}]}
+- 02:05 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":336}}],"say":"Heading to the white bed at -270,67,336 with the group for the night. Food first at dawn: Trini, then Worf."}
+- 02:05 act: {"actions":[{"do":"sleep"}]}
+- 02:08 act: {"actions":[{"do":"goto","target":{"x":-283,"y":65,"z":240}}],"say":"Dawn, day 253. I have no food. I'm going north to the sheep field at -283,65,240 to look for animals. Trini and Worf first when I f
+- 02:08 act: {"actions":[{"do":"goto","target":{"x":-271,"y":67,"z":233}},{"do":"attack","target":"pig"}],"say":"There are pigs to the north-east. Going for one now, away from the skeleton."}
+- 02:09 act: {"actions":[{"do":"eat"}],"say":"I got a porkchop from the pig. Eating it now; Trini is owed one, so I'll look for her after."}
+- 02:09 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":300}}],"say":"A zombie and a skeleton are close, so I'm heading back south toward the group."}
+- 02:09 act: {"actions":[{"do":"goto","target":{"x":-270,"y":67,"z":320}}],"say":"I'm back near the beds. I ate a porkchop and I'm recovering. Looking for Trini to give her food when I can."}
+- 02:09 act: {"actions":[{"do":"goto","target":{"x":-284,"y":65,"z":231}},{"do":"attack","target":"pig"}],"say":"Daylight now. Going to the pig near -284,65,229 for food."}
+- 02:10 act: {"actions":[{"do":"unstick"}]}
+- 02:10 act: {"actions":[{"do":"goto","target":{"x":-330,"y":66,"z":222}}]}
+- 02:11 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}]}
+- 02:11 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-336,"y":64,"z":218}}]}
+- 02:11 act: {"actions":[{"do":"attack","target":"pig"}],"say":"Out of the lake. Going for the pig to the south-east, I need food."}
+- 02:11 act: {"actions":[{"do":"unstick"}]}
+- 02:11 act: {"actions":[{"do":"place","block":"dirt","at":"feet"},{"do":"unstick"}]}
+- 02:11 act: {"actions":[{"do":"goto","target":{"x":-330,"y":62,"z":222}}]}
+- 02:12 act: {"actions":[{"do":"unstick"},{"do":"eat"}]}
+- 02:12 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-329,"y":59,"z":222}},{"do":"place","block":"dirt","at":{"x":-329,"y":61,"z":222}},{"do":"unstick"}]}
+- 02:12 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-328,"y":59,"z":223}},{"do":"place","block":"dirt","at":{"x":-327,"y":60,"z":223}},{"do":"goto","target":{"x":-327,"y":61,"z":223}}]}
+- 02:12 act: {"actions":[{"do":"goto","target":{"x":-328,"y":59,"z":223}},{"do":"unstick"}]}
+- 02:12 act: {"intent":{"goal":"climb_out_of_lake","program":"build","arguments":{"blueprint":"pillar","block":"dirt"},"wake_on":["goal_completed"],"limits":{"max_world_ticks":1200,"max_block_operations":20}}}
+- 02:12 act: {"actions":[{"do":"goto","target":{"x":-298,"y":68,"z":294}}]}
