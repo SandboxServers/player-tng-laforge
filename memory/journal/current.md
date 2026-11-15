@@ -15,3 +15,10 @@
 - 19:04 act: {"actions":[{"do":"sleep"}],"reasoning":"Adjacent to bed at -241,69,344. One more sleep try."}
 - 19:09 act: {"actions":[],"say":"LaForge at the yellow beds, dawn 305, health 20, hunger 20. No food, no tools. Will go for meat in daylight; call out if you find any, and I'll follow.","reasoning":"Dawn; golems 
 - 19:12 act: {"actions":[],"say":"LaForge, full at 20, no food. Clark and Chapman are lowest: meat goes to them first, then Leonardo at 14. I'll hold at the yellow beds and watch for meat.","reasoning":"Full mysel
+- 19:14 act: {"say":"LaForge, dawn 305, health 20, hunger 20, no food. I'm full, so Clark and Chapman get any meat first. I'll scout the pig area to the south and call out what I find.","intent":{"goal":"scout_for
+- 19:19 act: {"intent":{"goal":"reach_yellow_bed","program":"travel","arguments":{"target":{"x":-263,"y":67,"z":352}},"wake_on":["directly_addressed","goal_completed","unexpected_damage"],"limits":{"max_world_tick
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"use","at":{"x":-263,"y":67,"z":353}}]}
+- 19:23 act: {"actions":[{"do":"sleep"}]}
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-263,"y":68,"z":352}},{"do":"sleep"}]}
+- 19:24 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":355}},{"do":"sleep"}]}
+- 19:25 say: {"text":"Sleeping now at the yellow beds. No food on me. Chapman and Clark, meat goes to you first when it comes."}
