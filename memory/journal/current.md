@@ -8,3 +8,10 @@
 - 18:53 act: {"say":"LaForge at 0.5 health, skeletons shooting from the north-east. Fleeing west to -217,319. Anyone with food, come to me.","actions":[{"do":"goto","target":{"x":-200,"y":70,"z":322}}]}
 - 18:54 act: {"say":"LaForge back at the yellow beds, respawned with nothing, health 20. I died on the east road to skeletons. No food; I'll stay near the group and hunt only where no skeletons are.","actions":[{"
 - 19:03 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}},{"do":"sleep"}]}
+- 19:03 act: {"actions":[{"do":"goto","target":{"x":-263,"y":67,"z":353}},{"do":"use","at":{"x":-263,"y":67,"z":353}}],"say":"LaForge heading to the yellow bed at -263,67,353 for the night. Health 20, no food.","r
+- 19:03 act: {"actions":[{"do":"goto","target":{"x":-241,"y":69,"z":344}},{"do":"use","at":{"x":-241,"y":69,"z":344}}],"reasoning":"Previous path blocked by water and golem. Try the bed 9 blocks east instead."}
+- 19:03 act: {"actions":[{"do":"use","at":{"x":-263,"y":67,"z":353}}],"reasoning":"Close enough to the bed now; try using it."}
+- 19:03 act: {"actions":[{"do":"sleep"}],"reasoning":"Standing next to the bed; try sleeping here."}
+- 19:04 act: {"actions":[{"do":"sleep"}],"reasoning":"Adjacent to bed at -241,69,344. One more sleep try."}
+- 19:09 act: {"actions":[],"say":"LaForge at the yellow beds, dawn 305, health 20, hunger 20. No food, no tools. Will go for meat in daylight; call out if you find any, and I'll follow.","reasoning":"Dawn; golems 
+- 19:12 act: {"actions":[],"say":"LaForge, full at 20, no food. Clark and Chapman are lowest: meat goes to them first, then Leonardo at 14. I'll hold at the yellow beds and watch for meat.","reasoning":"Full mysel
