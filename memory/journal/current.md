@@ -12,3 +12,8 @@
 - 13:47 act: {"say":"I died to a phantom at the edge of the beds and woke here with nothing. My things lie at -276,65,330. I'll stay by the beds until dawn, then fetch them.","actions":[],"reasoning":"Died at nigh
 - 13:51 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"chicken","count":1}],"say":"Dawn. I have a chicken from the dead bed area. Troi, it's yours if you're in sight.","reasoning":"I hold a chicken and my
 - 13:51 act: {"say":"Troi, I'm at the bed at -272,336 with a chicken for you. Come into sight and I'll give it.","actions":[],"reasoning":"Troi is out of sight. I hold the chicken for her and will give it when she
+- 13:55 act: {"actions":[{"do":"give","to":"Trini","item":"chicken","count":1}],"say":"LaForge here, hunger 20. I have one chicken. Trini, health 7, you are weakest in sight; I'm handing it to you if you are close
+- 13:55 act: {"actions":[],"say":"Trini and Troi are not in sight, so I'm holding the chicken. Call out and I'll hand it over as soon as you are close.","reasoning":"Give failed because Trini is out of sight. Keep
+- 13:56 act: {"actions":[],"say":"Trini and Troi, I hold one chicken. Tell me who is lowest now after the beef, and I'll walk to you and hand it over.","reasoning":"Trini just ate beef, so the chicken may go to so
+- 13:58 act: {"actions":[{"do":"goto","target":{"x":-272,"y":67,"z":322}}],"say":"Going north to the group at the beds, to find Troi and hand the chicken over.","reasoning":"Trini says Troi is lower and waits by t
+- 13:58 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"chicken","count":1}],"say":"Troi, the chicken is yours. You were lowest after Trini ate.","reasoning":"Troi is in sight and was named lowest. Give th
