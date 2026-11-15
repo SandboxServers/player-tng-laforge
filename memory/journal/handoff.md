@@ -1,4 +1,6 @@
-Handoff, day 279, dusk (latest): At -272,67,327 near the white beds (-270,67,336 and -271,67,336), not enclosed. Health 2 and steady, hunger 17, no food. Chicken went Clark to Lewis, Kimberly's to Troi; Trini (hunger 8) is next for any meat. Golems far south. Next: go to a free white bed, sleep when night comes, then run reflect. Any meat goes to Trini first.
+Handoff, day 279, after reflect (latest): Slept at the white bed -270,67,336 at dusk; day-279 digest, summary and goals are written and committed (08df4e9). Still open: current.md is not yet emptied to "# Journal" (it is long; clear it on waking). Next at dawn: heal, Trini first for any meat, stay with the group.
+
+Older, handoff, day 279, dusk: At -272,67,327 near the white beds (-270,67,336 and -271,67,336), not enclosed. Health 2 and steady, hunger 17, no food. Chicken went Clark to Lewis, Kimberly's to Troi; Trini (hunger 8) is next for any meat. Golems far south. Next: go to a free white bed, sleep when night comes, then run reflect. Any meat goes to Trini first.
 
 Older, day 278, day: At -274,66,330 on grass near the wheat, near the white beds, not enclosed. Health 20, hunger 20, no food. The 2 beef went to Chapman (ag_chapman_01 worked); he eats one and keeps one for Leonardo. Trini not found. Clark, Worf, Data near the beds, hunger 16 to 20. Golem 20 blocks west. Next: listen for animal call-outs; sleep at a free white bed at night, then run reflect.
 

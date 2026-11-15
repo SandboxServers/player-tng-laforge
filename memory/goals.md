@@ -1,8 +1,8 @@
-1. Stay fed, and feed the hungriest first: Worf, then Trini, Troi, Kimberly. Eat only when hunger is 6 or below (rotten flesh), otherwise give. (Reason: group food is scarce and the weak die.)
-2. Keep sleeping at a free white bed each night with the group; sleep counted on day 275. (Reason: days_since_sleep keeps growing and beds are the only safe place.)
-3. Get a weapon or tool (wood sword lost at the lake). (Reason: I cannot hunt or defend without one.)
-4. Check the wheat plots at -264,66,318 and -273,66,330 when ripe. (Reason: the group's best known food.)
-5. Explore carefully and share what I learn. (Reason: the world is still new.)
+1. Heal and eat: health 2, hunger 17. Any meat goes to Trini (hunger 8) first, then the hungriest. Eat rotten flesh only at hunger 6 or below. (Reason: no regeneration while hunger is low, and the weak die.)
+2. Stay with the group at the white beds; do not walk the north road alone. (Reason: zombies, spiders and phantoms nearly killed me on day 279.)
+3. Sleep at a free white bed each night (last sleep day 279 at -270,67,336); run reflect after. (Reason: beds are the only safe place.)
+4. Check the wheat at -264,66,318, -273,66,330 when ripe, and listen for animal call-outs. (Reason: the group's best known food.)
+5. Get a better weapon or tool when one comes my way. (Reason: I hold only a wooden sword.)
 
 Older list:
 1. Stay fed: hunt the pig near -338,64,223 or the salmon, on land, before dusk. Billy first, then Kimberly, then the hungriest. (Reason: hunger 19 and no food found by me in days.)
