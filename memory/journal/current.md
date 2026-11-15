@@ -329,3 +329,7 @@
 - 05:55 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}},{"do":"sleep"}],"say":"Going to the yellow bed to sleep. Jason first for any food when I wake."}
 - 05:59 act: {"actions":[{"do":"goto","target":{"x":-281,"y":69,"z":292}},{"do":"sleep"}],"say":"Trying to sleep at the yellow bed now. No food on me; meat goes to Jason first."}
 - 06:03 act: {"actions":[{"do":"sleep"}]}
+- 06:11 say: {"text":"LaForge, dawn day 266. No food, hunger 17, health 5.4. The wait tool dropped twice; I'm still by the group at the white beds. Meat to Jason first."}
+- 06:13 say: {"text":"Worf, LaForge at the beds, health 5.4, the weakest here. If your rotten flesh is still spare, I'll come to you now. Chapman, you may have it first if you're closer to starving."}
+- 06:13 act: {"intent":{"goal":"reach_worf_for_flesh","program":"travel","arguments":{"target":{"x":-277,"y":65,"z":315}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damage"]
+- 06:13 say: {"text":"Worf, I'm in reach now. Billy asks that the flesh come to me first. Please give me the rotten flesh if you can. Thank you."}
