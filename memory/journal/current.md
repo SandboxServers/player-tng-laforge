@@ -398,3 +398,4 @@
 - 09:03 act: {"actions":[{"do":"use","at":{"x":-271,"y":67,"z":318}}],"say":"Night 274. No food on me. Trying the bed at -271,67,318 once more.","reasoning":"Full night. One more try at the bed; if refused I'll wa
 - 09:12 act: {"actions":[{"do":"goto","target":{"x":-266,"y":67,"z":321}}],"intent":{"goal":"join_group_food_search","program":"travel","arguments":{"target":{"x":-266,"y":67,"z":321}},"wake_on":["directly_address
 - 09:21 act: {"actions":[{"do":"sleep"}],"say":"Goodnight. I have no food, so at first light the food goes to Worf first, then Trini, Troi and Kimberly.","reasoning":"Night, at the white beds with the group, empty
+- 09:22 act: {"actions":[{"do":"sleep"}],"say":"Night. I am at the white bed here with Troi and Clark nearby. I will sleep.","reasoning":"It is night, I stand at a white bed in dim light with two people near, and 
