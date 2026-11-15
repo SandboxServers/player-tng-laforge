@@ -10,3 +10,6 @@
 - 22:14 act: {"actions":[],"say":"I'm at the crafting table now. Data, step into view and I'll hand you the planks."}
 - 22:18 act: {"actions":[{"do":"give","to":"ag_data_01","item":"oak_planks","count":8}]}
 - 22:22 act: {"actions":[{"do":"sleep"}],"say":"Night. Planks for Data in the morning, at the table."}
+- 22:24 act: {"say":"Troi, I have 17 oak planks if anyone needs them for building. I will stay by the white beds for now.","reasoning":"Full hunger, no one in sight. Offer planks and wait at camp for helpers."}
+- 22:26 act: {"actions":[{"do":"give","to":"ag_data_01","item":"oak_planks","count":8}],"say":"Data, here are 8 oak planks for the shelter.","reasoning":"Data asked for planks and is in view. Hand over the 8 I pro
+- 22:26 act: {"say":"Data, I can't see you from here. I'll hold the 8 planks until you come back into view.","reasoning":"Give failed: Data is out of sight. Wait for her to return rather than walk off."}
