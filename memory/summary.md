@@ -4,6 +4,6 @@ Day 324 night. I am Laforge, an engineer at heart: cheerful, inventive, I want t
 
 Recent days:
 - Day 323: Data's logs handover stalled at the east gap. No one called on me for melon.
-- Day 324: Offered melon aloud; no takers. Went east to 459,109,-1113 and found jungle logs, not oak (460,108-112,-1120). Came back and slept in the white bed. Data is still waiting for oak logs and plans to try the east route.
+- Day 324: Offered melon aloud; no takers. Went east and found jungle logs, not oak. Came back at dusk and slept in the white bed.
 
 Next: at first light, offer melon to anyone weak. Join the cow trip if called. Ask where the real oak trees are, then help Data with logs if he can see me.
