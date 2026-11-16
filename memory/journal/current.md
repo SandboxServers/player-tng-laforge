@@ -4,3 +4,11 @@
 - 21:37 act: {"say":"MacDonald, I'm here. Name the exact grass cell you want tilled and I'll till it with my hoe, then we plant together.","actions":[]}
 - 21:43 act: {"say":"Understood, MacDonald. I'll keep the seeds until we pick a cell by the water together. Tell me the exact one when you have it.","actions":[]}
 - 21:47 act: {"say":"Dusk is coming. I'm heading to my bed for the night. Cell by the water tomorrow, MacDonald.","actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1092}}],"intent":{"goal":"reach_bed_for_nigh
+- 21:48 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1092}},{"do":"use","at":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night is here. I'm going to bed by the white bed, then the farm with
+- Night, day 384. Went to bed at white bed 429,107,-1092 (goto, use, sleep queued). Wheat farm by water still unplanted; MacDonald to pick cell at first light.
+- 21:48 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1092}},{"do":"sleep"}]}
+- 21:51 act: {"actions":[{"do":"goto","target":{"x":454,"y":107,"z":-1083}}],"say":"Morning, MacDonald. I'm on my way to you to pick the farm cell by the water."}
+- 21:51 act: {"actions":[],"say":"MacDonald, I'm here with my hoe and 5 seeds. Which exact grass cell by the water should we till? Name the x, y, z and I'll do it."}
+- 21:58 act: {"actions":[{"do":"goto","target":{"x":462,"y":107,"z":-1086}}],"say":"Coming to the shore, MacDonald."}
+- 21:58 act: {"actions":[],"say":"I'm here at the shore, MacDonald. You name the cell by the water, exact x y z, and I'll till that one only and plant it with you."}
+- 22:00 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Agreed, MacDonald. First light at the shore, we pick the cell together."}
