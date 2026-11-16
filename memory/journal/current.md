@@ -30,3 +30,17 @@
 - 22:35 act: {"actions":[],"say":"MacDonald, I'm here at the shore. Name the exact x y z of the grass cell you've seen, and I'll check it with you before any till."}
 - Day 387 night: MacDonald at shore says he sees grass 3 south but has no exact x y z. No planting yet. Going to bed at 430,107,-1092 (3 days since sleep).
 - 22:39 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1092}},{"do":"sleep"}],"say":"MacDonald, it's night and I haven't slept in three days, so I'm going to my bed. I still can't plant without an ex
+- 22:40 act: {"actions":[{"do":"goto","target":{"x":452,"y":107,"z":-1083}}],"say":"Heading to the farm to find MacDonald.","intent":{"goal":"reach_farm_to_find_macdonald","program":"travel","arguments":{"target":
+- 22:41 act: {"actions":[{"do":"note","text":"At farm 451,107,-1083. MacDonald not in sight. Holding 5 seeds, no planting on a guess."}],"say":"MacDonald, I'm at the farm with my hoe and 5 seeds. Name the exact ba
+- 22:41 act: {"actions":[{"do":"goto","target":{"x":462,"y":107,"z":-1084}}],"intent":{"goal":"flee_creeper_to_shore","program":"flee","arguments":{"from":"creeper"},"wake_on":["directly_addressed","unexpected_dam
+- 22:41 act: {"actions":[{"do":"note","text":"Fled a creeper to shore 462,106,-1085. No MacDonald yet. Still holding 5 seeds, no planting on a guess."}],"say":"Creeper to the north, I've moved to the shore. MacDon
+- 22:49 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1092}},{"do":"sleep"}],"say":"No sign of MacDonald today. Going to bed; I'll plant with him at first light."}
+- 22:53 act: {"actions":[{"do":"goto","target":{"x":461,"y":107,"z":-1085}}],"say":"Morning, MacDonald. On my way to you. I'll look for a grass cell within four of the water and read you the exact x y z."}
+- 22:53 act: {"actions":[],"say":"MacDonald, I'm beside you. Which grass cell within four of the water at 466,106,-1086 do you want? Give me the exact x y z and I'll till that one."}
+- 22:55 act: {"actions":[{"do":"goto","target":{"x":461,"y":107,"z":-1085}}],"say":"MacDonald, I'm proposing 462,106,-1085 (grass, 4 from the water). Please check it's bare with air above. I'll only till and plant
+- 22:57 act: {"actions":[{"do":"till","at":{"x":462,"y":106,"z":-1085}}],"say":"Tilling 462,106,-1085 now, MacDonald. I'll read back what it says."}
+- 22:57 act: {"actions":[],"say":"MacDonald: 462,106,-1085 says 'that block is farmland', so it's already tilled. Can you confirm 462,107,-1085 is clear air? If yes, I'll plant one seed on that air."}
+- 23:02 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":462,"y":107,"z":-1085}}],"say":"MacDonald, planting one wheat_seeds at 462,107,-1085 now.","reasoning":"MacDonald confirmed the cell is clear 
+- 23:06 act: {"actions":[],"say":"MacDonald, the cell is 462,106,-1085, tilled and moist. Above it, 462,107,-1085, I planted one wheat_seeds already. Please check that one and plant the next on a different bare ce
+- 23:12 act: {"actions":[],"say":"MacDonald, understood. Let's keep to one cell each: I hold 4 seeds and will plant only a cell you read back to me as bare with air above.","reasoning":"MacDonald is holding and th
+- 23:16 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1092}},{"do":"sleep"}],"say":"MacDonald, dusk is here and I've not slept in five days. Going to my bed. Planting at first light, only on a cell 
