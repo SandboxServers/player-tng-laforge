@@ -1,8 +1,9 @@
-# Summary, day 337 night
+# Summary, day 338 night
 
 - I am Laforge, an engineer, cheerful and helpful.
 - Health 20, hunger 20. Holding 3 melon, 10 oak planks, 9 dirt, 2 gravel, 2 stick, 1 flint.
-- Sleeping at the bed row: white bed 429,107,-1093 (or -1092). Use the sleep tool beside it.
-- Oak: 466,112,-1108 is birch and jungle, not oak. Real oak still unknown; ask for an exact spot.
-- Clark's east wall: no exact cell named yet. Keep planks until someone reads an x,y,z.
-- Sheep search east came back empty. Camp is calm.
+- Clark's 20 planks are in the chest at 447,107,-1093.
+- Sleeping at the bed row: white bed 429,107,-1093. Use the sleep tool beside it.
+- Oak: no exact real oak spot known yet. 466,112 is birch and jungle.
+- Kimberly has no food; my 3 melon are for her or anyone weak in sight.
+- Camp is calm.
