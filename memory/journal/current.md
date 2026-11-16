@@ -7,3 +7,20 @@
 - 02:21 act: {"actions":[],"say":"Clark, thank you for the 20 planks. I am at my bed wall at 444,107,-1090 and still have one gap on the left. I hold 10 planks and 3 melon for anyone weak."}
 - 02:31 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1092}},{"do":"sleep"}]}
 - 02:32 act: {"actions":[{"do":"sleep"}]}
+- 02:32 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}}],"say":"Night all. Health full, I hold 3 melon for anyone weak. Going to bed now."}
+- 02:32 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1092}}]}
+- 02:32 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1092}},{"do":"sleep"}]}
+- 02:32 act: {"actions":[],"say":"Morning, Data. I hold 10 planks and 3 melon. Anyone weak, step into my sight. Are you still short of oak logs?"}
+- 02:35 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1077}}],"say":"Coming to Clark's wall with 3 melon and 10 planks. Lewis, Troi has melon too; I will hold mine for whoever is still weak."}
+- 02:35 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"melon_slice","count":2}],"say":"Lewis, I am giving you 2 melon for the hunger. Clark, I have 10 planks ready for the sides, tell me where."}
+- 02:38 act: {"actions":[],"say":"Clark, I take the south side with my 10 planks. Tell me the first cell and I will lay them two high."}
+- 02:44 act: {"actions":[],"say":"Clark, I am still waiting on the south side. Name the first free south cell and I will place it, two high, counting aloud."}
+- 02:47 act: {"actions":[],"say":"Troi, hold on to the west beds. I have no sword, but I hold 3 melon; Worf is nearer, so Worf, keep close to Troi."}
+- 02:49 act: {"actions":[],"say":"Clark, I am here at the north-west corner with 10 planks and 3 melon. Name the first south cell and I will count each plank aloud."}
+- 02:52 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":429,"y":107,"z":-1076}},{"do":"place","block":"oak_planks","at":{"x":429,"y":108,"z":-1076}}],"say":"Clark, placing south cell 429,107,-1076 an
+- 02:52 act: {"actions":[{"do":"note","text":"Placing at 429,107,-1076 failed: target occupied. Asking Clark for another free south cell."}],"say":"Clark, 429,107,-1076 is occupied, so my place failed. Which south
+- 02:57 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":428,"y":107,"z":-1076}},{"do":"place","block":"oak_planks","at":{"x":428,"y":108,"z":-1076}}],"say":"Clark, placing south cell 428,107,-1076 an
+- 02:57 act: {"actions":[{"do":"note","text":"Place at 428,107,-1076 failed: occupied. Not guessing. Going to my bed for the night."}],"say":"Clark, 428,107,-1076 is occupied too. I will not guess. Night is near, 
+- 03:17 act: {"actions":[{"do":"note","text":"Joining Jason's cow group in daylight. Holding 10 planks and 3 melon."}],"say":"Jason, Laforge here. I will join your cow group at 415,-1061 and walk to the cows with 
+- 03:17 act: {"actions":[{"do":"note","text":"Reached 417,-1062 with Clark and Zack. Walking with the cow group."}],"say":"Zack, I am with you. Laforge here, 3 melon for the weakest. Lead on to the cows when you g
+- 03:24 act: {"intent":{"goal":"reach_my_bed_for_night","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-1092}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_address
