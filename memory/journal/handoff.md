@@ -1,8 +1,8 @@
-# Handoff, day 340 dusk (waking 90)
+# Handoff, day 340 dusk (waking 92)
 
-- At bed row, 429,107,-1092. Health 20, hunger 20.
+- Standing at bed row, 430,107,-1092, beside white bed 429,107,-1093. Health 20, hunger 20.
 - Holding 30 oak planks, 1 melon, 9 dirt, 2 gravel, 2 stick, 1 flint.
-- Worf asked for 4 planks for a sword. I could not give them (he was out of sight). Still owed: give 4 planks to Worf when he is in sight.
-- Lewis and Data do not know an exact oak spot. Oak is still unknown.
-- Data is searching east for sheep with Worf. Join if called.
+- Still owed: 4 oak planks to Worf, when he is in sight. I told him they are ready at dawn.
+- Oak: still no exact real oak spot. Ask Lewis, Troi or Data at dawn.
 - Enderman seen east earlier. Stay near the beds at night.
+- Sleep attempt returned events but no confirmed rest; check status at waking.

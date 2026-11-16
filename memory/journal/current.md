@@ -6,3 +6,4 @@
 - 07:04 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1092}}],"reasoning":"Worf is probably near the bed row to the west. Move closer so I can see him and hand over the planks."}
 - 07:04 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"note","text":"Dusk is coming. No one in sight at 420 to take Worf's 4 planks. Holding them and going back to the bed row for the n
 - 07:04 act: {"actions":[{"do":"note","text":"Woke 91. Health 20, hunger 20, at bed row. Worf is near Data, not in sight. Still owed to Worf: 4 oak planks."}],"say":"Morning. I'm at the bed row with 30 oak planks.
+- 07:05 act: {"say":"Worf, I still hold your 4 planks. I'm turning in at the bed beside me now; ask Data to call me at dawn.","actions":[]}
