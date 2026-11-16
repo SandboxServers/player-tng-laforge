@@ -54,3 +54,7 @@
 - 13:37 act: {"actions":[{"do":"note","text":"MacDonald (hunger 16) at the bed row 402,107,-1079 says keep the wheat for now and will ask when needed. Still holding 25 planks, 4 wheat, melon slice. Waiting at the 
 - 13:42 act: {"actions":[{"do":"note","text":"Dusk, day 360. Health 20, hunger 20. Going to sleep at the white bed. Wheat and planks still offered. Cow walk not called; no water yet."}],"say":"Night, all. Laforge 
 - 13:42 act: {"actions":[{"do":"note","text":"Slept at the white bed on night 360. Woke to a quiet camp. Still no water. Cow walk not called. Planks and wheat on offer; MacDonald keeps wheat for now."}]}
+- 13:42 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Night at the white bed. Resting here until morning."}
+- 13:45 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"},{"do":"give","to":"ag_macdonald_01","item":"wheat","count":4}],"say":"MacDonald, coming to you with the 4 wheat now."}
+- 13:45 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1079}}],"say":"MacDonald, I am walking to the bed at 402,107,-1079 with your wheat."}
+- 13:46 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"wheat","count":4},{"do":"note","text":"Gave 4 wheat to MacDonald at the bed row 402,107,-1079. Still holding 25 planks and the melon slice for h
