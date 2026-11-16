@@ -44,3 +44,6 @@
 - 23:06 act: {"actions":[],"say":"MacDonald, the cell is 462,106,-1085, tilled and moist. Above it, 462,107,-1085, I planted one wheat_seeds already. Please check that one and plant the next on a different bare ce
 - 23:12 act: {"actions":[],"say":"MacDonald, understood. Let's keep to one cell each: I hold 4 seeds and will plant only a cell you read back to me as bare with air above.","reasoning":"MacDonald is holding and th
 - 23:16 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1092}},{"do":"sleep"}],"say":"MacDonald, dusk is here and I've not slept in five days. Going to my bed. Planting at first light, only on a cell 
+- 23:22 act: {"intent":{"goal":"reach_farm_with_macdonald","program":"travel","arguments":{"target":{"x":455,"y":107,"z":-1083}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comp
+- 23:22 act: {"say":"MacDonald, I'm here with 4 wheat seeds and my hoe. Which bare cell by the water should we plant? Tell me the spot and I'll only till that one."}
+- 23:28 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1092}},{"do":"sleep"}],"say":"MacDonald, dusk and I'm going to bed. Still holding 4 seeds; I'll plant only a cell you read back as bare, at firs
