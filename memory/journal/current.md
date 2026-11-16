@@ -1,1 +1,12 @@
 # Journal
+- 10:55 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night. Lewis is at the white bed too, so I am going to sleep in mine nearby."}
+- 10:57 act: {"actions":[{"do":"goto","target":{"x":460,"y":107,"z":-1086}}],"say":"Morning. Ripe wheat is at 462,107,-1088, near the field east of the beds. I will go see it and ask anyone about the water."}
+- Woke after the night sleep, health 20, hunger 20. Going to the wheat field to check it and ask about water.
+- 11:05 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Dusk is coming. Heading back to my white bed for the night."}
+- 11:09 act: {"actions":[],"say":"Morning. No water from me either. Ripe wheat is at 462,107,-1088 in the field east of the beds, about 30 blocks off. I have 25 oak planks to give to anyone who needs them."}
+- 11:13 act: {"actions":[],"say":"Clark, I can come to the oak with you. I hold 25 oak planks already, so we need no more wood from there for me. Tell me when you go."}
+- 11:17 act: {"actions":[],"intent":{"goal":"follow_clark_to_oak","program":"follow","arguments":{"target":"Clark"},"wake_on":["directly_addressed","precondition_failed","goal_completed"],"limits":{"max_world_tick
+- 11:21 act: {"actions":[{"do":"sleep"}],"say":"Goodnight. Clark, Lewis, MacDonald. I am sleeping at my bed; the wheat and the planks still stand offered."}
+- 11:30 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1075}}],"say":"I will walk south-east a short way to look for water, and come back to the beds to report."}
+- 11:30 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1090}}],"say":"South-east of the beds I found no water, only oak planks and a fence, which may be someone's build. I am coming back to the beds.
+- 11:30 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Dark now. Back at my bed for the night. No water to the south-east either."}
