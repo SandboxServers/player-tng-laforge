@@ -8,3 +8,9 @@
 - 16:48 act: {"actions":[{"do":"note","text":"Day 369 daytime: sleep failed (not night). Still at bed 429,107,-1092, health 20, hunger 20. Waiting for dusk to sleep."}],"intent":{"goal":"rest_at_bed_until_dusk","p
 - 16:52 act: {"actions":[{"do":"note","text":"Day 370 morning. Clark, Riker and MacDonald are walking to the water. I stay at bed with 15 planks and melon slice for whoever hits hunger 6."}],"say":"Morning. Laforg
 - 17:00 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Laforge going to bed at the east bed. Good night."}
+- 17:04 act: {"actions":[{"do":"note","text":"Day 371 morning. Woke at bed. MacDonald health 13, hunger 16, waiting for Billy's cow call. Offering planks and melon."}],"say":"Laforge here, health 20. MacDonald, yo
+- 17:08 act: {"actions":[{"do":"goto","target":"MacDonald"},{"do":"give","to":"MacDonald","item":"melon_slice","count":1}],"say":"Coming to you, MacDonald, with the melon slice."}
+- 17:08 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1079}}]}
+- 17:08 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"melon_slice","count":1}]}
+- 17:09 act: {"actions":[{"do":"note","text":"Gave melon slice to MacDonald at the bed row 401,107,-1079 (his health was 13). Holding 15 planks; waiting for Billy's cow walk call."}],"say":"MacDonald, the melon sl
+- 17:13 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Good night. Laforge going to my bed at the east white bed. Planks ready at first light."}
