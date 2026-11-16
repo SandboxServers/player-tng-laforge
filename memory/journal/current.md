@@ -34,3 +34,8 @@
 - 12:44 act: {"actions":[{"do":"note","text":"Morning, day 357. Riker is full; he says keep wheat for the lowest, Kimberly or Trini. Clark hunger 15, Lewis 17. Holding at the beds for the cow walk call."}]}
 - 12:48 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Dusk. Laforge going to my white bed. Wheat and planks still offered at first light."}
 - 12:51 act: {"actions":[{"do":"sleep"}],"say":"Night. Laforge asleep at the white bed. Planks and wheat still offered at first light."}
+- 12:55 act: {"actions":[{"do":"goto","target":{"x":475,"y":107,"z":-1095}}],"say":"Morning, day 358. Laforge going east past the wheat field to look for water, then back to the beds. Clark and MacDonald, the plan
+- 12:55 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1090}}],"say":"East of the wheat, at 474,107,-1095: grass, jungle logs, no water. Heading back to the beds to report."}
+- 12:56 act: {"actions":[{"do":"note","text":"Day 358 at the beds, health 20, hunger 20. No one in sight. Trying a far north-east direction for water."},{"do":"goto","target":{"x":470,"y":107,"z":-1130}}],"say":"L
+- 12:56 act: {"actions":[{"do":"note","text":"Reached 469,108,-1130 north-east. Grass and birch and jungle logs, a drop 8 blocks north-east. No water seen yet. Returning to the beds to report."},{"do":"goto","targ
+- 12:56 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night. Laforge going to my white bed. Still no water found; I will search again at first light."}
