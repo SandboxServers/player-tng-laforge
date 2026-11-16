@@ -11,3 +11,4 @@
 - 10:23 act: {"actions":[],"say":"I'm at the wheat field now. Eight ripe wheat stalks around 462-463,107,-1084 to -1089. Good for food. Still no water seen; I'll look further."}
 - Waking 106: worker helper refused at spawn again (zero game tools). No status, no wait, no move. Wrote handoff.md. Melon still held.
 - Waking 107: still no world tools in my session (no status, wait or act; worker has zero game tools). Nothing moved, nothing given. Melon held for hunger 6. Will retry the tools next waking.
+- Waking 108: status tool missing, worker spawn refused again (zero tools). Nothing moved, nothing given. Melon held. Handoff rewritten.
