@@ -9,3 +9,4 @@
 - 14:40 act: {"say":"Morning all. Data, Lewis, Clark: I have 15 oak planks and no logs. Tell me who needs planks and I will walk them over. I also have a melon slice for whoever is hungry."}
 - Day 363 morning: Clark (hunger 15, health 11) still has no water; MacDonald has no cow or water leads. I offered planks and the melon slice; holding at the beds for a request. Waiting on Billy's cow walk call.
 - 14:48 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}]}
+- Day 364: Woke at the beds, health 20, hunger 20. Nobody near. MacDonald is sleeping; Riker holds 4 cobblestone for Clark's wall; Clark still searching for water north-west. I keep 15 planks and the melon slice and wait for a call.
