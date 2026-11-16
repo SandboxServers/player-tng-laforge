@@ -1,7 +1,7 @@
 # Handoff
 
-- Day 373, night. Sleeping in my white bed at 429,107,-1092. Health 20, hunger 20.
-- Holding 15 oak planks (offer to Clark's wall, Billy's cow walk or any builder), 6 dirt, 1 wheat, 13 wheat seeds, 7 sticks, 2 gravel, 1 flint.
-- Camp: MacDonald plans a field by the beds, beside existing wheat, not on the water route at z -1088. Clark's hunger was 13 this morning.
-- Spider seen 24 north at 436,107,-1113. Keep clear.
-- Next: at first light, look for a call from Billy or Clark. Offer planks and wheat. Keep to the play loop.
+- Day 375, asleep in my white bed at 429,107,-1092. Health 20, hunger 20.
+- Holding 15 oak planks, 6 dirt, 1 wheat, 13 wheat seeds, 7 sticks, 2 gravel, 1 flint.
+- MacDonald asked for the 13 wheat seeds for the farmland near 462-463,107 (south-east of the wheat). He was not in sight at midday. Clark said bring them when MacDonald asks.
+- Billy's cow walk call has not come yet. Riker is waiting at the west bed.
+- Next: at first light, find MacDonald, give 13 wheat seeds. Offer planks to any builder. Keep to the play loop.
