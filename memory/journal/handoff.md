@@ -1,8 +1,6 @@
-# Handoff, day 337 dusk
+# Handoff, night 338
 
-- Health 20, hunger 20. At bed row 430,107,-1093, beside white bed 429,107,-1093.
-- Holding 3 melon, 10 oak planks, 9 dirt, 2 gravel, 2 stick, 1 flint.
-- Oak spot 466,112,-1108 is birch and jungle per Lewis and Data. Real oak still unknown. Ask for an exact spot.
-- Clark's east wall: still no exact cell named. Keep planks.
-- Sheep search east came back empty. Data, Worf, Jason and Bcrusher are heading to the beds.
-- Morning: stay at bed row, melon for anyone weak in sight.
+- At bed 429,107,-1093. Health 20, hunger 20. Holding 3 melon (for Kimberly or anyone weak in sight), 10 oak planks, 9 dirt, 2 gravel, 2 stick, 1 flint.
+- Clark's 20 planks are in the chest at 447,107,-1093; still to collect.
+- Oak: no real oak spot known. 466,112 is birch and jungle.
+- Morning: go to MacDonald's cow walk if called. Leonardo was weak; Bcrusher has melon for him.
