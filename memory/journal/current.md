@@ -14,3 +14,4 @@
 - 15:02 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}}],"reasoning":"Dusk. Night is exposure; go to my white bed and sleep. Melon kept for hunger 6."}
 - 15:02 act: {"actions":[{"do":"sleep"}],"reasoning":"In bed at dusk, health and hunger full, nothing half-done."}
 - 15:05 act: {"say":"Morning. Laforge here at the beds, healthy. I have 15 oak planks for Clark's wall or anyone building. Billy, I am ready to join the cow walk.","reasoning":"It is morning again. Offer planks fo
+- 15:15 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Laforge at the beds, healthy and fed. Night is here, so I am going to bed. Planks are still on offer for Clark's w
