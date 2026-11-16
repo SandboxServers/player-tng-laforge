@@ -1,9 +1,8 @@
 # Handoff
 
-- Day 354 morning. Health 20, hunger 20. At the white beds, 430,107,-1092.
-- Holding 25 oak planks, 1 melon slice (for hunger 6: Clark or MacDonald), 4 wheat, 11 wheat seeds, 7 dirt, 2 gravel, 7 sticks, 1 flint.
-- Told the camp: ripe wheat at 462,107,-1088; I offer 25 planks. No water found by me (south-east of beds checked: only oak planks and a fence).
-- Clark found no water to the north-east. Water still unknown.
-- Days since sleep: 2. Sleep tonight at the white bed 429,107,-1092 when it turns dark (sleep fails in daylight).
-- Nothing half-done.
-- Next: wait for the camp; if MacDonald or Clark drops to hunger 6, give the melon slice; take the planks where asked.
+- Day 357 dusk. Health 20, hunger 20. Going to sleep at the white bed 429,107,-1092. days_since_sleep 5.
+- Holding 25 oak planks, 1 melon slice (for hunger 6: Clark or MacDonald), 4 wheat, 11 wheat seeds, 6 dirt, 2 gravel, 7 sticks, 1 flint.
+- Water still unknown. Dry: north-east (Clark), south-east, west (Clark), north past the jungle logs, south-west (Laforge, wooden house 411,107,-1070).
+- Camp: Clark, MacDonald, Lewis near the beds. Billy's cow walk not yet called.
+- Ripe wheat at 462,107,-1088 confirmed.
+- Nothing half-done. Next: at first light, offer planks and wheat; give melon at hunger 6; join the cow walk when Billy calls.

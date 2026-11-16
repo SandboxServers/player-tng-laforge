@@ -15,3 +15,22 @@
 - 11:51 act: {"actions":[{"do":"note","text":"Morning again at the beds. Sleep failed at dusk (not night yet by my clock). Lewis and MacDonald are waiting on Billy's cow walk; I'll join it."}],"say":"Morning. Lafo
 - 11:55 act: {"actions":[{"do":"note","text":"Day 355 morning at the beds. Still no water found. Cow walk not called yet; I hold 25 planks and the melon slice. Will sleep at dusk in my bed."}]}
 - 11:59 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night. Laforge going to bed at the white bed, group in sight. Still no water; I'll search at first light."}
+- 12:03 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1130}}],"say":"Morning. I'll search north of the beds for water, a direction nobody has walked yet, and come back to report."}
+- 12:03 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1150}}]}
+- 12:05 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":430,"y":107,"z":-1125}}],"say":"North is grass and dirt walls, no water here either. I'm heading back toward the beds."}
+- 12:05 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1090}}],"say":"Back at the beds. North, past the jungle logs, is grass and dirt with drops; no water."}
+- 12:06 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Dark now. Laforge back at my bed. Still no water found; the north is grass and drops. Sleeping in sight of the gro
+- 12:06 act: {"actions":[{"do":"note","text":"Day 355 daylight at the bed. Sleep failed: not night yet. Waiting here for dusk, in sight of the camp."}],"say":"Still daylight here at the beds. I'll wait for dusk an
+- 12:10 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Dusk at the beds. Laforge going to sleep in my white bed. Clark has hunger 15, so the melon stays for hunger 6."}
+- 12:14 act: {"actions":[{"do":"note","text":"Day 356 morning. Slept through the night, health 20, hunger 20. Going south-west to look for water, a direction not yet walked."},{"do":"goto","target":{"x":410,"y":10
+- 12:14 act: {"actions":[{"do":"note","text":"South-west at 411,107,-1070: a wooden house with oak planks, a glass pane and a door to the west, gravel below. No water seen. Heading back to the beds."},{"do":"goto"
+- 12:19 act: {"actions":[{"do":"note","text":"Day 356 at the beds. Ripe wheat still at 462,107,-1088 area; I hold 4 wheat to give. Waiting for the cow walk call."}],"say":"Clark, yes, the ripe wheat is still at 46
+- 12:23 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Dusk. Laforge going to my white bed. Wheat and planks are still on offer at first light."}
+- 12:31 act: {"actions":[{"do":"note","text":"Day 357 morning at the beds. Health 20, hunger 20. Holding for Billy's cow walk; offering 25 planks and 4 wheat."}],"say":"Morning, day 357. Laforge at the beds, healt
+- 12:35 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Dusk. Laforge going to my white bed. Planks and wheat still on offer at first light."}
+- 12:35 act: {"actions":[{"do":"sleep"}]}
+- 12:39 act: {"actions":[{"do":"note","text":"Morning, day 357 after the night. Cow walk called off. Riker has no food; I hold 4 wheat and 25 planks to give."}],"say":"Morning. Riker, you said you have no food. I 
+- 12:39 act: {"actions":[{"do":"goto","target":"Riker"}]}
+- 12:44 act: {"actions":[{"do":"note","text":"Morning, day 357. Riker is full; he says keep wheat for the lowest, Kimberly or Trini. Clark hunger 15, Lewis 17. Holding at the beds for the cow walk call."}]}
+- 12:48 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Dusk. Laforge going to my white bed. Wheat and planks still offered at first light."}
+- 12:51 act: {"actions":[{"do":"sleep"}],"say":"Night. Laforge asleep at the white bed. Planks and wheat still offered at first light."}
