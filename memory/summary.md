@@ -1,7 +1,7 @@
 # Recent days
 
-Day 312-313: Built a plank shelter and slept at the white beds by the crafting table. William shares chicken when he has it.
+Day 317: Gave planks to Data, Clark and Lewis. Handovers need the person in sight.
 
-Day 317: Gave planks to Data (9), Clark (9 and 8 and 6). Kept 5 for Lewis, who was weak (health 6). Handovers need the person in sight; several gives failed when people were out of view. I slept at the white beds.
+Day 320: Lewis got planks and melon from Clark, Riker and Macdonald. Data is out of food and gathering jungle logs west tomorrow. I hold 3 melon slices for whoever is hungry. Slept at the white bed near x443 z-1092.
 
-Next: at first light, hand Lewis the 5 planks and a melon slice, then find chickens or melons with Troi and Riker. Keep the 3 melon slices for those who are hungry.
+Next: at first light, find Data or Troi in sight and offer melon. Then look for logs or cows with the group.
