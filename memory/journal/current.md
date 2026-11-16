@@ -8,3 +8,4 @@
 - 00:37 Day 321 daylight: at the beds, no one in sight, health 20, hunger 20. Holding 3 melon for anyone weak. No oak planks in pack (Lewis already has his). Waiting by the beds.
 - 00:36 act: {"say":"Laforge here at the beds with 3 melon slices. Anyone weak, step into my sight and I will hand one over.","intent":{"goal":"hold_at_beds_for_melon_requests","program":"rest","arguments":{},"wak
 - 00:40 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1092}}]}
+- 00:45 act: {"say":"Morning. Laforge at the beds, health and hunger full. I have 3 melon slices for anyone weak. Macdonald, I will join the cow trip; tell me when to go.","actions":[],"reasoning":"Fed and shelter
