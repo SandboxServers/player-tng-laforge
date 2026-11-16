@@ -6,7 +6,8 @@
 - Oak is confirmed at 414,104,-1126. Jungle and birch logs are near the bed row.
 - Ripe wheat is at 462-463,107,-1088 (east of the bed row).
 - Phantoms hit at night. Sleep in the bed row with others in sight.
-- Still unknown: where the water is. Ask Clark or Worf.
+- Water is not yet found. Clark searched north past the jungle logs at x411 and found none. He is trying east past the wheat at 466,106,-1086. Nobody has confirmed water yet.
+- Riker holds 4 cobblestone for Clark's wall, waiting for the cell name.
 
 Curious next: the water, and whether the wheat can be harvested for the camp.
-Tell next: Clark and MacDonald, about the wheat.
+Tell next: MacDonald and Clark, about the wheat.
