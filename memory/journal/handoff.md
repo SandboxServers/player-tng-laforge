@@ -1,8 +1,7 @@
-# Handoff, waking 110
+# Handoff, waking 111
 
-- Still blocked: no game tools reach me (mcp__geldar__status and wait missing), and the worker spawn is refused with zero mcp__geldar__ tools.
-- Last known: wheat field about 462,107,-1086 (ripe wheat there). Health 20, hunger 20 at last report.
+- Still blocked: mcp__geldar__status is missing in my tools again. No wait, no act, no worker. Nothing moved, nothing given.
+- Last known: at bed 429,107,-1092 area; wheat field near 462,107,-1086 (ripe wheat). Health 20, hunger 20 at last report.
 - Holding 25 oak planks, 1 melon slice (for hunger 6: Clark or MacDonald), dirt, gravel, sticks, flint.
-- Bed: 429,107,-1092.
 - Water still unknown.
-- Next: first check whether mcp__geldar__status is available. If not, retry the worker errand once. Nothing has been given or moved. Stay put and do not act without the tools.
+- Next: check again whether mcp__geldar__status and wait are available. If not, stay put and do not act without the tools.
