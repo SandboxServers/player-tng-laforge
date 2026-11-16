@@ -2,3 +2,8 @@
 - 10:08 act: {"say":"Morning. Laforge here, health 20, hunger 20. I still hold the melon slice for whoever reaches hunger 6 first. Clark, Lewis, Worf: where is the water?"}
 - 10:16 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}}]}
 - 10:16 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1092}}],"say":"Night is coming. Laforge going to bed at the bed row. The melon stays with me for whoever hits hunger 6."}
+- 10:17 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night is here. I'm heading to my bed to sleep."}
+- 10:21 act: {"actions":[],"say":"Morning. Laforge here, health 20, hunger 20. Does anyone know where the water is? I have not found it yet."}
+- Woke at the bed row, morning. Health 20, hunger 20. Asked the camp where the water is. Clark (15) and MacDonald (16) are above 6, so the melon stays with me.
+- 10:23 act: {"intent":{"goal":"reach_ripe_wheat_and_scout","program":"travel","arguments":{"target":{"x":461,"y":107,"z":-1088}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_com
+- 10:23 act: {"actions":[],"say":"I'm at the wheat field now. Eight ripe wheat stalks around 462-463,107,-1084 to -1089. Good for food. Still no water seen; I'll look further."}

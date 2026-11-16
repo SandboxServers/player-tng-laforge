@@ -1,7 +1,8 @@
-# Handoff, day 349 night
+# Handoff, day 350 afternoon
 
-- In my bed at 429,107,-1092. Health 20, hunger 20. Sheltered, no errand running.
-- Holding 25 oak planks, 1 melon slice, 8 dirt, 2 gravel, 7 stick, 1 flint.
-- Melon slice is for whoever drops to hunger 6 first. MacDonald (hunger 16) and Clark (hunger 15, health 11) both asked for this. Clark said: "Laforge keeps the melon for MacDonald."
-- Give failed twice: too close, then Clark out of sight. Next: find whoever calls at 6 and hand it over from a step back.
-- Water still unchecked. Ask Clark or Worf.
+- At the ripe wheat field, 460,107,-1088. Health 20, hunger 20. Not enclosed, no errand running.
+- Holding 25 oak planks, 1 melon slice (for whoever hits hunger 6 first: Clark 15, MacDonald 16), 8 dirt, 2 gravel, 7 stick, 1 flint.
+- Bed is 429,107,-1092 (mine). Woke there this morning after sleeping.
+- Water still unknown. Lewis has not found it either. Ask Worf.
+- Told the camp about the 8 ripe wheat stalks at 462-463, 107, -1084 to -1089.
+- Next: scout further for water, and hand over the melon when someone drops to hunger 6.
