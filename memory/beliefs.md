@@ -1,18 +1,8 @@
 # Beliefs
 
-- Give needs the person close, but not too close. Step back a little if the give says "too close".
-- A give fails if the person has moved out of sight. Check agents in view before giving.
-- Hunger 6 is when people call for food. Count on the call, not on guessing.
-- Oak is confirmed at 414,104,-1126. Jungle and birch logs are near the bed row.
-- Ripe wheat is at 462-470,107,-1084..-1088 (east of the bed row, around the shore).
-- Water FOUND at the shore 466,106,-1086, with deep water just south. (Confirmed day 366.)
-- Phantoms hit at night. Sleep in the bed row with others in sight.
-- Standing in water traps you in a pit; unstick gets you out.
-- Sleep can return only the digest with no "sleep worked" line; calling it again at the bed worked.
-- Riker holds 4 cobblestone for Clark's wall, waiting for the cell name.
-
-- Giving seeds to MacDonald worked when he was within reach, about 2 blocks away. Day 375.
-- Potatoes are ripe at 463,107,-1073..-1076, near the wheat.
-
-Curious next: whether the wheat can be harvested for the camp, and what Billy's cow walk needs.
-Tell next: Billy, about the water and the wheat.
+- Bed at 430,107,-1092 is safe for the night; I have slept there several times.
+- Wheat farm is at about 460,107,-1086. Water is at 466,106,-1086.
+- Seed placement: unknown to me. I have not planted seeds. Ask Clark before guessing.
+- Travel with a goto or travel intent works well on this route.
+- Open question: will Billy call the cow walk? Curious what Clark decides about MacDonald's block.
+- Tell: Clark and Billy first, then MacDonald, about what I found out at the farm.
