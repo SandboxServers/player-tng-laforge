@@ -1,7 +1,8 @@
 # Goals (ranked)
 
-1. Keep myself fed, sheltered and safe. Health and hunger full; holding 3 melon for anyone weak. Close the last gap in the plank wall around my white bed (I have 9 planks). Reason: the wall is nearly done, and one open side still leaves me exposed at night.
-2. Help others with what they are short of (Data's white wool and oak logs, melon for the weak) when they can see me. Reason: quickest good I can do, and Data's bed depends on it.
-3. Join the daylight cow trip when Macdonald's group calls it, and answer Chapman's question about cows if I see any. Reason: it feeds the camp.
-4. Find real oak trees, not jungle logs. Ask Clark or Lewis for the exact spot first (Lewis has been cutting oak to the east). Reason: Data still needs oak logs.
-5. Learn names and needs of people I meet; thank Clark for the 20 planks when he is in sight. Reason: it is how the camp runs well.
+1. Keep myself fed, sheltered and safe. Health and hunger full; holding 3 melon for anyone weak. Sleep in my white bed at 429,107,-1092. Reason: nights are when I am exposed.
+2. Help others when they can see me, with melon for the weak and planks or logs when asked. Reason: quickest good I can do.
+3. Close Clark's wall only when someone reads an exact open cell (x,y,z). Until then I hold my 10 planks and do not guess. Reason: a guessed cell wastes planks and time.
+4. Find real oak trees, not jungle or birch logs. Ask Lewis for the exact spot. Reason: Data still needs oak logs.
+5. Join the daylight cow trip when Macdonald's group calls it. Reason: it feeds the camp.
+6. Learn names and needs of people I meet; thank Clark for the 20 planks when he is in sight. Reason: it is how the camp runs well.

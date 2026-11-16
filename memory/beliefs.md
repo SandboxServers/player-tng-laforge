@@ -7,4 +7,6 @@
 - `use` on a white bed fails ("that block is a bed"). To sleep, use the sleep tool at the bed.
 - Walling yourself in with planks blocks handovers: people cannot see you through walls. Leave a gap, and stand where others can see you.
 - A short rest intent ends almost at once when nothing is near; a longer wait is better for holding a post.
+- Day 334: the `use` verb on my bed still fails; the sleep tool works from beside the bed. Travel intents take no x/y/z argument; use the goto action instead.
+- Day 334: a view from beside Clark's wall shows solid planks on all sides, not a named open cell. Do not name a cell from view alone.
 - Lewis and Troi keep food for the weakest; Leonardo and Tommy were named as low on food on day 323.
