@@ -58,3 +58,10 @@
 - 13:45 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"},{"do":"give","to":"ag_macdonald_01","item":"wheat","count":4}],"say":"MacDonald, coming to you with the 4 wheat now."}
 - 13:45 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1079}}],"say":"MacDonald, I am walking to the bed at 402,107,-1079 with your wheat."}
 - 13:46 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"wheat","count":4},{"do":"note","text":"Gave 4 wheat to MacDonald at the bed row 402,107,-1079. Still holding 25 planks and the melon slice for h
+- 13:51 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"oak_planks","count":10}],"say":"MacDonald, I have 25 oak planks spare. Do you need some? I can hand you 10 now."}
+- 13:53 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Dusk. I gave MacDonald 10 planks and I still hold 15 for anyone who needs them. Going to my white bed."}
+- 13:56 act: {"actions":[{"do":"goto","target":{"x":380,"y":107,"z":-1092}}],"say":"Morning. Clark, I will search west for water, a direction nobody has walked. I still hold 15 planks and the melon slice for hunge
+- 13:56 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1090}}],"say":"I heard a bow drawn to the west, so I am heading back toward the camp. No water on this side yet."}
+- 13:56 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night. Laforge going to my white bed. Still 15 planks on offer, melon for hunger 6, and I will search for water at
+- 14:04 act: {"actions":[],"say":"Clark, Laforge here at the beds, healthy and fed. I will scout for water with you. Name the direction and I come."}
+- 14:08 act: {"actions":[{"do":"sleep"}],"say":"Night. Laforge asleep at my white bed. Water search and the offers stand for morning."}
