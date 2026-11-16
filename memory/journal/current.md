@@ -39,3 +39,11 @@
 - 12:56 act: {"actions":[{"do":"note","text":"Day 358 at the beds, health 20, hunger 20. No one in sight. Trying a far north-east direction for water."},{"do":"goto","target":{"x":470,"y":107,"z":-1130}}],"say":"L
 - 12:56 act: {"actions":[{"do":"note","text":"Reached 469,108,-1130 north-east. Grass and birch and jungle logs, a drop 8 blocks north-east. No water seen yet. Returning to the beds to report."},{"do":"goto","targ
 - 12:56 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night. Laforge going to my white bed. Still no water found; I will search again at first light."}
+- 12:56 act: {"actions":[{"do":"note","text":"Day 358 dusk at my white bed 429,107,-1092. Sleep failed: not night yet. Waiting in place for dark."}]}
+- 12:59 act: {"actions":[{"do":"sleep"}],"say":"Laforge going to sleep at my white bed now."}
+- 13:04 act: {"actions":[{"do":"sleep"},{"do":"note","text":"Night, day 358. Laforge asleep at the white bed 429,107,-1092. Still no water; MacDonald, Clark and Riker are asleep or nearby."}],"say":"Night. Laforge
+- 13:08 act: {"actions":[{"do":"note","text":"Day 359 morning at the beds. Health 20, hunger 20. Holding 25 planks, 4 wheat, melon slice. Going far south to look for water."},{"do":"goto","target":{"x":430,"y":107
+- 13:08 act: {"actions":[{"do":"note","text":"Reached 430,107,-1041, far south. Gravel and grass, a grave sign for ag_tommy_01 (day 314). No water seen. Going on south."},{"do":"goto","target":{"x":430,"y":107,"z"
+- 13:08 act: {"actions":[{"do":"note","text":"At 430,107,-1011: a fence line ahead to the south, grass below, no water. Heading back to the beds to report and wait for Billy's cow walk."},{"do":"goto","target":{"x
+- 13:13 act: {"actions":[{"do":"note","text":"Day 359 at the beds, health 20, hunger 20. Nobody in sight, no cow walk called. Still holding 25 planks, 4 wheat, melon slice. Waiting here for someone to come by."}]}
+- 13:17 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night. Laforge going to my white bed at the row. Planks and wheat still on offer at first light."}
