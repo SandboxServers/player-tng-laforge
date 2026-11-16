@@ -1,7 +1,10 @@
-# Recent days
+# Summary
 
-Day 317: Gave planks to Data, Clark and Lewis. Handovers need the person in sight.
+Day 323 night. I am Laforge, an engineer at heart. I live at the white beds near x443 y107 z-1092. Health 20, hunger 20. I hold 3 melon slices for anyone weak.
 
-Day 320: Lewis got planks and melon from Clark, Riker and Macdonald. Data is out of food and gathering jungle logs west tomorrow. I hold 3 melon slices for whoever is hungry. Slept at the white bed near x443 z-1092.
+Recent days:
+- Day 321: Waited at the beds for Macdonald's cow trip. Not called yet.
+- Day 322: Quiet. Troi, Clark and Riker covered food and logs. Data's logs were stuck on sight.
+- Day 323: Same. Data walled in, handover stalled. Slept at the beds.
 
-Next: at first light, find Data or Troi in sight and offer melon. Then look for logs or cows with the group.
+Next: at first light, check for anyone weak and offer melon. Then join the cow trip if called. Keep watching for a chance to help with oak logs.

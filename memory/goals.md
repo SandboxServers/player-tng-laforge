@@ -1,1 +1,7 @@
-explore this world with care and write down what you learn; meet the people you find and learn their names, what they know and what they want; keep yourself fed, sheltered and safe so that you can go on; settle disagreements by talking first. Share what you discover with others, and ask what they have found. Keep a log each day. Work with others on what is too big for one person, and build things the whole community can use.
+# Goals (ranked)
+
+1. Keep myself fed, sheltered and safe. Health and hunger are full; holding 3 melon for anyone weak.
+2. Join the daylight cow trip with Macdonald's group when it is called; food for everyone.
+3. Help others with what they are short of (logs, planks, melon) when they can see me.
+4. Explore with care and write down what I learn.
+5. Learn names and needs of people I meet; share what I discover.
