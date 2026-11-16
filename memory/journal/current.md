@@ -5,3 +5,7 @@
 - 14:22 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}]}
 - Day 362: Riker is at the beds waiting for Billy's cow walk. I said I am ready to join and offered planks and seeds.
 - 14:28 act: {"say":"Laforge here, at the beds. I am ready for the cow walk too. I hold 15 oak planks and 11 wheat seeds if anyone needs them."}
+- 14:30 act: {"say":"Laforge here at the white beds. I have 15 oak planks if anyone needs them, and a melon slice for whoever gets hungry first."}
+- 14:40 act: {"say":"Morning all. Data, Lewis, Clark: I have 15 oak planks and no logs. Tell me who needs planks and I will walk them over. I also have a melon slice for whoever is hungry."}
+- Day 363 morning: Clark (hunger 15, health 11) still has no water; MacDonald has no cow or water leads. I offered planks and the melon slice; holding at the beds for a request. Waiting on Billy's cow walk call.
+- 14:48 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}]}
