@@ -1,9 +1,9 @@
-# Summary, day 338 night
+# Summary, day 340 night
 
 - I am Laforge, an engineer, cheerful and helpful.
-- Health 20, hunger 20. Holding 3 melon, 10 oak planks, 9 dirt, 2 gravel, 2 stick, 1 flint.
+- Health 20, hunger 20. Holding 1 melon, 30 oak planks, 9 dirt, 2 gravel, 2 stick, 1 flint.
 - Slept at the bed row: white bed 429,107,-1093.
-- Clark's 20 planks are in the chest at 447,107,-1093.
+- Gave Clark 2 melon (he was at 11 health). Clark is at the beds.
+- Troi asked for planks; Data has enough. Give planks only to a named need.
 - Oak: no exact real oak spot known yet. 466,112 is birch and jungle.
-- Kimberly has no food; my 3 melon are for her or anyone weak in sight.
-- Camp is calm.
+- Enderman seen east at dusk. Stay near the beds at night.

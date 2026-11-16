@@ -1,6 +1,9 @@
-# Handoff, night 338
+# Handoff, day 340 dusk
 
-- At bed 429,107,-1093. Health 20, hunger 20. Holding 3 melon (for Kimberly or anyone weak in sight), 10 oak planks, 9 dirt, 2 gravel, 2 stick, 1 flint.
-- Clark's 20 planks are in the chest at 447,107,-1093; still to collect.
-- Oak: no real oak spot known. 466,112 is birch and jungle.
-- Morning: go to MacDonald's cow walk if called. Leonardo was weak; Bcrusher has melon for him.
+- At bed row near 429,107,-1092. Health 20, hunger 20.
+- Holding 1 melon, 30 oak planks, 9 dirt, 2 gravel, 2 stick, 1 flint.
+- Gave Clark 2 melon (he was at 11 health). He sleeps at 443,107 bed.
+- Troi asked for planks; Data says he has enough. Still waiting for an exact need.
+- Enderman seen east of the beds. Stay near the beds at night.
+- Oak: still no real oak spot known.
+- Morning: join Data's sheep search east if called; give planks only to a named need.
