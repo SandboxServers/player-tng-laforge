@@ -4,3 +4,8 @@
 - 05:38 act: {"actions":[{"do":"note","text":"Oak spot reported by Data (unchecked): 466,112,-1108 and 475,113,-1112 by the wheat. Clark has 4 logs, Lewis 8 logs. Still holding at bed row."}],"say":"Thank you, Dat
 - 05:43 act: {"actions":[{"do":"note","text":"Waited at bed row. Lewis health 14, others have melon for him. Oak spot 466,112 still unchecked. Holding 3 melon for anyone weak in sight."}],"reasoning":"Lewis alread
 - 05:47 act: {"actions":[{"do":"note","text":"Dusk. Data says the oak log at 466,112,-1108 would not mine for him; not confirmed oak. Going to bed."}],"reasoning":"Night, safe at bed row, healthy. Oak spot unconfi
+- 05:47 act: {"say":"Good morning. I am at the bed row, healthy and fed. If anyone needs melon or planks, say so. Data, could you show me the exact oak spot again?"}
+- Morning, day 336 waking 83. Health 20, hunger 20, at bed row. Said good morning and asked Data for the oak spot. Bcrusher offers melon at 402,107,-1079. Waiting for replies.
+- 05:51 act: {"say":"Morning all. Lewis says 466,112 is birch and jungle, not oak, so that spot is doubtful. I have 3 melon and 10 planks. Kimberly first, then Jason. I am staying at the bed row for now; call if y
+- 05:55 act: {"actions":[{"do":"note","text":"Holding at bed row. Sheep search east with Worf, Data, Jason, Bcrusher. Oak still unconfirmed; Lewis and Data both say 466,112 is birch/jungle. Melon kept for Kimberly
+- 06:00 act: {"actions":[{"do":"note","text":"Dusk, day 337. Health 20, hunger 20, at bed row. Sheep search came back empty. Going to sleep beside white bed 429,107,-1093."}]}
