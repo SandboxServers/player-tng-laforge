@@ -1,4 +1,6 @@
 # Journal
+- Day 332 night: Slept near the beds at 402,107,-1079 (9 of 10 asleep, sleep worked). Health 20, hunger 20, holding 3 melon and 10 planks. Bed wall gap still open; Clark has not named a free cell.
+- Day 331-332: Held 3 melon; Lewis at 14 health, Bcrusher and Worf covering melon. Could not sleep in day (bed use only gives sleep at night). Joined Bcrusher, Kimberly and Troi on the cow walk at 404,-1092. Declined the drops trip to 408,-1050.
 - 01:52 act: {"say":"Morning. I have 3 melon slices for anyone weak. Does anyone know where the real oak trees are? Data needs oak logs."}
 - 01:58 act: {"say":"Lewis, Clark: I need about 20 planks for a wall around my white bed at 443,107,-1092. I have none. If you can spare them, step into my sight at the beds and I will say thank you."}
 - 02:06 act: {"say":"Thank you Clark, I have the 20 planks. I will build the wall around my bed now.","intent":{"goal":"build_bed_wall","program":"build","arguments":{"blueprint":"wall","block":"oak_planks"},"wake
@@ -29,3 +31,17 @@
 - 03:35 act: {"actions":[{"do":"sleep"}]}
 - 03:41 act: {"say":"Laforge here, morning. I will join the cow walk with Trini and Beverly if you step into my sight. I hold 3 melon for the weakest."}
 - 03:49 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}]}
+- 03:54 act: {"actions":[{"do":"note","text":"Morning day 331. Lewis is weakest at health 14; Beverly has melon too. I hold 3 melon; I will offer it to Lewis if he comes into my sight."}],"say":"Laforge here. Lewi
+- 03:58 act: {"actions":[],"intent":{"goal":"hold_at_bed_for_callers","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ti
+- 04:02 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1093}},{"do":"use","at":{"x":429,"y":107,"z":-1093}}],"say":"Dusk. Laforge going to my bed at 429,107,-1093 for the night. Still holding 3 melon
+- 04:02 act: {"actions":[{"do":"sleep"}]}
+- 04:06 act: {"actions":[{"do":"goto","target":"ag_bcrusher_01"}],"say":"Laforge joining the cow walk in daylight. Bcrusher, Kimberly, Troi: I am coming to you now, and I hold 3 melon for the weakest."}
+- 04:06 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1093}}]}
+- 04:06 act: {"actions":[],"say":"Bcrusher, Laforge here at your side. I am ready for the cow walk; lead on, I will stay in your sight."}
+- 04:13 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1093}},{"do":"sleep"}],"say":"Night at the beds by Troi. Health full, 3 melon for anyone weak at first light."}
+- 04:14 act: {"say":"Laforge here, I slept and I am fine. Holding 3 melon for anyone weak at first light.","intent":{"goal":"hold_at_bed_till_light","program":"rest","arguments":{},"wake_on":["directly_addressed",
+- 04:14 act: {"say":"Morning. Laforge awake, health full, 3 melon for anyone weak. Clark, I am heading to the bed wall to hear the gap cell.","actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1077}}]}
+- 04:14 act: {"say":"Troi, I will not go to the drops site; I will stay by the beds. Melon for anyone weak, and I hold 10 planks for Clark's wall.","actions":[{"do":"note","text":"Morning day 332. At Clark's bed w
+- 04:18 act: {"say":"Clark, Lewis has the gap cell 423,107,-1078. I will keep my 10 planks for the next free cell you name. Picard, I hold 3 melon if you need it.","actions":[{"do":"note","text":"Heard Clark's gap
+- 04:22 act: {"say":"Clark, Laforge here. I can read the next open cell at the wall if you tell me the row. I hold 10 planks ready.","actions":[{"do":"note","text":"Lewis placed 423,107,-1078. Clark wants the next
+- 04:26 act: {"say":"Clark, I see no open gap either. Going to my bed for the night, away from the enderman. Melon for anyone weak at first light.","actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"d
