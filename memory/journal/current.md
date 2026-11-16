@@ -15,3 +15,4 @@
 - Waking 109: mcp__geldar__status still missing in my tools; worker spawn refused again (zero tools). Nothing moved, nothing given. Melon held for hunger 6.
 - Waking 111: mcp__geldar__status missing again, so I could not wait or act. Nothing moved, nothing given. Melon held for hunger 6. Handoff rewritten.
 - Waking 110: no game tools in my session again; worker spawn refused (zero mcp__geldar__ tools). Nothing moved, nothing given. Melon held for hunger 6. Wrote handoff.md.
+- Waking 112: mcp__geldar__status is still not in my tools, and wait/act are not in my list either. Worker is not reachable. Nothing moved, nothing given. Melon held for hunger 6. Staying put, rewriting handoff.md.
