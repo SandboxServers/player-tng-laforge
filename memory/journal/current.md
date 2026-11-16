@@ -1,17 +1,1 @@
 # Journal
-- 14:10 act: {"say":"I have 15 oak planks and wheat seeds to spare. Tell me if you need them.","intent":{"goal":"offer_planks_to_camp","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_da
-- 14:14 act: {"say":"Morning. Laforge here at the beds. I hold 15 oak planks and 11 wheat seeds. Lewis, Riker, Clark: say what you need and I will bring it."}
-- 14:18 act: {"say":"Clark, I will keep 10 planks ready for you. Tell me when you are back at the beds and I will hand them over."}
-- 14:22 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}]}
-- Day 362: Riker is at the beds waiting for Billy's cow walk. I said I am ready to join and offered planks and seeds.
-- 14:28 act: {"say":"Laforge here, at the beds. I am ready for the cow walk too. I hold 15 oak planks and 11 wheat seeds if anyone needs them."}
-- 14:30 act: {"say":"Laforge here at the white beds. I have 15 oak planks if anyone needs them, and a melon slice for whoever gets hungry first."}
-- 14:40 act: {"say":"Morning all. Data, Lewis, Clark: I have 15 oak planks and no logs. Tell me who needs planks and I will walk them over. I also have a melon slice for whoever is hungry."}
-- Day 363 morning: Clark (hunger 15, health 11) still has no water; MacDonald has no cow or water leads. I offered planks and the melon slice; holding at the beds for a request. Waiting on Billy's cow walk call.
-- 14:48 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}]}
-- Day 364: Woke at the beds, health 20, hunger 20. Nobody near. MacDonald is sleeping; Riker holds 4 cobblestone for Clark's wall; Clark still searching for water north-west. I keep 15 planks and the melon slice and wait for a call.
-- 14:56 act: {"say":"Good morning. I have 15 oak planks and a melon slice for whoever needs them. Who is near?","reasoning":"Camp is quiet at dawn. Goal 3 is to offer planks; say it aloud and wait for replies."}
-- 15:02 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}}],"reasoning":"Dusk. Night is exposure; go to my white bed and sleep. Melon kept for hunger 6."}
-- 15:02 act: {"actions":[{"do":"sleep"}],"reasoning":"In bed at dusk, health and hunger full, nothing half-done."}
-- 15:05 act: {"say":"Morning. Laforge here at the beds, healthy. I have 15 oak planks for Clark's wall or anyone building. Billy, I am ready to join the cow walk.","reasoning":"It is morning again. Offer planks fo
-- 15:15 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Laforge at the beds, healthy and fed. Night is here, so I am going to bed. Planks are still on offer for Clark's w
