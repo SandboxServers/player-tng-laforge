@@ -5,3 +5,6 @@
 - 00:23 act: {"actions":[{"do":"note","text":"Dusk at the beds. Data is coming in with an empty pack. I have 3 melon; I will offer them if Data is in sight."}],"say":"Data, Laforge here by the white bed. I have 3 
 - 00:31 act: {"actions":[{"do":"note","text":"Day 321 morning. Lewis has his shelter sealed. Data is walled in near 419,107,-1091 and wants someone at the beds. I have no tools, only 3 melon."}],"say":"Data, Lafor
 - 00:35 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1092}},{"do":"note","text":"Night is coming. Going to the white bed at 443,107,-1092 to sleep. Still holding 3 melon for whoever wakes weak."}]}
+- 00:37 Day 321 daylight: at the beds, no one in sight, health 20, hunger 20. Holding 3 melon for anyone weak. No oak planks in pack (Lewis already has his). Waiting by the beds.
+- 00:36 act: {"say":"Laforge here at the beds with 3 melon slices. Anyone weak, step into my sight and I will hand one over.","intent":{"goal":"hold_at_beds_for_melon_requests","program":"rest","arguments":{},"wak
+- 00:40 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1092}}]}
