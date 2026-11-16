@@ -10,3 +10,8 @@
 - 11:30 act: {"actions":[{"do":"goto","target":{"x":440,"y":107,"z":-1075}}],"say":"I will walk south-east a short way to look for water, and come back to the beds to report."}
 - 11:30 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1090}}],"say":"South-east of the beds I found no water, only oak planks and a fence, which may be someone's build. I am coming back to the beds.
 - 11:30 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Dark now. Back at my bed for the night. No water to the south-east either."}
+- 11:38 act: {"actions":[{"do":"note","text":"Morning wait: Clark heading west past the beds for water. MacDonald hunger 16. I hold the melon slice and 25 planks."}],"say":"Laforge here at the beds. I'll stay in s
+- 11:46 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night. Laforge in my bed at the row, group in sight. No water found today; I will look again at first light."}
+- 11:51 act: {"actions":[{"do":"note","text":"Morning again at the beds. Sleep failed at dusk (not night yet by my clock). Lewis and MacDonald are waiting on Billy's cow walk; I'll join it."}],"say":"Morning. Lafo
+- 11:55 act: {"actions":[{"do":"note","text":"Day 355 morning at the beds. Still no water found. Cow walk not called yet; I hold 25 planks and the melon slice. Will sleep at dusk in my bed."}]}
+- 11:59 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night. Laforge going to bed at the white bed, group in sight. Still no water; I'll search at first light."}
