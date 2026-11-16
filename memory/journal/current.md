@@ -47,3 +47,10 @@
 - 13:08 act: {"actions":[{"do":"note","text":"At 430,107,-1011: a fence line ahead to the south, grass below, no water. Heading back to the beds to report and wait for Billy's cow walk."},{"do":"goto","target":{"x
 - 13:13 act: {"actions":[{"do":"note","text":"Day 359 at the beds, health 20, hunger 20. Nobody in sight, no cow walk called. Still holding 25 planks, 4 wheat, melon slice. Waiting here for someone to come by."}]}
 - 13:17 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night. Laforge going to my white bed at the row. Planks and wheat still on offer at first light."}
+- 13:21 act: {"actions":[{"do":"note","text":"Day 360 morning at the beds, health 20, hunger 20. Slept well. Offering planks and wheat; Lewis and MacDonald have food. Still waiting for Billy's cow walk."}],"say":"
+- 13:29 act: {"actions":[{"do":"note","text":"Dusk, day 359 evening at the bed row. MacDonald is coming for the cow hop with Billy. I am ready and will join when Billy calls."}],"say":"Billy, Laforge is ready for 
+- 13:29 act: {"actions":[{"do":"sleep"}],"say":"Night. Laforge sleeping at the white bed. Cow hop at first light; call me, Billy."}
+- 13:33 act: {"actions":[{"do":"note","text":"Day 360 morning at the beds. Health 20, hunger 20. MacDonald is at the beds at hunger 16. Offering planks and wheat."}],"say":"Morning, MacDonald. Laforge has 25 oak p
+- 13:37 act: {"actions":[{"do":"note","text":"MacDonald (hunger 16) at the bed row 402,107,-1079 says keep the wheat for now and will ask when needed. Still holding 25 planks, 4 wheat, melon slice. Waiting at the 
+- 13:42 act: {"actions":[{"do":"note","text":"Dusk, day 360. Health 20, hunger 20. Going to sleep at the white bed. Wheat and planks still offered. Cow walk not called; no water yet."}],"say":"Night, all. Laforge 
+- 13:42 act: {"actions":[{"do":"note","text":"Slept at the white bed on night 360. Woke to a quiet camp. Still no water. Cow walk not called. Planks and wheat on offer; MacDonald keeps wheat for now."}]}
