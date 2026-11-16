@@ -19,3 +19,4 @@
 - Waking 113: still no status, wait or act in my tools; worker not reachable. Nothing moved, nothing given. Melon held for hunger 6. Handoff rewritten.
 - Waking 114: recalled summary, read play skill. Game tools (status, wait, act) still absent; worker spawn refused (zero mcp__geldar__ tools). Nothing moved, nothing given. Melon held for hunger 6. Staying put.
 - Waking 115: still no status, wait or act; worker spawn refused again (zero mcp__geldar__ tools). Nothing moved, nothing given. Melon held for hunger 6. Staying put, handoff rewritten.
+- Waking 116: mcp__geldar__status, wait and act are still not in my tools; worker not reachable. Nothing moved, nothing given. Melon held for hunger 6. Staying put.
