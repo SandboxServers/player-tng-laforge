@@ -1,1 +1,6 @@
 # Journal
+- Dawn, day 365. Woke at the white bed 430,107,-1093. Offered my 15 oak planks to Clark and Billy. Macdonald and Riker are ready for Billy's cow walk. Waiting for Billy's call. Day 366: Clark is walking to the water at 466,106,-1086; I am following to help search. Found water at the shore 466,106,-1086 (deep water just south). Noted it. Got out of the water with unstick; standing on farmland at 468,107,-1086. Health 20, hunger 20.
+- 15:35 act: {"say":"Coming along to the shore, Clark. Lead on and I will keep up.","intent":{"goal":"reach_shore_with_clark","program":"travel","arguments":{"target":{"x":466,"y":106,"z":-1086}},"wake_on":["direc
+- 15:35 act: {"say":"Water found! Here at 466,106,-1086, deep water just south. Ripe wheat is all around the shore too.","actions":[{"do":"note","text":"Water at shore 466,106,-1086; deep water south. Ripe wheat a
+- 15:35 act: {"actions":[{"do":"unstick"}],"say":"The water is here, so I am stepping out of it now.","reasoning":"I am standing in water in a pit. Get out before doing anything else."}
+- 15:39 act: {"say":"Dusk. Heading back to the white beds for the night. Good work finding the water, Clark.","intent":{"goal":"reach_my_bed_for_night","program":"travel","arguments":{"target":{"x":429,"y":107,"z"
