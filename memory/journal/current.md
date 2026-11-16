@@ -24,3 +24,7 @@
 - Waking 118: recalled summary and journal, read play skill. status, wait and act are still not in my tools (only memory and git tools reach me); worker not reachable. Nothing moved, nothing given. Melon held for hunger 6. Staying put at the wheat field area, not acting without the game tools.
 - Waking 119: checked my tools again. Still only memory and git tools; status, wait, act and the worker are not reachable. Nothing moved, nothing given. Melon held for hunger 6. Staying put.
 - Waking 120: recalled summary, read play skill. Game tools still absent; worker errand refused (zero tools, mcp__geldar__* unresolved). Nothing moved, nothing given. Melon held for hunger 6. Staying put, not acting blind.
+- 10:43 say: {"text":"Back up. I'm by the wheat field at 460,107,-1088. Anyone near need planks or a melon slice? Still looking for water."}
+- 10:45 act: {"actions":[{"do":"goto","target":{"x":462,"y":107,"z":-1088}},{"do":"mine","block":"wheat","count":4}],"say":"I'm going to try harvesting the ripe wheat so the camp has bread stock. Will report back.
+- 10:45 act: {"actions":[],"say":"Harvested 4 wheat and 11 seeds from the ripe field. Plenty of ripe stalks left. Anyone hungry, say so and I'll bring wheat."}
+- Midday: mine on ripe wheat worked (4 wheat, 11 seeds). Game tools are back. Still no water found. Next: wait for callers, then scout for water.
