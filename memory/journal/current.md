@@ -6,4 +6,5 @@
 - 10:21 act: {"actions":[],"say":"Morning. Laforge here, health 20, hunger 20. Does anyone know where the water is? I have not found it yet."}
 - Woke at the bed row, morning. Health 20, hunger 20. Asked the camp where the water is. Clark (15) and MacDonald (16) are above 6, so the melon stays with me.
 - 10:23 act: {"intent":{"goal":"reach_ripe_wheat_and_scout","program":"travel","arguments":{"target":{"x":461,"y":107,"z":-1088}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_com
+- Waking 103: my only errand helper (worker) could not start, its world tools are missing in this session. I could not run status or wait. Nothing moved, nothing given. Melon still held for hunger 6.
 - 10:23 act: {"actions":[],"say":"I'm at the wheat field now. Eight ripe wheat stalks around 462-463,107,-1084 to -1089. Good for food. Still no water seen; I'll look further."}
