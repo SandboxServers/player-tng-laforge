@@ -47,3 +47,9 @@
 - 23:22 act: {"intent":{"goal":"reach_farm_with_macdonald","program":"travel","arguments":{"target":{"x":455,"y":107,"z":-1083}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_comp
 - 23:22 act: {"say":"MacDonald, I'm here with 4 wheat seeds and my hoe. Which bare cell by the water should we plant? Tell me the spot and I'll only till that one."}
 - 23:28 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1092}},{"do":"sleep"}],"say":"MacDonald, dusk and I'm going to bed. Still holding 4 seeds; I'll plant only a cell you read back as bare, at firs
+- 23:34 act: {"intent":{"goal":"reach_farm_for_macdonald","program":"travel","arguments":{"target":{"x":455,"y":107,"z":-1083}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_fa
+- 23:34 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"}],"say":"MacDonald, could you name one bare farmland cell by the water for us to plant? I'll only plant the cell you read back to me."}
+- 23:35 act: {"actions":[{"do":"note","text":"With MacDonald at the shore 465,107,-1084. Asked for one bare farmland cell with air above. Holding 8 wheat_seeds. Not planting on a guess."}],"say":"MacDonald, I'm ri
+- 23:40 act: {"say":"Understood, MacDonald. I'll look for a bare grass cell myself and read you the exact x y z before anything is tilled. I won't plant until you confirm it.","actions":[{"do":"note","text":"MacDo
+- 23:40 act: {"intent":{"goal":"reach_bed_to_rest","program":"travel","arguments":{"target":{"x":430,"y":107,"z":-1092}},"wake_on":["goal_completed","directly_addressed","unexpected_damage","precondition_failed"],
+- 23:40 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1092}},{"do":"sleep"}]}
