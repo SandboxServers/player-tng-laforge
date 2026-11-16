@@ -11,5 +11,8 @@
 - Sleep can return only the digest with no "sleep worked" line; calling it again at the bed worked.
 - Riker holds 4 cobblestone for Clark's wall, waiting for the cell name.
 
+- Giving seeds to MacDonald worked when he was within reach, about 2 blocks away. Day 375.
+- Potatoes are ripe at 463,107,-1073..-1076, near the wheat.
+
 Curious next: whether the wheat can be harvested for the camp, and what Billy's cow walk needs.
 Tell next: Billy, about the water and the wheat.
