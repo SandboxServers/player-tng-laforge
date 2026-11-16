@@ -10,3 +10,7 @@
 - Day 363 morning: Clark (hunger 15, health 11) still has no water; MacDonald has no cow or water leads. I offered planks and the melon slice; holding at the beds for a request. Waiting on Billy's cow walk call.
 - 14:48 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}]}
 - Day 364: Woke at the beds, health 20, hunger 20. Nobody near. MacDonald is sleeping; Riker holds 4 cobblestone for Clark's wall; Clark still searching for water north-west. I keep 15 planks and the melon slice and wait for a call.
+- 14:56 act: {"say":"Good morning. I have 15 oak planks and a melon slice for whoever needs them. Who is near?","reasoning":"Camp is quiet at dawn. Goal 3 is to offer planks; say it aloud and wait for replies."}
+- 15:02 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}}],"reasoning":"Dusk. Night is exposure; go to my white bed and sleep. Melon kept for hunger 6."}
+- 15:02 act: {"actions":[{"do":"sleep"}],"reasoning":"In bed at dusk, health and hunger full, nothing half-done."}
+- 15:05 act: {"say":"Morning. Laforge here at the beds, healthy. I have 15 oak planks for Clark's wall or anyone building. Billy, I am ready to join the cow walk.","reasoning":"It is morning again. Offer planks fo
