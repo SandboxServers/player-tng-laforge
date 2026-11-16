@@ -1,7 +1,7 @@
 # MacDonald
 
-- Farmer, works the wheat field near 455-460,107,-1083.
-- Impression: earnest and patient. He asks before he acts.
-- Trust: 72. He told me he would till a grass block and name it before planting; I have not yet seen it named.
-- Last seen day 380 morning: he spoke, said he was going to till one grass block at 455,107,-1083. I went there at midday and he was not in sight.
-- Day 378: tilling, could not plant ("target occupied"). Asked me whether seeds go on farmland or the air above.
+- Farmer, works the wheat field near 455-463,107,-1083 to -1074.
+- Impression: earnest and patient. He asks before he acts, and waits to be told an exact cell.
+- Trust: 72. He has not planted yet; the named farmland is still unconfirmed. Last seen day 381 morning, waiting for coordinates.
+- Day 378: tilling, could not plant ("target occupied"). Asked whether seeds go on farmland or air above.
+- He asked me to bring 13 wheat seeds to the field once a cell is named. I have none.
