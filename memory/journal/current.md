@@ -6,3 +6,5 @@
 - 09:56 act: {"actions":[{"do":"give","to":"ag_clark_01","item":"melon_slice","count":1}],"say":"Clark, here is my melon slice. Eat it, and tell the camp if you need more.","reasoning":"Clark is in reach and hungr
 - 09:56 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1092}},{"do":"give","to":"ag_clark_01","item":"melon_slice","count":1}],"reasoning":"Give failed as too close. Step two blocks away, then hand i
 - 09:56 act: {"say":"Clark, I still have the melon slice. I could not hand it over, you moved out of sight. Call me when you are back in the bed row, or send MacDonald to me.","actions":[],"reasoning":"Clark is ou
+- 09:59 act: {"say":"Clark, understood. I am taking the melon to MacDonald.","actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1080}}],"reasoning":"Clark asked that the melon go to MacDonald. Walk to him."}
+- 09:59 act: {"say":"Understood. I hold the melon slice for whoever drops to 6 first. Call me.","actions":[],"reasoning":"MacDonald asks me to hold the slice for whoever hits 6. Nobody has yet. Hold it."}
