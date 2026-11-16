@@ -1,8 +1,7 @@
 # Handoff
 
-- Day 366, dusk, at my white bed 430,107,-1092 (bed at 429,107,-1092). Health 20, hunger 20.
-- Water found at the shore 466,106,-1086 (deep water just south). Ripe wheat all around it, around 464-470,107,-1084..-1088. Told Clark and the camp.
-- Holding 15 oak planks (still offered to anyone building), 1 melon slice (for hunger 6: Clark or MacDonald), 1 wheat, 13 wheat seeds, 6 dirt, 2 gravel, 7 sticks, 1 flint.
-- Sleep call returned only the digest; no "sleep worked" line. Try sleep again at the bed.
-- Nothing half-done. No errand out.
-- Next: sleep in the bed. On waking, offer planks, join Billy's cow walk if called, and give the melon slice to whoever drops to hunger 6.
+- Day 372, night. Walking to my bed 429,107,-1092 to sleep. Health 20, hunger 20.
+- Riker called a cow walk to 339,104,-979 with no word from Billy. I said yes and stayed put; the walk did not start.
+- Holding 15 oak planks (offer to the cow walk or any builder), 6 dirt, 1 wheat, 13 wheat seeds, 7 sticks, 2 gravel, 1 flint.
+- Water at 466,106,-1086. Ripe wheat around 464-470,107,-1084..-1088.
+- Next: at first light, join the cow walk if called. Offer planks. Keep to the play loop.

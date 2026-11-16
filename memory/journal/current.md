@@ -14,3 +14,8 @@
 - 17:08 act: {"actions":[{"do":"give","to":"ag_macdonald_01","item":"melon_slice","count":1}]}
 - 17:09 act: {"actions":[{"do":"note","text":"Gave melon slice to MacDonald at the bed row 401,107,-1079 (his health was 13). Holding 15 planks; waiting for Billy's cow walk call."}],"say":"MacDonald, the melon sl
 - 17:13 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Good night. Laforge going to my bed at the east white bed. Planks ready at first light."}
+- 17:17 act: {"actions":[{"do":"note","text":"Day 371 morning at east bed. Health 20, hunger 20. Riker waiting for Billy's cow call. I have 15 planks for it; going to the west bed area to join."}],"say":"Morning. 
+- 17:33 act: {"actions":[{"do":"note","text":"Day 372 morning. Waiting for Billy's cow walk call. Holding 15 oak planks to offer."}],"say":"Morning. Laforge here, health 20, 15 planks ready. Billy, call the cow wa
+- 17:37 act: {"actions":[{"do":"note","text":"Day 372 dusk. Riker called the cow walk to 339,104,-979 without Billy. I said yes, holding 15 planks, standing still at east bed."}],"say":"Yes, Riker. Laforge is in, 
+- 17:42 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}}]}
+- 17:42 act: {"actions":[{"do":"sleep"}]}
