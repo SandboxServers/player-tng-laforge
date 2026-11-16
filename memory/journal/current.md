@@ -7,3 +7,5 @@
 - Midday-afternoon: reached 460,106,-1090 with 3 melon for Kimberly. Cow walk had moved on; nobody in sight. Clark says my 20 planks are in chest 447,107,-1093. Waiting here.
 - 06:27 act: {"say":"Night is here. I'm heading back to my bed at 429,107,-1093. Kimberly, my melon stays for you if you come to the bed row.","intent":{"goal":"return_to_bed_row","program":"travel","arguments":{"
 - 06:28 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Heading to the white bed for the night.","reasoning":"Night, a spider nearby blocked sleep. Bed is about 12 blocks
+- 06:30 act: {"actions":[{"do":"goto","target":{"x":446,"y":107,"z":-1093}},{"do":"withdraw","at":{"x":447,"y":107,"z":-1093},"item":"oak_planks","count":20}],"say":"Morning all. Heading to Clark's chest at 447,10
+- 06:30 act: {"actions":[],"say":"Thank you Clark, I have the 20 planks now. I hold 30 oak planks; whoever needs planks or logs, call me."}
