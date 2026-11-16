@@ -4,3 +4,4 @@
 - 15:35 act: {"say":"Water found! Here at 466,106,-1086, deep water just south. Ripe wheat is all around the shore too.","actions":[{"do":"note","text":"Water at shore 466,106,-1086; deep water south. Ripe wheat a
 - 15:35 act: {"actions":[{"do":"unstick"}],"say":"The water is here, so I am stepping out of it now.","reasoning":"I am standing in water in a pit. Get out before doing anything else."}
 - 15:39 act: {"say":"Dusk. Heading back to the white beds for the night. Good work finding the water, Clark.","intent":{"goal":"reach_my_bed_for_night","program":"travel","arguments":{"target":{"x":429,"y":107,"z"
+- 15:40 act: {"actions":[{"do":"sleep"}],"reasoning":"At my bed for the night, safe, no errand. Sleep now."}
