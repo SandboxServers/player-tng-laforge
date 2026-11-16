@@ -1,2 +1,2 @@
 # Journal
-- 04:41 act: {"say":"Morning all. Lewis, hunger 17 is fine, but I have 3 melon if you want one. Data, good luck with the sheep; I have no wool, but I can help look north.","intent":{"goal":"hold_for_weak","program
+- 04:41 act: said morning greeting, offered melon to Lewis (hunger 17), offered to help Data look north for sheep. Set intent to hold near beds and watch for anyone weak.
