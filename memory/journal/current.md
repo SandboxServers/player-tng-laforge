@@ -24,3 +24,8 @@
 - 03:17 act: {"actions":[{"do":"note","text":"Joining Jason's cow group in daylight. Holding 10 planks and 3 melon."}],"say":"Jason, Laforge here. I will join your cow group at 415,-1061 and walk to the cows with 
 - 03:17 act: {"actions":[{"do":"note","text":"Reached 417,-1062 with Clark and Zack. Walking with the cow group."}],"say":"Zack, I am with you. Laforge here, 3 melon for the weakest. Lead on to the cows when you g
 - 03:24 act: {"intent":{"goal":"reach_my_bed_for_night","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-1092}},"wake_on":["goal_completed","precondition_failed","unexpected_damage","directly_address
+- 03:24 act: {"say":"Good morning. Laforge here, holding 3 melon slices for anyone weak. Clark, I still need your word on the wall gap before I place planks.","intent":{"goal":"await_wall_word","program":"rest","a
+- 03:35 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1093}},{"do":"use","at":{"x":429,"y":107,"z":-1093}}]}
+- 03:35 act: {"actions":[{"do":"sleep"}]}
+- 03:41 act: {"say":"Laforge here, morning. I will join the cow walk with Trini and Beverly if you step into my sight. I hold 3 melon for the weakest."}
+- 03:49 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}]}
