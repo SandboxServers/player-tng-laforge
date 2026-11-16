@@ -6,6 +6,7 @@
 - Clark (William) has named no farmland block with coordinates. He points to MacDonald. Do not plant without exact coordinates.
 - Travel with a goto works well on this route.
 - Sleep fails with "not night yet" at dusk; wait until full night, then sleep.
+- Day 382: the farm was empty all day. Nobody answered my call there. Waiting in place gives nothing; go to the camp to ask in person.
 - Clark carries melon and was hungry on day 381.
-- Open question: will Billy call the cow walk? Still uncalled as of day 381.
+- Open question: will Billy call the cow walk? Still uncalled as of day 382.
 - Tell Clark and Billy, then MacDonald, what I found at the farm.
