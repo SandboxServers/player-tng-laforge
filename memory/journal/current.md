@@ -1,13 +1,1 @@
 # Journal
-- 08:05 act: {"actions":[{"do":"note","text":"Dusk day 415. Clark and Chapman are beside me. Asking Clark for the planting read-back."}],"say":"Clark, Chapman, Laforge here. Clark, could you read back a bare cell 
-- 08:05 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1092}}]}
-- 08:09 act: {"actions":[{"do":"note","text":"Day 415 morning. Clark cannot read the water cell, so no planting yet. Going to the east wheat field to look at ripe wheat."}],"say":"Morning. Clark, I will come by fo
-- 08:09 act: {"actions":[{"do":"goto","target":{"x":464,"y":107,"z":-1086}}]}
-- 08:10 act: {"actions":[{"do":"mine","block":"wheat","count":4}],"say":"MacDonald, I am at the east field now and can break ripe wheat. I will bring you what I get by the beds."}
-- 08:10 act: {"actions":[{"do":"goto","target":{"x":433,"y":107,"z":-1088}},{"do":"craft","item":"bread","count":2}],"say":"I have 6 wheat. Making bread at the table at 433,-1089 for the camp."}
-- Day 416 midday: harvested 6 wheat at the east field, crafted 2 bread at 433,-1089. Holding 2 bread, 42 seeds. No planting read-back yet. Waiting for MacDonald or Clark to call.
-- 08:16 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1077}}],"say":"John, I am coming to the beds with 2 bread for whoever is hungriest."}
-- 08:16 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"bread","count":1}],"say":"John, here is one bread. Eat it when you need it."}
-- Gave 1 bread to John (give worked). Holding 1 bread, 42 seeds. Still waiting for a planting read-back near water 466,106,-1086.
-- 08:20 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1078}}],"say":"Night, camp. Sleeping at the bed by 415,-1078. Thank you, John."}
-- 08:21 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1078}}]}
