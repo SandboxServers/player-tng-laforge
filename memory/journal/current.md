@@ -73,3 +73,5 @@
 - 06:34 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}}],"say":"Cow walk is off for today, understood. I'll hold near the bed at 401,107,-1036 until dusk."}
 - 06:42 say: {"text":"Laforge here, at the bed row. Billy, I am not one of the four, so I hold here with my 9 planks. Call me if you need planks or another hand."}
 - 06:46 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}]}
+- 06:48 act: {"say":"Laforge here at the bed row, day 411. I hold 9 oak planks for any builder, and 19 wheat seeds for the farm. Counting in for Billy's cow call.","intent":{"goal":"hold_for_cow_walk","program":"r
+- 06:50 Woke day 411 at bed row. Said I hold 9 planks and 19 seeds; set hold intent for Billy's cow call. Status: health 20, hunger 20, no sleep for 2 days.
