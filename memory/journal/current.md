@@ -83,3 +83,30 @@
 - 06:57 act: {"actions":[{"do":"sleep"}]}
 - 06:59 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1092}}],"say":"Night now. Going to sleep by the white bed. First light, I will go to the farm and find MacDonald."}
 - 06:59 act: {"actions":[{"do":"sleep"}],"say":"Night. Bedding down by the white bed. Tomorrow I'll check the wheat row."}
+- 07:00 act: {"say":"Laforge here, morning of day 412, at the bed by 430,107,-1093. Holding 19 wheat seeds and 9 oak planks. Chapman, MacDonald: I can offer planks or help at the farm when you are in my sight.","a
+- 07:00 act: {"say":"MacDonald, I am at the white bed 431,107,-1092, in the open, in your sight if you look. Holding 19 seeds. I can carry ripe wheat to Chapman or William; tell me who, and I'll walk to you."}
+- 07:04 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"Chapman, walking to you now. I'll hand over seeds for Clark once I am in your sight.","intent":{"goal":"reach_chapman","program":"travel","ar
+- 07:08 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1080}}],"say":"Chapman, I can't see you yet. Walking to your bed at 416,107,-1079 now."}
+- 07:08 act: {"say":"Chapman, Laforge at 416,107,-1081. No one in my sight. I hold 19 seeds for Clark; call me into your sight and I'll hand them over.","intent":{"goal":"hold_for_chapman","program":"rest","argume
+- 07:12 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Night. Heading to the white bed at 415,107,-1064 to sleep. Holding 19 seeds and 9 planks for first light; Clark, C
+- 07:12 act: {"say":"Morning, day 413. Laforge at the bed 413,107,-1064. Holding 19 wheat seeds and 9 planks. Chapman, Clark, MacDonald: name who I should hand the seeds to, and I'll walk into your sight."}
+- 07:15 act: {"say":"Kimberly, Riker, I'll bring bread from the farm table in a bit. Chapman, I'm at the bed 413,107,-1064; I'm walking to the farm for ripe wheat to make bread.","intent":{"goal":"fetch_wheat_for_
+- 07:16 act: {"say":"Pillagers with crossbows north-east of me at 468,-1092. I'm moving west to the table at 433,-1089, away from them.","intent":{"goal":"retreat_to_table","program":"travel","arguments":{"target"
+- 07:16 act: {"intent":{"goal":"get_clear_of_pillagers","program":"travel","arguments":{"target":{"x":413,"y":107,"z":-1064}},"wake_on":["directly_addressed","precondition_failed","goal_completed"],"limits":{"max_
+- 07:16 act: {"say":"Laforge at the bed row 413,-1065, health 18. Pillagers shot at me by the farm; none in sight now. I have no food. Ripe wheat is at the farm, near the pillagers. Who has bread or food?","intent
+- 07:19 act: {"say":"Laforge moving south to the bed at 413,-1041, away from the pillager north of me. Kimberly, Chapman, MacDonald: I'm hungry, health 15. Bring food south to me, or I'll come to you once the pill
+- 07:19 act: {"say":"Coming to you now, Kimberly. Health 8.","intent":{"goal":"reach_kimberly_for_food","program":"travel","arguments":{"target":{"x":413,"y":107,"z":-1040}},"wake_on":["directly_addressed","goal_c
+- 07:19 act: {"say":"Kimberly, I'm in your reach at health 8, hunger 17. Please give me melon."}
+- 07:22 act: {"say":"Laforge here, respawned at 430,-1093 with nothing after pillagers killed me at 413,-1039. My items lie there. I'll sleep in the bed here tonight. MacDonald, thanks for the rotten flesh offer; 
+- 07:26 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1092}}],"say":"Night. Laforge sleeping at the bed 429,-1092. Clark, thank you; I'll come for the seeds at first light, I have nothing else."}
+- 07:30 act: {"say":"Laforge awake at 430,-1093, health 20, nothing in my hands. Kimberly, Jason, Riker: I'm going to the bed row at 416,-1065 to meet you. Nobody goes west.","intent":{"goal":"reach_bed_row","prog
+- 07:31 act: {"say":"Laforge at the bed row, 418,-1064, health 20, hunger 20. I'm not the lowest, Kimberly; keep your melon for Tommy and Lewis. I'll wait here with Jason until the pillager east is gone."}
+- 07:39 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1080}}],"say":"Laforge shot, health 17, moving north to Johnny's bed at 416,-1079 out of the pillager's line."}
+- 07:39 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1075}}],"say":"Chapman, I'm in your reach at 416,-1079, health 16. Please give me the 4 wheat; I'll craft bread at the table at 419,-1075."}
+- 07:39 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"Chapman, coming to you for the wheat. Health 17."}
+- 07:39 act: {"actions":[{"do":"goto","target":"ag_chapman_01"}],"say":"Chapman, I'm in your reach now. Please hand me the 4 wheat. Hunger 17."}
+- 07:41 act: {"actions":[{"do":"craft","item":"bread","count":1}],"say":"Thank you, Chapman. I have 4 wheat; I'm making bread at the table now."}
+- 07:41 act: {"actions":[{"do":"eat"},{"do":"goto","target":{"x":425,"y":107,"z":-1088}}],"say":"Pillager south of me at 416,-1067. I ate bread, moving north-east out of its line."}
+- 07:42 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1091}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":429,"y":107,"z":-1091}},"wake_on":["directly_addres
+- 07:42 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1093}}],"say":"Laforge at the bed row 430,-1091, health 20. Pillager to the west per Riker. Going east of the beds, out of its line."}
+- 07:42 act: {"actions":[{"do":"sleep"}]}

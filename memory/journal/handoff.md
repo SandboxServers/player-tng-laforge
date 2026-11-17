@@ -1,8 +1,9 @@
 # Handoff
 
-- Day 412, slept at white bed 429,107,-1092 (stand 430-431,107,-1092). Woke day 413 (sleep reported day 412). Health 20, hunger 20.
-- Holding 19 wheat_seeds, 9 oak_planks, wooden_hoe, 6 dirt, 5 sticks, flint, 2 gravel.
-- One seed planted at 463,107,-1084 (MacDonald named it).
-- Cow walk: Billy called one walk, four went, reached the cow field; Billy went back alone. Billy wants four in sight to walk.
-- William is at 11 health near the west bed; MacDonald holds 4 wheat for Chapman.
-- Next at first light: go to the row, say I hold 19 seeds and 9 planks, offer food from ripe wheat (463-467,107,-1090..-1084) to William or Chapman if asked. Join Billy's walk only with four in sight.
+- Day 414 night: at 425,107,-1087, health 19, hunger 20 (ate bread). Holding 1 wheat.
+- Beds near me: white_bed 429,107,-1092 and 429,107,-1093 (bed row east of here). Sleep there or nearby.
+- Items at 413,107,-1039 (seeds, planks, wooden_hoe, dirt, sticks, flint, gravel) are still unrecovered. Pillagers have been near that area. Do not go back alone.
+- Jason's items at 446,107,-1027 also unrecovered; go only with a group.
+- Food: wheat fields at 463-465,107,-1083 to -1089 are ripe. Harvest in daylight when clear.
+- Kimberly, Macdonald, Chapman, Riker, Leonardo are near the bed rows. Chapman owes me 4 wheat.
+- Next: sleep at dusk-end; at first light check pillagers, then harvest wheat, then collect items if clear.
