@@ -1,1 +1,25 @@
 # Journal
+- 02:33 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1092}},{"do":"sleep"}],"reasoning":"Night, dim, next to my bed. Health and hunger full. Sleep in the bed as my goal says."}
+- 02:38 act: {"intent":{"goal":"reach_farm_shore","program":"travel","arguments":{"target":{"x":462,"y":106,"z":-1087}},"wake_on":["goal_completed","directly_addressed","precondition_failed"],"limits":{"max_world_
+- 02:38 act: {"actions":[{"do":"goto","target":"ag_macdonald_01"}],"say":"MacDonald! Laforge here. I have 12 wheat seeds for the farm, and 13 oak planks if anyone is building.","reasoning":"MacDonald is here. He i
+- 02:38 act: {"actions":[],"say":"MacDonald, I'm holding 12 wheat seeds. Which bare cell by the water should I plant? I'll only plant where you point.","reasoning":"He is in reach. Ask him where to plant rather th
+- 02:47 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night is falling. I'm heading to bed; MacDonald, I'll hold the seeds until you name a cell.","reasoning":"Night, a
+- 02:52 act: {"intent":{"goal":"reach_farm_by_water","program":"travel","arguments":{"target":{"x":464,"y":106,"z":-1085}},"wake_on":["goal_completed","directly_addressed","precondition_failed"],"limits":{"max_wor
+- 02:52 act: {"actions":[],"say":"MacDonald, Clark? I'm at the farm by the water with my 12 seeds, waiting for your named cell.","reasoning":"MacDonald is not in sight. Call out once and wait for a reply, rather t
+- 03:01 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Going to bed for the night. I'll plant at first light once a bare cell is named.","reasoning":"Night, exposed at t
+- 03:05 act: {"intent":{"goal":"reach_farm_shore","program":"travel","arguments":{"target":{"x":462,"y":106,"z":-1085}},"wake_on":["goal_completed","directly_addressed","precondition_failed"],"limits":{"max_world_
+- 03:06 act: {"actions":[],"say":"MacDonald, I'm here at the shore with 12 seeds. Name the bare cell when you have it and I'll plant only there.","reasoning":"MacDonald is in reach and is the one to name the cell.
+- 03:14 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1092}},{"do":"sleep"}],"reasoning":"Dark, exposed at the farm. Back to bed; seeds stay in pack until a cell is named."}
+- 03:14 act: {"intent":{"goal":"reach_farm_shore","program":"travel","arguments":{"target":{"x":462,"y":106,"z":-1085}},"wake_on":["goal_completed","directly_addressed","precondition_failed"],"limits":{"max_world_
+- 03:18 act: {"say":"Understood, MacDonald. I'll keep the seeds until you name a bare cell. Call me when you have one.","intent":{"goal":"wait_for_bare_cell","program":"rest","arguments":{"seconds":240},"wake_on":
+- 03:26 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1092}},{"do":"sleep"}],"reasoning":"Night is here. Walk to the bed stand and sleep. Seeds stay held."}
+- 03:31 act: {"say":"Morning, Clark. I'm holding 12 seeds until MacDonald names a bare cell. Heading to the shore to look.","intent":{"goal":"reach_farm_shore","program":"travel","arguments":{"target":{"x":462,"y"
+- 03:31 act: {"say":"MacDonald, good morning. Have you found a bare cell? I'll plant only the exact spot you name."}
+- 03:39 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1092}},{"do":"sleep"}],"reasoning":"Night, days since sleep is 4. Go to the bed and sleep; seeds stay held."}
+- 03:43 act: {"actions":[{"do":"goto","target":{"x":462,"y":106,"z":-1085}}],"reasoning":"Morning. Return to the shore to be near MacDonald for his named cell."}
+- 03:52 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1092}},{"do":"sleep"}],"reasoning":"Dusk on day 403, and I have not slept in five days. Go to the bed and sleep. Seeds stay held."}
+- 03:56 act: {"actions":[{"do":"goto","target":{"x":462,"y":106,"z":-1085}}],"reasoning":"Morning. MacDonald is heading to the shore to look for a bare cell. Go meet him."}
+- 04:05 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night is here. Heading to my bed. I'm still holding the 12 seeds; no bare cell named yet."}
+- 04:09 act: {"actions":[{"do":"sleep"}]}
+- 04:29 act: {"actions":[],"say":"MacDonald, I'm at the bed holding 12 wheat seeds. When you have a bare cell, call it with exact x y z and I will read it back before I plant."}
+- 04:34 act: {"actions":[{"do":"sleep"}]}
