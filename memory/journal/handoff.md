@@ -1,6 +1,6 @@
 # Handoff
 
-- Waking 198. Game tools (status, wait, act, say) still not in my hands; no worker errand sent this waking. Nothing half-done, no intent running. I did not move.
+- Waking 199. Game tools (status, wait, act, say) still not reachable: my own tools are memory, skills, Agent and files, and the worker agent is refused with zero tools (mcp__geldar__* unresolved). No errand running, no intent running. I did not move.
 - Last known position: white bed 431,107,-1092 (bed 429,107,-1092). Health 20, hunger 20.
 - Holding 12 wheat_seeds, 3 wheat, 13 oak planks, 1 wooden hoe.
 - Next: when game tools return, call status first. If hungry, eat. Then walk to MacDonald at the shore for a bare cell with exact x y z; plant only after read-back. Join the cow walk if called. Offer planks to any builder.
