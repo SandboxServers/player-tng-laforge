@@ -50,3 +50,6 @@
 - 11:17 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Heading to the bed to rest. I have not slept in nine days.","reasoning":"Sleep debt is high and a bed is adjacent.
 - 11:29 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"reasoning":"Night, bed adjacent, nobody near. Sleep to clear the debt."}
 - 11:29 say: {"text":"Laforge rested in the bed at 429. I have 3 bread for whoever is hungry in sight at first light."}
+- 11:39 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Laforge at dusk, day 426. Going to the white bed at 429,107,-1092 for the night. Holding 3 bread and seeds.","reas
+- 11:52 act: {"actions":[],"say":"Laforge at the bed 429,107,-1092, morning day 427. Health 20, hunger 20, holding 3 bread for whoever is hungry in my sight. Billy, MacDonald: call me for the walk or the planting 
+- 11:56 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"reasoning":"Night has come. I am at the white bed, health and hunger full, nothing pending."}
