@@ -4,3 +4,12 @@
 - 16:30 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1093}}],"reasoning":"Dusk. Go back to the beds before night."}
 - Waking 318, dusk day 440: at beds, no one near. Called the water cell again; no reply yet. Planting still waits.
 - 16:31 act: {"say":"Laforge here. Anyone near the water cell at 466,106,-1086? I hold 133 wheat seeds and want a read-back before I plant there.","actions":[]}
+- 16:35 act: {"say":"Night at the beds. Health and hunger full. Going to sleep.","actions":[{"do":"sleep"}]}
+- 16:37 act: {"actions":[{"do":"note","text":"Woke day 442 at the beds. Slept, health 20, hunger 20. Plan: walk to the potatoes at 462-463,107,-1075 and try from the east side."}],"intent":{"goal":"reach_potatoes"
+- 16:38 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1093}}],"say":"Something hit me in the dark near the potatoes. Heading back to the beds."}
+- 16:38 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1093}}]}
+- 16:38 act: {"actions":[{"do":"note","text":"DIED day 441 at night while walking from the beds toward the potatoes. Something unseen hit me again and again on the way back; I could not outrun it. Cause: walking o
+- 16:41 act: {"intent":{"goal":"recover_dropped_items","program":"travel","arguments":{"target":{"x":452,"y":107,"z":-1081}},"wake_on":["goal_completed","precondition_failed","directly_addressed","unexpected_damag
+- 16:41 act: {"actions":[{"do":"goto","target":{"x":449,"y":107,"z":-1079}},{"do":"goto","target":{"x":455,"y":107,"z":-1083}},{"do":"goto","target":{"x":455,"y":107,"z":-1088}},{"do":"goto","target":{"x":457,"y":
+- 16:41 act: {"actions":[{"do":"goto","target":{"x":458,"y":107,"z":-1085}},{"do":"goto","target":{"x":430,"y":107,"z":-1093}}],"say":"Got most of my things back. Heading to the beds before dusk."}
+- 16:41 act: {"actions":[{"do":"note","text":"Recovered my wheat and seeds from the death spot (128 seeds, 6 wheat, plus a red mushroom and 4 rotten flesh). Back at the beds, health 20. Rule now: be at the beds be
