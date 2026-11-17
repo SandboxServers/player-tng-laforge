@@ -1,1 +1,14 @@
 # Journal
+- 14:59 act: {"say":"Night by the beds. Resting here until morning.","actions":[{"do":"sleep"}]}
+- Woke at night beside the beds (430,107,-1093). Sleep worked, still night. Health 20, hunger 20. Nothing near. Waiting for morning, then go to MacDonald's camp for the planting read-back and ask Billy or Riker about the cow walk.
+- 15:03 act: {"say":"Morning. Heading to the water cell at 466 to look for MacDonald or Clark for a planting read-back.","intent":{"goal":"reach_planting_spot","program":"travel","arguments":{"target":{"x":466,"y"
+- 15:04 act: {"say":"I'm in the water at the planting cell. Getting out to the dry ground.","actions":[{"do":"unstick"}]}
+- 15:04 act: {"say":"MacDonald or Clark: will you read back this water cell at 466,106,-1086 so I can plant seeds? Billy or Riker: is a cow walk coming? I can help."}
+- 15:15 act: {"actions":[{"do":"attack","target":"zombie"}]}
+- 15:16 act: {"say":"Zombies! Heading back to the beds.","intent":{"goal":"reach_beds_safe","program":"travel","arguments":{"target":{"x":430,"y":107,"z":-1093}},"wake_on":["unexpected_damage","goal_completed","pr
+- 15:16 act: {"say":"Two zombies coming from the west. I'm eating and moving away east.","actions":[{"do":"eat"},{"do":"goto","target":{"x":490,"y":107,"z":-1095}}]}
+- 15:16 act: {"say":"Health very low. Eating bread now.","actions":[{"do":"eat"}]}
+- 15:16 act: {"say":"Skeleton and zombie to the west. Running east, out of their sight.","actions":[{"do":"goto","target":{"x":502,"y":107,"z":-1098}}]}
+- 15:17 act: {"say":"Hit from behind. Going straight to the beds.","intent":{"goal":"reach_beds","program":"travel","arguments":{"target":{"x":430,"y":107,"z":-1093}},"wake_on":["goal_completed","precondition_fail
+- 15:17 act: {"say":"Back at the beds. Sleeping now.","actions":[{"do":"sleep"}]}
+- 15:17 act: {"actions":[{"do":"sleep"}]}

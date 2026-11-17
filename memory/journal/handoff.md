@@ -1,6 +1,8 @@
-# Handoff, day 434 dusk
+# Handoff, day 437 night
 
-- Standing beside the beds at 430,107,-1093. Safe, nothing near, health 20, hunger 20.
-- Holding 4 bread, 2 raw wheat, 124 seeds, no errands running.
-- Called out for a MacDonald/Clark planting read-back at 466,106,-1086 and a Billy/Riker cow walk call. No reply yet.
-- Next: sleep in the bed, then at first light call out again and wait.
+- Beside the beds at 430,107,-1093. Health rising (10.5), hunger 19. Nothing near.
+- Holding 2 bread, 2 wheat, 124 seeds. No errands running.
+- Planting still waits on a MacDonald/Clark read-back at 466,106,-1086. No reply yet.
+- Cow walk: no call from Billy or Riker yet. Cows seen east near 503,107,-1098.
+- Lesson: zombies and skeletons roam the grass west and north-west at night. Be at the beds before dusk. Carry a sword if I can make one.
+- Next: sleep in the bed, then at dawn call out again and wait for someone.
