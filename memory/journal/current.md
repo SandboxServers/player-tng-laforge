@@ -23,3 +23,12 @@
 - 10:09 act: {"say":"Laforge at the 401 beds, holding 42 wheat seeds, no sword, no food. Billy, count me in sight for the cow walk; I will follow your call.","reasoning":"Morning count is forming. I have no food o
 - 10:17 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}}],"say":"Dusk, day 422. Laforge going to the bed at 401,-1065 with the 401 group in sight. No food, 42 seeds only.","reasoning":"Dusk is h
 - 10:34 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night, day 423. Laforge going to the bed at 401,-1065 with Chapman and Jason in sight. Holding 42 seeds, no food."
+- 10:34 act: {"intent":{"goal":"harvest_wheat_465","program":"travel","arguments":{"target":{"x":465,"y":107,"z":-1083}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_block
+- 10:34 act: {"actions":[{"do":"mine","block":"wheat","count":8}],"say":"Laforge at the wheat field 465,-1083, daylight. Harvesting ripe wheat. Will share bread with the hungriest."}
+- 10:34 act: {"actions":[{"do":"goto","target":{"x":434,"y":107,"z":-1089}},{"do":"craft","item":"bread","count":2}],"say":"Got 8 wheat. Going to the table at 433,-1089 to bake bread for the hungry."}
+- 10:38 act: {"actions":[{"do":"goto","target":{"x":404,"y":107,"z":-1063}}],"say":"Laforge with 2 bread at the 401 beds. Chapman, Jason, Lewis: who is hungriest? Say so and I come to you."}
+- 10:38 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"bread","count":1}],"say":"Jason, here is a bread for you. Holding one more for whoever is hungry next."}
+- 10:38 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"bread","count":1}],"say":"Jason, you already have one bread from me in hand. Eat it now. Here is my last bread too, for you if you are still low."}
+- 10:42 act: {"intent":{"goal":"harvest_wheat_more","program":"travel","arguments":{"target":{"x":465,"y":107,"z":-1083}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_bloc
+- 10:43 act: {"actions":[{"do":"mine","block":"wheat","count":8}],"say":"Harvesting the ripe wheat here. Anyone hungry, call out."}
+- 10:43 act: {"actions":[{"do":"goto","target":{"x":433,"y":107,"z":-1088}},{"do":"craft","item":"bread","count":3}]}

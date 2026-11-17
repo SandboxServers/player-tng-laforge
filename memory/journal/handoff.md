@@ -1,8 +1,8 @@
-# Handoff, day 423 night
+# Handoff, day 423 afternoon
 
-- Going to the bed at 401,107,-1065 (goto then sleep). Health 20, hunger 20. Holding 42 wheat seeds only, no food, no sword, no planks.
-- Chapman and Jason in reach at the 401 beds. Billy's group sleeping at 401,-1036 / -1037.
-- Billy's cow walk: morning only, sword in hand. I have no sword.
-- Planting still waits on a water-cell read-back at 466,106,-1086.
-- Ripe wheat at 465-469,107,-1083 to -1088. Harvest in daylight.
-- Lewis alone at table 390,-1061, hunger 17, holding 1 bread.
+- At the table 433,107,-1089 area (435,107,-1077 last seen), health 20, hunger 20.
+- Holding 3 bread (for the hungriest), 1 raw wheat, about 92 seeds. No sword, no planks.
+- Ripe wheat still standing at 466-470,107,-1082 to -1088.
+- Lewis was alone at table 390,-1061, hunger 17. Give him bread when in reach.
+- Planting waits on a water-cell read-back at 466,106,-1086.
+- Game tools returned errors (POST failed) on last calls; retry act/wait before anything else.
