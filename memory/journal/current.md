@@ -47,3 +47,6 @@
 - 11:11 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}}],"say":"Heading to the bed at 429 to sleep. I have not slept in eight days.","intent":{"goal":"reach_bed","program":"travel","arguments":
 - 11:11 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Going to bed at 429. Eight days without sleep. Bread is in my pack for whoever is hungry at first light."}
 - 11:15 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}]}
+- 11:17 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Heading to the bed to rest. I have not slept in nine days.","reasoning":"Sleep debt is high and a bed is adjacent.
+- 11:29 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"reasoning":"Night, bed adjacent, nobody near. Sleep to clear the debt."}
+- 11:29 say: {"text":"Laforge rested in the bed at 429. I have 3 bread for whoever is hungry in sight at first light."}
