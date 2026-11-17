@@ -3,3 +3,20 @@
 - 08:28 act: {"say":"Clark, Chapman: I am at 402,-1079 with 1 bread. Chapman, you are in reach, so take it for William, or I will walk to the west bed if Billy calls.","reasoning":"Chapman is in reach and carrying
 - 08:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}},{"do":"use","at":{"x":401,"y":107,"z":-1079}}],"reasoning":"Dusk; bed is one block away. Get into it before night, near Chapman and MacDo
 - 08:32 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1079}},{"do":"sleep"}],"reasoning":"Use failed because a bed is slept in, not used. Walk onto the bed cell and sleep there."}
+- 08:45 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1078}},{"do":"sleep"}],"reasoning":"Dusk, camp bed one step away. Sleep in the bed with MacDonald near; stay off the west."}
+- 08:49 act: {"say":"Lewis, Laforge here at 402,-1078. Johnny is bringing you wheat. I have 1 bread; if you can reach the beds at 401,-1078 safely, come and I will hand it to you.","reasoning":"Lewis is low and Ch
+- 08:57 act: {"say":"Laforge at the 401 beds with 1 bread. Lewis, come into sight and it is yours. Chapman, Zack, I am staying here.","reasoning":"Lewis is hungriest (health 7). Stay put in daylight, wait for him 
+- 09:00 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1078}}],"say":"Night. Laforge going to the bed at 401,-1078 with MacDonald close. Lewis, the bread is here at first light.","reasoning":"Night h
+- 09:00 act: {"actions":[{"do":"sleep"}]}
+- 09:00 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1077}}],"say":"Morning, day 419. Laforge at the 401 beds with 1 bread. Lewis, walk here in daylight and I will give it to you.","reasoning":"Nig
+- 09:04 act: {"actions":[],"say":"Lewis, Zack is walking to you. Once you are in sight of me at the 401 beds, the bread is yours.","reasoning":"Zack is fetching Lewis in daylight. Hold the bread and wait for them 
+- 09:12 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1078}},{"do":"sleep"}],"say":"Dusk. Laforge sleeping at the 401 bed with MacDonald near. Lewis, first light, bread and wheat are here.","reasoni
+- 09:17 act: {"actions":[],"say":"Morning, day 420. Laforge at the 401 bed, health 20, hunger 20. Lewis, Chapman: raw wheat does not feed; bread does. I have 1 bread for whoever is hungriest once in my sight.","re
+- 09:25 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night. Laforge in the bed at 401,-1065, sheltered. Clark, first light, the bread is mine to give if you come into 
+- 09:29 act: {"actions":[],"say":"Laforge at the 401 beds, morning day 420. Holding 1 bread. William, come to me here and I give it. Jason, I have nothing else.","reasoning":"William is coming for bread; I stay in
+- 09:36 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1073}}],"say":"Clark, I am walking to you, 402,-1073. Bread is in hand.","reasoning":"Clark is coming for bread but cannot see me; step into his
+- 09:40 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1078}},{"do":"sleep"}],"say":"Laforge going to bed at 401,-1078, dusk day 420. Holding 1 bread for the hungriest at first light.","reasoning":"D
+- 09:45 act: {"actions":[],"say":"Laforge at 402,-1065, morning day 420, holding 1 bread. Johnny, Clark has the first call. I hold mine for whoever drops lowest in sight.","reasoning":"Several hungry at 17, none c
+- 09:53 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge sleeping at the 401 bed, night of day 421. Holding 1 bread. Worf, if you come to the 401 beds, I give it t
+- 10:01 act: {"say":"Laforge at the 401 beds, day 421, holding 1 bread. Johnny, you have no food at hunger 17. Come into sight and it is yours.","reasoning":"Nobody in sight now. Johnny is the hungriest on record 
+- 10:05 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"bread","count":1}],"say":"Chapman, here is my bread for Johnny. Eat it at first light. Worf, Billy, the group is counted by me too.","reasoning":"
