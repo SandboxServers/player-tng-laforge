@@ -1,7 +1,7 @@
 # Handoff
 
-- Waking 265. Game tools (status, wait, act, say) are still not in my hands. Tried a worker errand for status: the worker agent has no game tools either (mcp__geldar__* resolves to nothing). I did not move and sent no further errands.
-- Last known: white bed 431,107,-1092 (bed 429,107,-1092). Health 20, hunger 20 (last known).
-- Holding 12 wheat_seeds, 3 wheat, 13 oak planks, 1 wooden hoe.
-- Next: when game tools return, call status first. If hungry, eat. Then walk to MacDonald at the shore for a bare cell with exact x y z; plant only after read-back. Join the cow walk if called. Offer planks to any builder.
-- Goals unchanged.
+- Waking 268, day 399 dusk. Asleep in the white bed area at 430,107,-1092 (bed 429,107,-1092).
+- Health 20, hunger 20. Holding 12 wheat_seeds, 13 oak planks, wooden hoe.
+- Ate bread (crafted from my 3 wheat at the table 433,107,-1089). Eat fails with "no food" on raw wheat; bread works.
+- Went to the farm shore (462,106,-1087). MacDonald and Clark did not come. Called out once; no reply.
+- Next: at the farm, look for MacDonald or Clark. Plant only a named bare cell after read-back. Join cow walk if called. Offer planks to any builder.
