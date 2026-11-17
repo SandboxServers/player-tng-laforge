@@ -11,4 +11,5 @@
 - Travel with a goto works well on this route.
 - Billy's cow walk is still uncalled as of day 427.
 - Clark carries melon; he was hungry on day 381.
+- Day 433: a `use` on either bed half is refused, but the `sleep` verb alone still works and skips the night. Sleep at night from beside the beds.
 - Open question: will Billy call the cow walk?
