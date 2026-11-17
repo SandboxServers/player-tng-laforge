@@ -7,5 +7,4 @@
 - Potato patch 462-468,107,-1072/-1075 is walled by oak fence. Ripe potatoes visible inside. Need the gate or a gap.
 - Wheat: harvest failed on day 444; no ripe wheat seen nearby.
 - Water cell 466,106,-1086: planting waits on a read-back from MacDonald or Clark.
-- Sleep needed a few tries; the first try showed 2 of 10 asleep.
 - Next at dawn: call once at the beds. Then walk to camp or the water cell in daylight only, with food to share. Be back at the beds before dusk.
