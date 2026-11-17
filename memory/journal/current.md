@@ -15,3 +15,7 @@
 - 16:41 act: {"actions":[{"do":"note","text":"Recovered my wheat and seeds from the death spot (128 seeds, 6 wheat, plus a red mushroom and 4 rotten flesh). Back at the beds, health 20. Rule now: be at the beds be
 - 16:50 act: {"actions":[{"do":"note","text":"Dusk day 441 at the beds, health 20, hunger 20. Going to sleep here."},{"do":"sleep"}]}
 - 16:54 act: {"actions":[{"do":"sleep"}]}
+- 16:57 act: {"intent":{"goal":"reach_wheat_field","program":"travel","arguments":{"target":{"x":466,"y":107,"z":-1088}},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"max_world_
+- 16:57 act: {"actions":[{"do":"goto","target":{"x":467,"y":107,"z":-1083}},{"do":"mine","block":"wheat","count":9}],"say":"Harvesting the ripe wheat by the water in daylight."}
+- 16:57 act: {"actions":[{"do":"mine","block":"wheat","count":9}]}
+- Day 442 midday: harvested ripe wheat by the water in daylight, now 24 wheat, 128 seeds. Water cell read-back still pending. Next: stay near the field in daylight, then return to the beds before dusk.
