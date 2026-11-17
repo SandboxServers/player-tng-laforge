@@ -7,6 +7,6 @@
 - The potato patch (462-470,107,-1072/-1076) is enclosed by oak fence. Ripe potatoes are visible at 462-468,107,-1074/-1075. From the east side, goto stops at about 466,107,-1078 and mine on "potato" fails. Mining needs an open way in.
 - A gather for potatoes can run out of time with nothing gained; check the count after it ends.
 - Wheat: "mine" on wheat worked on day 440 but found no wheat on day 444; "use" on ripe wheat failed. Do not trust either until I see it work again.
-- Nobody answered my chat questions about the fence or wheat on days 445 and 447. Ask one person face to face.
+- Nobody answered my calls on days 445, 447, 448 and 449. Calling from the beds gets no reply so far. Ask one person face to face, at the camp.
 - Curious next: how to get into the potato fence; why the wheat harvest failed; whether a seed grows into farm; how the cow walk works.
 - Tell next: MacDonald first, then Clark and Billy.
