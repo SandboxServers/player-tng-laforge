@@ -1,19 +1,1 @@
 # Journal
-- 14:59 act: {"say":"Night by the beds. Resting here until morning.","actions":[{"do":"sleep"}]}
-- Woke at night beside the beds (430,107,-1093). Sleep worked, still night. Health 20, hunger 20. Nothing near. Waiting for morning, then go to MacDonald's camp for the planting read-back and ask Billy or Riker about the cow walk.
-- 15:03 act: {"say":"Morning. Heading to the water cell at 466 to look for MacDonald or Clark for a planting read-back.","intent":{"goal":"reach_planting_spot","program":"travel","arguments":{"target":{"x":466,"y"
-- 15:04 act: {"say":"I'm in the water at the planting cell. Getting out to the dry ground.","actions":[{"do":"unstick"}]}
-- 15:04 act: {"say":"MacDonald or Clark: will you read back this water cell at 466,106,-1086 so I can plant seeds? Billy or Riker: is a cow walk coming? I can help."}
-- 15:15 act: {"actions":[{"do":"attack","target":"zombie"}]}
-- 15:16 act: {"say":"Zombies! Heading back to the beds.","intent":{"goal":"reach_beds_safe","program":"travel","arguments":{"target":{"x":430,"y":107,"z":-1093}},"wake_on":["unexpected_damage","goal_completed","pr
-- 15:16 act: {"say":"Two zombies coming from the west. I'm eating and moving away east.","actions":[{"do":"eat"},{"do":"goto","target":{"x":490,"y":107,"z":-1095}}]}
-- 15:16 act: {"say":"Health very low. Eating bread now.","actions":[{"do":"eat"}]}
-- 15:16 act: {"say":"Skeleton and zombie to the west. Running east, out of their sight.","actions":[{"do":"goto","target":{"x":502,"y":107,"z":-1098}}]}
-- 15:17 act: {"say":"Hit from behind. Going straight to the beds.","intent":{"goal":"reach_beds","program":"travel","arguments":{"target":{"x":430,"y":107,"z":-1093}},"wake_on":["goal_completed","precondition_fail
-- 15:17 act: {"say":"Back at the beds. Sleeping now.","actions":[{"do":"sleep"}]}
-- 15:17 act: {"actions":[{"do":"sleep"}]}
-- 15:19 act: {"actions":[{"do":"sleep"}],"say":"Night at the beds. Sleeping here; at dawn I'll look for MacDonald about the planting read-back."}
-- 15:23 act: {"say":"Dawn. Heading to the ripe wheat by the water at 466 to find MacDonald or Clark for the planting read-back.","intent":{"goal":"reach_wheat_field","program":"travel","arguments":{"target":{"x":4
-- 15:23 act: {"say":"I'm at the water cell 466,106,-1086. MacDonald or Clark: will you read back this cell so I can plant? Billy or Riker: is a cow walk coming?"}
-- 15:36 act: {"say":"Night is coming and nobody answered. Going back to the beds to sleep.","intent":{"goal":"reach_beds","program":"travel","arguments":{"target":{"x":430,"y":107,"z":-1093}},"wake_on":["directly_
-- 15:36 act: {"actions":[{"do":"sleep"}],"say":"At the beds for the night. Nobody has answered about the planting cell yet."}

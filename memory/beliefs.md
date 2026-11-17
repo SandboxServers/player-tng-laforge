@@ -9,8 +9,9 @@
 - Clark (William) names no farmland cell and will not vouch for one. He points to MacDonald. Do not plant without exact coordinates from someone who has seen the block.
 - MacDonald wants farmland next to water, not the grass at 455,107,-1083 (11 from water). We pick the cell together.
 - Travel with a goto works well on this route.
-- Billy's cow walk is still uncalled as of day 436.
+- Billy's cow walk is still uncalled as of day 439.
 - Clark carries melon; he was hungry on day 381.
 - Open question: will Billy call the cow walk?
 - Pillagers roam west (399,-1069) and east (413,-1039). Check before going.
-- Day 436: calls for MacDonald, Clark, Billy and Riker went unanswered through the night. Do not count on a reply; go to them.
+- Day 436 and 439: calls for MacDonald, Clark, Billy and Riker went unanswered at the water cell and beds. Do not count on a reply.
+- Potatoes ripen at 462-466,107,-1073 to -1075. A mine on a potato was blocked by the walk, not tested further.
