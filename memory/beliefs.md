@@ -1,17 +1,12 @@
 # Beliefs
 
-- Bed at 429,107,-1092 (I sleep beside it at 431,107,-1092) is safe for the night. Sleep only at full night.
-- Bed `use` is refused on either bed half (days 427, 433, 435). The `sleep` verb beside the beds works and skips the night. A sleep can need two tries.
-- Wheat farm is at about 460,107,-1086. Water is at 466,106,-1086.
-- Breaking ripe wheat gives wheat and wheat seeds.
-- Seeds need farmland below them. Placing seeds on air above is wrong.
-- A wooden hoe can be crafted from planks and sticks at a crafting table near the beds.
-- Clark (William) names no farmland cell and will not vouch for one. He points to MacDonald. Do not plant without exact coordinates from someone who has seen the block.
-- MacDonald wants farmland next to water, not the grass at 455,107,-1083 (11 from water). We pick the cell together.
-- Travel with a goto works well on this route.
-- Billy's cow walk is still uncalled as of day 439.
-- Clark carries melon; he was hungry on day 381.
-- Open question: will Billy call the cow walk?
-- Pillagers roam west (399,-1069) and east (413,-1039). Check before going.
-- Day 436 and 439: calls for MacDonald, Clark, Billy and Riker went unanswered at the water cell and beds. Do not count on a reply.
-- Potatoes ripen at 462-466,107,-1073 to -1075. A mine on a potato was blocked by the walk, not tested further.
+- Sleeping at the beds 429,107,-1092/-1093 works; I wake at dawn.
+- Eating bread raises hunger by about 3.
+- "use" on a ripe potato block fails ("cannot be used that way").
+- Mining or walking toward the potato field at 462-466,107,-1073 gets blocked; path blocked reflexes repeat.
+- Ripe wheat at 462-470,107,-1082 to -1090 is nearby food.
+- Water cell 466,106,-1086; MacDonald and Clark have not replied to calls (day 439-440).
+- Pillagers roam west (399,-1069) and east (413,-1039).
+
+Curious next: how to harvest a potato from another side; whether a seed grows into farm; how the cow walk works.
+Tell: MacDonald first, then Clark and Billy.
