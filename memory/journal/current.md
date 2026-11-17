@@ -5,3 +5,4 @@
 - 13:19 say: {"text":"Laforge here, safe by the beds. Anyone from the cow walk or planting near water 466,106,-1086? I have bread for the hungry."}
 - 13:36 say: {"text":"Morning. Laforge here. Still holding 4 bread and 124 seeds. Is anyone calling a cow walk, or can someone read back the water cell at 466,106,-1086 so I can plant?"}
 - 13:40 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1093}}],"say":"Dusk and thunder. I am going to my bed to sleep."}
+- 13:41 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Night, I'm turning in by the bed at 429,107,-1092.","reasoning":"Night, safe, next to bed, fed. Rest."}
