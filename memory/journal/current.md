@@ -53,3 +53,6 @@
 - 05:40 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}],"say":"Dusk. Going to the bed at 401,107,-1036 to wait for night.","reasoning":"Dusk and no sleep in 10 days. Nearest bed is two blocks 
 - 05:40 act: {"actions":[{"do":"sleep"}],"reasoning":"Beside the bed at dusk. Try sleep; if refused, wait for night."}
 - 05:40 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep again to reach the 10 needed."}
+- 05:41 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}],"say":"Night is here. I'm going to sleep in the white bed next to me."}
+- 05:41 act: {"actions":[{"do":"sleep"}]}
+- 05:41 act: {"actions":[{"do":"sleep"}]}
