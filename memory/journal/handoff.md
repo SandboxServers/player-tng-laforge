@@ -1,7 +1,8 @@
 # Handoff
 
-- Day 405, night. Asleep at the white bed, stand 430,107,-1092 (bed 429,107,-1092). Health 20, hunger 20.
-- Holding 12 wheat_seeds, 13 oak planks, wooden hoe, 6 dirt, 5 sticks, flint, 2 gravel.
-- MacDonald has not named a bare cell. Do not plant until he names exact x y z and I read it back.
-- Wheat near water (462-465, 107, -1082 to -1089) is ripe. Eat bread, not raw wheat.
-- Next: at first light, check the bed row for Jason and MacDonald. Offer planks to any builder. Join cow walk if called.
+- Day 409, dusk. Slept (sleep tool, days_since_sleep reset to 0). Standing by the bed row at about 414,107,-1041. Health 20, hunger 20.
+- Holding 19 wheat_seeds, 9 oak_planks, wooden_hoe, 6 dirt, 5 sticks, flint, 2 gravel.
+- One wheat seed planted at 463,107,-1084 (MacDonald named it, read back).
+- Billy holds the cow walk until first light, four in sight. Join it when he calls.
+- Use on a bed fails ("that block is a bed"). Sleep through the sleep verb beside the bed.
+- Next: at first light, join Billy's cow walk. Offer planks to any builder. Eat ripe wheat at the farm only through bread at the table 433,107,-1089.

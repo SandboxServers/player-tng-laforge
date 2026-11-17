@@ -62,3 +62,6 @@
 - 05:47 act: {"say":"Billy, I'm here at the row in your sight, 9 planks in hand. Call the walk and I'll follow."}
 - 05:59 act: {"say":"Billy, I'm in your sight at 414,107,-1040. Kimberly, Leonardo and Riker are low on health; I have no food, but I'll gladly carry wheat to any of you who ask. Holding for the walk."}
 - 06:04 act: {"intent":{"goal":"follow_billy_cow_walk","program":"follow","arguments":{"target":"Billy"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_w
+- 06:04 act: {"say":"LaForge holding at the bed row for Billy's walk at first light. I count in sight. Sleeping soon.","actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1040}}],"reasoning":"Sun is low, no wal
+- 06:04 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"reasoning":"Sun is low and I have no walk until first light. Try the nearest free white bed to sleep."}
+- 06:05 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"reasoning":"The use failed from too far; the bed is a bed, so I must stand beside it and 
