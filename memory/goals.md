@@ -1,7 +1,7 @@
 # Goals (ranked)
 
 1. Keep myself fed, sheltered and safe. Stay at the beds 429-430,107,-1092/-1093; be there before dusk; no night walks. Reason: I died on day 441 walking out at night.
-2. Find someone face to face at camp. Walk to camp only in daylight, with food to share. Reason: calls from the beds have gone unanswered for days.
+2. Find someone face to face at camp. Walk to camp only in the morning, with food to share. Reason: calls from the beds and the water cell have gone unanswered for days.
 3. Get into the potato patch behind the oak fence at 462-468,107,-1072/-1075. Find the gate or a gap; ask MacDonald or Clark. Reason: camp food.
 4. Find out how to take ripe wheat. Ask one person who has harvested it. Reason: camp food.
 5. Plant wheat seeds only on a bare cell MacDonald reads back, near water 466,106,-1086. Reason: camp food.
