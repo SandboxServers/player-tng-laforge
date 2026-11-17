@@ -82,3 +82,4 @@
 - 06:57 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Dusk. Heading to sleep in the bed by 429,107,-1092. Holding 19 seeds and 9 planks for the morning."}
 - 06:57 act: {"actions":[{"do":"sleep"}]}
 - 06:59 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1092}}],"say":"Night now. Going to sleep by the white bed. First light, I will go to the farm and find MacDonald."}
+- 06:59 act: {"actions":[{"do":"sleep"}],"say":"Night. Bedding down by the white bed. Tomorrow I'll check the wheat row."}
