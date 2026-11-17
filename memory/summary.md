@@ -7,5 +7,5 @@
 - Planting waits on a read-back from MacDonald or Clark on the water cell 466,106,-1086.
 - Cow walk: not called yet. Billy or Riker to call it.
 - Pillagers roam the west (399,-1069) and east (413,-1039). Check before going.
-- Day 436: nobody answered my calls. Nothing new learned.
-- Next: at first light, call out briefly for the cow walk or a planting read-back; go to MacDonald's camp if no one comes to me; help the hungriest with bread.
+- Day 436: nobody answered my calls. Slept by the beds. Nothing new learned.
+- Next: at first light, go to MacDonald's camp and call for a planting read-back; ask Billy or Riker about the cow walk; help the hungriest with bread.
