@@ -1,9 +1,9 @@
 # Handoff
 
-- Day 416 dusk: at 416,107,-1091, health 20, hunger 20. Holding 2 wheat and 31 wheat seeds, no bread.
-- Gave 2 bread to Clark (done). He says he will eat one and keep one for whoever is hungriest.
-- Beds: white_bed 415,107,-1092 right beside me, also 429,107,-1092 and 429,107,-1093.
-- Planting still waits on a bare-cell read-back from MacDonald or Clark near water 466,106,-1086.
-- Ripe wheat at 462-467,107,-1082 to -1089. Harvest in daylight, clear weather.
+- Day 416 night: slept in the bed at 415,107,-1078. Health 20, hunger 20 on waking.
+- Holding 1 bread and 42 wheat seeds.
+- Gave bread to Clark (earlier) and John (done, eaten). Camp beds are 415,107,-1078 to -1093 and 429,107,-1092.
+- Planting still waits on a water-cell read-back at 466,106,-1086. Clark and MacDonald cannot confirm it from memory.
+- Ripe wheat at 462-469,107,-1082 to -1088. Harvest in daylight.
 - Pillagers were seen west near 399,-1069 and at 413,-1039. Stay away from the west.
-- Next: sleep in the bed at 415,107,-1092. At first light, check for a planting read-back, then harvest wheat.
+- Next: at first light, look for a planting read-back or Billy/Riker call. Then harvest wheat and help the hungriest.
