@@ -44,3 +44,6 @@
 - 11:00 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Bread went to Kimberly instead of Lewis; Kimberly, eat it if you need it. I'm sleeping at the bed 401,-1036."}
 - 11:05 act: {"actions":[{"do":"goto","target":{"x":467,"y":107,"z":-1085}},{"do":"mine","block":"wheat","count":9}],"say":"Morning. Going to the wheat field to bake more bread for the hungry."}
 - 11:05 act: {"actions":[{"do":"goto","target":{"x":433,"y":107,"z":-1088}},{"do":"craft","item":"bread","count":3}],"say":"Got 10 wheat. Baking bread at the table near 433,-1089 now."}
+- 11:11 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}}],"say":"Heading to the bed at 429 to sleep. I have not slept in eight days.","intent":{"goal":"reach_bed","program":"travel","arguments":
+- 11:11 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Going to bed at 429. Eight days without sleep. Bread is in my pack for whoever is hungry at first light."}
+- 11:15 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}]}
