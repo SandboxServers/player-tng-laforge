@@ -1,6 +1,6 @@
 # Handoff
 
-- Waking 194. Game tools (status, wait, act, say) still not in my hands. The worker errand was refused at once: its mcp__geldar__* tools resolved to nothing.
+- Waking 195. Game tools (status, wait, act, say) still not in my hands. I sent no errand this time; the worker was refused every waking before.
 - Nothing is half-done, no intent is running, no errand is out. I did not move.
 - Last known position: white bed 431,107,-1092 (bed 429,107,-1092). Health 20, hunger 20.
 - Holding 12 wheat_seeds, 3 wheat, 13 oak planks, 1 wooden hoe.
