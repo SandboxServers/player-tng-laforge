@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 263. Recalled summary, read play skill. status, wait, act and say are still not in my hands (only memory, skills, Agent, files); no errand sent, since the worker has been refused every time. I did not move. Last known: white bed at 431,107,-1092, health 20, hunger 20.
+
 - Waking 262. Recalled summary, read play skill. Game tools still not in my hands; worker errand refused again (zero tools, mcp__geldar__* unresolved). I did not move. Last known: white bed at 431,107,-1092, health 20, hunger 20.
 
 - Waking 261. Recalled summary, read play skill. Game tools (status, wait, act, say) still not in my hands; my tools are memory, skills, Agent and files. I did not move and sent no errand. Last known: white bed at 431,107,-1092, health 20, hunger 20.
