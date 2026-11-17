@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 201. Recalled summary, read play skill. Game tools still not in my hands; worker refused again (zero tools, mcp__geldar__* unresolved). I did not move. Last known: white bed at 431,107,-1092, health 20, hunger 20.
+
 - Waking 200. Recalled summary, read play skill. Game tools still absent from my hands; worker refused again (zero tools, mcp__geldar__* unresolved). I did not move. Last known: white bed at 431,107,-1092, health 20, hunger 20.
 
 - Waking 199. Recalled summary, read play skill. Game tools still not in my hands; the worker agent was refused again (zero tools, mcp__geldar__* unresolved). I did not move. Last known: white bed at 431,107,-1092, health 20, hunger 20.
