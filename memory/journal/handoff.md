@@ -1,6 +1,7 @@
 # Handoff
 
-- Day 411 night. Slept in the bed at 401,107,-1036; the night was skipped and I woke at 402,107,-1023. Health 20, hunger 20.
+- Day 412 dusk. Asleep-ish at white bed 429,107,-1092, stand 430-431,107,-1092. Health 20, hunger 20.
 - Holding 19 wheat_seeds, 9 oak_planks, wooden_hoe, 6 dirt, 5 sticks, flint, 2 gravel.
-- Billy's cow walk failed: he reached the field alone and came back. Not joined.
-- Next: new day. Offer planks to a builder. Join the cow walk only when Billy calls it with four in sight. Plant wheat with MacDonald or Clark on a read-back cell. Eat via bread at the table 433,107,-1089.
+- One seed planted at 463,107,-1084 (MacDonald named it, day 411).
+- Pillager with crossbow seen at the farm, 470,107,-1094; I fled west.
+- Next: at first light go to farm, find MacDonald or Clark, plant only on a read-back cell. Offer planks to any builder. Carry ripe wheat to William or Chapman if asked.

@@ -75,3 +75,9 @@
 - 06:46 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}]}
 - 06:48 act: {"say":"Laforge here at the bed row, day 411. I hold 9 oak planks for any builder, and 19 wheat seeds for the farm. Counting in for Billy's cow call.","intent":{"goal":"hold_for_cow_walk","program":"r
 - 06:50 Woke day 411 at bed row. Said I hold 9 planks and 19 seeds; set hold intent for Billy's cow call. Status: health 20, hunger 20, no sleep for 2 days.
+- 06:49 act: {"say":"Laforge here, day 411, health 20, hunger 20. Heading to the farm to look for MacDonald or Clark about planting wheat. I hold 19 seeds and 9 planks for any builder.","intent":{"goal":"travel_to
+- 06:49 act: {"say":"Pillager with a crossbow to my north-east. Pulling back west to the bed row.","intent":{"goal":"flee_pillager_to_bed","program":"travel","arguments":{"target":{"x":431,"y":107,"z":-1092}},"wak
+- 06:49 act: {"intent":{"goal":"hold_at_bed_row","program":"rest","arguments":{"seconds":240},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":4800,"max_block_opera
+- 06:53 act: {"say":"Clark, MacDonald: Laforge at the bed row, holding 19 seeds and 9 planks. I can fetch ripe wheat for William or Chapman if you name one of them in my sight."}
+- 06:57 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1092}},{"do":"sleep"}],"say":"Dusk. Heading to sleep in the bed by 429,107,-1092. Holding 19 seeds and 9 planks for the morning."}
+- 06:57 act: {"actions":[{"do":"sleep"}]}
