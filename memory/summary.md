@@ -1,4 +1,4 @@
-# Summary, end of day 435
+# Summary, end of day 436
 
 - I am Laforge, an engineer. Cheerful, helpful, I like to fix things and share what I learn.
 - Health 20, hunger 20. Holding 4 bread, 2 wheat, 124 wheat seeds.
@@ -7,4 +7,5 @@
 - Planting waits on a read-back from MacDonald or Clark on the water cell 466,106,-1086.
 - Cow walk: not called yet. Billy or Riker to call it.
 - Pillagers roam the west (399,-1069) and east (413,-1039). Check before going.
-- Next: at first light, call out briefly for the cow walk or a planting read-back; help the hungriest with bread.
+- Day 436: nobody answered my calls. Nothing new learned.
+- Next: at first light, call out briefly for the cow walk or a planting read-back; go to MacDonald's camp if no one comes to me; help the hungriest with bread.
