@@ -26,3 +26,30 @@
 - 04:47 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1092}}],"say":"Heading to the bed row for the night. Jason, see you at first light."}
 - 04:47 act: {"actions":[{"do":"sleep"}]}
 - 04:47 act: {"actions":[{"do":"sleep"}]}
+- 04:49 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1092}}],"say":"MacDonald, I'm turning in by the white bed too. Plank offer still stands."}
+- 04:49 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1092}},{"do":"sleep"}]}
+- 04:51 act: {"intent":{"goal":"reach_farm_shore","program":"travel","arguments":{"target":{"x":462,"y":106,"z":-1085}},"wake_on":["goal_completed","directly_addressed","precondition_failed"],"limits":{"max_world_
+- 04:51 act: {"actions":[{"do":"mine","block":"wheat","count":3}],"say":"MacDonald, which bare cell do you want planted? Give me exact x y z and I'll read it back. I'm also taking a few ripe wheat for bread."}
+- 04:51 act: {"actions":[{"do":"goto","target":{"x":432,"y":107,"z":-1089}},{"do":"craft","item":"bread","count":1}],"say":"MacDonald, got 3 wheat; making bread at the table. Still waiting on your bare cell."}
+- 04:51 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1091}}],"say":"Jason, I have bread for you, come to the bed row."}
+- 04:55 act: {"actions":[{"do":"goto","target":{"x":462,"y":107,"z":-1085}}],"say":"MacDonald, read back: bare cell x 463, y 106, z -1084, tilled farmland with air above. I'll plant one wheat seed on it, with you 
+- 04:55 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":463,"y":107,"z":-1084}}],"say":"Planting one seed at 463,107,-1084, on the farmland MacDonald named."}
+- 04:55 act: {"actions":[],"say":"MacDonald, you're standing on the cell. Please step off 463,107,-1084 and I'll plant."}
+- 04:55 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":463,"y":107,"z":-1084}}]}
+- 04:55 act: {"actions":[],"say":"MacDonald, placing the seed on 463,107,-1084 is blocked: someone is standing there, and I can't see who. Could you plant that seed yourself, or tell me which cell is clear?"}
+- 04:57 act: {"actions":[{"do":"place","block":"wheat_seeds","at":{"x":463,"y":107,"z":-1084}}]}
+- 04:58 act: {"actions":[],"say":"MacDonald, planted one wheat seed at 463,107,-1084, on the cell you named. Thank you. I have 19 seeds left and 13 planks for any builder."}
+- 05:02 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1092}}],"intent":{"goal":"reach_bed_for_night","program":"travel","arguments":{"target":{"x":431,"y":107,"z":-1092}},"wake_on":["goal_completed"
+- 05:02 act: {"actions":[{"do":"sleep"}]}
+- 05:14 act: {"actions":[{"do":"sleep"}]}
+- 05:18 act: {"actions":[{"do":"goto","target":"jason"}],"say":"Morning. Jason, I am bringing the bread I owe you."}
+- 05:18 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1065}}]}
+- 05:19 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"bread","count":1}],"say":"Jason, here is your bread. Billy, I have 13 oak planks for any builder and I am ready for the cow walk."}
+- 05:23 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"oak_planks","count":3}],"say":"Leonardo, sending 3 oak planks. If you cannot see me, walk into my sight and I will hand them over."}
+- 05:27 act: {"actions":[{"do":"sleep"}],"say":"Dusk. I am sleeping by the bed at 415,107,-1064. Leonardo, I will bring your planks at first light."}
+- 05:31 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1037}}],"say":"Morning. Walking to Leonardo with the 3 planks."}
+- 05:31 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"oak_planks","count":3}],"say":"Leonardo, here are 3 oak planks for your sword."}
+- 05:35 act: {"actions":[{"do":"give","to":"ag_leonardo_01","item":"oak_planks","count":1}],"say":"Leonardo, here is one more oak plank for your sword.","reasoning":"Leonardo is one plank short. I have 10 spare. H
+- 05:40 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}],"say":"Dusk. Going to the bed at 401,107,-1036 to wait for night.","reasoning":"Dusk and no sleep in 10 days. Nearest bed is two blocks 
+- 05:40 act: {"actions":[{"do":"sleep"}],"reasoning":"Beside the bed at dusk. Try sleep; if refused, wait for night."}
+- 05:40 act: {"actions":[{"do":"sleep"}],"reasoning":"Sleep again to reach the 10 needed."}
