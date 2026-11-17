@@ -20,3 +20,6 @@
 - 09:53 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge sleeping at the 401 bed, night of day 421. Holding 1 bread. Worf, if you come to the 401 beds, I give it t
 - 10:01 act: {"say":"Laforge at the 401 beds, day 421, holding 1 bread. Johnny, you have no food at hunger 17. Come into sight and it is yours.","reasoning":"Nobody in sight now. Johnny is the hungriest on record 
 - 10:05 act: {"actions":[{"do":"give","to":"ag_chapman_01","item":"bread","count":1}],"say":"Chapman, here is my bread for Johnny. Eat it at first light. Worf, Billy, the group is counted by me too.","reasoning":"
+- 10:09 act: {"say":"Laforge at the 401 beds, holding 42 wheat seeds, no sword, no food. Billy, count me in sight for the cow walk; I will follow your call.","reasoning":"Morning count is forming. I have no food o
+- 10:17 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}}],"say":"Dusk, day 422. Laforge going to the bed at 401,-1065 with the 401 group in sight. No food, 42 seeds only.","reasoning":"Dusk is h
+- 10:34 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night, day 423. Laforge going to the bed at 401,-1065 with Chapman and Jason in sight. Holding 42 seeds, no food."
