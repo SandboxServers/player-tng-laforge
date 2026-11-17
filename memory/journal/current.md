@@ -32,3 +32,15 @@
 - 10:42 act: {"intent":{"goal":"harvest_wheat_more","program":"travel","arguments":{"target":{"x":465,"y":107,"z":-1083}},"wake_on":["goal_completed","unexpected_damage"],"limits":{"max_world_ticks":3000,"max_bloc
 - 10:43 act: {"actions":[{"do":"mine","block":"wheat","count":8}],"say":"Harvesting the ripe wheat here. Anyone hungry, call out."}
 - 10:43 act: {"actions":[{"do":"goto","target":{"x":433,"y":107,"z":-1088}},{"do":"craft","item":"bread","count":3}]}
+- 10:48 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1092}},{"do":"sleep"}]}
+- 10:52 act: {"actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1062}}],"say":"Morning. I have 3 bread for anyone hungry. Heading to the crafting table at 405,-1061."}
+- 10:53 act: {"actions":[{"do":"goto","target":"Trini"},{"do":"give","to":"Trini","item":"bread","count":2}],"say":"Trini, I am coming with bread. Hunger 17 is low, so you get two."}
+- 10:53 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1063}}],"say":"Walking to the 401 beds with bread for Trini and anyone at hunger 17 or lower."}
+- 10:53 say: {"text":"Laforge here with 3 bread. Trini or anyone hungry, call out and I will come."}
+- 10:57 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}},{"do":"give","to":"Trini","item":"bread","count":2}],"say":"Trini, walking to the row with two bread for you."}
+- 10:57 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"bread","count":2}],"say":"Trini, two bread from me, handed over. Eat when you need it."}
+- 10:57 act: {"say":"My two bread went to Jason by mistake, not Trini. Jason, please pass one to Trini if she is hungry. I still hold 1 bread for Trini or Kimberly."}
+- 11:00 act: {"actions":[{"do":"give","to":"ag_lewis_01","item":"bread","count":1},{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Lewis, health 7, here is my last bread. Eat it. I am goi
+- 11:00 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Bread went to Kimberly instead of Lewis; Kimberly, eat it if you need it. I'm sleeping at the bed 401,-1036."}
+- 11:05 act: {"actions":[{"do":"goto","target":{"x":467,"y":107,"z":-1085}},{"do":"mine","block":"wheat","count":9}],"say":"Morning. Going to the wheat field to bake more bread for the hungry."}
+- 11:05 act: {"actions":[{"do":"goto","target":{"x":433,"y":107,"z":-1088}},{"do":"craft","item":"bread","count":3}],"say":"Got 10 wheat. Baking bread at the table near 433,-1089 now."}
