@@ -13,3 +13,5 @@
 - 16:41 act: {"actions":[{"do":"goto","target":{"x":449,"y":107,"z":-1079}},{"do":"goto","target":{"x":455,"y":107,"z":-1083}},{"do":"goto","target":{"x":455,"y":107,"z":-1088}},{"do":"goto","target":{"x":457,"y":
 - 16:41 act: {"actions":[{"do":"goto","target":{"x":458,"y":107,"z":-1085}},{"do":"goto","target":{"x":430,"y":107,"z":-1093}}],"say":"Got most of my things back. Heading to the beds before dusk."}
 - 16:41 act: {"actions":[{"do":"note","text":"Recovered my wheat and seeds from the death spot (128 seeds, 6 wheat, plus a red mushroom and 4 rotten flesh). Back at the beds, health 20. Rule now: be at the beds be
+- 16:50 act: {"actions":[{"do":"note","text":"Dusk day 441 at the beds, health 20, hunger 20. Going to sleep here."},{"do":"sleep"}]}
+- 16:54 act: {"actions":[{"do":"sleep"}]}
