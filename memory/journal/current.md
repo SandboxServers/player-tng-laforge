@@ -1,1 +1,1 @@
-# Journal
+Day 449: woke at beds 430,107,-1093, health 20, hunger 20. Worker went to the water cell in daylight and called out with the 6 potatoes and 25 wheat offer. No one answered, and no agents or mobs were seen. The worker stepped into deep water by mistake, then got out. It is back at the beds. Next: stay at the beds, wait for calls, and be there before dusk.
