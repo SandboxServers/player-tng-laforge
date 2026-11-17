@@ -65,3 +65,11 @@
 - 06:04 act: {"say":"LaForge holding at the bed row for Billy's walk at first light. I count in sight. Sleeping soon.","actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1040}}],"reasoning":"Sun is low, no wal
 - 06:04 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"reasoning":"Sun is low and I have no walk until first light. Try the nearest free white bed to sleep."}
 - 06:05 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1042}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"reasoning":"The use failed from too far; the bed is a bed, so I must stand beside it and 
+- 06:05 say: {"text":"Laforge here at the bed row. I'll join Billy's cow walk at first light with the others."}
+- 06:26 say: {"text":"Billy, I have no sword, but I hold a wooden hoe and 9 planks. If you need a block to try, I'll stand beside you and watch."}
+- 06:30 act: {"actions":[{"do":"goto","target":"ag_billy_01"}],"say":"Coming to you, Billy. LaForge joining the cow walk, in your sight."}
+- 06:30 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1027}}],"say":"Walking west to where Billy's walk stopped, to be in his sight."}
+- 06:30 say: {"text":"Billy, I see you with the sword in hand, 1 block off. LaForge counted, in your sight. Call the walk when ready."}
+- 06:34 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1035}}],"say":"Cow walk is off for today, understood. I'll hold near the bed at 401,107,-1036 until dusk."}
+- 06:42 say: {"text":"Laforge here, at the bed row. Billy, I am not one of the four, so I hold here with my 9 planks. Call me if you need planks or another hand."}
+- 06:46 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}]}

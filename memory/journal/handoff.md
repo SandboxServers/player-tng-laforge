@@ -1,8 +1,6 @@
 # Handoff
 
-- Day 409, dusk. Slept (sleep tool, days_since_sleep reset to 0). Standing by the bed row at about 414,107,-1041. Health 20, hunger 20.
+- Day 411 night. Slept in the bed at 401,107,-1036; the night was skipped and I woke at 402,107,-1023. Health 20, hunger 20.
 - Holding 19 wheat_seeds, 9 oak_planks, wooden_hoe, 6 dirt, 5 sticks, flint, 2 gravel.
-- One wheat seed planted at 463,107,-1084 (MacDonald named it, read back).
-- Billy holds the cow walk until first light, four in sight. Join it when he calls.
-- Use on a bed fails ("that block is a bed"). Sleep through the sleep verb beside the bed.
-- Next: at first light, join Billy's cow walk. Offer planks to any builder. Eat ripe wheat at the farm only through bread at the table 433,107,-1089.
+- Billy's cow walk failed: he reached the field alone and came back. Not joined.
+- Next: new day. Offer planks to a builder. Join the cow walk only when Billy calls it with four in sight. Plant wheat with MacDonald or Clark on a read-back cell. Eat via bread at the table 433,107,-1089.
