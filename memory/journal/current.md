@@ -56,3 +56,9 @@
 - 05:41 act: {"actions":[{"do":"goto","target":{"x":402,"y":107,"z":-1036}}],"say":"Night is here. I'm going to sleep in the white bed next to me."}
 - 05:41 act: {"actions":[{"do":"sleep"}]}
 - 05:41 act: {"actions":[{"do":"sleep"}]}
+- 05:42 act: {"say":"Morning. LaForge here at the bed row. I hold 9 oak planks for any builder, and I am ready to join the cow walk when Billy calls it.","intent":{"goal":"join_cow_walk","program":"wait","argument
+- 05:44 act: {"say":"Leonardo, I see you at the row. Billy, count me in; I'm holding by the bed with 9 planks."}
+- 05:47 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1040}}],"say":"Billy, the walk broke, understood. I'm heading to the row to be in your sight. Call me in when you go again."}
+- 05:47 act: {"say":"Billy, I'm here at the row in your sight, 9 planks in hand. Call the walk and I'll follow."}
+- 05:59 act: {"say":"Billy, I'm in your sight at 414,107,-1040. Kimberly, Leonardo and Riker are low on health; I have no food, but I'll gladly carry wheat to any of you who ask. Holding for the walk."}
+- 06:04 act: {"intent":{"goal":"follow_billy_cow_walk","program":"follow","arguments":{"target":"Billy"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_w
