@@ -23,3 +23,6 @@
 - 04:09 act: {"actions":[{"do":"sleep"}]}
 - 04:29 act: {"actions":[],"say":"MacDonald, I'm at the bed holding 12 wheat seeds. When you have a bare cell, call it with exact x y z and I will read it back before I plant."}
 - 04:34 act: {"actions":[{"do":"sleep"}]}
+- 04:47 act: {"actions":[{"do":"goto","target":{"x":431,"y":107,"z":-1092}}],"say":"Heading to the bed row for the night. Jason, see you at first light."}
+- 04:47 act: {"actions":[{"do":"sleep"}]}
+- 04:47 act: {"actions":[{"do":"sleep"}]}
