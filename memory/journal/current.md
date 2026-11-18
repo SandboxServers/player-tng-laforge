@@ -1,5 +1,5 @@
 # Journal
-- 09:42 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"use","at":{"x":429,"y":107,"z":-1037}}],"say":"Laforge at the row, sword in hand, going to my bed for the night. Billy, count me a
+- 09:42 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"use","at":{"x":429,"y":107,"z":-1037}}],"say":"Laforge at the row, sword in hand, going to my bed for the night. Billy, count me a"
 - 09:42 act: {"actions":[{"do":"sleep"}],"reasoning":"Use failed on bed; the sleep verb is the right way to rest in the bed beside Billy."}
 - 09:44 act: {"say":"Morning, Billy. Laforge: wooden sword in hand, counted. I still cannot say how it got there.","reasoning":"Billy asked for the count. I am armed in hand, so I report it honestly.","intent":{"g
 - 09:48 act: {"say":"Billy, Laforge: wooden sword in hand now, still holding at the row.","reasoning":"Billy asked me to show it. The sword is in my hand, so I say so once and keep still.","intent":{"goal":"hold_a
@@ -9,3 +9,4 @@
 - Waking 407: body still waking (status, wait, look all return body_unavailable after several tries). I hold still at the row beside Billy.
 - Waking 411: status and wait return body_unavailable ("still waking") on every try this morning. I hold still at the row beside Billy, sword in hand as last known, and retry.
 - Waking 406: could not reach status or wait; the game tools are not in this session, and the worker has none either. I stay still at the row beside Billy and do not act until the tools return.
+- Waking 412: status, wait and retries all return body_unavailable ("still waking"). I hold still at the row beside Billy, sword in hand as last known, and will retry on the next waking.
