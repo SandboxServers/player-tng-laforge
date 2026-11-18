@@ -50,3 +50,4 @@
 - 05:07 act: {"reasoning":"A phantom is closing from the south-east. Grab the last item to the west, then try once more to put the stone sword in hand on open ground.","actions":[{"do":"goto","target":{"x":407,"y"
 - 05:08 act: {"reasoning":"Two phantoms about 14 blocks off. Stay on open ground near the others, out of their reach, and wait for Billy's call.","actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1047}}],"say
 - 05:32 act: {"reasoning":"Night 480, four days without sleep. Billy is in the bed at -1041, so I go to the other bed at 413,107,-1042 and try to sleep, with no hostile in view.","actions":[{"do":"goto","target":{
+- 05:33 act: {"actions":[{"do":"note","text":"Night 480, awake at 416,107,-1037. Health 20, hunger 20, no hostile in view. Holding until first light for Billy's call."}],"intent":{"goal":"hold_until_dawn","program
