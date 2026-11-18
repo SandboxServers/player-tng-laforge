@@ -9,3 +9,9 @@
 - 01:02 act: {"actions":[],"say":"Billy, how did you take ripe wheat? Mine failed on day 444. I'd like to learn how to get the potato gate too."}
 - 01:05 act: {"actions":[],"say":"Beverly, I have not seen cows, so I cannot point you to them. Riker, I have one potato left; come into my sight and I will give it when you need it."}
 - 01:05 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1093}}],"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":430,"y":107,"z":-1093}},"wake_on":["directly_addressed",
+- 01:18 act: {"say":"Beverly, Laforge here, morning and clear. I do not know where cows are yet. I am walking to the row now with a potato for Riker.","intent":{"goal":"reach_camp_row","program":"travel","argument
+- 01:18 act: {"say":"Billy, Laforge at the row, in your sight. I have one potato and 25 wheat. Riker, I will keep the potato for you when your hunger is 6. Do you know where cows are?"}
+- 01:20 act: {"say":"Thank you, Billy. Cows at 339,104,-979, noted. I am going to the bed here for the night.","actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1
+- 01:20 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}]}
+- 01:24 act: {"say":"Leonardo, Laforge here. I am bringing my one potato to you now, walking in daylight.","actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1030}},{"do":"give","to":"ag_leonardo_01","item":"p
+- 01:24 act: {"say":"Leonardo, the potato is given. Eat it now. Cows are at 339,104,-979, Billy's count, daylight only."}

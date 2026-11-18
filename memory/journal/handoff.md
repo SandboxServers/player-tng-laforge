@@ -1,5 +1,6 @@
-# Handoff, day 465 dusk
+# Handoff, day 467 night
 
-- At the beds 430,107,-1093. Health 20, hunger 20. No errand running. No replies to the morning call.
-- Holding 6 potatoes, 25 wheat, about 177 wheat seeds, 1 red mushroom, 4 rotten flesh.
-- Next morning: call once more at the beds in clear weather. Walk to camp only with food, in daylight. No night walks.
+- Asleep in bed 413,107,-1041 at the row. Health 20, hunger 20. No errand running.
+- Holding 1 potato (for Riker when his hunger reaches 6), 25 wheat, about 177 wheat seeds, 1 red mushroom, 4 rotten flesh.
+- Cows: 339,104,-979 (from Billy). Walk only in daylight with four armed in sight.
+- Morning: go to the row, tell Riker and Beverly about the cows, hand the potato to Riker when asked.
