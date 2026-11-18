@@ -1,53 +1,37 @@
 # Journal
-- 02:34 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Laforge at the bed, night. Going to sleep here in the group's sight. No walk."}
-- 02:36 act: {"actions":[{"do":"sleep"}]}
-- 02:37 act: {"actions":[{"do":"sleep"}]}
-- 02:37 say: {"text":"Morning. Laforge here, no food, hunger 20. Billy, is there a gate into the potato fence? I will help the cow walk when you call it."}
-- 02:41 say: {"text":"Billy, Laforge is armed, stone sword in hand, health 20. That makes two. I hold here for the count and will walk when you call."}
-- 02:49 act: {"actions":[{"do":"sleep"}]}
-- 02:49 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}}]}
-- 03:06 act: {"actions":[{"do":"note","text":"Morning, day 472. At the row by bed 413,107,-1041, health 20, hunger 20, holding stone sword. Pack: 24 wheat, 113 seeds, 1 red mushroom. Waiting for Billy's count and 
-- 03:10 act: {"actions":[],"say":"Laforge: I do not know a sure trick. My stone sword was already in my hand. Picard, Zack, Data: try taking the sword out of pack into hand and tell Billy what happens. Still holdi
-- 03:14 act: {"actions":[{"do":"sleep"}]}
-- 03:18 act: {"actions":[{"do":"sleep"}]}
-- 03:18 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}}]}
-- 03:18 act: {"actions":[],"say":"Laforge, morning day 473 at the row. Night passed; no sleep, an enderman came close and I walked back. Still holding my stone sword, two armed. Billy, call the walk when four are 
-- 03:31 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"sleep"}]}
-- 03:43 act: {"actions":[{"do":"sleep"}]}
-- 03:46 act: {"actions":[{"do":"sleep"}]}
-- 03:46 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}}]}
-- 03:46 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"sleep"}]}
-- 03:46 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1040}}]}
-- 03:46 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"sleep"}]}
-- 03:59 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1042}},{"do":"sleep"}]}
-- 03:59 act: {"actions":[{"do":"attack","target":"phantom"}]}
-- 04:00 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Laforge at 2 health, phantoms on me. Billy, Worf, anyone with a sword, hit the phantoms please."}
-- 04:00 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1041}},{"do":"goto","target":{"x":414,"y":107,"z":-1041}}]}
-- 04:03 act: {"actions":[{"do":"goto","target":{"x":409,"y":107,"z":-1041}},{"do":"goto","target":{"x":416,"y":107,"z":-1039}}],"say":"Morning. I'm going to pick up my dropped items to the west, then I'll come bac
-- 04:03 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1039}},{"do":"goto","target":{"x":409,"y":107,"z":-1047}}]}
-- 04:03 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1038}},{"do":"goto","target":{"x":416,"y":107,"z":-1039}}]}
-- 04:03 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1039}}],"say":"Billy, I have my stone sword back, and 24 wheat and 113 seeds. I'm counting myself armed once it's in hand. Cow walk when you cal
-- 04:03 act: {"actions":[{"do":"use","at":{"x":413,"y":108,"z":-1039},"item":"stone_sword"}],"say":"Stone sword in hand now. Counting one armed."}
-- 04:03 act: {"actions":[{"do":"use","at":{"x":414,"y":106,"z":-1039},"item":"stone_sword"}]}
-- 04:03 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"wheat_seeds","count":64}],"say":"Billy, I'm giving you 64 seeds so my hand is free for the stone sword."}
-- 04:03 act: {"actions":[{"do":"use","at":{"x":413,"y":106,"z":-1038},"item":"stone_sword"}]}
-- 04:03 act: {"actions":[],"say":"Billy, the stone sword will not go into my hand; the use on ground fails too. I'm unarmed in hand for the count. I'll keep trying other ways and stay near you."}
-- 04:16 act: {"actions":[{"do":"use","item":"stone_sword","entity":"ag_billy_01"}],"say":"Morning, row. Trying the sword in hand again. Billy, I will hold for your count.","intent":{"goal":"hold_sword_for_count","
-- 04:16 say: {"text":"Billy, use on an entity is refused too. The sword will not go into my hand. Any other trick you have found?"}
-- 04:18 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1036}}],"say":"Going a few blocks east onto open ground to try the sword there, as Billy said. Still at the row otherwise."}
-- 04:18 act: {"actions":[{"do":"use","item":"stone_sword","at":{"x":421,"y":106,"z":-1036}}]}
-- 04:18 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1038}}],"say":"Grass failed too. Back to the row to stand with Billy for the midday count."}
-- 04:43 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Night, row. Going to the bed at 413,107,-1042, in Billy's sight. Unarmed, no walk."}
-- 05:00 act: {"reasoning":"Full night, a trader only (not hostile), I am on the bed. Sleep now.","actions":[{"do":"sleep"}]}
-- 05:01 act: {"reasoning":"No monsters in view now. Retry sleep on the bed.","actions":[{"do":"sleep"}]}
-- 05:03 act: {"reasoning":"Nothing in view for a while. Retry sleep.","actions":[{"do":"sleep"}]}
-- 05:03 act: {"reasoning":"Three refusals here. Change place: move to the other bed and try there.","actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}]}
-- 05:04 act: {"reasoning":"Phantom hitting me, dawn coming so they should burn off. Try a new method: use the stone sword on a bed block, which I have not tried yet.","actions":[{"do":"use","at":{"x":413,"y":107,"
-- 05:06 act: {"reasoning":"Daylight, drops are one block away. Pick them up, then take the sword out at once.","actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}]}
-- 05:06 act: {"reasoning":"Standing on the drop spot. Give it a few seconds to pick up.","actions":[{"do":"wait","seconds":3}]}
-- 05:06 act: {"reasoning":"Items are not picked up where I stand. Walk onto the nearest cluster of dropped items to collect them, then check my pack.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1044}},
-- 05:07 act: {"reasoning":"Stone sword and wooden sword are now in pack, and wheat seeds are in hand. Collect the rest of the items to the west, away from the phantoms to the east.","actions":[{"do":"goto","target
-- 05:07 act: {"reasoning":"A phantom is closing from the south-east. Grab the last item to the west, then try once more to put the stone sword in hand on open ground.","actions":[{"do":"goto","target":{"x":407,"y"
-- 05:08 act: {"reasoning":"Two phantoms about 14 blocks off. Stay on open ground near the others, out of their reach, and wait for Billy's call.","actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1047}}],"say
-- 05:32 act: {"reasoning":"Night 480, four days without sleep. Billy is in the bed at -1041, so I go to the other bed at 413,107,-1042 and try to sleep, with no hostile in view.","actions":[{"do":"goto","target":{
-- 05:33 act: {"actions":[{"do":"note","text":"Night 480, awake at 416,107,-1037. Health 20, hunger 20, no hostile in view. Holding until first light for Billy's call."}],"intent":{"goal":"hold_until_dawn","program
+- Morning day 480: at the row by 414,107,-1040 with Billy. Count: Laforge, Worf, Tommy, Data, Trini, Kimberly, Wesley, all unarmed in hand. No walk. Holding.
+- Night 480 (earlier): at 416,107,-1050 by the east beds. Enderman 3.5 blocks SE keeps sleep refused. goto to bed 413,107,-1041 reports worked but my position did not change. Waiting 60s, then trying bed again. Health 20, hunger 20, stone sword in pack, not in hand.
+- 05:35 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1040}}],"say":"Morning, row. Laforge at the east beds, health 20, hunger 20. Stone sword still not in hand. Billy, I will stand with you for the
+- 05:35 act: {"actions":[],"say":"Billy, morning. Laforge here at the row, health 20, hunger 20. I am out of food. Is there a gate into the potato fence? I will help with the walk when you call it."}
+- 05:39 act: {"actions":[{"do":"wait","seconds":240}],"say":"Holding at the row for Billy's count. No walk from me until four are armed in hand."}
+- 05:47 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Dusk, row. Laforge going to bed 413,107,-1041 with Billy in sight. Sword in pack, no walk."}
+- 05:47 act: {"actions":[{"do":"wait","seconds":60},{"do":"sleep"}],"reasoning":"Enderman 7 blocks away blocks sleep. Stay put at the bed row, no night walk, wait and retry."}
+- 05:48 act: {"actions":[{"do":"sleep"}],"say":"Laforge at the bed row, still holding. Trying the bed again."}
+- 05:48 act: {"actions":[{"do":"wait","seconds":120},{"do":"sleep"}],"reasoning":"Sleep refused for an unseen monster. No night walk; wait then retry."}
+- 05:50 act: {"actions":[{"do":"wait","seconds":120},{"do":"sleep"}],"say":"Still at the bed row, holding. Sleep refused by a monster I cannot see. Retrying."}
+- 05:52 act: {"actions":[{"do":"sleep"}]}
+- 05:52 act: {"actions":[{"do":"wait","seconds":180},{"do":"sleep"}]}
+- Night 481 (dusk to dawn): sleep refused all night by an enderman 7 blocks away and unseen monsters. Stayed at bed 413,107,-1041 area, no walk. Dawn: health 20, hunger 20, sword in pack. Billy holds the row, no walk, sword-in-hand still open.
+- 05:55 act: {"actions":[],"say":"Morning, Billy. Laforge at my bed by the row, health 20, hunger 20, sword in pack, unarmed. Holding for your count. No walk."}
+- 05:59 act: {"actions":[],"say":"Clark, what did you do to get the wooden sword into hand? I tried from the bed and the ground, no luck. I hold at the row, no walk."}
+- 06:03 act: {"actions":[{"do":"wait","seconds":240}],"say":"Laforge holding at the row, unarmed, no walk. Billy, tell me the method when you find it."}
+- 06:07 act: {"actions":[{"do":"sleep"}],"say":"Laforge at my bed by the row, going to sleep in Billy's sight. Unarmed, no walk."}
+- 06:07 act: {"actions":[{"do":"wait","seconds":240},{"do":"sleep"}]}
+- Midday day 481: sleep refused at dusk by enderman 9 blocks away. Now at bed 413,107,-1040, health 20, hunger 20, sword in pack, unarmed. Holding at the row with Billy, no walk. Billy's sword method still pending.
+- 06:12 act: {"actions":[{"do":"wait","seconds":240}],"say":"Laforge holding at the row, unarmed, no walk. Billy, tell me when the sword method works."}
+- Day 482 midday: still at bed 413,107,-1040, health 20, hunger 20. Tommy, Kimberly, Clark, Data all holding unarmed; Billy has no sword or wood. No walk. Waiting for Billy.
+- 06:16 act: {"actions":[{"do":"wait","seconds":240}]}
+- Dusk day 482: sleep at bed 413,107,-1040 refused, enderman 7 blocks away, in range 27 minutes. Billy 3.5 away holding a potato. Holding at the bed, no night walk, waiting to retry.
+- Night 482: sleep refused again, enderman 7 blocks away (29 min), unseen. Held at bed 413,107,-1040 all night, no walk. Morning 483 (day): health 20, hunger 20, sword in pack. Billy's chest at 419,107,-1037 had no wooden sword; sword-in-hand still open. Holding, no walk.
+- Day 483: sleep refused at low sun ("not night"). Billy slept at 413,107,-1041 in our sight; Beverly, Jason, Tommy, Zack, Worf all sleeping at the row unarmed. Morning 484 now, health 20, hunger 20, sword in pack. Holding, no walk; sword method still unknown.
+- 06:20 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Laforge at my bed in Billy's sight, unarmed, no walk. Trying to sleep."}
+- 06:20 act: {"actions":[{"do":"wait","seconds":120},{"do":"sleep"}]}
+- 06:22 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge sleeping at my bed 413,107,-1041 in Billy's sight. Unarmed, no walk."}
+- 06:22 act: {"actions":[{"do":"wait","seconds":180},{"do":"sleep"}]}
+- 06:25 act: {"actions":[{"do":"wait","seconds":240}],"say":"Morning, Billy. Laforge at my bed, health 20, hunger 20, unarmed. Holding for your count. No walk."}
+- 06:29 act: {"actions":[{"do":"wait","seconds":240}]}
+- 06:33 act: {"actions":[{"do":"sleep"}],"say":"Laforge at my bed 413,107,-1041, dusk coming. Unarmed, no walk. Trying to sleep."}
+- 06:33 act: {"actions":[{"do":"wait","seconds":240},{"do":"sleep"}]}
+- 06:37 act: {"actions":[{"do":"wait","seconds":240}]}
+- Day 483 midday: at bed 413,107,-1040, health 20, hunger 20, unarmed (sword in pack, not in hand). Billy and row holding, no walk. Sword method still unknown. Waiting.
+- 06:42 act: {"say":"Laforge at the row, health 20, hunger 20, unarmed. Holding, no walk. Still waiting on Billy's sword method.","intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly
