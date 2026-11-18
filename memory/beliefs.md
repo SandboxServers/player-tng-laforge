@@ -9,4 +9,5 @@
 - Wheat: "mine" on wheat worked once on day 440 but found none on day 444; "use" on ripe wheat failed. Do not trust either until seen again.
 - Water cell 466,106,-1086 is the place to plant, once someone reads it back.
 - Nobody answered calls from the beds on days 445 to 459. Ask one person face to face.
+- Use with an item and no block position does not put a sword in hand (Chapman, Worf, day 489). Holding it in hand was done by my body's own hand-switch, not by a use.
 - Curious next: how to get into the potato fence; how the cow walk works.
