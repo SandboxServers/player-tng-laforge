@@ -1,1 +1,52 @@
 # Journal
+- 02:34 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Laforge at the bed, night. Going to sleep here in the group's sight. No walk."}
+- 02:36 act: {"actions":[{"do":"sleep"}]}
+- 02:37 act: {"actions":[{"do":"sleep"}]}
+- 02:37 say: {"text":"Morning. Laforge here, no food, hunger 20. Billy, is there a gate into the potato fence? I will help the cow walk when you call it."}
+- 02:41 say: {"text":"Billy, Laforge is armed, stone sword in hand, health 20. That makes two. I hold here for the count and will walk when you call."}
+- 02:49 act: {"actions":[{"do":"sleep"}]}
+- 02:49 act: {"actions":[{"do":"use","at":{"x":413,"y":107,"z":-1041}}]}
+- 03:06 act: {"actions":[{"do":"note","text":"Morning, day 472. At the row by bed 413,107,-1041, health 20, hunger 20, holding stone sword. Pack: 24 wheat, 113 seeds, 1 red mushroom. Waiting for Billy's count and 
+- 03:10 act: {"actions":[],"say":"Laforge: I do not know a sure trick. My stone sword was already in my hand. Picard, Zack, Data: try taking the sword out of pack into hand and tell Billy what happens. Still holdi
+- 03:14 act: {"actions":[{"do":"sleep"}]}
+- 03:18 act: {"actions":[{"do":"sleep"}]}
+- 03:18 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}}]}
+- 03:18 act: {"actions":[],"say":"Laforge, morning day 473 at the row. Night passed; no sleep, an enderman came close and I walked back. Still holding my stone sword, two armed. Billy, call the walk when four are 
+- 03:31 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"sleep"}]}
+- 03:43 act: {"actions":[{"do":"sleep"}]}
+- 03:46 act: {"actions":[{"do":"sleep"}]}
+- 03:46 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}}]}
+- 03:46 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"sleep"}]}
+- 03:46 act: {"actions":[{"do":"goto","target":{"x":411,"y":107,"z":-1040}}]}
+- 03:46 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}},{"do":"sleep"}]}
+- 03:59 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1042}},{"do":"sleep"}]}
+- 03:59 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 04:00 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Laforge at 2 health, phantoms on me. Billy, Worf, anyone with a sword, hit the phantoms please."}
+- 04:00 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1041}},{"do":"goto","target":{"x":414,"y":107,"z":-1041}}]}
+- 04:03 act: {"actions":[{"do":"goto","target":{"x":409,"y":107,"z":-1041}},{"do":"goto","target":{"x":416,"y":107,"z":-1039}}],"say":"Morning. I'm going to pick up my dropped items to the west, then I'll come bac
+- 04:03 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1039}},{"do":"goto","target":{"x":409,"y":107,"z":-1047}}]}
+- 04:03 act: {"actions":[{"do":"goto","target":{"x":410,"y":107,"z":-1038}},{"do":"goto","target":{"x":416,"y":107,"z":-1039}}]}
+- 04:03 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1039}}],"say":"Billy, I have my stone sword back, and 24 wheat and 113 seeds. I'm counting myself armed once it's in hand. Cow walk when you cal
+- 04:03 act: {"actions":[{"do":"use","at":{"x":413,"y":108,"z":-1039},"item":"stone_sword"}],"say":"Stone sword in hand now. Counting one armed."}
+- 04:03 act: {"actions":[{"do":"use","at":{"x":414,"y":106,"z":-1039},"item":"stone_sword"}]}
+- 04:03 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"wheat_seeds","count":64}],"say":"Billy, I'm giving you 64 seeds so my hand is free for the stone sword."}
+- 04:03 act: {"actions":[{"do":"use","at":{"x":413,"y":106,"z":-1038},"item":"stone_sword"}]}
+- 04:03 act: {"actions":[],"say":"Billy, the stone sword will not go into my hand; the use on ground fails too. I'm unarmed in hand for the count. I'll keep trying other ways and stay near you."}
+- 04:16 act: {"actions":[{"do":"use","item":"stone_sword","entity":"ag_billy_01"}],"say":"Morning, row. Trying the sword in hand again. Billy, I will hold for your count.","intent":{"goal":"hold_sword_for_count","
+- 04:16 say: {"text":"Billy, use on an entity is refused too. The sword will not go into my hand. Any other trick you have found?"}
+- 04:18 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1036}}],"say":"Going a few blocks east onto open ground to try the sword there, as Billy said. Still at the row otherwise."}
+- 04:18 act: {"actions":[{"do":"use","item":"stone_sword","at":{"x":421,"y":106,"z":-1036}}]}
+- 04:18 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1038}}],"say":"Grass failed too. Back to the row to stand with Billy for the midday count."}
+- 04:43 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}},{"do":"sleep"}],"say":"Night, row. Going to the bed at 413,107,-1042, in Billy's sight. Unarmed, no walk."}
+- 05:00 act: {"reasoning":"Full night, a trader only (not hostile), I am on the bed. Sleep now.","actions":[{"do":"sleep"}]}
+- 05:01 act: {"reasoning":"No monsters in view now. Retry sleep on the bed.","actions":[{"do":"sleep"}]}
+- 05:03 act: {"reasoning":"Nothing in view for a while. Retry sleep.","actions":[{"do":"sleep"}]}
+- 05:03 act: {"reasoning":"Three refusals here. Change place: move to the other bed and try there.","actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}]}
+- 05:04 act: {"reasoning":"Phantom hitting me, dawn coming so they should burn off. Try a new method: use the stone sword on a bed block, which I have not tried yet.","actions":[{"do":"use","at":{"x":413,"y":107,"
+- 05:06 act: {"reasoning":"Daylight, drops are one block away. Pick them up, then take the sword out at once.","actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1042}}]}
+- 05:06 act: {"reasoning":"Standing on the drop spot. Give it a few seconds to pick up.","actions":[{"do":"wait","seconds":3}]}
+- 05:06 act: {"reasoning":"Items are not picked up where I stand. Walk onto the nearest cluster of dropped items to collect them, then check my pack.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1044}},
+- 05:07 act: {"reasoning":"Stone sword and wooden sword are now in pack, and wheat seeds are in hand. Collect the rest of the items to the west, away from the phantoms to the east.","actions":[{"do":"goto","target
+- 05:07 act: {"reasoning":"A phantom is closing from the south-east. Grab the last item to the west, then try once more to put the stone sword in hand on open ground.","actions":[{"do":"goto","target":{"x":407,"y"
+- 05:08 act: {"reasoning":"Two phantoms about 14 blocks off. Stay on open ground near the others, out of their reach, and wait for Billy's call.","actions":[{"do":"goto","target":{"x":405,"y":107,"z":-1047}}],"say
+- 05:32 act: {"reasoning":"Night 480, four days without sleep. Billy is in the bed at -1041, so I go to the other bed at 413,107,-1042 and try to sleep, with no hostile in view.","actions":[{"do":"goto","target":{
