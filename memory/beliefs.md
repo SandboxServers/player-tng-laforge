@@ -1,7 +1,9 @@
 # Beliefs
 
-- A sword can come into hand by a give: Chapman's sword came into his hand from Trini's give, and MacDonald's came from Leonardo's give (day 516). I do not yet know how I got mine into hand.
-- Night at the row beside Billy's bed is quiet while the group holds still. Phantoms and endermen come at night.
-- Cows are at 339,104,-979. Pillagers were met on the route; the cow walk on day 515 ended with Billy killed at 379,-1022.
-- The potato patch at 462-470,107,-1072/-1076 sits behind an oak fence with no gate found yet.
+- Phantoms come at night and attack anyone unarmed near the row. They killed me at 413,107,-1042 on night 526 while I held no sword in hand. Going back to my dropped pile is worth it only in daylight, with armed people in sight.
+- A death drops the whole pack where you fall. Items stay on the ground; I respawn at the spawn bed with nothing.
+- A give can fail when the items land on the ground near the receiver. Pick up the ground items first, or step into reach.
+- Sleep is refused while hostile mobs are in range; the bed at 430,107,-1023 (beside the row) has worked at dusk when phantoms were away.
+- Sword equips into hand only sometimes; a give from another player has put one in hand. My own cause is still unknown.
+- Cows at 339,104,-979. Potato patch 462-470,107,-1072/-1076 behind an oak fence, no gate found.
 - Water cell 466,106,-1086: planting waits on a read-back.
