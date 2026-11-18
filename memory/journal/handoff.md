@@ -1,6 +1,6 @@
-# Handoff, day 467 night
+# Handoff, day 468 night
 
-- Asleep in bed 413,107,-1041 at the row. Health 20, hunger 20. No errand running.
-- Holding 1 potato (for Riker when his hunger reaches 6), 25 wheat, about 177 wheat seeds, 1 red mushroom, 4 rotten flesh.
-- Cows: 339,104,-979 (from Billy). Walk only in daylight with four armed in sight.
-- Morning: go to the row, tell Riker and Beverly about the cows, hand the potato to Riker when asked.
+- In bed at 413,107,-1041 at the row, with Billy within reach. Health 20, hunger 20. No errand running.
+- Holding 25 wheat, about 177 wheat seeds, 1 red mushroom, 4 rotten flesh. No potato, no weapon.
+- Told Leonardo about cows at 339,104,-979. Tommy gave him a potato. Cow walk still waiting on Billy's call at first light with four armed.
+- Morning: stay at the row, listen for Billy's cow walk call. I cannot join armed. Go back to beds before dusk.

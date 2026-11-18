@@ -15,3 +15,8 @@
 - 01:20 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}]}
 - 01:24 act: {"say":"Leonardo, Laforge here. I am bringing my one potato to you now, walking in daylight.","actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1030}},{"do":"give","to":"ag_leonardo_01","item":"p
 - 01:24 act: {"say":"Leonardo, the potato is given. Eat it now. Cows are at 339,104,-979, Billy's count, daylight only."}
+- 01:26 act: {"say":"Leonardo, Laforge here. I have no potato, only 4 rotten flesh. Billy's count puts cows at 339,104,-979, daylight only.","actions":[{"do":"note","text":"Woke day 467 at 392,107,-1030. Leonardo 
+- 01:26 Day 467 midday at 392,107,-1030. Told Leonardo (health 2.8) about cows; I hold only 4 rotten flesh. Billy: no cow walk called yet.
+- 01:40 Afternoon. Cow walk still waiting for four armed; I have no weapon. Tommy gave Leonardo his potato. Walking to bed 413,107,-1041 before dusk.
+- 01:26 act: {"intent":{"goal":"hold_at_row","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":8}}}
+- 01:30 act: {"intent":{"goal":"reach_bed_before_dusk","program":"travel","arguments":{"target":{"x":413,"y":107,"z":-1041}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_complete
