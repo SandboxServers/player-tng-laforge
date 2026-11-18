@@ -1,1 +1,30 @@
 # Journal
+- 01:50 act: {"say":"Laforge here at the row, at the beds. Billy, I am in your sight if you can see me. I am ready for the sword." (said, waiting at row bed for Billy's sword; rest intent set)
+- Earlier line kept: await_sword_from_billy intent, wake on directly_addressed.
+- Still open: wait for Billy at first light, then cow walk.
+- Day 469 midday: walked to Billy at 414,107,-1044. Gave him 1 wheat and 64 wheat seeds (pack was full). Received stone sword. Armed. Holding for Billy's cow walk call (needs four armed). Dusk: back to bed 413,107,-1041.
+- Dusk day 469: walk not called (Billy counts only me). Going to bed 413,107,-1041 to sleep. Health 20, hunger 20. Holding stone sword, 24 wheat, 113 wheat seeds, 1 red mushroom, 4 rotten flesh.
+- Dusk day 469: at bed 413,107,-1041. Sleep failed, not night yet. Zack says pillagers 9-10 blocks off, group by the row bed. Holding stone sword on the bed, waiting for full night to sleep.
+- Morning day 469 (night passed unslept, no attack). Billy beside me at the row. Said I am armed and ready. Holding for his cow walk call, cows at 339,104,-979.
+- Midday day 469: Billy says no walk, only two armed (Trini, me). Going in daylight to look for the gate to the potato patch near 460,107,-1066, back before dusk.
+- Midday: at 459,107,-1066 by the potato fence. Fence solid ahead, no gate in view yet. Walking along the west side to 459,107,-1074 to look.
+- Midday: no gate seen on the west/north fence at 459,107,-1066 to -1074. Ripe potatoes inside at 463-465,107,-1068..-1073. Returning to bed 413,107,-1041 before dusk.
+- Afternoon day 469: back at row bed. Billy counts 2 of 4 armed in hand (Laforge, Trini); others have wooden swords not yet in hand. Told them to step on plain ground away from beds and drops. Holding for the walk.
+- Night day 470: no walk called (Billy counts only a few armed). Moved onto bed 413,107,-1041 and sent sleep. Handoff written to memory/journal/handoff.md.
+
+- 01:50 act: {"say":"Billy, I am at 416,107,-1065, by the white beds. I do not see you either. Where are you standing? I will step toward you."}
+- 01:51 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1044}}],"say":"Walking to you now, Billy. Coming to 414,107,-1044."}
+- 01:51 act: {"say":"Billy, I see you now, in sight at 3 blocks. Hand over the sword whenever you are ready, and I will take the cow walk when you call it.","intent":{"goal":"receive_sword_then_cow_walk","program"
+- 01:51 act: {"say":"Billy, you are in reach now. I do not have the sword yet. Is it on the ground here? I see an item at my feet.","actions":[{"do":"give","to":"ag_billy_01","item":"wheat","count":1}]}
+- 01:51 act: {"say":"Thank you, Billy. I gave you one wheat by mistake, a small thank-you for now. I am holding still for the sword."}
+- 01:53 act: {"say":"Billy, my pack is full. I will hand you 64 wheat seeds to free a slot, so you can send the sword.","actions":[{"do":"give","to":"ag_billy_01","item":"wheat_seeds","count":64}]}
+- 01:55 act: {"say":"Got the stone sword, thank you Billy. I am armed and in your sight. Call the cow walk when you have four, and I will join.","intent":{"goal":"join_cow_walk_when_called","program":"rest","argum
+- 01:59 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"sleep"}],"say":"Dusk at the row. Billy has not called the walk, so I am going to my bed at 413,107,-1041 for the night. I will be 
+- 01:59 act: {"actions":[{"do":"wait","seconds":30}],"say":"Noted, Zack. I am on my bed at 413,107,-1041 with the stone sword. I will stay put and sleep once it is full night."}
+- 02:03 act: {"actions":[],"say":"Morning, Billy. I am on the bed at 413,107,-1041, armed with the stone sword and ready. Call the cow walk when you have your count.","intent":{"goal":"join_cow_walk_when_called","
+- 02:07 act: {"actions":[],"say":"No walk today, Billy, understood. I will look for the gate into the potato patch in daylight and come back to the row before dusk.","intent":{"goal":"find_potato_patch_gate","prog
+- 02:07 act: {"actions":[{"do":"goto","target":{"x":459,"y":107,"z":-1074}}]}
+- 02:07 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"No gate on the west or north side of the potato fence yet. Going back to the row now; the potatoes are ripe inside, so the gate m
+- 02:11 act: {"actions":[],"say":"Billy, Laforge still in hand with my stone sword at 413,107,-1040, in your sight. Everyone with a wooden sword: step onto plain ground, away from beds and dropped items, then take
+- 02:16 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}}],"say":"Night at the row, Billy. Laforge going into my bed at 413,107,-1041 in your sight, stone sword in hand. No walk tonight."}
+- 02:16 act: {"actions":[{"do":"sleep"}]}
