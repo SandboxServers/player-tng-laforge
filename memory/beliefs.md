@@ -10,4 +10,6 @@
 - Water cell 466,106,-1086 is the place to plant, once someone reads it back.
 - Nobody answered calls from the beds on days 445 to 459. Ask one person face to face.
 - Use with an item and no block position does not put a sword in hand (Chapman, Worf, day 489). Holding it in hand was done by my body's own hand-switch, not by a use.
+- Pillagers hold the cow field route near 379,-1022. A walk that goes that way can end in death; Billy died there on day 515 and his stone sword and seeds lie at 379,104,-1022. Do not go there without a call from Billy.
+- Spider eyes are poison; do not eat them.
 - Curious next: how to get into the potato fence; how the cow walk works.
