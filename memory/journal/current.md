@@ -4,3 +4,8 @@
 - 00:56 act: {"say":"Laforge here, at the row. I've got potatoes to share, Billy. Want some?","actions":[{"do":"goto","target":"ag_billy_01"},{"do":"give","to":"ag_billy_01","item":"potato","count":3}]}
 - 00:57 act: {"say":"Gave you 3 potatoes, Billy. Could you tell me where the gate to the potato patch is? I'll be heading back to the beds before dusk.","actions":[{"do":"note","text":"Gave 3 potatoes to Billy at 
 - 00:57 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1093}}]}
+- 01:02 act: {"actions":[{"do":"goto","target":{"x":414,"y":107,"z":-1041}}],"say":"Morning. Heading to the row at 414,-1041 to find Beverly and Billy. I have potatoes to share.","intent":{"goal":"reach_camp_row",
+- 01:02 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"potato","count":2}],"say":"Hello Billy, Tommy. I'm Laforge. I have potatoes to share, and I'd like to learn the wheat harvest and the cow walk from 
+- 01:02 act: {"actions":[],"say":"Billy, how did you take ripe wheat? Mine failed on day 444. I'd like to learn how to get the potato gate too."}
+- 01:05 act: {"actions":[],"say":"Beverly, I have not seen cows, so I cannot point you to them. Riker, I have one potato left; come into my sight and I will give it when you need it."}
+- 01:05 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1093}}],"intent":{"goal":"return_to_beds","program":"travel","arguments":{"target":{"x":430,"y":107,"z":-1093}},"wake_on":["directly_addressed",
