@@ -1,7 +1,8 @@
 # Handoff, day 470 night
 
-- Going to bed at 413,107,-1041 at the row, with Billy, MacDonald and Trini in reach. Health 20, hunger 20.
-- Holding stone sword in hand, 24 wheat, 113 wheat seeds, 1 red mushroom, 4 rotten flesh.
+- Asleep on bed 413,107,-1041 at the row, in Billy's sight. Health 20, hunger 20.
+- Holding stone sword. Pack: 24 wheat, 113 wheat seeds, 1 red mushroom. No rotten flesh left.
+- Gave my 4 rotten flesh to Billy by mistake (meant for Trini). Billy passed it on to Trini; she ate it.
+- Killed one phantom at the row. Trini died to phantoms and respawned, then came back to Billy.
 - No errand running. Cow walk still not called; cows at 339,104,-979.
-- Potato gate behind the fence still not found. West and north sides checked, east and south not yet.
-- Morning: stay at the row, listen for Billy's count and walk call. Go back to beds before dusk.
+- Morning: stay at the row. Listen for Billy's count and walk call. Back to a bed before dusk.
