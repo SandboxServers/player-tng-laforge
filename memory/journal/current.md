@@ -5,3 +5,4 @@
 - 17:58 act: {"actions":[{"do":"note","text":"Day 517 midday. Still at the row, sword in hand. Billy is handing spare swords to unarmed people. No call for me yet; holding."}]}
 - 18:03 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}}],"say":"Laforge: dusk, holding at the row with my wooden sword in hand. Going to sleep in the bed here."}
 - 18:04 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Sleeping here at the row, sword in hand."}
+- 18:05 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1023}}],"say":"Night. Laforge heading to the bed at the row, sword in hand."}
