@@ -4,3 +4,4 @@ Waking 418. Status, wait and act all still return "body is waking" / "not reacha
 Waking 416. Same again: status, wait, look all return "body is waking". No contact yet. Holding still at the row; will keep retrying wait.
 Waking 422. Status, wait and look all still return "body is waking" (checked 6 times). No action taken. Holding still at the row beside Billy; retrying wait next.
 Waking 428. Status and wait still return "body is waking" after several tries over a few minutes. No action taken. Holding still at the row beside Billy; will retry wait.
+Waking 433. Status, wait (several lengths), and look all return "body_unavailable: waking" about 5s each. No action taken. Holding still at the row; will retry wait next cycle.
