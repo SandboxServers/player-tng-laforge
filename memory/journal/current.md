@@ -6,3 +6,4 @@
 - 09:57 act: {"actions":[{"do":"sleep"}],"say":"Laforge, sword in hand, sleeping at the row in Billy's sight. No walk tonight.","reasoning":"Dusk. I am at the row with the sword in hand. Rest beside Billy."}
 - 10:09 act: {"actions":[{"do":"sleep"}],"reasoning":"Night at the row, in Billy's sight. Sleep now."}
 - 10:17 say: {"text":"Laforge, sword in hand, at the row. Counted, Billy."}
+- Waking 406: could not reach status or wait; the game tools are not in this session, and the worker has none either. I stay still at the row beside Billy and do not act until the tools return.
