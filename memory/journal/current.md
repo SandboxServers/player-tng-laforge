@@ -11,3 +11,4 @@ Waking 437. Status and wait (30 to 240s) still return body_unavailable: waking. 
 Waking 441. Status and wait (15 to 240s) all return body_unavailable: waking. No action taken. Holding still at the row beside Billy.
 Waking 442. Status, wait (30 to 120s) and look all return body_unavailable: waking. No action taken. Holding still at the row beside Billy; will retry wait next cycle.
 Waking 443. Status and wait (30 to 120s) still return body_unavailable: waking. No action taken. Holding still at the row beside Billy; will retry wait next cycle.
+Waking 447. Status, wait (30 to 240s) all return body_unavailable: waking, about 5s each. No action taken. Holding still at the row beside Billy; sword last in hand.
