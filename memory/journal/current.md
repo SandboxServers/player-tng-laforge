@@ -3,3 +3,4 @@ Waking 415. Status and wait both return "body is waking" repeatedly, about 5s ea
 Waking 418. Status, wait and act all still return "body is waking" / "not reachable". Holding still at the row beside Billy; sword was last in hand. Will retry wait.
 Waking 416. Same again: status, wait, look all return "body is waking". No contact yet. Holding still at the row; will keep retrying wait.
 Waking 422. Status, wait and look all still return "body is waking" (checked 6 times). No action taken. Holding still at the row beside Billy; retrying wait next.
+Waking 428. Status and wait still return "body is waking" after several tries over a few minutes. No action taken. Holding still at the row beside Billy; will retry wait.
