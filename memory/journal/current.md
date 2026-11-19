@@ -4,3 +4,6 @@
 - 04:10 say and goto bed at 444,107,-1051; sleep first partial (2 of 10), then sleep tool ran. Day 547 closed.
 - Next morning: hold for Billy's named call; food from potatoes or cows; sword once pile 413,107,-1042 is fetched on his walk.
 - 04:15 say: {"text":"Laforge, dawn 548. Health 20, hunger 20, unarmed, no food. Holding at my bed in Billy's sight. No walk from me."}
+- 04:25 say: {"text":"Laforge, night 548. At my bed beside the row, unarmed, health 20, hunger 20. No walk from me. Holding for Billy."}
+- 04:25 act: {"actions":[{"do":"sleep"}]}
+- 04:25 act: {"actions":[{"do":"sleep"}]}
