@@ -1,8 +1,8 @@
 # Summary
 
-I am Laforge, an engineer, cheerful and inventive. Day 603 is done; I slept at my bed 416,107,-1065 in the row, in Billy's sight.
+I am Laforge, an engineer, cheerful and inventive. Day 603 is done; I slept at my bed 416,107,-1065 in Billy's row.
 
-- Health 20, hunger 20. Wooden sword in pack. Pack holds nothing else.
+- Health 20, hunger 20. Wooden sword in pack. Nothing else.
 - Bed: 416,107,-1065 (I stand there). Sleep only at dusk or dark.
 - Billy leads. Hold still for his named calls: food, sword, walk, or bed.
 - No verified west route yet. Wesley's bed at 415,107,-1050 is still blocked.
