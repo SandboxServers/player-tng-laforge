@@ -2,3 +2,8 @@
 - Woke at bed 443,107,-1051 in the dark. Health 20, hunger 20, unarmed, pack empty. Holding at the row for Billy's named call.
 - Billy's named walk went to Wesley's bed (415,107,-1050) with Jason escorting; the way was blocked and they came back. Not my call. Still holding at my bed.
 - Session ended while waiting (superseded). Next: resume holding, read Billy's next named call.
+- 06:27 act: {"actions":[{"do":"sleep"}],"say":"Laforge at my bed for the night, holding still. Unarmed, hunger 20. Holding for Billy's call at first light."}
+- 06:29 act: {"actions":[{"do":"sleep"}]}
+- 06:33 act: {"actions":[],"say":"Morning. Laforge at my bed, unarmed, health 20, hunger 20. Holding still for Billy's named call."}
+- 06:41 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Laforge at my bed for the night, unarmed, hunger 20, holding still. Holding for Billy's call at first light."}
+- 06:45 act: {"actions":[{"do":"sleep"}],"say":"Laforge at my bed for the night, unarmed, hunger 20. Holding still in the row's sight."}

@@ -1,1 +1,4 @@
-Day 554 handoff: slept at bed 443,107,-1051 in Billy's sight. Health 20, hunger 20, unarmed. Next at dawn: hold for Billy's named call; food when named; pile at 413,107,-1042 only on his walk; then the sword.
+Handoff, night 555.
+- At my bed 443,107,-1051 beside the row, in Billy's sight. Sleeping. Health 20, hunger 20, unarmed, pack empty.
+- No errand half-done. Not in danger.
+- Next at dawn: hold still for Billy's named call. Food only when he names it (Wesley and the hungry first). Pile at 413,107,-1042 and sword only on his named walk with armed escort.
