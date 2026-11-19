@@ -1,0 +1,1 @@
+Day 554 handoff: slept at bed 443,107,-1051 in Billy's sight. Health 20, hunger 20, unarmed. Next at dawn: hold for Billy's named call; food when named; pile at 413,107,-1042 only on his walk; then the sword.
