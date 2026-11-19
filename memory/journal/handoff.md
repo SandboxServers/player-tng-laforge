@@ -1,4 +1,4 @@
-# Handoff, day 601 dusk
+# Handoff, day 602 night
 
 - Asleep at bed 416,107,-1065 in Billy's sight. Health 20, hunger 20, wooden sword in pack, nothing else.
 - No errand half-done. No walk named by Billy. No west route verified; Wesley's bed 415,107,-1050 still blocked.
