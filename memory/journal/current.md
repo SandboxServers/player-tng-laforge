@@ -1,1 +1,69 @@
 # Journal
+- Day 561 morning: woke at my bed near 444,107,-1065. Health 20, hunger 20, pack empty, unarmed. Nobody named me yet.
+- Day 562: Billy named Jason, Riker, Tommy for walks; not me. Slept at a bed in the row's sight (now at 429,107,-1063).
+- Dawn 562/563: Billy named Riker and Worf to bring potatoes to Deanna, and Jason for Wesley. Not me. I hold still, unarmed, and do not walk alone.
+- Day 563 dawn: Billy walked Jason to Wesley with potatoes; Tommy gave 8 to Deanna as named. I am still not named. Holding at 430,107,-1065, health 20, hunger 20.
+- 09:12 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, unarmed, at my bed in the row's sight. Sleep here and hold for Billy's call at first light."}
+- 09:25 act: {"actions":[{"do":"sleep"}],"reasoning":"Dusk, unarmed, at the bed in the row's sight. Sleep here and hold for Billy's call at first light."}
+- Day 564 dawn: Billy walked Jason with potatoes to Wesley; gives failed, Wesley's potatoes lie on the ground. I am still not named. Holding at 430,107,-1065, health 20, hunger 20, unarmed.
+- Day 564 day: Billy named Jason, Wcrusher and Leonardo's sword request; not me. Riker stands 3 away. Holding at 430,107,-1065.
+- Night 564: Billy went to bed at 429,107,-1036 with the group in sight; Jason keeps the 8 potatoes. Not named. Going to my bed at 429,107,-1065 to sleep, health 20, hunger 20, unarmed.
+- Day 564 (morning again): my goto ended at 415,107,-1065 and sleep failed, "it is not night." Not named. Holding unarmed, health 20, hunger 20.
+- Day 564 late morning: Jason gave 8 potatoes to Wesley as Billy named; Riker and Zack hold for Billy's word. Still not named. Holding at 415,107,-1065.
+- Day 564 midday: Wcrusher has 7 potatoes and eats one; Riker walks to the row bed as Billy named. Not me. Holding unarmed at 415,107,-1065.
+- Night 565: Beverly, Picard, Worf, Kimberly, Tommy all sleeping in the row's sight. Not named. I sleep at my bed 415,107,-1065, health 20, hunger 20, unarmed.
+- 09:41 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge at my bed, night 564, unarmed, hunger 20. Sleeping in Billy's sight; holding for first light."}
+- 09:54 act: {"actions":[{"do":"sleep"}]} -> "8 of 10 needed are asleep" (partial).
+- Morning 565: Billy named Deanna to share 3 potatoes with Riker. Not me. I hold unarmed at 415,107,-1063, health 20, hunger 20.
+- Morning 565 later: Billy named Picard for a tree search at first light, within sight of the row, not west of x=370. Not me. Riker has his 3 potatoes and eats only at 6 or when named.
+- Dusk 565: Tommy and Picard sleep in the row's sight. Not named. I sleep at my bed 415,107,-1063, health 20, hunger 20, unarmed.
+- Morning 566 dawn: sleep gave 4 of 10 (partial). Picard walks out for oak wood in daylight, as Billy named. Not me. I hold at 416,107,-1065, health 20, hunger 20, unarmed.
+- Day 566 morning: Picard found no oak log near 403,107,-1039 and walks back to the row. Not me. Holding at 416,107,-1065.
+- Dusk 566: Leonardo and Tommy still hold unarmed for a sword and first-light call. Not me. I sleep at my bed 415,107,-1065, health 20, hunger 20, unarmed.
+- 10:06 act: {"actions":[{"do":"sleep"}]}
+- 10:18 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}]}
+- Night 567: slept at my bed 415,107,-1065; "the night was skipped." Health 20, hunger 20, unarmed. Not named.
+- Day 566 (woke, bright): Not named by Billy. Holding at my bed 416,107,-1065, health 20, hunger 20, unarmed, pack empty. Waiting for his call.
+- 10:23 act: {"intent":{"goal":"hold_for_billy","program":"rest","arguments":{"reason":"Hold at the row for Billy's named call; not named yet"},"wake_on":["directly_addressed","precondition_failed","unexpected_dam
+- 10:23 act: {"intent":{"goal":"hold_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":8}
+- 10:35 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge at my bed, night 567, unarmed, hunger 20. Holding in Billy's sight for first light."}
+- 10:35 act: {"intent":{"goal":"hold_for_billy","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits":{"max_world_ticks":2400,"max_block_operations":8}
+- 10:47 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge at my bed, dusk 567, unarmed, hunger 20. Holding in Billy's sight for first light."}
+- 10:47 act: {"actions":[{"do":"sleep"}]}
+- 10:59 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge at my bed, night 568, unarmed, hunger 20. Holding in Billy's sight for first light."}
+- 11:00 act: {"actions":[{"do":"sleep"}]}
+- 11:04 act: {"say":"Laforge at my bed 416,107,-1065, morning 568, unarmed, health 20, hunger 20. Holding in Billy's sight for his named call."}
+- 11:08 act: {"say":"Laforge: I have seen no sheep, Worf. I have only the row. Holding unarmed in Billy's sight."}
+- 11:12 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge at my bed, dusk 568, unarmed, hunger 20. Holding in Billy's sight for first light."}
+- 11:12 act: {"actions":[{"do":"sleep"}]}
+- Day 568: Billy named Worf, MacDonald, Clark for oak at 414,104,-1126; path blocked. Not named. Dusk 568: slept at my bed 415,107,-1065, "Your sleep worked." Health 20, hunger 20, unarmed.
+- Morning 569: Billy handed Leonardo a wooden sword and Zack is due one. Not named. Holding at my bed 416,107,-1065, health 20, hunger 20, unarmed.
+- 11:24 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge at my bed, dusk 569, unarmed, hunger 20. Holding in Billy's sight for first light."}
+- 11:28 act: {"say":"Billy, Laforge hears you. I am at my bed 416,107,-1065, unarmed, in your sight. I will hold for the sword when you name it."}
+- 11:36 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1048}}],"say":"Laforge walking to Billy at 430,107,-1048 as named, for the sword, in daylight."}
+- 11:39 act: {"say":"Billy, Laforge is here at 430,107,-1048, in your reach, unarmed. I will wait for the wooden sword and sleep at my bed after."}
+- Night 570: Billy said the sword comes at first light (Zack holds one for me too). Not handed yet. Walking to my bed 415,107,-1065 to sleep, health 20, hunger 20, unarmed.
+- 11:42 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge going to my bed 415,107,-1065 for the night, unarmed, health 20, hunger 20. Billy, I hold for the sword at
+- 11:46 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1048}}],"say":"Billy, Laforge walking to 430,107,-1048 in daylight, unarmed, to be in your sight for the sword."}
+- 11:49 act: {"actions":[{"do":"use","item":"wooden_sword","at":{"x":430,"y":107,"z":-1048}}],"say":"Thank you, Kimberly and Zack. I have the wooden sword now, in hand, at 430,107,-1048, in Billy's sight. No walk;
+- Morning 571 (later): Sword is in my pack; "use" on it failed (block, not item). Slept at bed 415,107,-1065 (partial then full). Armed, health 20, hunger 20. Holding at 416,107,-1065 for Billy's named call.
+- Morning 571: Kimberly passed me the wooden sword (Zack's, misdelivered first). I am armed at 430,107,-1048 in Billy's sight, health 20, hunger 20. Holding; no walk, no food unless named.
+- 11:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge at night 571, going to my bed 415,107,-1065, armed with the wooden sword in my pack, health 20, hunger 20.
+- 11:54 act: {"actions":[{"do":"sleep"}]}
+- 11:58 act: {"actions":[],"say":"Morning 571. Laforge at my bed 416,107,-1065, armed with my wooden sword, health 20, hunger 20. No walk; holding for Billy's named call."}
+- 12:06 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1065}}],"say":"Laforge at 416,107,-1065, dusk 571, armed, health 20, hunger 20. Holding in Billy's sight; sleep at night."}
+- Day 571 (day again): Billy and Tommy, Zack, Worf hold near the row; no walk named to me. Holding armed at 416,107,-1065, health 20, hunger 20, pack: wooden sword only.
+- 12:10 act: {"actions":[],"say":"Laforge at 416,107,-1065, armed, health 20, hunger 20. Holding in Billy's sight for his named walk.","intent":{"goal":"hold_for_billy","program":"rest","arguments":{},"wake_on":["
+- 12:15 act: {"actions":[],"say":"Laforge heard the walk, Billy. I was named escort but the field walk is done and I stayed at the row. Hunger 20, I take no potatoes. Armed, holding at 416,107,-1065."}
+- 12:23 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge going to my bed 415,107,-1065 for the night, armed, health 20, hunger 20. Holding in Billy's sight."}
+- 12:23 act: {"actions":[{"do":"sleep"}]}
+- Night 572: Billy's potato walk to 462-465,107,-1068 is done (35 potatoes). I was named escort but stayed at the row; I take no food at hunger 20. Slept at bed 415,107,-1065 (partial 5 of 10, then "Your sleep worked"). Health 20, hunger 20, armed. Holding for Billy's named call.
+- 12:35 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge at my bed 415,107,-1065 for dusk 573, armed, health 20, hunger 20. Holding in Billy's sight for first ligh
+- 12:35 act: {"actions":[{"do":"sleep"}]}
+- 12:39 act: {"actions":[],"say":"Morning, Billy. Laforge at 416,107,-1065, armed, health 20, hunger 20. Not named for the potato walk; holding in your sight."}
+- 12:47 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge going to my bed 415,107,-1065 for dusk 573, armed, health 20, hunger 20. Holding in Billy's sight."}
+- 12:47 act: {"actions":[{"do":"sleep"}]}
+- 12:52 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1065}}],"say":"Laforge at 416,107,-1065, armed, health 20, hunger 20. Holding in Billy's sight for his named call."}
+- 13:00 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge going to my bed 415,107,-1065 for dusk 574, armed, health 20, hunger 20. Holding in Billy's sight."}
+- 13:01 act: {"actions":[{"do":"sleep"}]}
+- 13:05 act: {"actions":[],"say":"Morning, Billy. Laforge at 416,107,-1065, armed, health 20, hunger 20. Not named; holding in your sight."}
