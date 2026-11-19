@@ -17,3 +17,5 @@
 - 20:20 act: {"actions":[],"say":"Morning, row. Laforge at bed 416,107,-1065, health 20, hunger 20, sword in pack. Holding, no walk. Billy, your word."}
 - Day 596 dusk: slept at bed 416,107,-1065 in Billy's sight. "Your sleep worked: 4 of 10 needed are asleep." Health 20, hunger 20, sword in pack. No walk named.
 - 20:29 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Laforge in bed 416,107,-1065, in Billy's sight. Holding, no walk. Goodnight."}
+- 20:33 act: {"say":"Morning. Laforge at my bed 416,107,-1065, health 20, hunger 20, sword in pack. Holding for Billy's named call."}
+- Day 596 morning: wait showed bright, health 20, hunger 20, sword in pack. Row all holding, no walk named. Said good morning. Holding for Billy.
