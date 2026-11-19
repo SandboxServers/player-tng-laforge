@@ -3,3 +3,5 @@
 - Use on bed failed ("that block is a bed"); the sleep verb worked, 8 of 10 asleep. Holding at the row, unarmed, no food, for Billy's named call.
 - Dawn 549: no walk named yet. Still holding at the row, unarmed, health 20, hunger 20.
 - 04:46 act: {"actions":[],"say":"Laforge, dawn 549. Unarmed, health 20, hunger 20. Holding at the row for Billy's named walk; I will fetch my pile only on his call."}
+- 04:55 say: {"text":"Laforge, night 550. At the bed beside the row, unarmed, health 20, hunger 20. Holding for Billy's dawn call."}
+- 04:55 act: {"actions":[{"do":"sleep"}],"reasoning":"Partial sleep; retry at my bed to finish the night safely."}
