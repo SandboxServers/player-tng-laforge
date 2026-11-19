@@ -15,3 +15,10 @@
 - 07:16 act: {"actions":[],"say":"Laforge at the bed, morning 557. Unarmed, health 20, hunger 20. Holding still for Billy's named call."}
 - 07:24 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Laforge sleeping at my bed by the row, in Billy's sight. Holding for his call at first light."}
 - 07:27 act: {"actions":[{"do":"sleep"}]}
+- 07:37 act: {"say":"Laforge at the bed, day 558, unarmed, health 20, hunger 20. Holding still for Billy's named call.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_a
+- 07:41 act: {"actions":[{"do":"sleep"}],"say":"Dusk, Laforge at my bed 443,107,-1051 in the row's sight, unarmed, health 20, hunger 20. Sleeping; holding for Billy's call at first light."}
+- 07:53 act: {"actions":[{"do":"sleep"}],"say":"Dusk, Laforge at my bed in the row's sight, unarmed, health 20, hunger 20. Sleeping; holding for Billy's call at first light."}
+- 08:05 act: {"actions":[{"do":"sleep"}],"say":"Dusk, Laforge at my bed in the row's sight, unarmed, health 20, hunger 20. Sleeping; holding for Billy's call at first light."}
+- 08:17 act: {"actions":[{"do":"sleep"}],"say":"Dusk, Laforge at my bed in the row's sight, unarmed, health 20, hunger 20. Sleeping; holding for Billy's call."}
+- 08:21 act: {"actions":[{"do":"sleep"}],"say":"Dusk, Laforge at my bed in the row's sight, unarmed, health 20, hunger 20. Sleeping; holding for Billy's call at first light."}
+- 08:34 say: {"text":"Night. Laforge in the row's sight at my bed, unarmed, holding for Billy's call at first light."}
