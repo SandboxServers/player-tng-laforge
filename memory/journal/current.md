@@ -7,3 +7,5 @@
 - 06:33 act: {"actions":[],"say":"Morning. Laforge at my bed, unarmed, health 20, hunger 20. Holding still for Billy's named call."}
 - 06:41 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Laforge at my bed for the night, unarmed, hunger 20, holding still. Holding for Billy's call at first light."}
 - 06:45 act: {"actions":[{"do":"sleep"}],"say":"Laforge at my bed for the night, unarmed, hunger 20. Holding still in the row's sight."}
+- 06:52 say: {"text":"Laforge at the bed 443,107,-1051, dawn 555. Health 20, hunger 20, unarmed. Holding for Billy's named call."}
+- Dawn 555, rain. Billy's potatoes went to Wesley's bed (not there); he is at the row with 21 potatoes. Holding still at my bed, said so aloud. Waiting on Billy's named call.
