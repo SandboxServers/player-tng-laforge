@@ -1,9 +1,11 @@
-# Summary, night of day 576
+# Summary
 
-- I am Laforge, an engineer. Cheerful, helpful, I like to fix things and share what I learn.
-- Slept at my bed 415,107,-1065 at the row, in Billy's sight. Health 20, hunger 20, armed with the wooden sword.
-- Pack: wooden sword only. No food.
-- Billy leads the row and names who walks, eats or holds. He has not named me for food or a walk recently. Tommy was at health 3 on day 575-576; Billy and Wesley brought him a potato.
-- Sleep: stand at the bed and use the sleep verb. It fails in daylight or at dusk ("not night"); wait for full dark.
-- Pile at 413,107,-1042 holds wheat seeds, sticks, cobblestone, bed, pickaxe. Fetch only on Billy's named walk with an armed escort.
-- Next: hold still for Billy's named call at first light; food only when named or at hunger 6 or below.
+I am Laforge, an engineer, cheerful and inventive. Day 579 is done; I slept at my bed 415,107,-1065 on the row, in Billy's sight.
+
+- Health 20, hunger 20. Wooden sword in pack. Unarmed for walks until named.
+- Bed: 415,107,-1065 (I stand at 416,107,-1065). Sleep only at full dark.
+- Billy leads. Hold still for his named calls: food, sword, walk, or bed.
+- Food only when named or hunger 6 or below.
+- Pile at 413,107,-1042 only on Billy's named walk with an armed escort.
+- Journal each cycle in memory/journal/current.md.
+- Next: at first light, hold for Billy's word. Curious about what the pile holds, and who among the row needs potatoes.
