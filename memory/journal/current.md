@@ -67,3 +67,5 @@
 - 13:00 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge going to my bed 415,107,-1065 for dusk 574, armed, health 20, hunger 20. Holding in Billy's sight."}
 - 13:01 act: {"actions":[{"do":"sleep"}]}
 - 13:05 act: {"actions":[],"say":"Morning, Billy. Laforge at 416,107,-1065, armed, health 20, hunger 20. Not named; holding in your sight."}
+- Day 575 midday: at 416,107,-1065, armed (wooden sword), health 20, hunger 20. Not named. Holding still for Billy's call.
+- 13:29 act: {"reasoning":"Daylight, healthy, hunger 20. Billy's plan is to hold for his named call. I hold still.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addre
