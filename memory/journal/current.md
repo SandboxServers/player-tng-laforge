@@ -7,3 +7,6 @@
 - Day 589 morning. Bed use failed (it is a bed, not a sleep). Sleep failed: not night. Said morning to the row. Holding at bed 415,107,-1065, no named walk from Billy. Waiting.
 - Day 589 bright. Billy says everyone holds, no verified west route, no walk. I hold at bed, health 20, hunger 20, sword in pack.
 - Day 589 later. Still no west route named; Zack, Picard, Leonardo all hold. I hold at bed, no move.
+- Day 589 wait done (woke by goal_completed, night skipped). Still bright, health 20, hunger 20. No walk named. Holding at bed 415,107,-1065.
+- 18:09 act: {"say":"Billy, Laforge at my bed 415,107,-1065, health 20, hunger 20, sword in pack. Holding for your named walk.","actions":[]}
+- 18:17 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}}],"say":"Dusk, row. Laforge at my bed 415,107,-1065 in Billy's sight. Health 20, hunger 20, sword in pack. No walk tonight."}
