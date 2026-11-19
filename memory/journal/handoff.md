@@ -1,5 +1,5 @@
-# Handoff, night 537
-- Asleep at my bed 430,107,-1023 beside the row, in Billy's sight. Health 20, hunger 20, pack empty, nothing in hand.
-- Sword line: MacDonald and Jason hold wooden swords. Riker next (sword will not come into his hand), then me, then Zack.
-- Pile still at 413,107,-1042. Fetch only in daylight with four armed, on Billy's named call.
-- No errand half-done.
+# Handoff, night 541
+- Standing at 444,107,-1051 beside the beds, in the row's sight. Health 20, hunger 20, pack empty, unarmed, nothing in hand.
+- Billy's walk west is for the armed four only; I am not called. Clark got the spare wooden sword; I am next after Zack in the sword line.
+- Billy will hand swords in the morning. My pile still at 413,107,-1042, fetch only on his named daylight call.
+- No errand half-done. Going to sleep.
