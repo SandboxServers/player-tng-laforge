@@ -10,3 +10,4 @@
 - 06:52 say: {"text":"Laforge at the bed 443,107,-1051, dawn 555. Health 20, hunger 20, unarmed. Holding for Billy's named call."}
 - Dawn 555, rain. Billy's potatoes went to Wesley's bed (not there); he is at the row with 21 potatoes. Holding still at my bed, said so aloud. Waiting on Billy's named call.
 - 07:00 say: {"text":"Laforge awake at morning 556, health 20, hunger 20, unarmed. Holding at my bed 443,107,-1051 for Billy's named walk."}
+- 07:11 act: {"say":"Heard you, Billy. Sleeping at my bed by the row. Hungry ones first."}
