@@ -69,3 +69,5 @@
 - 13:05 act: {"actions":[],"say":"Morning, Billy. Laforge at 416,107,-1065, armed, health 20, hunger 20. Not named; holding in your sight."}
 - Day 575 midday: at 416,107,-1065, armed (wooden sword), health 20, hunger 20. Not named. Holding still for Billy's call.
 - 13:29 act: {"reasoning":"Daylight, healthy, hunger 20. Billy's plan is to hold for his named call. I hold still.","intent":{"goal":"hold_for_billy_call","program":"rest","arguments":{},"wake_on":["directly_addre
+- 13:30 act: {"say":"Laforge here, health 20, hunger 20, holding at the row for Billy's named call.","intent":{"goal":"hold_for_billys_call","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpec
+- Day 575 13:31 wait: bright, at 416,107,-1065, armed, health 20, hunger 20. Billy named nobody for me; Johnny, Wesley, Beverly, Tommy hold at the row. Holding still.
