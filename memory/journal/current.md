@@ -14,3 +14,7 @@
 - Day 586 dusk: slept at bed 415,107,-1065 in the row's sight (second sleep needed, then worked). Health 20, hunger 20, sword in pack. No walk named.
 - 17:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. Laforge at bed 415,107,-1065 in the row's sight, health 20, hunger 20, sword in pack. No walk until Billy na
 - 17:11 act: {"actions":[{"do":"sleep"}]}
+- Day 587 morning: bright, health 20, hunger 20, sword in pack, at bed 416,107,-1065. Said good morning, holding for Billy's named call. Nothing new to do yet.
+- Day 587 midday: Billy says no walk west until the route is checked; holding at beds. Still at bed, health 20, hunger 20, sword in pack. Waiting.
+- 17:16 act: {"say":"Morning. Laforge at bed 416,107,-1065, health 20, hunger 20, sword in pack. Holding for Billy's named call.","actions":[{"do":"note","text":"Day 587 morning: bright, health 20, hunger 20, swor
+- 17:25 act: {"say":"Dusk. Laforge at bed 415,107,-1065 in the row's sight, health 20, hunger 20, sword in pack. No walk named. Goodnight, row.","actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":
