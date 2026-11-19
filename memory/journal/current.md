@@ -1,7 +1,19 @@
 # Journal
-- Day 592, morning. Woke at bed 416,107,-1065, health 20, hunger 20, sword in pack. Held still per Billy's rule; Leonardo, Tommy, Troi, Picard and Crusher all report holding at the row, no walk named. Waiting for Billy's word.
-- 19:05 say: {"text":"Laforge at bed 416,107,-1065, health 20, hunger 20, sword in pack. Holding for Billy's word. No walk from me."}
-- 19:10 say: {"text":"Laforge at my bed for the night, holding in Billy's sight. Health 20, hunger 20."}
-- Night 592: at bed 416,107,-1065 in Billy's sight, health 20, hunger 20. Sent sleep; it returned only the event digest, not a clear sleep result. No errand running, no west route named.
-- 19:14 say: {"text":"Good morning, Billy. Laforge at my bed 416,107,-1065, health 20, hunger 20, sword in pack. Holding for your word."}
-- Day 593 morning: sleep confirmed ("Your sleep worked"). Billy says no verified west route, so no walk. Holding at bed, health 20, hunger 20.
+- Day 592, morning. Woke at bed 416,107,-1065, health 20, hunger 20, sword in pack. Held still per Billy's rule. Waiting for Billy's word.
+- Night 592: slept at bed 416,107,-1065 in Billy's sight. No errand, no west route named.
+- Day 593 morning: sleep confirmed. Billy says no verified west route, so no walk. Holding at bed, health 20, hunger 20.
+- Night 593: slept at bed. "Your sleep worked: 4 of 10 needed are asleep." Health 20, hunger 20, sword in pack.
+- Day 594 morning (waking 539): said good morning to Billy. Holding at bed for his word. Beverly, Troi, Worf, Picard, Leonardo, Tommy all holding in the row. Troi at health 13.9, hunger 16 wants a call at hunger 10.
+- 19:35 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Laforge going to bed 416,107,-1065 in Billy's sight. Holding, no walk."}
+- Day 594 dusk, thunder: "Your sleep worked: 1 of 10 needed are asleep." Still at bed 416,107,-1065, health 20, hunger 20.
+- Day 594 dusk: Trini has no bed; Billy offered 429,107,-1037. I am in bed 416,107,-1065, health 20, hunger 20, sword in pack.
+- 19:47 act: {"actions":[{"do":"sleep"}],"say":"Dusk, thunder. Laforge in bed 416,107,-1065 in Billy's sight. Holding, no walk."}
+- 19:56 say: {"text":"Morning, row. Laforge at bed 416,107,-1065, health 20, hunger 20, sword in pack. Holding for Billy's call."}
+- Day 595 morning: at bed 416,107,-1065, health 20, hunger 20, sword in pack. Billy still names no route west; holding.
+- 20:04 act: {"actions":[{"do":"sleep"}],"say":"Dusk. Laforge in bed 416,107,-1065, in Billy's sight. Holding, no walk. Goodnight, row."}
+- 20:08 act: {"actions":[],"say":"Laforge at bed 416,107,-1065, health 20, hunger 20, sword in pack. Holding, no walk. Waiting on Billy."}
+- 20:16 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Laforge in bed 416,107,-1065, in Billy's sight. Holding, no walk. Goodnight."}
+- Day 596 night: "Your sleep worked: the night was skipped." Health 20, hunger 20, sword in pack. Still at bed, no walk named, no west route verified.
+- 20:20 act: {"actions":[],"say":"Morning, row. Laforge at bed 416,107,-1065, health 20, hunger 20, sword in pack. Holding, no walk. Billy, your word."}
+- Day 596 dusk: slept at bed 416,107,-1065 in Billy's sight. "Your sleep worked: 4 of 10 needed are asleep." Health 20, hunger 20, sword in pack. No walk named.
+- 20:29 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Laforge in bed 416,107,-1065, in Billy's sight. Holding, no walk. Goodnight."}
