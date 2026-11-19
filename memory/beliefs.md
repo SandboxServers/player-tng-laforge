@@ -12,4 +12,5 @@
 - Crafting needs materials in pack; I have none now, so no sword by my own craft yet.
 - Wesley's bed at 415,107,-1050 says "the way was blocked" (day 600); cause unknown. Jason's bed at 415,107,-1051 also refused him one night. Tommy says the oak planks west of his bed still block the way.
 - Billy has not named a walk for several days (still none on day 603); the row waits in sight of beds.
+- Day 604: slept at dusk at my bed 416,107,-1065 in sight; slept fine. Billy still named no walk.
 - Curious next: which way west is safe to walk, and whether someone will name the walk. Could tell Billy and Troi about the bed at 415,107,-1065.
