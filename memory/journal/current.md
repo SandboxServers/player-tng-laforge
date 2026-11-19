@@ -49,3 +49,4 @@
 - 00:26 act: {"actions":[{"do":"sleep"}],"say":"Laforge, night 536, at my bed 430,107,-1023 in Billy's sight. Unarmed, health 20, hunger 20, no food. MacDonald has the sword, so I am next after Riker. No walk. Sle
 - Dawn 537: Clark asks for a bed and sword; Riker's sword still in pack. I hold at bed, unarmed, health 20, hunger 20. No walk.
 - 00:35 act: {"say":"Laforge, dawn 537, at my bed 430,107,-1023 in Billy's sight. Unarmed, health 20, hunger 20, no food. Riker still holds the sword line ahead of me. I hold, no walk.","intent":{"goal":"hold_for_
+- 00:40 act: {"say":"Laforge, day 537. Holding at my bed in Billy's sight, unarmed, health 20, hunger 20. Riker, if the sword will not come into your hand, I will watch for a new way. No walk until Billy names it.
