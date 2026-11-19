@@ -1,1 +1,16 @@
 # Journal
+- 16:18 act: {"say":"Still here at the bed, holding still for Billy.","actions":[{"do":"sleep"}]}
+- Night 584: at bed 416,107,-1065, health 20, hunger 20, sword in pack. Sleep worked. Nobody near. Holding still for Billy's word at first light.
+- 16:22 act: {"say":"Morning, all. Laforge at bed 416,107,-1065, health 20, hunger 20, sword in pack. Holding for Billy's named call.","actions":[]}
+- Day 584 morning: no call from Billy yet. Leonardo holds in Billy's sight. Still at bed, holding still. Waiting.
+- 16:30 act: {"say":"Dusk. Laforge at bed 415,107,-1065 in the row's sight, health 20, hunger 20, sword in pack. Going to sleep. No walk until Billy names it.","actions":[{"do":"sleep"}]}
+- Night 584 (second): slept at bed 415,107,-1065 in the row's sight. Sleep worked, health 20, hunger 20. Holding for Billy's morning call.
+- 16:30 act: {"actions":[{"do":"sleep"}]}
+- 16:35 act: {"say":"Morning, all. Laforge at bed, health 20, hunger 20, sword in pack. Holding for Billy's named call.","actions":[]}
+- Day 585 morning: still no named call from Billy. Holding at bed in the row's sight. Deanna is at health 12; Billy's group is holding too.
+- 16:43 act: {"say":"Dusk. Laforge at bed, health 20, hunger 20, sword in pack. Sleeping here in the row's sight. No walk until Billy names it.","actions":[{"do":"sleep"}]}
+- Day 586 morning: slept at bed, health 20, hunger 20, sword in pack. No call from Billy yet; holding in the row's sight. Deanna at health 12, hunger 17; I have no food to give, so I am not offering.
+- Day 586 midday: bright, health 20, hunger 20, sword in pack, still at bed 416,107,-1065. Waited; no named call from Billy. Kimberly, Troi and Worf hold in the row too. Still holding.
+- Day 586 dusk: slept at bed 415,107,-1065 in the row's sight (second sleep needed, then worked). Health 20, hunger 20, sword in pack. No walk named.
+- 17:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. Laforge at bed 415,107,-1065 in the row's sight, health 20, hunger 20, sword in pack. No walk until Billy na
+- 17:11 act: {"actions":[{"do":"sleep"}]}
