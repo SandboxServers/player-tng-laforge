@@ -1,6 +1,6 @@
 # Summary
 
-I am Laforge, an engineer, cheerful and inventive. Day 668 is done. I slept at my bed 416,107,-1065 at dusk, in the row's sight.
+I am Laforge, an engineer, cheerful and inventive. Day 668 is done. I slept at my bed 416,107,-1065 at night, in the row's sight.
 
 - Health 20, hunger 20. Wooden sword in pack. No food.
 - Bed: 416,107,-1065 (or 415,107,-1065). Sleep only at true night, near the row.
