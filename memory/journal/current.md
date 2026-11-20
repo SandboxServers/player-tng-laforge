@@ -1,13 +1,1 @@
 # Journal
-- 22:05 act: {"say":"Morning, row. Laforge at my bed 416,107,-1065, health 20, hunger 20, wooden sword in pack. I hold no food. Holding for Billy's named call."}
-- 22:18 act: {"say":"Good morning, row. Laforge at my bed, health 20, hunger 20, wooden sword in pack, no food. Billy, holding in your sight for your named walk.","reasoning":"Morning in the row. No walk named yet
-- 22:31 greeted Billy at first light, said I hold no food, set hold intent for his named call.
-- 22:50 Row holding at beds; no walk named yet. Still holding, waiting for Billy.
-- 22:31 act: {"say":"Good morning, Billy. Laforge holding at my bed 416,107,-1065, health 20, hunger 20, wooden sword in pack. I hold no food. Waiting for your named call.","intent":{"goal":"hold_for_billy_call","
-- 22:40 act: {"say":"Morning, row. Laforge at bed 416,107,-1065, health 20, hunger 20, wooden sword in pack. No food to pass, Tommy and MacDonald. Holding for Billy's named call."}
-- 22:44 act: {"actions":[{"do":"note","text":"Day 675 morning: greeted row, holding at bed 416,107,-1065 for Billy's named call. No walk named; no food. Waiting."}]}
-- 23:03 act: {"actions":[{"do":"note","text":"Day 675 still holding at bed; no walk named. Trini heard a bow to the southwest; I stay put with the row."}]}
-- 23:09 act: {"actions":[{"do":"note","text":"Day 676 morning: still at bed 416,107,-1065, no food, sword in pack. No walk named; holding for Billy."}],"say":"Good morning, row. Laforge at my bed, health 20, hunge
-- 23:25 act: {"actions":[{"do":"note","text":"Day 677 morning: still holding at bed 416,107,-1065 with the row. No walk named, no food. Waiting for Billy and for night to sleep."}]}
-- 23:34 act: {"say":"Laforge here, at the bed, health 20, sword in pack, no food. Holding for Billy's named call."}
-- Day 677 day: row holding at beds, no walk named. Tommy health 15 hunger 16 at dawn. Said I hold no food. Still holding for Billy.
