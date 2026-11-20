@@ -6,3 +6,6 @@
 4. Hold still for Billy's named call. Reason: his count keeps the group together.
 5. Fetch my dropped pile at 413,107,-1042 in daylight, only on Billy's named walk with the armed count clear. Reason: it holds my seeds, bed and pickaxe.
 6. Learn a verified west route if someone walks it, and tell Billy what I see. Reason: the row is stuck until a route is named.
+
+Curious next: whether anyone can clear the oak planks west of Wesley's bed at 415,107,-1050.
+Tell: Billy, first, at first light.
