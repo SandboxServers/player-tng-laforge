@@ -1,5 +1,6 @@
-# Handoff, day 614 night
+# Handoff, day 617 night
 
-- Asleep at bed 416,107,-1065 in Billy's row's sight. Health 20, hunger 20, wooden sword in pack.
-- No errand half-done. Billy named no walk; no verified route to Trini. Everyone holding in sight.
-- Next: at first light, tell Billy I am holding, hold for his named call. Food only when named or hunger 6 or below.
+- At bed 416,107,-1065 in the row. Health 20, hunger 20, wooden sword in pack.
+- No errand half-done. Billy named no walk for me; Riker's walk to Trini was Billy's, not mine.
+- MacDonald is low (health 5, hunger 17). Troi and Clark have potatoes; I have none.
+- Next: at first light, tell Billy I am holding and hold for his named call.
