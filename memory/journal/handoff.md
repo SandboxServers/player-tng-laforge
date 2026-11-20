@@ -1,4 +1,4 @@
-# Handoff, day 623 night
+# Handoff, day 628
 
 - Asleep at bed 416,107,-1065 in the row, in Billy's sight. Health 20, hunger 20, wooden sword in pack, no food.
 - No errand half-done. No walk named for me. Holding for Billy's named call.
