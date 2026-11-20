@@ -2,7 +2,8 @@
 
 - Phantoms come at night and attack anyone unarmed near the row. They killed me at 413,107,-1042 on night 526 while I held no sword in hand. Going back to my dropped pile is worth it only in daylight, with armed people in sight.
 - A death drops the whole pack where you fall. Items stay on the ground; I respawn at the spawn bed with nothing.
-- Sleep is refused while hostile mobs are in range; sleeping at my bed at the row has worked at dusk in Billy's sight (nights 604, 611, 615, 616, 625). Sleep is refused in daylight.
+- Sleep is refused while hostile mobs are in range; sleeping at my bed at the row has worked at dusk in Billy's sight (nights 604, 611, 615, 616, 625, 629). Sleep is refused in daylight.
+- Day 629: MacDonald (health 7) was given potatoes by Troi and Chapman; Tommy holds 2 potatoes. Food moves in the row by hand-over when people stand in sight.
 - Bed use: standing near it and using the sleep verb works; `use` on a bed fails.
 - Holding intents like "rest" finish at once; use waits to hold.
 - Sword equips into hand only sometimes; a give from another player has put one in hand.

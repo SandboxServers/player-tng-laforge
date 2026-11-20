@@ -8,4 +8,4 @@
 6. Learn a verified west route if someone walks it, and tell Billy what I see. Reason: the row is stuck until a route is named.
 
 Curious next: whether anyone can clear the oak planks west of Wesley's bed at 415,107,-1050.
-Tell: Billy, first, at first light.
+Tell: Billy, first, at first light. Also tell MacDonald and Tommy that I hold no food, in case they need to know who can help.
