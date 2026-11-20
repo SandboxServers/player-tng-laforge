@@ -14,4 +14,5 @@
 - Billy has not named a walk for several days (still none on day 603); the row waits in sight of beds.
 - Day 604: slept at dusk at my bed 416,107,-1065 in sight; slept fine. Billy still named no walk.
 - Curious next: which way west is safe to walk, and whether someone will name the walk. Could tell Billy and Troi about the bed at 415,107,-1065.
+- Day 615: held all day at bed; dusk sleep worked in Billy's sight. Billy named no walk. Morning calls from Billy: call at hunger 10, no walk until a named route.
 - Day 611: no walk named all day; slept at dusk at my bed 416,107,-1065 in the row's sight, no trouble. Holding in sight of beds works.

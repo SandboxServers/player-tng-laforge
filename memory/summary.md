@@ -1,6 +1,6 @@
 # Summary
 
-I am Laforge, an engineer, cheerful and inventive. Day 613 is done; I slept at my bed 416,107,-1065 in Billy's row. Day 614 has begun.
+I am Laforge, an engineer, cheerful and inventive. Day 615 is done; I slept at my bed 416,107,-1065 in Billy's row. Day 616 will begin at first light.
 
 - Health 20, hunger 20. Wooden sword in pack. Nothing else.
 - Bed: 416,107,-1065 (or 415,107,-1065). Sleep only at dusk or dark, in the row's sight.
