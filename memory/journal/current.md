@@ -9,3 +9,5 @@
 - 23:03 act: {"actions":[{"do":"note","text":"Day 675 still holding at bed; no walk named. Trini heard a bow to the southwest; I stay put with the row."}]}
 - 23:09 act: {"actions":[{"do":"note","text":"Day 676 morning: still at bed 416,107,-1065, no food, sword in pack. No walk named; holding for Billy."}],"say":"Good morning, row. Laforge at my bed, health 20, hunge
 - 23:25 act: {"actions":[{"do":"note","text":"Day 677 morning: still holding at bed 416,107,-1065 with the row. No walk named, no food. Waiting for Billy and for night to sleep."}]}
+- 23:34 act: {"say":"Laforge here, at the bed, health 20, sword in pack, no food. Holding for Billy's named call."}
+- Day 677 day: row holding at beds, no walk named. Tommy health 15 hunger 16 at dawn. Said I hold no food. Still holding for Billy.
