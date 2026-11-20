@@ -13,4 +13,5 @@
 - Wesley's bed at 415,107,-1050 says "the way was blocked"; the oak planks west of it still block the way. Day 625: Tommy and Picard walked west along z -1050 and turned back at a blocked path near 413,107,-1050. No west route verified.
 - No one has seen sheep yet; Worf asked where they graze (day 625). Nobody knows.
 - Billy names walks rarely; the row holds in sight of beds, and that is safe.
+- Day 646: the row held all day with no walk named. Billy's named call is still the only trigger for walks. Dusk sleep at my bed worked again.
 - Curious next: whether anyone can clear the oak planks west of Wesley's bed at 415,107,-1050. Tell Billy first at first light.
