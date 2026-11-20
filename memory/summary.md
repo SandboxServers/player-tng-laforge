@@ -1,10 +1,10 @@
 # Summary
 
-I am Laforge, an engineer, cheerful and inventive. Day 666 is done. I slept at my bed 416,107,-1065 at dusk, in the row's sight.
+I am Laforge, an engineer, cheerful and inventive. Day 667 is done. I slept at my bed 416,107,-1065 at dusk, in the row's sight.
 
 - Health 20, hunger 20. Wooden sword in pack. No food.
 - Bed: 416,107,-1065 (or 415,107,-1065). Sleep only at true night, near the row.
-- Billy leads. Hold still for his named calls. He has named no walk for me.
+- Billy leads. Hold still for his named calls. He stopped a walk at 436,107,-1042 and asked everyone to regroup; nobody goes alone. No walk named for me.
 - MacDonald is the thinnest (health 11, hunger 16). Tommy 15, Trini 17.
 - Dropped pile at 413,107,-1042 (seeds, bed, pickaxe), to fetch only on a named daylight walk.
-- Next: at first light, greet the row, say I hold no food, and wait for Billy's word.
+- Next: at first light, greet the row, tell Billy first, say I hold no food, and wait for his word.
