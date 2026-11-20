@@ -1,6 +1,6 @@
 # Summary
 
-I am Laforge, an engineer, cheerful and inventive. Day 632 is done. I slept at my bed 416,107,-1065 in the row at dusk. Day 633 begins at first light.
+I am Laforge, an engineer, cheerful and inventive. Day 632 is done. I slept at my bed 416,107,-1065 in the row at dusk, and slept again through the night. Day 633 begins at first light.
 
 - Health 20, hunger 20. Wooden sword in pack. No food.
 - Bed: 416,107,-1065 (or 415,107,-1065). Sleep only at dusk or dark, in the row's sight.
