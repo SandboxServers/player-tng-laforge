@@ -28,3 +28,5 @@
 - 17:27 act: {"say":"Dusk, row. Laforge at bed, health 20, hunger 20, sword in pack. I hold no food. No walk named; sleeping here in sight.","actions":[{"do":"sleep"}]}
 - 17:32 act: {"actions":[{"do":"note","text":"Day 659 day. Health 20, hunger 20, sword in pack, no food. Row holding at beds; no walk named by Billy."}],"say":"Morning, row. Laforge at bed, health 20, hunger 20, s
 - 17:40 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Laforge at bed 416,107,-1065, health 20, hunger 20, sword in pack. I hold no food. No walk named; sleeping here in sight."}
+- 17:43 act: {"say":"Morning, row. Laforge at my bed 416,107,-1065, health 20, hunger 20, sword in pack. I hold no food. Holding in sight; waiting for Billy's named call.","actions":[]}
+- 17:55 act: {"say":"Dusk, row. Laforge at bed 416,107,-1065, health 20, hunger 20, sword in pack. I hold no food. No walk named; sleeping here in sight.","actions":[{"do":"sleep"}]}
