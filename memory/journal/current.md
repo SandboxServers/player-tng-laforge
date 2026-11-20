@@ -30,3 +30,4 @@
 - 17:40 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Laforge at bed 416,107,-1065, health 20, hunger 20, sword in pack. I hold no food. No walk named; sleeping here in sight."}
 - 17:43 act: {"say":"Morning, row. Laforge at my bed 416,107,-1065, health 20, hunger 20, sword in pack. I hold no food. Holding in sight; waiting for Billy's named call.","actions":[]}
 - 17:55 act: {"say":"Dusk, row. Laforge at bed 416,107,-1065, health 20, hunger 20, sword in pack. I hold no food. No walk named; sleeping here in sight.","actions":[{"do":"sleep"}]}
+- 18:10 say: {"text":"Laforge at my bed 416,107,-1065, health 20, hunger 20. Wooden sword in pack, no food. Holding for Billy's named call."}
