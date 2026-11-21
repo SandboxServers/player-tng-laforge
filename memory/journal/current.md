@@ -14,3 +14,4 @@
 - Day 690 morning: greeted the row at bed 429,107,-1065 (health 20, hunger 20, sword, no food). Riker holding nearby, no walk named. Set hold-in-row intent and waiting for Billy.
 - 03:55 act: {"say":"Morning, row. Laforge here: health 20, hunger 20, sword in pack, no food. Holding still for Billy's word.","intent":{"goal":"hold_in_row","program":"rest","arguments":{},"wake_on":["directly_a
 - 04:07 act: {"say":"Billy, Laforge: I have seen no verified route west. Health 20, hunger 20, no food, holding in the row at my bed."}
+- 04:17 act: {"say":"Dusk in the row. Holding still at my bed, no food, sword in pack. Waiting for Billy's word."}
