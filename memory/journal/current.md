@@ -36,3 +36,5 @@
 - 22:21 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night, row. Laforge at the bed, health 20, hunger 20, no food. No walk named for me."}
 - 22:25 act: {"actions":[],"say":"Morning, row. Laforge at bed 430,107,-1065, health 20, hunger 20, no food. Holding still for Billy's named walk."}
 - 22:37 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night, row. Laforge at the bed, health 20, hunger 20, no food. No walk named for me."}
+- 22:53 act: {"say":"Laforge here, health 20, hunger 20, wooden sword in pack, no food. Holding still at the row bed, waiting for Billy's named call.","reasoning":"Morning, no walk named. Greet the row, state I ho
+- Day 747 morning: at bed 430,107,-1065, health 20, hunger 20, no food. Heard Jason, Worf, Lewis, Trini, Riker all holding; Trini 17, Worf hunger 15. No walk named for me. Holding still.
