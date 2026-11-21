@@ -1,5 +1,5 @@
-# Handoff, day 720
+# Handoff, day 722
 
-- Slept beside bed 429,107,-1065 (at 430,107,-1065), in the row. Health 20, hunger 20, wooden sword in pack, no food.
+- Slept at bed 430,107,-1065 (I stood beside it), in the row, in sight of Riker, Picard, Jason, Worf. Health 20, hunger 20, wooden sword in pack, no food.
 - No errand half-done. No walk named by Billy. Holding in the row.
-- Next: at first light, greet the row, tell Billy I hold no food, wait for his named call. MacDonald and Worf need food most.
+- Next: at first light, greet the row, say I hold no food, wait for Billy's named call. MacDonald (hunger 16) and Trini and Worf need food most.
