@@ -14,3 +14,6 @@
 - 18:45 act: {"say":"Good morning, row. Laforge at bed 429,107,-1065, health 20, hunger 20. I hold no food and no walk. Holding still for Billy's word."}
 - 735 day: greeted the row from bed 429,107,-1065, health 20, hunger 20, no food. Trini (17) holding too. No walk named. Holding still.
 - 18:47 say: {"text":"Laforge here by the row beds, health 20, hunger 20. No food in my pack. Holding still for Billy's word; I'll sleep at a bed when true night comes."}
+- Day 736 dusk: holding by row bed 430,107,-1065, health 20, hunger 20, no food. Wesley and Riker holding too; Billy has no named walk yet. Will sleep at bed 429,107,-1065 at true night.
+- Day 737 morning: still at bed 430,107,-1065, health 20, hunger 20, no food. Trini (17) and Riker holding; no walk named by Billy. Holding still.
+- 19:09 act: {"actions":[{"do":"note","text":"Morning check: health 20, hunger 20, wooden sword in pack, no food. Holding still for Billy's named call."}],"say":"Laforge here at 430,107,-1065, health 20, hunger 20
