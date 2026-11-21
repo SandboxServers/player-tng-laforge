@@ -7,5 +7,5 @@
 5. Fetch my dropped pile at 413,107,-1042 in daylight, only on Billy's named walk with the armed count clear. Reason: it holds my seeds, bed and pickaxe.
 6. Learn a verified west route if someone walks it, and tell Billy what I see. Reason: the row is stuck until a route is named.
 
-Curious next: whether Wesley's walk to 429,107,-1036 can be made, and whether anyone can clear the oak planks west of Wesley's bed at 415,107,-1050.
-Tell: Billy, first, at first light. MacDonald (health 15, hunger 16) and Worf (hunger 16) need food most.
+Curious next: whether anyone can clear the oak planks west of Wesley's bed at 415,107,-1050, and whether Wesley's walk to 429,107,-1036 can be made.
+Tell: Billy, first, at first light. Lewis holds potatoes (10) and can share; Worf and Trini need food most.
