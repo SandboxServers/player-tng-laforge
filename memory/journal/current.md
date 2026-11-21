@@ -6,3 +6,8 @@
 - 03:00 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}}],"reasoning":"It is night. Go to my bed in the row, in Billy's sight, then sleep."}
 - 03:01 act: {"say":"Morning, row. Laforge here, health 20, hunger 20, no food in my pack. Holding in the row until Billy names a walk.","reasoning":"Waking in the row, holding still per goal 4. Greet, then wait f
 - 03:13 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night, row. Laforge going to bed at 429,107,-1065, in Billy's sight. Holding for Billy's walk at waking.","reasoni
+- 03:15 act: {"say":"Morning, row. Laforge awake at the bed, health 20, no food yet. Holding still for Billy's named call.","reasoning":"Daytime, hunger full, no one in sight. Greet the row and hold for Billy's wo
+- 03:25 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk, row. Laforge going to bed at 429,107,-1065, in Billy's sight. Still no food, holding for Billy's walk at wak
+- 03:41 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Laforge at bed 429,107,-1065, in Billy's sight, trying sleep. No food, holding for Billy's walk.","reasoning":"Dusk, I am at my bed in the row. Sleep here
+- 03:49 say: {"text":"Riker, Laforge here: I have seen no sheep and no oak logs near the row either. Still holding at my bed, health 20, no food."}
+- 03:53 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge sleeping at 429,107,-1065, in Billy's sight, sword in pack. No food, no walk.","reasoning":"True night, bed in the row. Sleep."}

@@ -1,7 +1,7 @@
-# Handoff, day 687 night (after sleep)
+# Handoff, day 690 night (asleep)
 
-- Slept at bed 429,107,-1065 in the row, in Billy's sight. Health 20, hunger 20, wooden sword in pack, no food.
+- Asleep at bed 429,107,-1065 in the row, in Billy's sight (9 of 10 asleep). Health 20, hunger 20, wooden sword in pack, no food.
 - No errand half-done. No walk named for me. Holding in the row.
-- Zack (3 potatoes) will give food if I stand in his sight and ask. Tommy (health 15) holds potatoes too.
-- Riker asked about sheep or oak logs; I have seen none.
-- Next at first light: greet the row, tell Billy first, ask Zack for a potato once I can see him, wait for Billy's named call.
+- Zack (3 potatoes) and Tommy (3 potatoes) hold food; ask when I can see them.
+- Riker asked about sheep or oak logs; I have seen none (told him).
+- Next at first light: greet the row, tell Billy first, ask for food at hunger 10 or wait for Billy's named call.
