@@ -20,3 +20,6 @@
 - 04:43 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk, row. Laforge going to bed at 429,107,-1065, in Billy's sight. No food, no walk named."}
 - 04:47 act: {"actions":[],"say":"Morning, row. Laforge at bed 430,107,-1065, health 20, hunger 20, no food. Billy, I hold for your named call."}
 - 04:55 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk, row. Laforge going to bed at 429,107,-1065, in Billy's sight. No food, no walk named."}
+- 05:09 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}}],"say":"Dusk. Heading to the bed in the row, and I hold no food."}
+- 05:09 act: {"actions":[{"do":"sleep"}],"say":"Laforge at the row bed, health 20, no food, sword in pack. Holding for Billy's word."}
+- 05:11 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night, row. Laforge going to bed at 429,107,-1065, in Billy's sight. No food, no walk named."}
