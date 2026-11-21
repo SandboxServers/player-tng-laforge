@@ -34,3 +34,6 @@
 - 06:17 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge here, night in the row. Holding by the bed at 429,107,-1065, in Billy's sight. Sleeping now."}
 - 06:17 act: {"actions":[{"do":"sleep"}]}
 - 06:19 act: {"actions":[],"say":"Morning, row. Laforge awake at the bed, health 20, hunger 20, sword in pack, no food. Billy, I hold for your named call."}
+- 06:31 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Laforge at the bed beside 429,107,-1065, in Billy's sight. No food, no walk named. Going to sleep."}
+- 06:43 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge trying sleep at the row bed, in Billy's sight. No food, no walk named."}
+- 06:55 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge going to sleep at the row bed, in Billy's sight. No food, no walk named."}
