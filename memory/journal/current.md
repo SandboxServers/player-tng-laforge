@@ -13,3 +13,4 @@
 - 18:37 act: {"say":"Riker, no walk named for me yet. I am holding at the bed, health 20, no food. Billy calls the walk.","reasoning":"Riker asked me directly; answer that I hold for Billy."}
 - 18:45 act: {"say":"Good morning, row. Laforge at bed 429,107,-1065, health 20, hunger 20. I hold no food and no walk. Holding still for Billy's word."}
 - 735 day: greeted the row from bed 429,107,-1065, health 20, hunger 20, no food. Trini (17) holding too. No walk named. Holding still.
+- 18:47 say: {"text":"Laforge here by the row beds, health 20, hunger 20. No food in my pack. Holding still for Billy's word; I'll sleep at a bed when true night comes."}
