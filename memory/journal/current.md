@@ -17,3 +17,22 @@
 - Day 736 dusk: holding by row bed 430,107,-1065, health 20, hunger 20, no food. Wesley and Riker holding too; Billy has no named walk yet. Will sleep at bed 429,107,-1065 at true night.
 - Day 737 morning: still at bed 430,107,-1065, health 20, hunger 20, no food. Trini (17) and Riker holding; no walk named by Billy. Holding still.
 - 19:09 act: {"actions":[{"do":"note","text":"Morning check: health 20, hunger 20, wooden sword in pack, no food. Holding still for Billy's named call."}],"say":"Laforge here at 430,107,-1065, health 20, hunger 20
+- 19:42 act: {"say":"Morning, row. Laforge here: health 20, hunger 20, wooden sword in pack, no food. Holding still for Billy's named call.","actions":[]}
+- Day 737 wait: dim, clear, at bed 430,107,-1065 beside Trini. Health 20, no food. MacDonald and Trini slept; no walk named. Holding still.
+- 19:54 act: {"say":"Night, row. Laforge at the bed, health 20, hunger 20, no food. No walk named.","actions":[{"do":"sleep"}]}
+- Day 739: at bed 429,107,-1065, health 20, hunger 20, no food. Billy named Wesley's walk, not mine. Holding still; no cows or sheep seen by Chapman.
+- Day 740 dusk to morning: holding at bed 429,107,-1065, health 20, hunger 20, no food. Trini (17) asks for any walk; no walk named for me. Holding still.
+- Day 739 night: slept at bed 429,107,-1065 in sight (5 of 10, then morning). Day 740: health 20, hunger 20, no food. Trini 17, Lewis 19 need food. No walk named for me; holding still.
+- Day 738 night: slept at bed 429,107,-1065 (5 of 10 asleep, then morning). Woke health 20, hunger 20, no food. Trini (17) and Worf (16) still need food; Chapman has none. No walk named; Trini asks about Tommy and cows west. Holding still.
+- 20:20 act: {"say":"Night, row. Laforge at the bed, health 20, hunger 20, no food. No walk named.","actions":[{"do":"sleep"}]}
+- 20:48 act: {"say":"Night, row. Laforge at the bed, health 20, hunger 20, no food. No walk named.","actions":[{"do":"sleep"}]}
+- 21:01 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night, row. Laforge at the bed, health 20, hunger 20, no food. No walk named for me."}
+- 21:05 act: {"actions":[],"say":"Morning, row. Laforge at bed 430,107,-1065, health 20, hunger 20, no food. Holding for Billy's named call."}
+- 21:16 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge at the bed, health 20, hunger 20, no food. No walk named for me."}
+- 21:28 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge at the bed, health 20, hunger 20, no food. No walk named for me."}
+- 21:56 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge at bed 430,107,-1065, health 20, hunger 20, no food. No walk named for me."}
+- 22:09 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night, row. Laforge at the bed, health 20, hunger 20, no food. No walk named for me."}
+- 22:13 act: {"actions":[],"say":"Morning, row. Laforge at bed 430,107,-1065, health 20, hunger 20, no food, wooden sword in pack. Holding still for Billy's named call."}
+- 22:21 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night, row. Laforge at the bed, health 20, hunger 20, no food. No walk named for me."}
+- 22:25 act: {"actions":[],"say":"Morning, row. Laforge at bed 430,107,-1065, health 20, hunger 20, no food. Holding still for Billy's named walk."}
+- 22:37 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night, row. Laforge at the bed, health 20, hunger 20, no food. No walk named for me."}
