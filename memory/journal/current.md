@@ -1,12 +1,1 @@
 # Journal
-- 15:35 act: {"actions":[],"say":"Laforge here, at my bed in the row. Health 20, hunger 20, wooden sword in pack, no food. Holding for Billy's named call."}
-- Morning, day 725. Greeted the row at bed 429,107,-1065. No walk named by Billy yet; MacDonald and Trini need food. Holding still.
-- 15:45 act: goto bed 429,107,-1065 then sleep; sleep refused, not night yet. Said I hold no food.
-- Day 726 day: Worf, Riker and MacDonald spoke in the row. Worf and MacDonald need food; no walk named for me. Still holding at bed, waiting for dark and Billy's call.
-- 16:13 act: {"actions":[{"do":"sleep"}],"say":"Laforge at the row bed, night. Health 20, hunger 20, no food, sword in pack. Still holding for Billy."}
-- 16:17 act: {"actions":[],"say":"Laforge here, at my bed in the row, morning of day 727. Health 20, hunger 20. I hold no food, only my wooden sword. Holding for Billy's named call."}
-- 16:25 act: {"actions":[{"do":"sleep"}],"say":"Laforge at the row bed, night of day 728. Health 20, hunger 20, no food. Holding for Billy."}
-- Day 728 morning: Riker heard my greeting. Trini and Worf have no walk named. Night again; slept at row bed. No errand, no walk for me.
-- 16:29 act: {"actions":[],"say":"Laforge here, at my bed. Worf, I have not seen any sheep yet, so I cannot tell you where they graze. Still holding for Billy."}
-- 16:50 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge at the row bed at dusk, day 729. Health 20, hunger 20, no food. Holding for Billy."}
-- 16:52 act: {"actions":[{"do":"sleep"}],"say":"Laforge at the row bed, night of day 729. Health 20, hunger 20, no food. Holding for Billy."}
