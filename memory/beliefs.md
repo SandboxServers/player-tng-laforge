@@ -3,7 +3,8 @@
 - Phantoms come at night and attack anyone unarmed near the row. They killed me at 413,107,-1042 on night 526 while I held no sword in hand. Going back to my dropped pile is worth it only in daylight, with armed people in sight.
 - A death drops the whole pack where you fall. Items stay on the ground; I respawn at the spawn bed with nothing.
 - Sleep is refused while hostile mobs are in range; sleeping at my bed at the row has worked at dusk in Billy's sight (nights 604-666 repeatedly). Sleep is refused in daylight.
-- Bed use: standing near it and using the sleep verb works; `use` on a bed fails. The sleep action worked at dusk.
+- Bed use: standing near it and using the sleep verb works; `use` on a bed fails ("that block is a bed"). Day 680: the sleep verb worked at night beside bed 429,107,-1064 while I stood next to it.
+- Holding intent "rest" ends at once; holding still is done with plain waits, not a rest intent.
 - Holding intents like "rest" finish at once; use waits to hold.
 - Food moves in the row by hand-over when people stand in sight. Tommy holds 3 potatoes (day 666); MacDonald is at health 11, hunger 16.
 - Cows at 339,104,-979. Potato patch 462-470,107,-1072/-1076 behind an oak fence, no gate found.
