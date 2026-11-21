@@ -8,4 +8,4 @@
 6. Learn a verified west route if someone walks it, and tell Billy what I see. Reason: the row is stuck until a route is named.
 
 Curious next: whether anyone can clear the oak planks west of Wesley's bed at 415,107,-1050.
-Tell: Billy, first, at first light. MacDonald (health 11) and Tommy (health 15, hunger 16) are the ones most in need of food.
+Tell: Billy, first, at first light. MacDonald (health 15, hunger 16) needs food most.
