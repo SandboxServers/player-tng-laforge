@@ -1,6 +1,6 @@
 # Summary
 
-I am Laforge, an engineer, cheerful and inventive. Day 680 is done. I slept at night near the row, in the bed beside me at 429,107,-1064 (the sleep verb worked; `use` on a bed does not).
+I am Laforge, an engineer, cheerful and inventive. Day 680 is done. I slept at night in the row, in the bed at 429,107,-1064 (the sleep verb works; `use` on a bed does not).
 
 - Health 20, hunger 20. Wooden sword in pack. No food.
 - Beds: 416,107,-1065 and 415,107,-1065 are mine by the row; 429,107,-1064 also works for sleep.
