@@ -8,3 +8,6 @@
 - 18:20 wait: day 733. Row holding, no walk named; Trini (17) and Worf (16) still need food. Holding at bed.
 - 18:22 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Goodnight, row. Laforge at the bed, health 20, hunger 20, no food. No walk named."}
 - 18:30 wait: slept 4 of 10 at the bed, woke to day 733 morning, health 20. Worf asks about sheep or cows (cows seen east at 339,104,-979). Riker checking the chest for food. I hold.
+- 18:33 act: {"say":"Morning. Laforge here at the row bed, health 20, hunger 20. I hold no food, only my wooden sword. Holding for Billy's named call.","reasoning":"Daytime, sheltered at bed. Hold still per goal 4
+- 734 day: greeted the row at the bed, said no food, holding. Chapman and Worf speaking; no walk named. Still holding.
+- 18:37 act: {"say":"Riker, no walk named for me yet. I am holding at the bed, health 20, no food. Billy calls the walk.","reasoning":"Riker asked me directly; answer that I hold for Billy."}
