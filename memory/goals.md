@@ -1,6 +1,6 @@
 # Goals (ranked)
 
-1. Stay alive: sleep at a bed in the row (416,107,-1065, 415,107,-1065, or 429,107,-1064) at true night, in Billy's sight. Reason: phantoms killed me at night.
+1. Stay alive: sleep at a bed in the row (416,107,-1065, 415,107,-1065, 429,107,-1064 or 429,107,-1065) at true night, in Billy's sight. Reason: phantoms killed me at night.
 2. Keep the wooden sword in my pack and stay armed. Reason: unarmed I was a target.
 3. Get food into my pack when Billy names it, or at hunger 6 or below. Reason: my pack holds no food.
 4. Hold still for Billy's named call. Reason: his count keeps the group together.
