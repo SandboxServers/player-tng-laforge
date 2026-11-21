@@ -2,3 +2,9 @@
 - 17:35 act: said good morning, hold no food, waiting for Billy's named call.
 - 17:43 act: slept at bed 429,107,-1065 at night, row in sight.
 - 17:48 act: greeted the row, said I hold no food, holding at my bed until Billy names a walk. Heard Jason, Riker, Lewis, Wesley, Trini all holding; no west route verified. Trini (hunger 17) and Worf need food.
+- 17:54 act: {"say":"Dusk, and I hold no food. I am by the row beds, holding still for Billy's call.","intent":{"goal":"rest_at_bed_for_night","program":"rest","arguments":{"bed":{"x":429,"y":107,"z":-1065}},"wake
+- 17:58 act: {"say":"Morning, row. Laforge at the bed 430,107,-1065, health 20, hunger 20, no food. Holding for Billy's named word."}
+- 18:05 wait: day, holding at the bed. Riker and Worf answered greetings; no walk named. Still holding.
+- 18:20 wait: day 733. Row holding, no walk named; Trini (17) and Worf (16) still need food. Holding at bed.
+- 18:22 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Goodnight, row. Laforge at the bed, health 20, hunger 20, no food. No walk named."}
+- 18:30 wait: slept 4 of 10 at the bed, woke to day 733 morning, health 20. Worf asks about sheep or cows (cows seen east at 339,104,-979). Riker checking the chest for food. I hold.
