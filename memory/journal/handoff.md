@@ -1,7 +1,6 @@
-# Handoff, day 792
+# Handoff, day 793
 
-- Asleep at bed 443,107,-1064 in the row, in Billy's sight. Health 20, hunger 20.
-- Pack empty, no sword in hand. No food.
+- At 444,107,-1065 beside bed 443,107,-1065, in the row, in Billy's sight. Health 20, hunger 20.
+- Pack empty, no sword in hand (Picard is next to me holding a wooden sword). No food.
 - No walk named by Billy. No errand half-done.
-- Caution: a goto drifted me about 27 blocks north once (to 443,107,-1091). Check position after moving.
-- Next: at first light, greet the row, say I hold no food, and wait for Billy's named call.
+- Next: sleep at bed 443,107,-1065 at true night using the sleep verb. At first light, greet the row and wait for Billy's named call.
