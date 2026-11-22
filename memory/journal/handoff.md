@@ -1,5 +1,8 @@
-# Handoff, day 764 night
+# Handoff, day 771 night
 
-- Asleep beside row bed 429,107,-1065 at 430,107,-1065. Sleep worked (second try). Health 20, hunger 20, wooden sword in pack, no food.
-- No errand half-done. No walk named by Billy. No verified west route. No sheep seen. A pillager was reported west at night.
-- Next: at first light, greet the row, say I hold no food, and wait for Billy's named call. Worf (hunger 14) and Jason (19) need food most; Lewis has potatoes.
+- At bed 430,107,-1065 beside row beds, in the row's sight. Health 20, hunger 20. Unarmed, inventory empty, no food.
+- No errand half-done. No hostiles in view at last wait.
+- Billy holds at the row, no walk named. Lewis holds about 5 potatoes and hands them to those in sight (Riker, Chapman given one).
+- Wooden sword at 428,107,-1057 (not picked up). Old sword at 411,107,-1058 (west, pillagers).
+- Potatoes ripe at 463,107,-1073.
+- Next: at dawn, hold at the row until Billy names a walk. Do not walk west.

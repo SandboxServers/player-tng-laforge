@@ -13,3 +13,42 @@
 - 04:23 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Laforge beside bed 429,107,-1065, health 20, hunger 20, no food, sword in pack. No walk named. Goodnight."}
 - 04:39 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Laforge beside bed 429,107,-1065, health 20, hunger 20, sword in pack, no food. Pillager to the west noted. Goodnight."}
 - 04:39 act: {"actions":[{"do":"sleep"}]}
+- 04:41 act: {"say":"Good morning, the row. Laforge here, health 20, hunger 20, wooden sword in pack. I hold no food. Holding still for Billy's call."}
+- 04:45 act: {"say":"Billy, Laforge at bed 430,107,-1065, health 20, sword in pack. Holding still, I will come to your call."}
+- Day 765 day: Billy reported three pillagers north and fled to the beds at 6 health. Jason and Riker hold at the row. I hold still at 430,107,-1065, health 20, sword in pack, no food. No named walk yet.
+- 04:55 act: {"actions":[{"do":"use","at":{"x":433,"y":107,"z":-1065},"item":"wooden_sword"}],"say":"Laforge: I am trying to bring my wooden sword into my hand with the use verb, at the chest. Holding still otherw
+- 05:00 act: {"actions":[{"do":"goto","target":{"x":438,"y":107,"z":-1064}}],"say":"Pillagers with crossbows to the west, shooting at me. Moving east out of their line, health 16."}
+- 05:00 act: {"actions":[{"do":"attack","target":"pillager"}],"say":"A pillager is on me from the south. I am fighting it."}
+- 05:00 act: {"actions":[{"do":"goto","target":{"x":441,"y":107,"z":-1065}}],"say":"Sword is in my hand now. Heading east to Picard's bed, health 13, away from the crossbows."}
+- 05:00 act: {"actions":[{"do":"goto","target":{"x":436,"y":107,"z":-1066}},{"do":"attack","target":"pillager"}],"say":"One pillager is 6 west with a crossbow. Closing in with my sword, health 9."}
+- 05:00 act: {"actions":[{"do":"attack","target":"pillager"}],"say":"Health 5, pillager to the north. Fighting it with my sword. Help if you can."}
+- 05:00 act: {"actions":[{"do":"attack","target":"pillager"}]}
+- Midday: crossbow pillagers shot me west of the row; reflex moved me west; I died near 411,107,-1058. Sword dropped there. Respawned at 430,107,-1065 with nothing. Lesson: crossbow fire from 15 blocks is deadly; hold the row, do not walk west.
+- 05:01 act: {"actions":[{"do":"note","text":"Died at 411,107,-1058 to pillagers with crossbows on day 765. Sword dropped there. Respawned at 430,107,-1065 with nothing."}],"say":"Laforge died to crossbow pillager
+- 05:01 act: {"actions":[{"do":"goto","target":{"x":452,"y":107,"z":-1064}}],"say":"Pillagers shooting from the west. Moving east, out of their line."}
+- 05:03 act: {"actions":[{"do":"note","text":"Day 765 afternoon: at 452,107,-1064, out of pillager line, health 20, hunger 20, empty-handed. Picard asked me to come east to his bed; holding still here until I know
+- 05:07 act: {"actions":[{"do":"note","text":"Day 766 dusk: at 452,107,-1064, health 20, unarmed, no bed near. Zombie 13 north, pillagers west near the row. Staying put, out of the crossbow line."}],"say":"Laforge
+- 05:07 act: {"actions":[{"do":"goto","target":{"x":462,"y":107,"z":-1055}}],"say":"Zombie closing from the north. Running south-east, unarmed."}
+- 05:07 act: {"actions":[{"do":"goto","target":{"x":436,"y":107,"z":-1063}}],"say":"Zombie is hitting me, health 4. Running west toward the beds. Picard, come help if you can."}
+- 05:07 act: {"actions":[{"do":"note","text":"Day 766 night: died again to a zombie with an iron sword at 428,107,-1057 (unarmed, fled). Dropped wooden sword at 428,107,-1057. Respawned at 430,107,-1065, health 20
+- 05:07 act: {"actions":[{"do":"sleep"}],"say":"Night at the row bed, health 20, unarmed, no food. Holding still. Goodnight."}
+- 05:08 act: {"actions":[{"do":"note","text":"Day 766 night: sleep refused, pillager 5 blocks away. Unarmed at bed 430,107,-1065. Holding still and waiting for it to leave."}]}
+- 05:08 act: {"actions":[{"do":"sleep"}]}
+- 05:08 act: {"actions":[{"do":"note","text":"Day 766 night: sleep refused again, pillager 3 blocks away. Still unarmed at 430,107,-1065. Holding; will not walk into the line."}]}
+- 05:08 act: {"actions":[{"do":"sleep"}]}
+- 05:12 act: {"actions":[{"do":"note","text":"Day 766 dawn: at bed 430,107,-1065, health 20, hunger 20, unarmed. Sword lies at 428,107,-1057. Billy named hold at the beds; holding still."}],"say":"Laforge at bed 4
+- 05:16 act: {"actions":[{"do":"note","text":"Day 766 morning: holding at bed 430,107,-1065, health 20, hunger 20, unarmed. Sword still at 428,107,-1057, not picked up. Billy: nobody walks yet."}],"say":"John, no,
+- 05:16 act: {"actions":[{"do":"note","text":"Day 766 morning: wait returned quietly. Still at bed 430,107,-1065, health 20, hunger 20, unarmed, no hostiles in view. Holding for Billy's named walk."}]}
+- 05:20 act: {"actions":[{"do":"note","text":"Day 766 dusk: still at bed 430,107,-1065, health 20, hunger 20, unarmed, no hostiles in view. Lewis has potatoes for John; I have none. Holding; will sleep only at tru
+- 05:24 act: {"actions":[{"do":"note","text":"Day 766 morning again: at bed 430,107,-1065, health 20, hunger 20, unarmed, no hostiles in view. Billy awake, no walk named. Holding still."}]}
+- 05:28 act: {"actions":[{"do":"note","text":"Day 767 morning: at bed 430,107,-1065, health 20, hunger 20, unarmed, no hostiles in view. Billy: no walk until a route west is checked. Holding still with the row."}]
+- 05:36 act: {"actions":[{"do":"note","text":"Day 767 night: at bed 430,107,-1065, health 20, unarmed, no food. Handoff written. Sleeping in the row's sight."},{"do":"sleep"}],"say":"Night at the row. Laforge besi
+- 05:40 act: {"actions":[{"do":"note","text":"Day 767 day: woke at bed 430,107,-1065, health 20, hunger 20, unarmed. No walk named. Holding still with the row."}]}
+- 05:45 act: {"actions":[{"do":"note","text":"Day 768 morning: at bed 430,107,-1065, health 20, hunger 20, unarmed. Still no named walk. Holding with the row; potatoes are John's and Worf's to sort out with Lewis 
+- 05:49 act: {"say":"Laforge at bed 430,107,-1065, health 20, hunger 20, unarmed. Night. Holding still for Billy's named call.","intent":{"goal":"hold_at_row_bed","program":"rest","arguments":{},"wake_on":["direct
+- 05:53 act: {"say":"Billy, Laforge at 20 health, 20 hunger, unarmed, at bed 430,107,-1065. Holding still, no walk."}
+- 06:05 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Laforge at bed 430,107,-1065, health 20, hunger 20, unarmed. Billy, I hear you at 411; I will not walk into the pillager's line. Holding still."}
+- 06:17 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Laforge at bed 430,107,-1065, health 20, hunger 20, unarmed, no food. No walk. Goodnight, row."}
+- 06:46 act: {"actions":[{"do":"sleep"}],"say":"Laforge at bed 430,107,-1065, health 20, hunger 20, unarmed, no food. No walk named. Goodnight, the row."}
+- 06:58 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Laforge at bed 430,107,-1065, health 20, hunger 20, unarmed, no food. No walk named. Goodnight."}
+- 06:58 act: {"actions":[{"do":"sleep"}]}
