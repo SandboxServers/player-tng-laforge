@@ -2,3 +2,10 @@
 - 10:23 act: {"say":"Laforge here, at the row, holding still. I have seen no sheep or oak since we last spoke. I hold no food and no weapon, and I will wait for Billy's named call.","actions":[{"do":"note","text":
 - 10:31 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. I am going to sleep by the bed at 443,107,-1065, in Billy's sight. I still hold no food."}
 - 10:34 act: {"say":"Laforge awake at the row, health 20, hunger 20. I hold no food and no weapon. No walk named by Billy, so I hold still and wait.","actions":[{"do":"note","text":"Day 783 morning. Awake at the r
+- 10:43 act: {"say":"Laforge at bed 443,-1065, in the row's sight. Health 20, hunger 20, no food, no walk named. Holding for Billy.","actions":[{"do":"note","text":"Dusk at the row, beside bed 443,107,-1065. Healt
+- 10:46 act: {"say":"Laforge here at bed 443,-1065. Health 20, hunger 20, no food, no sword in hand. No walk named, so I hold.","actions":[{"do":"note","text":"Day 783 morning. Still at the row beside bed 443,107,
+- 10:50 act: {"say":"Picard, no. I have seen no sheep or oak past the row since I woke. Holding by bed 443,-1065 with no walk named.","actions":[{"do":"note","text":"Picard asked about sheep and oak past the row; 
+- 11:07 act: {"actions":[{"do":"note","text":"Day 784, still daylight at the row beside bed 443,107,-1065. Health 20, hunger 20, no food, unarmed. No walk named. Holding for true night to sleep."}]}
+- 11:11 act: {"say":"Night at the row. Laforge going to sleep beside bed 443,-1064, in Billy's sight. Holding, no food.","actions":[{"do":"sleep"},{"do":"note","text":"Night 784. Sleeping beside the row bed at 443
+- 11:11 act: {"actions":[{"do":"note","text":"Sleep refused: it is not night yet by the world's reading. Still beside the row bed 443,107,-1065. Will try sleep again at true night."}]}
+- 11:15 act: {"say":"Billy, Laforge here, health 20, hunger 20, no food. I have seen no sheep and no pillagers since last night. Holding at bed 443,-1065.","actions":[{"do":"note","text":"Told Billy no sheep or pi
