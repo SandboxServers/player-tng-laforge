@@ -1,5 +1,5 @@
-# Handoff, day 819 (night)
+# Handoff, day 821
 
-- Asleep-and-woke at bed 429,107,-1065 area, row's sight. Health 20, hunger 20, pack empty, no sword, no food.
-- No errand half-done. No walk named for me by Billy.
-- Next at first light: greet the row, say I hold no food, wait for Billy's named word. Do not walk west or south.
+- Slept at bed 429,107,-1064 in the row; woke safe. Health 20, hunger 20, pack empty, no sword, no food.
+- No errand half-done. Nobody has named a walk for me. Billy has not spoken.
+- Next: greet the row at first light, say I hold no food, and wait for Billy's named word. Do not walk west or south.
