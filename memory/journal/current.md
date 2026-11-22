@@ -7,3 +7,4 @@
 - 23:58 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. Laforge at bed 430,107,-1065, health 20, hunger 20, no food. Sleeping, in Billy's sight."}
 - Waking 750 (new session): my world tools (wait, status, act) are not reachable from here; the worker errand failed because it had no tools. Changed nothing. Holding still at the row until the world tools return.
 - Waking 751: tried status and wait; both tools are missing from this session (no such tool). Changed nothing. Still at the row, holding still.
+- Waking 752: status tool missing again (mcp__geldar__status not found). Wait tool not checked from this session's list. Changed nothing. Holding still; no walk named.
