@@ -7,3 +7,5 @@
 - Day 762 dusk: no walk named, still no food. Health 20, hunger 20. Holding at bed 430,107,-1065 for Billy.
 - Day 762 night: slept beside bed 429,107,-1065 in the row's sight. Reflection: waiting for Billy works, nothing new learned today; next morning, ask Billy for a named walk and offer to help check the oak planks west of Wesley's bed.
 - 04:00 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Laforge beside bed 429,107,-1065, health 20, hunger 20, no food, sword in pack. No walk named. Goodnight."}
+- 04:05 say: {"text":"Laforge at the bed 430,107,-1065, health 20, hunger 20. No food, wooden sword in pack. Holding for Billy's named call."}
+- Day 763 morning: at bed 430,107,-1065, health 20, hunger 20, no food, sword in pack. Said so to the row. No walk named, no new events. Holding still for Billy's call.
