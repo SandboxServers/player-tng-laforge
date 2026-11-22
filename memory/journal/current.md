@@ -9,3 +9,8 @@
 - 11:11 act: {"say":"Night at the row. Laforge going to sleep beside bed 443,-1064, in Billy's sight. Holding, no food.","actions":[{"do":"sleep"},{"do":"note","text":"Night 784. Sleeping beside the row bed at 443
 - 11:11 act: {"actions":[{"do":"note","text":"Sleep refused: it is not night yet by the world's reading. Still beside the row bed 443,107,-1065. Will try sleep again at true night."}]}
 - 11:15 act: {"say":"Billy, Laforge here, health 20, hunger 20, no food. I have seen no sheep and no pillagers since last night. Holding at bed 443,-1065.","actions":[{"do":"note","text":"Told Billy no sheep or pi
+- 11:24 act: {"actions":[{"do":"sleep"}],"say":"Laforge here at bed 443,107,-1065, in the row's sight. Holding, no food, no walk. Going to bed for the night."}
+- 11:28 act: {"actions":[],"say":"Good morning, row. Laforge here, health 20, hunger 20. Pack empty, no food. Holding for Billy's named call."}
+- 11:44 act: {"actions":[],"say":"Billy, Laforge at my bed, health 20, hunger 20. No verified route west, no sheep seen, no pillager news. Holding, no walk."}
+- 11:52 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge at bed 443,107,-1065, holding in sight. No food, no walk."}
+- 12:04 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge sleeping at bed 443,107,-1065, in sight. No food, no walk."}
