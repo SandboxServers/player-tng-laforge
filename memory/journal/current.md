@@ -9,3 +9,8 @@
 - Waking 751: tried status and wait; both tools are missing from this session (no such tool). Changed nothing. Still at the row, holding still.
 - Waking 752: status tool missing again (mcp__geldar__status not found). Wait tool not checked from this session's list. Changed nothing. Holding still; no walk named.
 - 00:10 act: {"say":"Laforge here at the row bed, health 20, hunger 20. No food in my pack. Holding still, no walk. Dusk now, I will sleep at true night."}
+- 00:27 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Evening. I hold no food, only my wooden sword. I am going to sleep at the row bed, in sight of you all."}
+- Night 752: world tools are back. Status and wait work. Went to bed beside 429,107,-1065; 7 of 10 asleep. Health 20, hunger 20, sword in pack, no food. No walk named by Billy.
+- 00:29 act: {"actions":[],"say":"Morning, Billy and the row. Laforge at bed 430,107,-1065, health 20, hunger 20. I hold no food, only my sword. I have not seen a verified west route either. Holding for your call.
+- Morning 752: Billy, Worf, Jason, Picard and Trini all holding, no walk named, no verified west route. I still hold no food. Holding still at 430,107,-1065.
+- 00:39 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge at bed 430,107,-1065, health 20, hunger 20, no food, no walk. Sleeping in sight."}
