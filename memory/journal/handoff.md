@@ -1,6 +1,6 @@
-# Handoff, day 793
+# Handoff, day 796
 
-- At 444,107,-1065 beside bed 443,107,-1065, in the row, in Billy's sight. Health 20, hunger 20.
-- Pack empty, no sword in hand (Picard is next to me holding a wooden sword). No food.
+- At 430,107,-1065, beside bed 429,107,-1065, in the row, in Billy's sight. Health 20, hunger 20.
+- Pack empty, no sword in hand. No food.
 - No walk named by Billy. No errand half-done.
-- Next: sleep at bed 443,107,-1065 at true night using the sleep verb. At first light, greet the row and wait for Billy's named call.
+- Next: at first light, greet the row, say I hold no food, and wait for Billy's named call. Riker needs food most.
