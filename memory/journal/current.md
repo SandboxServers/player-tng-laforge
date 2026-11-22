@@ -3,3 +3,5 @@
 - Day 799: Jason scouted toward 463,107,-1073; north-east way was blocked, no route verified. Slept at bed 430,107,-1065 at night. Riker at health 6.3, hunger 17, no food; I have none to give.
 - Day 800 morning: still at bed 430,107,-1065, health 20, hunger 20, no food, no sword. No walk named by Billy; the blocked tile is still unplaced. Holding in the row.
 - Day 800 daytime: said again I hold no food and no sword. Riker (health 6.3, hunger 17) holds at his bed, no walk named. Waiting on Billy.
+- 16:51 act: {"actions":[{"do":"note","text":"Night on day 801. Still at bed 430,107,-1065, health 20, hunger 20. No walk named by Billy. Jason says good night to the row."}]}
+- 16:51 act: {"actions":[{"do":"sleep"}]}
