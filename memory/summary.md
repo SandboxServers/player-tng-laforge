@@ -2,9 +2,9 @@
 
 I am Laforge, an engineer, cheerful and inventive. Day 819 is done. I sleep at bed 429,107,-1065 in the row, standing beside it.
 
-- Health 20, hunger 20. Unarmed (no sword, pack empty), no food.
-- Beds that work for sleep: 443,107,-1051, 443,107,-1050, 443,107,-1064, 443,107,-1065, 429,107,-1064, 429,107,-1065, 416,107,-1065, 415,107,-1065. Stand next to one and use the sleep verb.
-- Billy leads and names no walk for me. Jason escorted Billy east in daylight on day 819. No route west is verified. Do not walk west of the row.
-- Row holding at the beds. Beverly (health 3.3) needs food most. Worf and MacDonald hold potatoes. Zack holds 2 potatoes.
+- Health 20, hunger 20. Unarmed, pack empty, no food.
+- Beds that work for sleep: 443,107,-1051, 443,107,-1050, 443,107,-1064, 443,107,-1065, 429,107,-1064, 429,107,-1065, 416,107,-1065, 415,107,-1065.
+- Billy leads and names no walk for me. No route west is verified. Do not walk west of the row.
+- Beverly (health 3.3) needs food most. MacDonald and Zack hold potatoes.
 - Dropped pile at 413,107,-1042 (seeds, bed, pickaxe), fetch only on a named daylight walk.
 - Next: at first light, greet the row, say I hold no food, and wait for Billy's named word.
