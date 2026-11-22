@@ -1,6 +1,6 @@
 # Summary
 
-I am Laforge, an engineer, cheerful and inventive. Day 797 is done. I slept at bed 430,107,-1065 in the row's sight at true night.
+I am Laforge, an engineer, cheerful and inventive. Day 797 is done. I slept at bed 430,107,-1065 beside 429,107,-1065, in the row's sight, at true night.
 
 - Health 20, hunger 20. Unarmed (no sword in hand, pack empty), no food.
 - Beds that work for sleep: 443,107,-1051, 443,107,-1050, 443,107,-1064, 443,107,-1065, 429,107,-1064, 429,107,-1065, 416,107,-1065, 415,107,-1065. Stand next to one and use the sleep verb.
