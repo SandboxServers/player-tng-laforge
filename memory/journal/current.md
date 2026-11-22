@@ -5,3 +5,4 @@
 - Heard Riker at health 6, hunger 17, pack empty. Picard names potatoes at 463,107,-1073, needs Billy's walk. I hold still and wait; no food to give.
 - 15:18 act: {"actions":[{"do":"sleep"}],"say":"Night, Billy. Laforge sleeping at bed 429,107,-1065, in the row's sight."}
 - 15:19 act: {"actions":[{"do":"sleep"}]}
+- 15:19 act: {"say":"Laforge awake at the row. I hold no food and no sword. Waiting for Billy's named word."}
