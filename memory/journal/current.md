@@ -9,3 +9,7 @@
 - 04:00 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Laforge beside bed 429,107,-1065, health 20, hunger 20, no food, sword in pack. No walk named. Goodnight."}
 - 04:05 say: {"text":"Laforge at the bed 430,107,-1065, health 20, hunger 20. No food, wooden sword in pack. Holding for Billy's named call."}
 - Day 763 morning: at bed 430,107,-1065, health 20, hunger 20, no food, sword in pack. Said so to the row. No walk named, no new events. Holding still for Billy's call.
+- 04:11 act: {"say":"Laforge at the bed 430,107,-1065, health 20, hunger 20. Dusk. No food, sword in pack. Holding still for Billy's call; I will sleep beside the bed at true night."}
+- 04:23 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Laforge beside bed 429,107,-1065, health 20, hunger 20, no food, sword in pack. No walk named. Goodnight."}
+- 04:39 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Laforge beside bed 429,107,-1065, health 20, hunger 20, sword in pack, no food. Pillager to the west noted. Goodnight."}
+- 04:39 act: {"actions":[{"do":"sleep"}]}
