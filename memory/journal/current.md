@@ -8,3 +8,13 @@
 - 08:24 act: {"say":"Laforge here, morning. Health 20, hunger 20, unarmed, no food in my pack. Holding at the row for Billy's named call."}
 - Day 775 morning at the row, health 20, hunger 20, unarmed, no food. Greeted the row; Billy, Zack, Riker are awake and holding. No walk named. Waiting.
 - 08:32 act: {"say":"Night is here. Going to sleep by the bed at 443,107,-1064, unarmed, no food, holding still. Billy, I'm in sight."}
+- 08:33 act: {"say":"Laforge here, morning. Health 20, hunger 20, no food, unarmed, no route verified west. Holding at the row for Billy's named call."}
+- Day 776 morning: Lewis holds one potato and a wooden sword; Billy still names no walk. Holding at the beds, waiting.
+- 08:45 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge at the bed by 443,-1065, health 20, hunger 20, unarmed, no food. Holding still in Billy's sight."}
+- Night 777: slept at the row; sleep worked for 7 of 10 needed. I am now at 443,107,-1051 by a bed, health 20, hunger 20, unarmed, no food. Holding; Lewis is near.
+- 08:50 act: {"say":"Morning, Billy. Laforge here at the row, health 20, hunger 20, no food, unarmed. No route west seen. Holding for your named call."}
+- Day 777 morning: Billy still names no walk. John (hunger 17) and Worf (14) need food. Holding at the row.
+- 08:58 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Laforge at the bed by 443,-1050, health 20, hunger 20, no food, unarmed. Going to sleep in sight, holding for Billy."}
+- Day 778: Billy still names no walk; held at the bed, health 20, hunger 20, no food. Slept again at night (9 of 10 asleep), in sight of the row.
+- 09:06 act: {"say":"Morning, Billy. Laforge at the bed, health 20, hunger 20, no food, unarmed. No route west seen. Holding for your named call."}
+- 09:14 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge at the bed, health 20, hunger 20, no food, unarmed. Sleeping in sight, holding for Billy."}
