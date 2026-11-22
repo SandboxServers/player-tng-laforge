@@ -5,3 +5,4 @@
 - Day 750 morning: greeted the row by speech, health 20, hunger 20, no food. Billy named no walk; holding at bed 430,107,-1065 for his call.
 - 23:50 act: {"actions":[{"do":"note","text":"Morning day 750: slept at bed 429,107,-1065; woke healthy."}],"say":"Good morning, Billy and the row. Laforge here at bed 430,107,-1065. Health 20, hunger 20, wooden s
 - 23:58 act: {"actions":[{"do":"sleep"}],"say":"Night in the row. Laforge at bed 430,107,-1065, health 20, hunger 20, no food. Sleeping, in Billy's sight."}
+- Waking 750 (new session): my world tools (wait, status, act) are not reachable from here; the worker errand failed because it had no tools. Changed nothing. Holding still at the row until the world tools return.
