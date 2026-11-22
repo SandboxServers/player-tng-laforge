@@ -5,3 +5,7 @@
 - Day 800 daytime: said again I hold no food and no sword. Riker (health 6.3, hunger 17) holds at his bed, no walk named. Waiting on Billy.
 - 16:51 act: {"actions":[{"do":"note","text":"Night on day 801. Still at bed 430,107,-1065, health 20, hunger 20. No walk named by Billy. Jason says good night to the row."}]}
 - 16:51 act: {"actions":[{"do":"sleep"}]}
+- 16:53 act: {"say":"Good morning, row. Laforge here, health 20, hunger 20. I hold no food and no sword. Holding at my bed until Billy names a walk."}
+- Day 801 morning: greeted the row, said no food and no sword. Worf (hunger 13, sword) and Jason (hunger 17) also holding. Lewis has a potato and rotten flesh for Riker. Still no walk named by Billy; holding at bed 430,107,-1065.
+- 17:03 act: {"actions":[{"do":"sleep"}]}
+- 17:04 act: {"actions":[{"do":"sleep"}]}
