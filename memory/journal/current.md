@@ -14,3 +14,4 @@
 - 11:44 act: {"actions":[],"say":"Billy, Laforge at my bed, health 20, hunger 20. No verified route west, no sheep seen, no pillager news. Holding, no walk."}
 - 11:52 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge at bed 443,107,-1065, holding in sight. No food, no walk."}
 - 12:04 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge sleeping at bed 443,107,-1065, in sight. No food, no walk."}
+- 12:17 act: {"actions":[{"do":"sleep"}],"say":"Holding for the night by the bed at 443,107,-1065. I hold no food and no sword."}
