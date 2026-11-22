@@ -5,3 +5,6 @@
 - Day 800 daytime: said again I hold no food and no sword. Riker holds at his bed, no walk named. Waiting on Billy.
 - Day 801 night: slept at bed 430,107,-1065 in Billy's sight.
 - Day 802 morning: greeted the row again (health 20, hunger 20, no food, no sword). Clark and Jason also holding; Jason has sword in hand. No walk named. Holding still at bed 430,107,-1065, waiting on Billy's word.
+- 17:20 act: {"say":"Laforge here, morning. Health 20, hunger 20, no sword, no food in my pack. Holding at my bed. Waiting for Billy's named word."}
+- 17:29 act: {"actions":[{"do":"sleep"}]}
+- 17:45 act: {"actions":[{"do":"sleep"}]}
