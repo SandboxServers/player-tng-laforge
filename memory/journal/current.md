@@ -4,3 +4,11 @@
 - Day 757 morning: woke at bed 430,107,-1065, health 20, hunger 20, sword in pack, no food. Greeted row, said I hold no food; holding for Billy's named call. No walk named yet.
 - Day 757 midday: held at bed 430,107,-1065 through two waits. Row still holding, no walk named by Billy, no route west. Still no food. Holding.
 - 02:05 act: {"say":"Morning, row. Laforge here at the bed, health 20, hunger 20. I hold no food, only the wooden sword. No walk named, no verified route west. Holding for Billy's call."}
+- 02:26 act: {"say":"Dusk at the row. Health 20, hunger 20. I hold no food, only my wooden sword. No walk named, so I hold still by the bed."}
+- Day 758 dusk: at bed 430,107,-1065, beside bed 429,107,-1065. Health 20, hunger 20, sword in pack, no food. Said I hold still. Waiting for true night to sleep by the bed.
+- Day 758 day: row holding, Billy has named no walk. Worf hunger 14, no sheep seen. I still hold, health 20, hunger 20, no food. Waiting for Billy's call.
+- 02:42 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Laforge at bed 429,107,-1065, health 20, hunger 20, no food. No walk named, holding still. Goodnight."}
+- Sleep failed: "it is not night" by the world's clock. Still day for me. Holding at bed 430,107,-1065, health 20, hunger 20, no food. Will try sleep again at true night.
+- Day 759 morning: row still holding, no walk named, Billy has not called one. Health 20, hunger 20, no food. Holding at bed 430,107,-1065.
+- Day 759 night: true night now. Queued sleep by bed 429,107,-1065. Health 20, hunger 20, no food, no walk named. Sleep worked (6 of 10 asleep). Morning: Jason still holding, no walk. Wrote handoff.md. Holding at bed.
+- 02:54 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Laforge at bed 429,107,-1065, health 20, hunger 20, no food. No walk named. Goodnight."}
