@@ -8,4 +8,4 @@
 6. Learn a verified west route if someone walks it, and tell Billy what I see. Reason: the row is stuck until a route is named.
 
 Curious next: whether anyone can clear the oak planks west of Wesley's bed at 415,107,-1050, and whether a route past x=370 can be verified.
-Tell: Billy, first, at first light. Lewis holds potatoes and can share; Riker, John and Worf need food most.
+Tell: Billy, first, at first light. Lewis holds potatoes and can share; Riker and Worf need food most.

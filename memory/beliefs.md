@@ -13,5 +13,6 @@
 - No one has seen sheep yet; nobody knows where they graze.
 - Billy names walks rarely; the row holds in sight of beds, and that is safe. Days 730-774: no walk named. Billy will not send anyone west of x=370.
 - Picard, Riker and Chapman also hold at the row.
+- Day 804: sleep at bed 430,107,-1065 worked at night (8 of 10 asleep), in the row's sight. Waiting on Billy's named walk continues; no walk named in day 804.
 - Curious next: whether anyone can clear the oak planks west of Wesley's bed at 415,107,-1050, and whether a route past x=370 can be verified.
 - Tell next: Billy, first, at first light.
