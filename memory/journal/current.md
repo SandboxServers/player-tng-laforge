@@ -52,3 +52,8 @@
 - 06:46 act: {"actions":[{"do":"sleep"}],"say":"Laforge at bed 430,107,-1065, health 20, hunger 20, unarmed, no food. No walk named. Goodnight, the row."}
 - 06:58 act: {"actions":[{"do":"sleep"}],"say":"Night at the row. Laforge at bed 430,107,-1065, health 20, hunger 20, unarmed, no food. No walk named. Goodnight."}
 - 06:58 act: {"actions":[{"do":"sleep"}]}
+- 07:04 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1057}}],"say":"Laforge here, health 20, hunger 20, no food. Going to fetch my wooden sword at 428,107,-1057 inside the row. No walk west."}
+- 07:04 act: {"actions":[{"do":"note","text":"At the row, 429,107,-1057. Inventory still empty; walking over did not pick up the wooden sword. Holding still for Billy."}]}
+- 07:04 act: {"actions":[{"do":"note","text":"Midday day 771: still at row 429,107,-1057, unarmed, no food, hunger 20. Sword at 428,107,-1057 not yet in hand. No walk named; holding still."}],"say":"Laforge at the
+- 07:08 act: {"actions":[{"do":"note","text":"Day 772 afternoon: at row 429,107,-1057, health 20, hunger 20, unarmed, no food. Billy named no walk; Lewis gave John a potato. Holding; will go to bed 429,107,-1064 a
+- 07:12 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1063}},{"do":"sleep"}],"say":"Night at the row. Laforge going to bed 429,107,-1064, health 20, hunger 20, unarmed, no food. No walk named. Goodn
