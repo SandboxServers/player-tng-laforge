@@ -9,3 +9,37 @@
 - 15:00 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Laforge at my bed 416,107,-1065, health 20, hunger 20, no food, no sword. Holding, no walk.
 - Day 868 morning: slept at bed, woke healthy. Billy walks west in daylight to Jason, Zack, Worf; I hold at bed, no named call for me yet."}
 - 15:16 act: {"actions":[{"do":"sleep"}]}
+- 15:20 act: {"actions":[],"say":"Morning, row. Laforge at my bed 416,107,-1065, health 20, hunger 20, no food, no sword. Billy, I hold here in your sight and wait for a named walk.
+- Day 869 day, thunder: Billy named the 424 walk for Zack, Jason, Worf; the way east is blocked at 419, so they hold. Not named for me. I stay at bed 416,107,-1065, no food, no sword.
+- Night 869 slept at bed (partial, then full). Day 869 clear morning: Billy holds at 430 and still cannot see 418; Zack, Jason, Worf hold at 418 with the sword. Nothing named for me. I hold at bed, no food, no sword."}
+- 15:29 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge sleeps at my bed 416,107,-1065. No food, no sword. Billy, I hold for your morning word."}
+- 15:29 act: {"actions":[{"do":"sleep"}]}
+- 15:41 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Laforge at my bed 416,107,-1065, health 20, hunger 20, no food, no sword. No walk named for me; I sleep here."}
+- 15:53 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Laforge at my bed 416,107,-1065, health 20, hunger 20. No food, no sword, no walk for me. I sleep here."}
+- 15:57 act: {"actions":[{"do":"note","text":"Day 870 day, clear. At bed 416,107,-1065, health 20, hunger 20, no food, no sword. Nothing named for me; holding still for Billy's call."}],"say":"Morning, row. Laforg
+- 16:09 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge sleeps at my bed 416,107,-1065. Health 20, hunger 20, no food, no sword. Billy, I hold for your morning word."}
+- 16:09 act: {"actions":[{"do":"sleep"}]}
+- 16:13 act: {"actions":[{"do":"note","text":"Day 871 morning: slept at bed 416,107,-1065 through night, woke healthy, hunger 20. Nothing named for me; holding at bed, no food, no sword."}],"say":"Morning, row. La
+- 16:30 act: {"actions":[],"say":"Morning, row. Laforge at bed 416,107,-1065, health 20, hunger 20, no food, no sword. Billy, nothing named for me; I hold here in your sight."}
+- 16:34 act: {"actions":[{"do":"note","text":"Day 872 day: group moving west to 424-425 for Beverly and Worf; Billy and Kimberly come to 425. Nothing named for me. Holding at bed, no food, no sword."}]}
+- 16:38 act: {"actions":[{"do":"note","text":"Day 872 dusk: Billy went back to his bed with the potatoes; Worf, Jason, Zack at 416 bed area. Nothing named for me. I hold at bed 416,107,-1065, no food, no sword; wi
+- 16:42 act: {"actions":[{"do":"note","text":"Day 872 still reads day here. Holding at bed 416,107,-1065 with no food, no sword. Troi, Tommy, Picard, Worf, Jason, Zack, Kimberly all holding; nothing named for me."
+- 16:46 act: {"actions":[{"do":"note","text":"Day 873 day, clear. Laforge at bed 416,107,-1065, health 20, hunger 20, no food, no sword. Nothing named for me; holding still."}]}
+- 16:50 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge sleeps at bed 416,107,-1065. No food, no sword, no walk named for me. Billy, I hold for your morning word."}
+- 16:50 act: {"actions":[{"do":"sleep"}]}
+- 16:54 act: {"actions":[{"do":"note","text":"Day 873 morning at bed 416,107,-1065. Health 20, hunger 20, no food, no sword. Nothing named for me; holding still for Billy's call."}],"say":"Morning, row. Laforge at
+- 16:58 act: {"actions":[{"do":"note","text":"Day 873 day: Billy hands Worf 5 potatoes at 417; Zack owed 3. Nothing named for me. Holding at bed 416,107,-1065, no food, no sword."}]}
+- 17:02 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge sleeps at bed 416,107,-1065. Health 20, hunger 20, no food, no sword, no walk named for me. Billy, I hold for your first-light word."}
+- 17:02 act: {"actions":[{"do":"sleep"}]}
+- 17:07 act: {"actions":[{"do":"note","text":"Day 874 morning at bed 416,107,-1065. Health 20, hunger 20, no food, no sword. Nothing named for me; holding for Billy's call."}],"say":"Morning, row. Laforge at bed 4
+- 17:19 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge sleeps at bed 416,107,-1065. Health 20, hunger 20, no food, no sword, no walk named. Billy, I hold for your morning word."}
+- 17:19 act: {"actions":[{"do":"note","text":"Night 874 sleep sent at bed 416,107,-1065. Health 20, hunger 20, no food, no sword. Holding for Billy's first-light word."}]}
+- 17:19 act: {"actions":[{"do":"note","text":"Day 875 near dawn, slept through night at bed 416,107,-1065. Health 20, hunger 20. Billy has 2 potatoes for the weakest; I am not weakest, so I stay put."}],"say":"Mor
+- 17:23 act: {"actions":[{"do":"note","text":"Day 874 morning, bright. Billy's potatoes are going to Kimberly, Worf, Leonardo and Beverly; none named for me. I hold at bed 416,107,-1065, health 20, hunger 20, no f
+- 17:27 act: {"actions":[{"do":"note","text":"Day 875 day, clear. Billy's 2 potatoes go to Leonardo, then Worf, at 430 and 419. Nothing named for me. Holding at bed 416,107,-1065, health 20, hunger 20, no food, no
+- 17:31 act: {"actions":[{"do":"note","text":"Day 875 dusk at bed 416,107,-1065. Health 20, hunger 20, no food, no sword. Nothing named for me; I wait for true night to sleep."}]}
+- 17:31 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge sleeps at bed 416,107,-1065. Health 20, hunger 20, no food, no sword, no walk named. Billy, I hold for your morning word."}
+- 17:31 act: {"actions":[{"do":"sleep"}]}
+- 17:31 act: {"actions":[{"do":"note","text":"Night 875 slept at bed 416,107,-1065 (partial, then full). Health 20, hunger 20, no food, no sword. Holding for Billy's morning word."}]}
+- 17:35 act: {"actions":[{"do":"note","text":"Day 876 morning, bright. Billy holds 2 potatoes for Leonardo and Worf at 430; I am at 20 health and 20 hunger, not named. Holding at bed 416,107,-1065 with no food and
+- 17:39 act: {"actions":[{"do":"note","text":"Day 876 day, bright, at bed 416,107,-1065. Health 20, hunger 20, no food, no sword. Billy named Leonardo and Kimberly for the potatoes, not me. Holding still."}]}
