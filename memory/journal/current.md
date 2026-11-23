@@ -1,6 +1,11 @@
 # Journal
+- Day 867 first light: woke at bed 416,107,-1065, health 20, hunger 20, no food, no sword. Said so to the row. Holding still for Billy's named call.
 - 14:17 say: {"text":"Laforge here, by the row bed. I hold no food and no sword. Waiting for Billy's word."}
 - 14:38 say: {"text":"Morning, row. Laforge here at the bed, health 20, hunger 20. I hold no food and no sword. I wait for Billy's named call and will not walk alone."}
 - 14:42 act: goto 420,107,-1052 toward Billy's sight, in daylight with Jason and Zack near. Holding no food, no sword.
 - 14:42 say: {"text":"Billy, Laforge is in your sight now, 4 blocks off. I hold still, with no food and no sword, and wait for your word."}
 - 14:47 act: goto my bed 416,107,-1065 then sleep, at dusk, row in sight. No food, no sword.
+- 14:51 act: {"actions":[{"do":"note","text":"Day 867 first light at my bed 416,107,-1065. Holding still, no food, no sword. Waiting for Billy's named call."}],"say":"Morning, row. Laforge at the bed, health 20, h
+- 15:00 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Laforge at my bed 416,107,-1065, health 20, hunger 20, no food, no sword. Holding, no walk.
+- Day 868 morning: slept at bed, woke healthy. Billy walks west in daylight to Jason, Zack, Worf; I hold at bed, no named call for me yet."}
+- 15:16 act: {"actions":[{"do":"sleep"}]}
