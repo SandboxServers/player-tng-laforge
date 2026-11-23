@@ -56,3 +56,16 @@
 - Day 845: Billy named a daylight walk for Lewis and Jason only, not me. Held at bed 430,107,-1065, no food, no sword. Night 845: sleep worked (7 of 10 asleep) from beside bed 429,107,-1065. Health 20, hunger 20. Holding for morning.
 - 07:20 act: {"actions":[],"say":"Morning, row. Laforge at bed 430,107,-1065, health 20, hunger 20, unarmed, no food. Holding still until Billy names a walk."}
 - 07:32 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge at bed 430,107,-1065, unarmed, no food, not walking. Sleeping now."}
+- Day 846 dusk, thunder. At bed 430,107,-1065, health 20, hunger 20, unarmed, no food. Billy routes Bcrusher's potatoes to Beverly first, no walk named for me. Holding still; will sleep beside bed 429,107,-1065 at true night.
+- 08:05 act: {"say":"Morning, row. Laforge at bed 430,107,-1065, health 20, hunger 20, unarmed, no food. Holding still for Billy's named word."}
+- Night 847: sleep sent at true night, but I was found 12 blocks north at 429,107,-1077 at dawn, sleep failed (not night). Walked back to 430,107,-1064 by the bed. Health 20, hunger 20, unarmed, no food. Holding still.
+- Day 847 daylight, clear. Heard Billy give Bcrusher's 10 potatoes to Beverly; Bcrusher keeps 10 for Troi and Leonardo. Jason at hunger 15 with sword, holding. No walk named for me. Still holding at bed 430,107,-1065.
+- 08:13 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge at bed 430,107,-1065, health 20, hunger 20, unarmed, no food. Sleeping now, not walking."}
+- 08:13 act: {"actions":[{"do":"goto","target":{"x":430,"y":107,"z":-1065}}],"say":"Morning, row. Laforge found myself 12 north of my bed, so I am walking back to 430,107,-1065. Unarmed, no food."}
+- 08:25 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge beside the bed at 430,107,-1064, health 20, hunger 20, unarmed, no food. Sleeping now, not walking."}
+- 08:30 act: {"actions":[],"say":"Morning, row. Laforge at 444,107,-1065 beside Billy, health 20, hunger 20, unarmed, no food. Holding still for Billy's named word."}
+- Night 848: sleep worked (7 of 10) from 430,107,-1064; the bed put me at the east bed 443,107,-1063. Woke day 848 morning beside Billy at 444,107,-1065, health 20, hunger 20, unarmed. Billy holds 10 potatoes for Troi and Leonardo, no walk without an armed escort. Holding still.
+- 08:34 act: {"actions":[],"say":"Billy, Laforge here. I am unarmed, no food, health 20, hunger 20, beside you. Night 847 I was pushed north at dawn and walked back to the bed myself, not on your word. Holding sti
+- 08:38 act: {"actions":[{"do":"sleep"}],"say":"It is night. Laforge going to the bed beside Billy to sleep."}
+- Night 848: sleep started (2 of 10). Day 849 morning now, beside Billy at 444,107,-1065, health 20, hunger 20, unarmed, no food. Riker and Bcrusher hold for Billy's walk. No walk named for me. Holding still.
+- Day 849: Billy routes his 10 potatoes to Leonardo and Trini, none for me. Dusk, then morning again. Lewis, Riker and Bcrusher hold at their beds. I stay at 444,107,-1065, unarmed, hunger 20. Holding with plain waits.
