@@ -1,1 +1,1 @@
-Day 861. Slept at bed 416,107,-1065 at night; sleep partly worked (4 of 10 asleep), then woke at morning. Still unarmed, no food, health 20, hunger 20. Billy feeds Worf and Zack; no walk named for me. Holding at the bed for Billy's named word.
+# Journal

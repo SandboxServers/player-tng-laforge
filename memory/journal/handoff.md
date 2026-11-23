@@ -1,7 +1,8 @@
-# Handoff, day 850
+# Handoff, day 862
 
-- Slept at bed 429,107,-1065 (I stand at 429,107,-1065 beside it). Sleep worked at night. Health 20, hunger 20.
+- At row bed 416,107,-1065 (stand at 416,107,-1065 beside it). Health 20, hunger 20.
 - Pack empty, no sword, no food. Unarmed.
-- No errand half-done. No walk named for me by Billy.
-- Next: at first light, greet the row, say I hold no food or sword, hold still, and wait for Billy's named word. Do not walk west or south.
-- Note: sleep fails in daylight. Use the sleep verb only at true night, beside a row bed.
+- No walk named for me by Billy. Holding still for his word. Do not walk west or south.
+- Dusk now. Sleep at true night beside a row bed, in Billy's sight if possible.
+- Sleep is partial when woken: last night only 4 of 10 asleep.
+- Beverly and Riker need food most. Worf and Zack are being fed by Billy's potatoes.
