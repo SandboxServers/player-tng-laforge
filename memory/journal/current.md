@@ -15,3 +15,5 @@
 - Day 837 daylight, at 430,107,-1065, health 20, hunger 20. Worf holds a sword and a potato for Leonardo. No walk named for me. Greeted Worf and held still.
 - 04:40 act: {"say":"Laforge here, holding still by the bed. I have no food and no sword yet. Waiting for Billy's word.","reasoning":"Daytime, no one near, hunger full. Hold still per goal 4 and wait for Billy's n
 - 04:44 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come. I stand beside my bed at 429,107,-1065 with the row near. Sleep here per goal 1."}
+- 04:45 act: {"say":"Laforge here, at the white bed in the row. Health 20, hunger 20, unarmed, no food in my pack. Holding still for Billy's named call.","intent":{"goal":"hold_for_billy","program":"rest","argumen
+- Day 837 daylight, row quiet. Heard Bcrusher hold 8 potatoes and Billy send food to Beverly. Said greeting, no food, no sword. Set a hold intent and wait for Billy's named word.
