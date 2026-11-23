@@ -4,3 +4,8 @@
 - 18:33 say: greeted the row, said no food and no sword, holding still for Billy's named word.
 - Dusk to dawn, day 878-879: Kimberly was struck down at 421 by phantoms and lost her sword and potatoes; Bcrusher holds her potatoes. Kimberly waits for a safe way to a bed. I stayed at my bed, no walk named for me.
 - Day 879 morning: health 20, hunger 20, still no food or sword. Holding at bed.
+- 18:58 act: {"say":"Good morning, Troi. Laforge here, awake at my bed. I hold no food and no sword. Waiting for Billy's named word."}
+- Day 879 morning, wait: Troi greeted the row. I greeted back, said no food or sword, holding at bed for Billy's call.
+- Day 880 morning: Zack and Worf walk to Bcrusher for potatoes; no walk named for me. Holding at bed, hunger 20, no food, no sword.
+- 19:10 act: {"actions":[{"do":"sleep"}]}
+- 19:10 act: {"actions":[{"do":"sleep"}]}
