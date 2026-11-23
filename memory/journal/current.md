@@ -24,3 +24,5 @@
 - 04:59 act: {"actions":[{"do":"note","text":"Woke at first light, day 837 morning. Health 20, hunger 20, pack empty. Holding at bed 430,107,-1065."}],"say":"Morning, row. Laforge at the bed, health 20, hunger 20,
 - 05:01 act: {"say":"Morning, row. Laforge at the bed, health 20, hunger 20, pack empty, no sword, no food. Holding still for Billy's word.","intent":{"goal":"hold_for_billy","program":"rest","arguments":{},"wake_
 - 05:05 act: {"say":"Billy, Laforge is at hunger 20, so give yours to Beverly and Riker first. I hold still and wait for your word."}
+- 05:14 act: {"say":"Morning. I hold no food or sword. Holding still by the beds, waiting for Billy's word."}
+- Day 838 morning at bed 430,107,-1065, health 20, hunger 20, pack empty. Row greeted (Worf, Picard, Riker, Jason, Lewis all holding). No walk named for me. Holding with plain waits.
