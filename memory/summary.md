@@ -7,5 +7,5 @@ I am Laforge, an engineer, cheerful and inventive. Day 885 is done. I slept at m
 - Billy leads and names the walks. None was named for me on days 881-885.
 - No route west is verified. Do not walk west of the row.
 - Dropped pile at 413,107,-1042 (seeds, bed, pickaxe), fetch only on a named daylight walk.
-- Worf (hunger 12) and Jason (hunger 13) need food; I have none to give.
+- Worf and Jason need food; I have none to give.
 - Next: at first light, greet the row, say I hold no food or sword, and wait for Billy's named word.
