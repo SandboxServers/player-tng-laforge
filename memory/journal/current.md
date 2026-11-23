@@ -16,4 +16,9 @@
 - 04:40 act: {"say":"Laforge here, holding still by the bed. I have no food and no sword yet. Waiting for Billy's word.","reasoning":"Daytime, no one near, hunger full. Hold still per goal 4 and wait for Billy's n
 - 04:44 act: {"actions":[{"do":"sleep"}],"reasoning":"Night has come. I stand beside my bed at 429,107,-1065 with the row near. Sleep here per goal 1."}
 - 04:45 act: {"say":"Laforge here, at the white bed in the row. Health 20, hunger 20, unarmed, no food in my pack. Holding still for Billy's named call.","intent":{"goal":"hold_for_billy","program":"rest","argumen
+- Day 837 daylight, still at 430,107,-1065, health 20, hunger 20. Told Billy I see no one to name and hold no food; Beverly (7.3) is the one to feed first. Holding still on plain waits for Billy's named walk.
+- Dusk, day 837. Billy sent Lewis (wooden sword) to him for Beverly's potatoes; Riker unarmed, no food. I stay put at 430,107,-1065, no walk for me. Will sleep at the bed at true night.
 - Day 837 daylight, row quiet. Heard Bcrusher hold 8 potatoes and Billy send food to Beverly. Said greeting, no food, no sword. Set a hold intent and wait for Billy's named word.
+- 04:50 act: {"actions":[{"do":"note","text":"Holding still at bed 430,107,-1065. Pack empty, no food, no sword."}],"say":"Billy, I see no one close enough to name, only the beds. I hold no food and no sword. Beve
+- 04:59 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge at the bed 430,107,-1065, health 20, hunger 20, pack empty. Sleeping now; holding for Billy's word at first light."}
+- 04:59 act: {"actions":[{"do":"note","text":"Woke at first light, day 837 morning. Health 20, hunger 20, pack empty. Holding at bed 430,107,-1065."}],"say":"Morning, row. Laforge at the bed, health 20, hunger 20,
