@@ -30,3 +30,7 @@
 - 05:23 say: {"text":"Billy, Laforge still at bed 430,-1065, health 20, hunger 20, no food, no sword. Dusk now; I stay here and sleep at true night in the row."}
 - 05:28 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge at bed 430,107,-1065, health 20, hunger 20, pack empty. Sleeping now."}
 - 05:40 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge sleeping at bed 430,107,-1065. Health 20, hunger 20, pack empty."}
+- 05:41 act: {"say":"Morning, row. Laforge at the bed 430,107,-1065, health 20, hunger 20. I hold no food and no sword. Holding still for Billy's named word.","actions":[]}
+- 05:45 act: {"actions":[],"say":"Zack, Riker's bed at 430,107,-1051 is his; I cannot say if it is open. Holding for Billy."}
+- 05:53 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge at bed 430,107,-1065, health 20, hunger 20, no food, no sword. Sleeping now."}
+- 05:53 act: {"actions":[{"do":"sleep"}]}
