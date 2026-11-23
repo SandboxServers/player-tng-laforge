@@ -34,3 +34,12 @@
 - 05:45 act: {"actions":[],"say":"Zack, Riker's bed at 430,107,-1051 is his; I cannot say if it is open. Holding for Billy."}
 - 05:53 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge at bed 430,107,-1065, health 20, hunger 20, no food, no sword. Sleeping now."}
 - 05:53 act: {"actions":[{"do":"sleep"}]}
+- Day 840 daylight, bed 430,107,-1065, health 20, hunger 20, pack empty. Greeted the row; Riker, Picard, Worf, Lewis, Jason all holding for Billy's walk. Bcrusher holds 25 potatoes. No walk named for me. Holding with plain waits.
+- 05:55 act: {"say":"Good morning. Laforge here at bed 430,107,-1065, health 20, hunger 20. I hold no food and no sword. Holding still until Billy names a walk.","reasoning":"Morning greeting per plan; hold still 
+- 06:07 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge at bed 430,107,-1065, health 20, hunger 20, pack empty. Sleeping now.","reasoning":"True night, beside bed in the row, per goal 1."}
+- 06:07 act: {"actions":[{"do":"sleep"}]}
+- Night, day 841. Slept beside bed 429,107,-1065 (I stand at 430,107,-1065); second sleep worked. Health 20, hunger 20, pack empty. Billy still names no walk; Billy said he would name one at midday. Holding.
+- Day 842 morning. Billy's walk went to Lewis, not me. Night 842: slept at bed 429,107,-1065 from 430,107,-1065 (worked). Told Billy how I sleep: sleep verb only, no click, beside the bed at night. Day 842 morning: holding, no walk for me, no food, no sword.
+- 06:16 act: {"actions":[],"say":"Billy, I slept at the bed 429,107,-1065 twice from beside it, standing at 430,107,-1065, and both times it worked. Still holding, no food, no sword."}
+- 06:20 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge at bed 430,107,-1065, health 20, hunger 20, pack empty. Sleeping now."}
+- 06:24 act: {"actions":[],"say":"Billy, I used the sleep verb only, no click. I stood at 430,107,-1065, one block east of the bed at 429,107,-1065, and sent sleep. It worked at night, and failed in daylight."}
