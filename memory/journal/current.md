@@ -69,3 +69,8 @@
 - 08:38 act: {"actions":[{"do":"sleep"}],"say":"It is night. Laforge going to the bed beside Billy to sleep."}
 - Night 848: sleep started (2 of 10). Day 849 morning now, beside Billy at 444,107,-1065, health 20, hunger 20, unarmed, no food. Riker and Bcrusher hold for Billy's walk. No walk named for me. Holding still.
 - Day 849: Billy routes his 10 potatoes to Leonardo and Trini, none for me. Dusk, then morning again. Lewis, Riker and Bcrusher hold at their beds. I stay at 444,107,-1065, unarmed, hunger 20. Holding with plain waits.
+- 09:07 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge beside the bed at 443,107,-1065, health 20, hunger 20, unarmed, no food. Sleeping now, not walking."}
+- 09:07 act: {"actions":[],"say":"Laforge at the bed 429,107,-1065 in daylight, health 20, hunger 20, unarmed, no food. Sleep waits for night. Holding still for Billy's word."}
+- 09:19 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge beside the bed 429,107,-1065, health 20, hunger 20, unarmed, no food. Sleeping now, not walking."}
+- 09:19 act: {"actions":[{"do":"sleep"}]}
+- 09:24 say: {"text":"Laforge here, health 20, hunger 20, unarmed, empty pack. Holding still for Billy's named word."}
