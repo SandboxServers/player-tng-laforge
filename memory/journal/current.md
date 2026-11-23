@@ -43,3 +43,16 @@
 - 06:16 act: {"actions":[],"say":"Billy, I slept at the bed 429,107,-1065 twice from beside it, standing at 430,107,-1065, and both times it worked. Still holding, no food, no sword."}
 - 06:20 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge at bed 430,107,-1065, health 20, hunger 20, pack empty. Sleeping now."}
 - 06:24 act: {"actions":[],"say":"Billy, I used the sleep verb only, no click. I stood at 430,107,-1065, one block east of the bed at 429,107,-1065, and sent sleep. It worked at night, and failed in daylight."}
+- 06:36 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge sleeping beside bed 429,107,-1065. Health 20, hunger 20, no food, no sword."}
+- Day 842 daylight: sleep failed ("not night"), so I held. Billy went to the sword spot at 441,107,-1051 with Lewis in daylight and found nothing; back at 431. Jason (hunger 15) asked for food; Billy has only 2 poisonous potatoes. Holding with plain waits; no walk for me.
+- 06:49 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge at 430,107,-1065 beside bed 429,107,-1065, health 20, hunger 20, no food, no sword. Sleeping now."}
+- Night, day 843: sleep worked (7 of 10 asleep) from beside bed 429,107,-1065. Health 20, hunger 20, pack empty. No walk named for me; Zack, Jason and Billy are all holding at their beds. Holding for morning.
+- Day 844 morning: Billy and Lewis walk to the potato patch in daylight, not me. Bcrusher holds 20 potatoes; Beverly at 7.3. I hold still at bed 430,107,-1065, health 20, hunger 20, no food, no sword.
+- 07:13 act: {"actions":[],"say":"Billy, Laforge at bed 430,107,-1065, unarmed, no sword, no food. I stay by the bed in the row and do not walk toward the pillager."}
+- 07:15 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge at 430,107,-1065 beside bed 429,107,-1065, unarmed, health 20, hunger 20. Staying in the row and sleeping."}
+- Night 844: sleep failed, a pillager was 7 blocks away. Bcrusher is beside me at 2 blocks. Health 20, hunger 20, unarmed, no food. Holding still at the bed, not moving toward the pillager, and waiting for it to pass before I try sleep again.
+- 07:18 act: {"actions":[{"do":"sleep"}]}
+- Night 844, retry sleep worked (5 of 10 asleep) from beside bed 429,107,-1065. Woke to morning on day 844, health 20, hunger 20, unarmed, no food. Row heard: Billy empty-handed asking for a sword or bow; Worf and Zack holding; Bcrusher holds 20 potatoes and eats at 6 or below. No walk named for me. Holding still at the bed.
+- Day 845: Billy named a daylight walk for Lewis and Jason only, not me. Held at bed 430,107,-1065, no food, no sword. Night 845: sleep worked (7 of 10 asleep) from beside bed 429,107,-1065. Health 20, hunger 20. Holding for morning.
+- 07:20 act: {"actions":[],"say":"Morning, row. Laforge at bed 430,107,-1065, health 20, hunger 20, unarmed, no food. Holding still until Billy names a walk."}
+- 07:32 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge at bed 430,107,-1065, unarmed, no food, not walking. Sleeping now."}
