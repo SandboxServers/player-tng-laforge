@@ -7,3 +7,4 @@
 - 22:29 act: {"say":"Morning, row. Laforge here, health 20, hunger 20, no pack, no sword, no food. Holding at my bed for Billy's named word."}
 - Day 890 morning. Greeted row, held at bed. Heard Troi, Worf, Picard, Wesley waiting for Billy. No walk named, no event. Plain waits.
 - Dusk, day 890. Row settling for night; no walk named by Billy. Going to bed at my row bed.
+- 22:41 act: {"say":"Morning, row. Laforge at the row bed, health 20, hunger 20. No food and no sword in my pack. Holding for Billy's named word.","intent":{"goal":"hold_for_billy","program":"rest","arguments":{},
