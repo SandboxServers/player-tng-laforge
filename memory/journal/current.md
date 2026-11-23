@@ -1,2 +1,6 @@
 # Journal
 - 18:28 say: {"text":"Laforge at the row bed, health 20, hunger 20. Still no food or sword. Holding for Billy's word. Going to sleep here for the night."}
+- Woke at the bed 416,107,-1065 on day 878 night, health 20, hunger 20, pack empty. No one near, no walk named. Holding still and waiting for Billy's word.
+- 18:33 say: greeted the row, said no food and no sword, holding still for Billy's named word.
+- Dusk to dawn, day 878-879: Kimberly was struck down at 421 by phantoms and lost her sword and potatoes; Bcrusher holds her potatoes. Kimberly waits for a safe way to a bed. I stayed at my bed, no walk named for me.
+- Day 879 morning: health 20, hunger 20, still no food or sword. Holding at bed.
