@@ -74,3 +74,17 @@
 - 09:19 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge beside the bed 429,107,-1065, health 20, hunger 20, unarmed, no food. Sleeping now, not walking."}
 - 09:19 act: {"actions":[{"do":"sleep"}]}
 - 09:24 say: {"text":"Laforge here, health 20, hunger 20, unarmed, empty pack. Holding still for Billy's named word."}
+- 09:37 act: {"say":"Morning, row. Laforge here, health 20, hunger 20, unarmed, no food in my pack. Holding still. Billy, I wait for your named word."}
+- Day 851 daylight, at 430,107,-1065, health 20, hunger 20, unarmed, pack empty. Greeted the row. Beverly (7.3) is being fed from Bcrusher's potatoes; no walk named for me. Holding with plain waits.
+- 09:49 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge beside the bed 429,107,-1065, health 20, hunger 20, unarmed, no food. Sleeping now, not walking."}
+- Night 852: sleep worked (9 of 10). Woke near the west beds at 416,107,-1065, health 20, hunger 20, unarmed, no food. Riker holds at his bed. No walk named for me; holding still for Billy's word at full day.
+- Day 852 dusk: greeted the row, held at 416,107,-1065. Night 852 second sleep worked (6 of 10) beside bed 415,107,-1065. Zack took bed 415,107,-1050 (sleep failed for him). Still unarmed, no food, holding.
+- 09:53 act: {"say":"Morning, row. Laforge at 416,107,-1065, health 20, hunger 20, unarmed, no food. Holding still for Billy's named word."}
+- 10:02 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge beside the bed at 415,107,-1065, health 20, hunger 20, unarmed, no food. Sleeping now, not walking."}
+- 10:06 act: {"say":"Morning count: Laforge at 416,107,-1065, health 20, hunger 20, unarmed, no food. Holding for Billy's named walk."}
+- 10:14 act: {"actions":[{"do":"sleep"}]}
+- 10:14 act: {"actions":[{"do":"sleep"}]}
+- 10:56 act: {"actions":[{"do":"sleep"}]}
+- 10:56 act: {"actions":[{"do":"sleep"}]}
+- 11:09 act: {"actions":[{"do":"sleep"}],"say":"Laforge at the west bed, health 20, hunger 20, unarmed. Going to sleep here in sight of the row. Holding for Billy's walk at daylight."}
+- 11:10 act: {"actions":[{"do":"sleep"}]}
