@@ -4,3 +4,10 @@
 - 04:00 act: {"say":"Laforge holding beside the bed at 430,107,-1065. No walk named, no food. Sleeping now.","actions":[]}
 - Slept at bed 429,107,-1065 on day 834 night; woke to morning, health 20, hunger 20, pack empty. Said greeting to the row. Holding for Billy's named walk.
 - 04:00 say: {"text":"Morning, row. Laforge at the bed 430,107,-1065, health 20, hunger 20, pack empty, no sword, no food. Holding for Billy's named word."}
+- 04:05 act: {"say":"Morning, row. Laforge at the bed, health 20, hunger 20. Pack empty, no sword, no food. Holding for Billy's named word."}
+- Day 835 morning: greeted the row, held at bed 430,107,-1065. Heard Picard, Beverly (health 7.3, empty hands), Jason (sword, hunger 16). No walk named for me. Still holding.
+- Dusk, then day again, no night sleep needed yet. Heard row: all holding for Billy's word; Jason holds one potato for the weakest. Still holding at bed 430,107,-1065, no walk named.
+- Night, day 836. Beside bed 429,107,-1065 at 430,107,-1065, health 20, hunger 20, pack empty. Trying sleep now, in the row, with Picard nearby.
+- Sleep worked (6 of 10 asleep). Woke day 837 morning, health 20, hunger 20, pack empty. Greeted the row. Still holding for Billy's named word; Beverly (7.3) and Riker need food most.
+- 04:29 act: {"actions":[{"do":"sleep"}]}
+- 04:33 act: {"say":"Morning, row. Laforge at the bed, health 20, hunger 20, pack empty, unarmed. Holding for Billy's named word."}
