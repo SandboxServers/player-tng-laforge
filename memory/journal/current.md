@@ -11,3 +11,5 @@
 - Sleep worked (6 of 10 asleep). Woke day 837 morning, health 20, hunger 20, pack empty. Greeted the row. Still holding for Billy's named word; Beverly (7.3) and Riker need food most.
 - 04:29 act: {"actions":[{"do":"sleep"}]}
 - 04:33 act: {"say":"Morning, row. Laforge at the bed, health 20, hunger 20, pack empty, unarmed. Holding for Billy's named word."}
+- 04:38 act: {"say":"Morning, Worf. Laforge here, pack empty, no sword, no food. Holding by the beds until Billy names a walk."}
+- Day 837 daylight, at 430,107,-1065, health 20, hunger 20. Worf holds a sword and a potato for Leonardo. No walk named for me. Greeted Worf and held still.
