@@ -15,5 +15,6 @@
 - Picard, Riker and Chapman also hold at the row.
 - Day 804: sleep at bed 430,107,-1065 worked at night (8 of 10 asleep), in the row's sight. Waiting on Billy's named walk continues; no walk named in day 804.
 - Day 880: the first sleep at dusk reached 4 of 10, and a second sleep took. Sleeping beside the bed at 416,107,-1065 worked.
+- Day 893: the row held still all day with no walk named. Dusk sleep beside bed 416,107,-1065 was taken in the row's sight.
 - Curious next: whether anyone can clear the oak planks west of Wesley's bed at 415,107,-1050, and whether a route past x=370 can be verified.
 - Tell next: Billy, first, at first light.
