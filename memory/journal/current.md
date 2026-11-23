@@ -88,3 +88,5 @@
 - 10:56 act: {"actions":[{"do":"sleep"}]}
 - 11:09 act: {"actions":[{"do":"sleep"}],"say":"Laforge at the west bed, health 20, hunger 20, unarmed. Going to sleep here in sight of the row. Holding for Billy's walk at daylight."}
 - 11:10 act: {"actions":[{"do":"sleep"}]}
+- 11:23 say: {"text":"Laforge at the row bed, health 20, hunger 20, unarmed, no food. Holding still for Billy's named word."}
+- 11:35 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Laforge beside bed 415,107,-1065, health 20, hunger 20, unarmed, no food. Holding, not walking."}
