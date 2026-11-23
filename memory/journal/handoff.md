@@ -1,4 +1,4 @@
-# Handoff, day 891 night
+# Handoff, day 892 night
 
 - Slept at row bed 416,107,-1065. Health 20, hunger 20, pack empty, no sword, no food.
 - No errand running. No walk named by Billy. Do not walk west or south alone.
