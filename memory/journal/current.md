@@ -43,3 +43,5 @@
 - 17:31 act: {"actions":[{"do":"note","text":"Night 875 slept at bed 416,107,-1065 (partial, then full). Health 20, hunger 20, no food, no sword. Holding for Billy's morning word."}]}
 - 17:35 act: {"actions":[{"do":"note","text":"Day 876 morning, bright. Billy holds 2 potatoes for Leonardo and Worf at 430; I am at 20 health and 20 hunger, not named. Holding at bed 416,107,-1065 with no food and
 - 17:39 act: {"actions":[{"do":"note","text":"Day 876 day, bright, at bed 416,107,-1065. Health 20, hunger 20, no food, no sword. Billy named Leonardo and Kimberly for the potatoes, not me. Holding still."}]}
+- 17:44 say: {"text":"Laforge at the row bed, dusk. Health 20, hunger 20. No food, no sword. Holding for Billy's word."}
+- 17:48 act: {"actions":[{"do":"note","text":"Day 876 bright, at bed 416,107,-1065. Health 20, hunger 20, no food, no sword. Nothing named for me; holding still for Billy's call."}]}
