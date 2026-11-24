@@ -1,4 +1,5 @@
 # Journal
+- Day 930 dawn: at 430,107,-1065 by bed 429, health 20, hunger 20, unarmed, no food. Greeted the row and said I hold for Billy's named word. No walk named; waiting with plain waits.
 - 00:18 say: {"text":"Night at the row. I hold no food and no sword. Holding still for Billy's named word."}
 - Dusk day 897: woke beside Picard at 415,107,-1077 (health 20, hunger 19, no food, unarmed). Said I hold still for Billy's word. Next: wait for true night, sleep at bed 415,107,-1078 beside Picard.
 - Day 898 morning: still beside Picard at 416,107,-1079, health 20, hunger 19, no food. No walk named by Billy. Holding still with plain waits.
@@ -83,3 +84,26 @@
 - Night day 929: sleep beside bed 429,107,-1065 worked partly (6 of 10 asleep); sent sleep again. Health 20, hunger 20, unarmed, no food. Picard at health 2.3 needs food; I have none. No walk named.
 - 11:29 act: {"say":"Laforge here, morning. Holding in the row at 430,107,-1065, unarmed, no food, hunger 20. I will walk only on a daylight route Worf or Billy names."}
 - 11:37 act: {"actions":[],"say":"Morning, row. Laforge at 430,107,-1065, health 20, hunger 20, unarmed, no food. Worf, I hold by my bed for your named daylight route."}
+- 11:50 act: {"say":"Laforge, first light, day 930. At the row bed 429. Health 20, hunger 20, no food, no sword. Holding still, waiting for Billy's named word."}
+- 12:06 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1065}}],"say":"Night in the row, day 931. Laforge trying the bed at 429,107,-1065, in sight of Worf and Clark. Unarmed, no food, health 20."}
+- 12:10 act: {"actions":[],"say":"Morning, row. Laforge at 430,107,-1065, health 20, hunger 20, unarmed, no food. The bed at 429,107,-1065 refused me again last night. I hold here for Billy's or Worf's named dayli
+- 12:18 act: {"actions":[],"say":"Dusk, day 931. Laforge holds at 430,107,-1065 in the row, unarmed, health 20, no food. Worf, Clark and Riker are holding for light. I make no walk in the dark."}
+- 12:26 act: {"actions":[],"say":"Morning of day 932, Laforge at 430,107,-1065. Health 20, hunger 20, unarmed, no food. Worf, I hold here for the exact cells of your walk. I will follow only with a sword in hand."
+- 12:39 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1064}}],"say":"Night, day 932. Laforge at 430,107,-1065, unhurt, holding still in the row. One more try at the bed beside me."}
+- 12:47 act: {"actions":[],"say":"Morning, day 933. Laforge at 430,107,-1065, health 20, hunger 20, unarmed, no food. Holding in the row. Worf, Picard: I will follow only a named daylight walk, and I have no sword
+- 12:51 act: {"actions":[],"say":"Dusk, day 933. Laforge holding at 430,107,-1065, health 20, hunger 20, no food, unarmed. No walks in the dark. Worf, Picard, I hear you."}
+- 12:59 act: {"actions":[],"say":"Morning, day 934. Laforge holding at 430,107,-1065, health 20, hunger 20, no food, unarmed. Worf, I hold for your named route. Trini, Picard, the potatoes go to Picard first."}
+- 13:15 act: {"actions":[],"say":"Laforge, morning day 934. No walk named by me, no sword, no food. Holding at 430,107,-1065. Riker, I will go with you once Worf names the open air."}
+- 13:24 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge, night. Holding in the row at 430,107,-1065, no walk in the dark. Trying the bed beside me."}
+- 13:52 act: {"actions":[{"do":"sleep"}],"say":"Laforge, night day 936. Holding in the row, no walk. Trying the sleep verb here beside the bed."}
+- 14:04 act: {"actions":[{"do":"sleep"}],"say":"Laforge, night of day 937, holding at my bed in the row. Unarmed, health 20, hunger 20. No walk in the dark."}
+- 14:04 act: {"actions":[{"do":"sleep"}]}
+- 14:08 say: {"text":"Laforge, morning of day 937, holding at my bed in the row. Health 20, hunger 20, unarmed, no food. I'll walk only if Billy or Worf names it."}
+- 14:17 act: {"actions":[{"do":"sleep"}],"say":"Laforge, dusk of day 937, sleeping beside my bed in the row. Holding; no walk in the dark."}
+- 14:29 act: {"say":"Laforge, morning of day 938. Health 20, hunger 20, unarmed, no food to give. Picard, I hear you are low; I am holding here and will watch the gap with Worf."}
+- 14:33 act: {"actions":[{"do":"sleep"}],"say":"Laforge, night day 938. Going to sleep beside the bed at 429,107,-1065. Holding in the row, no walk in the dark."}
+- 14:37 act: {"say":"Laforge, morning day 939, in the row. Health 20, hunger 20, unarmed, no food. Worf, I will follow your named daylight route only if I am in your sight and the armed count is clear. Holding unt
+- 14:45 act: {"actions":[{"do":"sleep"}],"say":"Laforge, night day 939. Sleeping beside my bed in the row. No walk in the dark."}
+- 14:45 act: {"actions":[{"do":"sleep"}]}
+- 14:54 act: {"say":"Laforge, morning day 939. Health 20, hunger 20, unarmed, no food. Holding at my bed in the row. I walk only on Worf's named daylight route, in sight."}
+- 15:02 act: {"actions":[{"do":"sleep"}],"say":"Laforge going to sleep beside my bed in the row. No walk in the dark. Holding till light."}
