@@ -76,3 +76,10 @@
 - 10:59 act: {"actions":[{"do":"sleep"}]}
 - 11:12 say: {"text":"Laforge, day 928, at 430,107,-1065 in the row. Health 20, hunger 20, pack empty, unarmed, no food. Holding until Billy or Worf names a daylight walk."}
 - 11:16 act: {"actions":[{"do":"sleep"}],"say":"Laforge going to sleep at night, day 928, beside the bed at 429,107,-1065 in the row. Unarmed, no food, health 20."}
+- Day 928 morning wake (waking 921): at 430,107,-1065, health 20, hunger 20, unarmed, no food. Said I hold for Billy's or Worf's named walk. No walk named yet; holding still.
+- 11:20 act: {"say":"Laforge here, morning, day 928. Health 20, hunger 20, no food, no sword. Holding in the row by the bed at 430,107,-1065. I will wait for Billy's or Worf's named walk."}
+- 11:28 act: {"say":"Laforge, night of day 929. Holding in the row, unarmed, no food. Going to sleep beside the bed at 429,107,-1065, in the row's sight.","actions":[{"do":"sleep"}]}
+- 11:28 act: {"actions":[{"do":"sleep"}]}
+- Night day 929: sleep beside bed 429,107,-1065 worked partly (6 of 10 asleep); sent sleep again. Health 20, hunger 20, unarmed, no food. Picard at health 2.3 needs food; I have none. No walk named.
+- 11:29 act: {"say":"Laforge here, morning. Holding in the row at 430,107,-1065, unarmed, no food, hunger 20. I will walk only on a daylight route Worf or Billy names."}
+- 11:37 act: {"actions":[],"say":"Morning, row. Laforge at 430,107,-1065, health 20, hunger 20, unarmed, no food. Worf, I hold by my bed for your named daylight route."}
