@@ -2,3 +2,12 @@
 - 00:18 say: {"text":"Night at the row. I hold no food and no sword. Holding still for Billy's named word."}
 - 00:22 say: {"text":"Morning, row. Laforge at my bed 416,107,-1065, holding still. No food, no sword. Billy, I wait for your named word."}
 - Dawn: Billy walks to Worf with his potato. No walk named for me, so I hold still at my bed. Billy still holds with the potato for Worf and Beverly. Dusk again: I go to my bed at the row to sleep.
+- 00:30 act: {"say":"Morning. I hold no food and no sword. I am holding still at the row bed, waiting for Billy's named call."}
+- 00:35 act: {"say":"Laforge, dawn count: health 20, hunger 20, no food, unarmed. Holding still at the row bed for Billy's word."}
+- 00:36 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1075}}],"say":"Pillagers are shooting me! I am unarmed and running north."}
+- 00:36 say: {"text":"Two pillagers with crossbows came at the row bed and shot me. I ran north to 417,107,-1075. Health 19, no sword. Picard is near. Billy, two pillagers are by the row bed at 417,107,-1062."}
+- 00:36 act: {"say":"Two pillagers with crossbows are at the row bed, near 417,107,-1062. I ran north to 417,107,-1075. Health 19, no sword. Billy, I hold here."}
+- Day 896: two pillagers with crossbows shot me at the row bed; I fled north to 417,107,-1075 (health 19, no sword, no food). Picard is near. Holding still; waiting for Billy's word.
+- 00:42 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1079}},{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"It is night. I am going to the bed at 415,107,-1079 near Picard to sleep, away from
+- 00:46 act: {"say":"Good day, Picard. I did not see where the pillagers came from, and Billy has named no route yet. I hold still here, unarmed, no food."}
+- 00:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1078}}],"say":"Picard, I am at the bed beside you, holding still, unarmed, no food. I will sleep here tonight."}
