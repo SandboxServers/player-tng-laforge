@@ -70,3 +70,5 @@
 - 09:58 act: {"actions":[],"say":"Laforge: dusk. Holding at 417,107,-1065 in the row. No walk tonight. Waiting for Worf's named call at first light."}
 - 10:06 act: {"actions":[],"say":"Laforge, dawn, day 925. Health 20, hunger 20, unarmed, no food. Holding at 417,107,-1065 for Worf's named route."}
 - 10:18 act: {"say":"Laforge, day 925, daylight. Health 20, hunger 20, unarmed, no food. Holding at 417,107,-1065 for Worf's named route."}
+- 10:43 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Dusk. Heading to the bed at 415,107,-1064 in the row's sight to sleep. I hold no food or sword."}
+- 10:47 act: {"actions":[],"say":"Laforge, first light, day 927. I slept at the row bed. Holding nothing, unarmed, no food, hunger 20. Staying in the row until Billy names a walk."}
