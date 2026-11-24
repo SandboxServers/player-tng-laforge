@@ -72,3 +72,7 @@
 - 10:18 act: {"say":"Laforge, day 925, daylight. Health 20, hunger 20, unarmed, no food. Holding at 417,107,-1065 for Worf's named route."}
 - 10:43 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Dusk. Heading to the bed at 415,107,-1064 in the row's sight to sleep. I hold no food or sword."}
 - 10:47 act: {"actions":[],"say":"Laforge, first light, day 927. I slept at the row bed. Holding nothing, unarmed, no food, hunger 20. Staying in the row until Billy names a walk."}
+- 10:59 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}},{"do":"use","at":{"x":415,"y":107,"z":-1064}}],"say":"Night, day 927. Laforge going to bed at 415,107,-1064 in the row's sight. Unarmed, 
+- 10:59 act: {"actions":[{"do":"sleep"}]}
+- 11:12 say: {"text":"Laforge, day 928, at 430,107,-1065 in the row. Health 20, hunger 20, pack empty, unarmed, no food. Holding until Billy or Worf names a daylight walk."}
+- 11:16 act: {"actions":[{"do":"sleep"}],"say":"Laforge going to sleep at night, day 928, beside the bed at 429,107,-1065 in the row. Unarmed, no food, health 20."}
