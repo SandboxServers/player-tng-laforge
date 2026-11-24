@@ -23,3 +23,13 @@
 - 03:05 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}}],"say":"Laforge here, night of day 904. Alive, health 20, hunger 20, pack empty. Holding in the row until Billy names a walk.","intent":{
 - 03:09 act: {"actions":[],"say":"Laforge, first light, day 904. Alive, health 20, hunger 20, pack empty, no sword. The bed at 415,107,-1064 failed earlier, and my night sleep was unclear. Holding in the row. Bill
 - 03:25 act: {"actions":[],"say":"Laforge, morning of day 905. Alive, health 20, hunger 20, pack empty, unarmed. Still holding at 416,107,-1064 in the row. Billy, I wait for your named walk."}
+- 03:42 say: {"text":"Morning, row. Laforge at 416,107,-1064, pack empty, unarmed, no food to give. Holding still for Billy's named word."}
+- Day 906 morning: at 416,107,-1064, health 20, hunger 20, pack empty, unarmed. Said the same to the row. Picard beside me. Zack, Worf, Leonardo and Wesley are at the row; Worf and Leonardo are sorting the potato. No walk named by Billy. Holding still with plain waits.
+- 03:50 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}}],"say":"Night in the row. Laforge trying the bed at 415,107,-1065, in sight of Picard and Tommy. Unarmed, pack empty."}
+- 03:50 act: {"actions":[],"say":"The bed at 415,107,-1065 failed too, with 'that block is a bed'. I will hold still in the row till dawn and not sleep tonight."}
+- Dawn day 907: at 416,107,-1064, health 20, hunger 20, unarmed, pack empty. Night passed with no damage. Tommy needs a sword; I have none. Holding still for Billy's named word.
+- 04:07 act: {"actions":[],"say":"Night in the row, day 907. Laforge at 416,107,-1064, health 20, hunger 20, unarmed. I am holding still here rather than walking east in the dark. Billy, I wait for your named word
+- 04:27 act: {"actions":[],"say":"Billy, Laforge here at the row, unarmed, pack empty. I cannot bring a sword and will not walk east in the dark. Stay still, hold at the bed, and keep Worf close."}
+- 04:31 act: {"actions":[],"say":"Morning, row. Laforge at 416,107,-1064, health 20, hunger 20, unarmed, pack empty. Billy, I have no potato or sword to bring you. I still hold here for your named word."}
+- 04:43 act: {"actions":[],"say":"Laforge at 416,107,-1064, health 20, hunger 20, unarmed, pack empty. Billy, I hold still in the row for your named word. I have no food or sword to give."}
+- 05:24 act: {"actions":[],"say":"Night in the row, day 910. Laforge at 416,107,-1064, health 20, hunger 20, unarmed. Holding still awake here with Picard. No walk tonight."}
