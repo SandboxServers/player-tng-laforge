@@ -3,6 +3,10 @@
 - Dusk day 897: woke beside Picard at 415,107,-1077 (health 20, hunger 19, no food, unarmed). Said I hold still for Billy's word. Next: wait for true night, sleep at bed 415,107,-1078 beside Picard.
 - Day 898 morning: still beside Picard at 416,107,-1079, health 20, hunger 19, no food. No walk named by Billy. Holding still with plain waits.
 - 01:15 night day 898: tried use on Picard's bed 415,107,-1078 and -1079; both failed "that block is a bed". Standing at 416,107,-1078 beside Picard, not enclosed, unarmed. Holding still till dawn; did not sleep.
-- 01:11 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1078}},{"do":"use","at":{"x":415,"y":107,"z":-1078}}],"say":"It is night. I am going into the bed at 415,107,-1078 beside Picard to sleep. No fo
-- 01:11 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}],"say":"Trying the other half of Picard's bed at 415,107,-1079."}
-- 01:11 say: {"text":"Bed will not take me at 415,107,-1078 or -1079, both say that block is a bed. I am standing beside Picard in the dark, unarmed. I will hold still here until dawn."}
+- 01:28 day 899 dawn: at 416,107,-1065, health 20, hunger 19, pack empty, unarmed. Greeted the row and told Billy I wait for his named word. Read the row's morning: Worf has a sword and holds the potato for himself; Picard at health 1 shot by a pillager near 416,107,-1073 and asks for food; Riker health 11. No food to give. Holding still.
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1072}}],"say":"A pillager is shooting me from the south, health 6. I am unarmed and moving north out of its line."}
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1078}}],"say":"I died to a pillager's arrows and woke at the spawn with nothing. I am moving north, away from its line."}
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":407,"y":107,"z":-1070}}],"say":"Pillager east of me. Moving north-west out of its sight, unarmed."}
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1078}}],"say":"Still being shot at. Heading to the north beds to get out of the line of fire."}
+- Day 899 midday: I DIED to a pillager's arrows near 417,107,-1062 and woke at the spawn 416,107,-1065 with nothing. Then I fled north-west and north to 415,107,-1077, health 14, hunger 17, no damage for the last 30s. Lesson: when a pillager shoots from the south, leave at once and do not wait for an answer. Next: stay out of its sight at the north beds, and wait for Billy's named word.
+- 01:38 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}},{"do":"use","at":{"x":415,"y":107,"z":-1064}}],"say":"Dusk is coming and I have no shelter. I am going to the row bed at 415,107,-1064 to

@@ -1,6 +1,7 @@
-# Handoff, day 898 dusk
+# Handoff, day 899 night
 
-- Standing beside Picard at 416,107,-1078, not enclosed, in Picard's sight. Health 20, hunger 19, unarmed, no food.
-- Bed use at 415,107,-1078 and -1079 failed ("that block is a bed"). Trying sleep here.
-- No errand running. No walk named by Billy. Holding still for his named call.
-- Next: eat when named or at hunger 10; at dawn greet the row and wait for Billy.
+- Standing at 416,107,-1064 on cobblestone, in the row, not enclosed. Health 14.3, hunger 17, pack empty, unarmed.
+- Use on the bed at 415,107,-1064 failed ("that block is a bed"). Beds here will not take me; sleep is trying from this spot.
+- No errand running. No walk named by Billy. No pillager in sight at last wait.
+- Dropped pile at 413,107,-1042 is still not fetched. Only on a named daylight walk with armed people in sight.
+- Next: at dawn, greet the row, eat when named or at hunger 10, and wait for Billy's named word.
