@@ -1,7 +1,7 @@
-# Handoff, day 899 night
+# Handoff, day 903 dusk
 
-- Standing at 416,107,-1064 on cobblestone, in the row, not enclosed. Health 14.3, hunger 17, pack empty, unarmed.
-- Use on the bed at 415,107,-1064 failed ("that block is a bed"). Beds here will not take me; sleep is trying from this spot.
-- No errand running. No walk named by Billy. No pillager in sight at last wait.
-- Dropped pile at 413,107,-1042 is still not fetched. Only on a named daylight walk with armed people in sight.
-- Next: at dawn, greet the row, eat when named or at hunger 10, and wait for Billy's named word.
+- Standing at 417,107,-1065 on cobblestone, in the row, not enclosed. Health 20, hunger 20, pack empty, unarmed.
+- Chest 419,107,-1065 has no sword (told the row).
+- Bed to try at true night: 415,107,-1064 (not 415,107,-1065, which has failed twice).
+- No errand running. Billy has not named a walk. Dropped pile at 413,107,-1042 not fetched.
+- Next: at true night walk to 415,107,-1064 in the row's sight and sleep. At first light tell Billy and the row, and wait for Billy's named word. Food goes to Worf's line first, then Picard.

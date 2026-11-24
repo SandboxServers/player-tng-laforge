@@ -10,3 +10,16 @@
 - 01:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1078}}],"say":"Still being shot at. Heading to the north beds to get out of the line of fire."}
 - Day 899 midday: I DIED to a pillager's arrows near 417,107,-1062 and woke at the spawn 416,107,-1065 with nothing. Then I fled north-west and north to 415,107,-1077, health 14, hunger 17, no damage for the last 30s. Lesson: when a pillager shoots from the south, leave at once and do not wait for an answer. Next: stay out of its sight at the north beds, and wait for Billy's named word.
 - 01:38 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}},{"do":"use","at":{"x":415,"y":107,"z":-1064}}],"say":"Dusk is coming and I have no shelter. I am going to the row bed at 415,107,-1064 to
+- 01:39 say: {"text":"I'm back at the row, unarmed and empty-handed after a pillager shot me down. Holding still here until Billy names a walk."}
+- 01:55 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}}],"say":"Night. Trying the bed at 415,107,-1065 in the row's sight, unarmed."}
+- 01:59 say: {"text":"Morning, row. Laforge here at 416,107,-1065, health 20, hunger 20, pack empty, unarmed. I have no food to give, Picard. Holding for Billy's named walk."}
+- 02:11 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1065}},{"do":"open","at":{"x":419,"y":107,"z":-1065}}],"say":"Checking the chest at 419,107,-1065 for a sword or food, in daylight, in the row's
+- 02:12 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1065}},{"do":"open","at":{"x":419,"y":107,"z":-1065}}],"say":"Laforge at the row, daylight, pack empty. Opening the chest at 419,107,-1065 to lo
+- 02:12 act: {"actions":[{"do":"withdraw","at":{"x":419,"y":107,"z":-1065},"item":"stone_sword","count":1}],"say":"Chest open at 419,107,-1065. Trying to take a stone sword from it."}
+- 02:12 act: {"actions":[],"say":"Laforge: the chest at 419,107,-1065 holds no stone sword. I have no food or sword to give. Holding at the row for Billy's word."}
+- 02:28 act: {"actions":[],"say":"Laforge, morning of day 902, at 417,107,-1065. Health 20, hunger 20, pack empty. The chest at 419,107,-1065 had no sword. I have nothing to give. Holding for Billy's named word."}
+- 02:44 act: {"actions":[{"do":"note","text":"Day 903 morning, row at 417,107,-1065. Chest 419,107,-1065 has no sword. I hold nothing. Holding still."}],"say":"Billy, the row chest at 419,107,-1065 had no sword. I
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}},{"do":"use","at":{"x":415,"y":107,"z":-1064}}],"say":"Night in the row. I am going to the bed at 415,107,-1064 to sleep, in sight of the 
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}}],"say":"Laforge here, night of day 904. Alive, health 20, hunger 20, pack empty. Holding in the row until Billy names a walk.","intent":{
+- 03:09 act: {"actions":[],"say":"Laforge, first light, day 904. Alive, health 20, hunger 20, pack empty, no sword. The bed at 415,107,-1064 failed earlier, and my night sleep was unclear. Holding in the row. Bill
+- 03:25 act: {"actions":[],"say":"Laforge, morning of day 905. Alive, health 20, hunger 20, pack empty, unarmed. Still holding at 416,107,-1064 in the row. Billy, I wait for your named walk."}
