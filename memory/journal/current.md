@@ -59,3 +59,14 @@
 - 07:59 say: {"text":"Phantom hit me from behind, health 3. Staying at Billy's side in sight; not walking in the dark."}
 - 07:59 say: {"text":"Laforge here, I died to a phantom at 417,-1055 and woke at spawn 416,107,-1065 with nothing. Health 20. Staying by the beds in sight, unarmed. Lewis, Billy, I am here."}
 - 08:28 say: {"text":"Laforge here, health 20, hunger 20, no blocks, no food. I hold in the row beside Picard for the night. I will not walk the dark."}
+- 08:37 say: {"text":"Good light. I hold no food and no sword, and I will hold still until Billy names a walk."}
+- 08:41 say: {"text":"Dusk in the row. Laforge at 416,107,-1065, health 20, unarmed, no food. Holding still in sight; no walk in the dark."}
+- 08:45 say: {"text":"Morning, row. Laforge at 416,107,-1065, health 20, unarmed, no food. Billy, I hold here for your named walk; I will not go to the gap without a sword."}
+- 09:09 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1064}}],"say":"Laforge, dusk. Trying the bed at 415,107,-1064 in the row. Unarmed, hunger 20."}
+- 09:13 say: {"text":"Laforge, morning. Still in the row, unarmed, hunger 20, no food to give. Holding for Billy's named walk."}
+- 09:41 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1065}},{"do":"open","at":{"x":419,"y":107,"z":-1065}}],"say":"Laforge: I am opening my chest at 419,107,-1065 to see what is in it. Will report 
+- 09:41 act: {"actions":[{"do":"note","text":"Opened chest 419,107,-1065. It worked; nothing came into my pack. Took nothing."}],"say":"Laforge: my chest at 419,107,-1065 opened. I took nothing and my pack is empt
+- 09:46 act: {"actions":[],"say":"Laforge: night, I am holding at 417,107,-1065 in the row with Picard. I will not walk the dark to a far bed. Staying put until first light."}
+- 09:58 act: {"actions":[],"say":"Laforge: dusk. Holding at 417,107,-1065 in the row. No walk tonight. Waiting for Worf's named call at first light."}
+- 10:06 act: {"actions":[],"say":"Laforge, dawn, day 925. Health 20, hunger 20, unarmed, no food. Holding at 417,107,-1065 for Worf's named route."}
+- 10:18 act: {"say":"Laforge, day 925, daylight. Health 20, hunger 20, unarmed, no food. Holding at 417,107,-1065 for Worf's named route."}
