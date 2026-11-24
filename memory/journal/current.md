@@ -36,3 +36,26 @@
 - 06:21 act: {"say":"Laforge here, at the row bed 416,107,-1064. Health 20, hunger 20, unarmed, no food, pack empty. Holding in sight, waiting for Worf's named walk."}
 - 06:25 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1064}}],"say":"Dusk now. I'm at bed 415,107,-1064, in the row's sight. Will sleep when it is true night."}
 - 06:29 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1064}}],"say":"Night. Laforge in bed at 415,107,-1064, in the row's sight. Holding till first light."}
+- 06:30 say: {"text":"Morning. Laforge here, in the row at 416,107,-1065. I hold no food, no sword. Billy, I wait for your named word."}
+- 06:42 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}},{"do":"use","at":{"x":415,"y":107,"z":-1064}}],"say":"Night in the row. Laforge going to bed at 415,107,-1064, in the row's sight. Unarme
+- 06:46 act: {"actions":[],"say":"Morning, row. Laforge at 416,107,-1065, health 20, hunger 20, unarmed, pack empty. The bed at 415,107,-1064 refused me again last night. Riker, I know no sheep or sword stone. Bil
+- 06:50 act: {"actions":[],"say":"Worf, Laforge hears the named walk but has no weapon, so I hold at the row in sight. Tell me if a sword reaches me and I will follow."}
+- 06:54 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1064}},{"do":"use","at":{"x":429,"y":107,"z":-1064}}],"say":"Dusk. Laforge going to the bed at 429,107,-1064, in the row's sight. Unarmed, pack 
+- 06:54 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1065}},{"do":"use","at":{"x":429,"y":107,"z":-1065}}],"say":"Bed at 429,107,-1064 refused. Trying 429,107,-1065 in the row's sight. Also refused ("that block is a bed"). Riker is in bed 430,107,-1065. Morning of day 916: at 427,107,-1065, health 20, hunger 20, unarmed, pack empty. Billy holds for Worf's named daylight walk; Picard health 2 needs food I do not have. Worf's north-east walk was blocked; I stayed unarmed in place. Dusk day 916: no bed tried, holding still at 427,107,-1065 in the row's sight, health 20, hunger 20. No more bed tries tonight; holding in the row, unarmed, pack empty, health 20, hunger 20."}
+- 06:55 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1064}}],"say":"Both row beds at 429 refused tonight. I will not try them again. Holding still in the row, in sight, unarmed."}
+- 06:59 act: {"actions":[],"say":"Morning, row. Laforge at 427,107,-1065, health 20, hunger 20, unarmed, pack empty. No food to give, Picard. I hold in sight for Billy's or Worf's named daylight walk. Tell me if a
+- Midday day 916: still at 427,107,-1065, health 20, hunger 20, unarmed, pack empty. Worf is breaking planks for a north route; Billy asked him not to break the plank at 417,107,-1053 while Billy stands there. No walk named for me. Holding still.
+- Dusk day 916 (second): at 427,107,-1065, health 20, hunger 20, unarmed. Picard at health 2.3 asks for food; I have none. Holding in the row, no bed tries.
+- Night day 917: a phantom is over the row to the south-west, 24 blocks off, and hit Billy. I am unarmed in the open at 427,107,-1065, health 20. Holding in sight of the row, no walk in the dark.
+- 07:03 act: {"actions":[],"say":"Worf, Laforge holds at 427,107,-1065 in your sight. Unarmed, so I do not join the walk. Tell me when a sword reaches me."}
+- 07:15 act: {"actions":[],"say":"Morning, row. Laforge at 427,107,-1065, health 20, hunger 20, unarmed, pack empty. No food to give, Picard. I hold in sight for Worf's or Billy's named walk."}
+- 07:27 act: {"actions":[],"say":"Laforge at 427,107,-1065, night, health 20, unarmed. A phantom is over the row, so I stay in sight and make no walk in the dark."}
+- 07:42 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1054}}],"say":"Phantom hit me from above, health 19, unarmed. Moving toward Worf and Zack at 417,107,-1050 to stand in their sight."}
+- 07:43 act: {"actions":[],"say":"Laforge at 419,107,-1054 beside Billy, health 20, unarmed, pack empty. Phantom to the north-east. I hold here in sight and make no walk in the dark."}
+- 07:43 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1049}}],"say":"Phantom is hitting me, health 15, unarmed. Moving south-east, out from under it, staying near Billy."}
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1052}}],"say":"Health 7, phantoms are hitting me. Going north-west to Worf and Zack at 416,107,-1050, unarmed."}
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1063}}],"say":"Phantom is on me, health 7. Heading to the row's centre near 416,107,-1063, beside Billy, unarmed."}
+- 07:46 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1054}}],"say":"Morning, row. Laforge, health 5, hunger 17, unarmed, pack empty, no food to give. Moving to Billy at 417,107,-1054 in sight. Wait
+- 07:59 say: {"text":"Phantom hit me from behind, health 3. Staying at Billy's side in sight; not walking in the dark."}
+- 07:59 say: {"text":"Laforge here, I died to a phantom at 417,-1055 and woke at spawn 416,107,-1065 with nothing. Health 20. Staying by the beds in sight, unarmed. Lewis, Billy, I am here."}
+- 08:28 say: {"text":"Laforge here, health 20, hunger 20, no blocks, no food. I hold in the row beside Picard for the night. I will not walk the dark."}
