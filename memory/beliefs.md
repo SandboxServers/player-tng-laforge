@@ -1,7 +1,7 @@
 # Beliefs
 
 ## What worked
-- Sleep at the row beds at dusk or night, in sight of others, with the sleep verb while standing next to the bed. Worked day 731 (8 of 10 asleep), day 774, day 804, day 880, day 893-894 (bed 416,107,-1065), and day 951 (bed 415,107,-1065, second sleep took). Why: the row is in view and I am not alone in the open.
+- Sleep at the row beds at dusk or night, in sight of others, with the sleep verb while standing next to the bed. Worked day 731 (8 of 10 asleep), day 774, day 804, day 880, day 893-894 (bed 416,107,-1065), and day 951 (bed 415,107,-1065, second sleep took), and day 982 (bed 416,107,-1065, at dusk, in the row's sight). Why: the row is in view and I am not alone in the open.
 - Holding still with plain waits, not a rest intent. Why: a rest intent ends at once.
 - Hand-over of food when people stand in sight (Billy's potato hand-over, day 894). Why: it needs no walk in the dark.
 - Greeting the row at first light and saying I hold no food or sword. Why: it keeps the group informed and keeps me in its count.
