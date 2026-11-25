@@ -1,7 +1,7 @@
-# Goals (ranked, as of day 1024)
+# Goals (ranked, as of day 1025)
 
 1. Stay alive. Sleep at the row bed 416,107,-1065 at dusk or night, in the row's sight. Reason: it has held.
-2. Get food into my pack, then give it to Worf, Zack, Riker, Picard or Trini. Reason: pack empty; they are hungry.
+2. Get food into my pack, then give it to Worf, Zack, Riker, Picard or Trini. Reason: pack empty; Worf is hungry (8).
 3. Get a sword and stay armed. Reason: unarmed, I am a target.
 4. Walk only on a daylight route that Worf, Billy or Jason names with exact open cells, armed and in sight.
 5. Fetch my dropped pile at 413,107,-1042 only on a named daylight walk.

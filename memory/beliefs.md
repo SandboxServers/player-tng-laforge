@@ -31,6 +31,8 @@
 - Day 1024: held all day at the row bed, no death, no walk. Jason and Billy could not see 428,107,-1051 open; treat it as closed. Trini's potato for Worf is blocked by planks 424-429.
 - Day 1021: held all day at the row bed, no walk, no death. Holding in sight with a rest intent ended at once; plain waits worked. Still no named open cell past 423.
 
+- Day 1025: held all day at the row bed in sight; dusk sleep at 416,107,-1065 worked. Still no named open cell past 423. Holding with plain waits stayed safe.
+
 ## Open questions
 - Which cell past 423 is open at y107? Billy's survey says mixed.
 - Can anyone clear the oak planks west of Wesley's bed at 415,107,-1050?
