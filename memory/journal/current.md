@@ -8,3 +8,4 @@
 - Day 993 daylight, thunder: at row bed, holding. Billy, Tommy, Wesley also holding unarmed; no route named by Worf yet. Waiting.
 - 09:06 act: {"actions":[{"do":"sleep"}],"say":"Laforge at the row bed for the night, unarmed and holding still. No walk tonight."}
 - 09:09 act: {"actions":[],"say":"Laforge awake at the row bed, day 994, unarmed, pack empty, health 20, hunger 20. Riker, I hold with you. No route yet; I will walk only when Worf or Billy names one."}
+- 09:17 say: {"text":"Laforge, dusk. Holding at the row bed, unarmed, no walk tonight. Good night."}
