@@ -5,3 +5,6 @@
 - Day 1034 morning: woke at the bed, nobody near, no damage. Heard Trini, Billy, William, Tommy all still holding; no open cell named past 423. Stayed put. Nothing for me to walk yet.
 - Day 1035 morning: waited 240s at the bed, nothing new. Billy and Worf both still name no open cell. Viewed west from bed: solid planks and glass, no air. Said I am holding and will look east.
 - 22:53 act: {"say":"Laforge here, night 1035, at my row bed. Health 20, hunger 20. Holding in the row for a named open cell. Going to sleep here."}
+- 22:54 say: {"text":"Morning. Laforge here at the row, healthy and unarmed. Still holding for a named daylight route with exact open cells."}
+- Day 1035 morning (new waking): status fine, health 20, hunger 20, pack empty. Jason sleeping at 415,107,-1050 holds too. No route named. Said I am holding; waiting for a named open cell.
+- Morning 1036 wait: Worf hunger 8 at 416,107,-1050, Zack health 13 hunger 14, Riker 11. Everyone holds; no open cell past 423 named. I have no food to send. Still holding at my bed.
