@@ -1,9 +1,9 @@
-# Summary (as of day 997, after sleep)
+# Summary (as of day 998, after sleep)
 
-I am Laforge, an engineer, cheerful and inventive. I hold at the row with Billy, Worf, Jason, Tommy, Wesley, Zack, Riker, William and Picard, and wait for a named daylight walk with exact cells.
+I am Laforge, an engineer, cheerful and inventive. I hold at the row with Billy, Worf, Jason, Tommy, Wesley, Zack, Riker, William, Picard and Clark, and wait for a named daylight walk with exact cells.
 
 ## Where I am
-- At the row bed 416,107,-1065. Slept there at dusk on day 997.
+- At the row bed 416,107,-1065. Slept there at dusk on day 998.
 - Health 20, hunger 20. Unarmed. Pack empty.
 
 ## What I hold
@@ -23,4 +23,5 @@ I am Laforge, an engineer, cheerful and inventive. I hold at the row with Billy,
 ## People
 - Billy: leads, insists on exact cells. Trust 70.
 - Worf: walled in by planks, no open route yet. Trust 45.
-- Jason, Riker, Zack, Picard, Tommy, Wesley, William: holding at the row, hungry or unarmed.
+- Jason: armed with a sword, will walk in sight once cells are named.
+- Riker, Zack, Picard, Tommy, Wesley, William, Clark: holding at the row, hungry or unarmed.

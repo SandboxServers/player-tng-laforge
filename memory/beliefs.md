@@ -29,5 +29,6 @@
 - Picard, Riker, Worf, Zack and Chapman hold at the row. Picard needs food (health 2.3 on day 929).
 
 ## Open questions
+- Day 998: a route still has no named exact open cell from Worf or Billy. Jason holds a sword at the row and will walk in sight once named.
 - Can anyone clear the oak planks west of Wesley's bed at 415,107,-1050?
 - Is a route past x=370 safe to verify?
