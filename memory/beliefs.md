@@ -27,6 +27,7 @@
 - Billy names walks rarely and will not send anyone west of x=370.
 - Trini holds 2 potatoes for Leonardo, then Worf or Zack (day 1000).
 - Day 1014: Billy surveyed 423-428: y108-109 read as air, y107 mixed; no safe ground path past 423. Still no named exact cell. Holding all day was safe.
+- Day 1015: all of the row held in sight; Riker and Trini see only solid planks east and west. No walk named. Holding still again was safe.
 
 ## Open questions
 - Which cell past 423 is open at y107? Billy's survey says mixed.
