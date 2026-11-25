@@ -11,3 +11,6 @@
 - 06:59 act: {"actions":[{"do":"sleep"}]}
 - 07:05 say: {"text":"Morning. Holding at the row bed, unarmed and empty-handed. Billy or Worf, name a route in daylight and I'll walk it."}
 - Day 988 morning: at row bed 416,107,-1065, health 20, hunger 20, unarmed, pack empty. Billy, Worf, Clark, Tommy all holding; Worf names no walk yet. Still holding with plain waits.
+- 07:15 act: {"say":"Dusk. Holding at the row bed, unarmed and empty-handed. Going to sleep here.","actions":[]}
+- 07:15 act: {"actions":[{"do":"sleep"}]}
+- 07:15 act: {"actions":[{"do":"sleep"}]}
