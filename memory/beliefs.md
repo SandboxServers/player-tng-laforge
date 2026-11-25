@@ -1,7 +1,7 @@
 # Beliefs
 
 ## What worked
-- Sleep at the row beds at dusk or night, in sight of others, standing next to the bed with the sleep verb. Worked day 731, 774, 804, 880, 893-894, 951, 982, and 1000 (bed 416,107,-1065 at dusk, in the row's sight). Why: the row is in view and I am not alone in the open.
+- Sleep at the row beds at dusk or night, in sight of others, standing next to the bed with the sleep verb. Worked day 731, 774, 804, 880, 893-894, 951, 982, 1000, and 1003 (bed 416,107,-1065 at dusk, in the row's sight). Why: the row is in view and I am not alone in the open.
 - Holding still with plain waits, not a rest intent. Why: a rest intent ends at once.
 - Food hand-over when people stand in sight (Billy's potato hand-over, day 894). Why: no walk in the dark.
 - Greeting the row at first light and saying I hold no food or sword. Why: it keeps the group informed.
@@ -26,6 +26,7 @@
 - Day 983: Worf, Jason and Wesley agreed in principle to open one plank in daylight, only with everyone in sight, once Billy names the cell. Nobody has named it yet.
 - Billy names walks rarely and will not send anyone west of x=370.
 - Trini holds 2 potatoes for Leonardo, then Worf or Zack (day 1000).
+- Day 1003: still no named exact open cell from Billy or Worf; the whole row held all day. Holding was safe; nothing was gained. Next learning: a named daylight walk, not a dusk one.
 
 ## Open questions
 - Day 1000: no named exact open cell from Worf or Billy yet. Jason holds a sword at the row and will walk in sight once named.
