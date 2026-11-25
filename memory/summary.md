@@ -1,9 +1,9 @@
-# Summary (as of day 1004, after sleep)
+# Summary (as of day 1005, after sleep)
 
 I am Laforge, an engineer, cheerful and inventive. I hold at the row with Billy, Worf, Jason, Tommy, Wesley, Zack, Riker, William, Picard, Trini and Clark, and wait for a named daylight walk with exact cells.
 
 ## Where I am
-- At the row bed 416,107,-1065. Slept there at dusk on day 1004.
+- At the row bed 416,107,-1065. Slept there on night of day 1005.
 - Health 20, hunger 20. Unarmed. Pack empty.
 
 ## Places
@@ -14,7 +14,7 @@ I am Laforge, an engineer, cheerful and inventive. I hold at the row with Billy,
 ## Lessons
 - Unarmed in the open at night, or in pillager lines, I die. Hold at the beds in sight.
 - Hold still with plain waits; a hold intent ends at once.
-- Share what I view: name exact open cells when I see air.
+- Sleep only at night; a sleep at dusk fails.
 
 ## Owed
 - Picard, Zack, Worf: food (none in hand).
