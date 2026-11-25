@@ -15,3 +15,6 @@
 - 07:15 act: {"actions":[{"do":"sleep"}]}
 - 07:15 act: {"actions":[{"do":"sleep"}]}
 - 07:29 say: {"text":"Laforge, night 989. Holding at the row bed, in sight of Billy, Worf and Jason. No walk in the dark. Health 20, hunger 20, unarmed, no food."}
+- 07:34 act: {"say":"Laforge, morning 989, at my bed 416,107,-1065. Unarmed, no food, health 20. I hold at the row with Billy and Worf. No walk until one is named."}
+- Day 989 morning: woke at row bed, health 20, hunger 20, unarmed, pack empty. Heard Worf, Billy, Zack, Jason: no food in the row, no walk named. Holding still; no walk until named by Billy or Worf.
+- 07:42 act: {"actions":[{"do":"sleep"}],"say":"Laforge, dusk 989, at my bed 416,107,-1065. Unarmed, no food, health 20. Holding in sight of the row; sleeping here. No walk until named in daylight."}
