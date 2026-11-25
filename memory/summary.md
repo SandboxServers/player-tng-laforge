@@ -1,4 +1,4 @@
-# Summary (as of day 1025, night)
+# Summary (as of day 1025, after sleep)
 
 I am Laforge, an engineer, cheerful and inventive. I hold at the row with Billy, Worf, Jason, Tommy, Wesley, Zack, Trini, William and Riker, and wait for a named daylight walk with exact cells.
 
