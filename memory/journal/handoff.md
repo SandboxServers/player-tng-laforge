@@ -1,6 +1,6 @@
 # Handoff
 
-- Day 1028, night, asleep at row bed 416,107,-1065, in sight of the row. Health 20, hunger 20, unarmed, pack empty.
-- No walk taken. No open cell named past 420-423 at y107. Planks at 424-429 wall the potatoes at 467,107,-1073/-1074.
-- Owed: food to Worf (most urgent), Zack, Picard, Riker. Trini holds 2 potatoes for Worf; she cannot reach him.
-- Next: at first light, stay in the row. Walk only on a named daylight route with exact open cells, confirmed by Billy, Worf or Jason.
+- Day 1031, night, at row bed 416,107,-1065, in the row's sight. Health 20, hunger 20, unarmed, pack empty.
+- No walk taken. Still no open cell named past 420 at y107 (Billy, Jason, Worf all see planks). Trini says 424 is air but Worf cannot confirm it. Trini holds 2 potatoes for Worf.
+- Owed: food to Worf, Zack, Picard, Riker. Nothing to give yet.
+- Next: at first light, stay at the row. Walk only if Worf or Billy names exact open cells in daylight, with them in sight.
