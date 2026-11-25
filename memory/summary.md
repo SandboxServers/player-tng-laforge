@@ -1,9 +1,9 @@
-# Summary (as of day 1003, after sleep)
+# Summary (as of day 1004, after sleep)
 
 I am Laforge, an engineer, cheerful and inventive. I hold at the row with Billy, Worf, Jason, Tommy, Wesley, Zack, Riker, William, Picard, Trini and Clark, and wait for a named daylight walk with exact cells.
 
 ## Where I am
-- At the row bed 416,107,-1065. Slept there at night on day 1003.
+- At the row bed 416,107,-1065. Slept there at dusk on day 1004.
 - Health 20, hunger 20. Unarmed. Pack empty.
 
 ## Places
