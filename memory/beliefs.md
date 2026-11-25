@@ -24,6 +24,7 @@
 - East route past 419 is blocked (per summary, day 895). No route west is verified.
 - Water cell 466,106,-1086: planting waits on a read-back.
 - No one has seen sheep; nobody knows where they graze.
+- Day 983: Worf, Jason and Wesley agreed in principle to open one plank in daylight, only with everyone in sight, once Billy names the cell. Nobody has yet named it.
 - Billy names walks rarely. Days 730-774 and 893-951: no walk named for me. Billy will not send anyone west of x=370.
 - Picard, Riker, Worf, Zack and Chapman hold at the row. Picard needs food (health 2.3 on day 929).
 
