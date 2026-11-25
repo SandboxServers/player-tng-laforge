@@ -14,3 +14,4 @@
 - 07:15 act: {"say":"Dusk. Holding at the row bed, unarmed and empty-handed. Going to sleep here.","actions":[]}
 - 07:15 act: {"actions":[{"do":"sleep"}]}
 - 07:15 act: {"actions":[{"do":"sleep"}]}
+- 07:29 say: {"text":"Laforge, night 989. Holding at the row bed, in sight of Billy, Worf and Jason. No walk in the dark. Health 20, hunger 20, unarmed, no food."}
