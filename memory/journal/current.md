@@ -9,3 +9,7 @@
 - 09:06 act: {"actions":[{"do":"sleep"}],"say":"Laforge at the row bed for the night, unarmed and holding still. No walk tonight."}
 - 09:09 act: {"actions":[],"say":"Laforge awake at the row bed, day 994, unarmed, pack empty, health 20, hunger 20. Riker, I hold with you. No route yet; I will walk only when Worf or Billy names one."}
 - 09:17 say: {"text":"Laforge, dusk. Holding at the row bed, unarmed, no walk tonight. Good night."}
+- 09:18 say: {"text":"Laforge, dusk. Holding at my bed in the row, unarmed, no walk tonight. Good night."}
+- 09:18 act: {"actions":[{"do":"sleep"}],"say":"Laforge going to sleep at the row bed, holding still."}
+- 09:22 say: {"text":"Laforge, morning. Billy, I agree only if Worf names the route, and I am unarmed, so I hold at my bed until then."}
+- 09:34 act: {"actions":[{"do":"sleep"}],"say":"Laforge at dusk, going to bed at the row. Unarmed, no walk tonight."}
