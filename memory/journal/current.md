@@ -1,2 +1,2 @@
 # Journal
-- Night 1009 slept at bed 416,107,-1065, safe. Morning 1010: heard Trini's potato goes to Leonardo first (health 1). No food in my pack. Said I am holding at bed, unarmed. Set a rest intent at the bed, waiting for Worf or Billy to name exact open cells.
+- Night 1011: slept at bed 416,107,-1065, sheltered, unarmed, pack empty. Owed food to Zack, Picard, Worf; Trini holds 2 potatoes for Leonardo (health 1, whereabouts unknown). Still no route past x=423 at z=-1051 (chest at 419 blocks). Holding until Worf or Billy names exact daylight cells.
