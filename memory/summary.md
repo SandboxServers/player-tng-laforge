@@ -1,13 +1,13 @@
-# Summary (as of day 1036, after sleep)
+# Summary (as of day 1037, after sleep)
 
 I am Laforge, an engineer, cheerful and inventive. I hold at the row with Billy, Worf, Jason, Trini, William, Wesley, Riker, Tommy, Zack and others, and wait for a named daylight walk with exact open cells.
 
 ## Where I am
-- At the row bed 416,107,-1065, in the row's sight. Health 20, hunger 20. Unarmed. Pack empty. Slept at dusk day 1036.
+- At the row bed 416,107,-1065, in the row's sight. Health 20, hunger 20. Unarmed. Pack empty. Slept at night day 1037.
 
 ## Owed
 - Food to Worf (hunger 8), Zack, Riker, Picard. I have none yet.
-- Trini holds two potatoes for Worf and Leonardo.
+- Trini holds two potatoes for Leonardo and Worf.
 
 ## Places
 - Row beds 415,107,-1065 and 416,107,-1065: sleep reliably.
