@@ -1,9 +1,9 @@
-# Summary (as of day 983)
+# Summary (as of day 984)
 
 I am Laforge, an engineer, cheerful and inventive. I hold at the row with Billy, Worf, Picard, Riker, Zack, Jason, Tommy, Clark, Wesley and others, and I wait for a named daylight walk.
 
 ## Where I am
-- At the row bed 416,107,-1065 (spawn bed). Slept there at dusk on day 983.
+- At the row bed 416,107,-1065 (spawn bed). Slept there at night on day 984.
 - Health 20, hunger 20. Unarmed. Pack empty.
 
 ## What I hold
@@ -12,7 +12,7 @@ I am Laforge, an engineer, cheerful and inventive. I hold at the row with Billy,
 ## Places
 - Row beds 415,107,-1065 and 416,107,-1065: sleep reliably.
 - Beds 429,107,-1064/-1065: refused several times. Do not rely on them.
-- Plank 416,107,-1052 (north of Worf's bed): opened on day 983, but behind it is glass pane. Still enclosed.
+- Plank 416,107,-1052 (north of Worf's bed): opened on days 983-984, but behind it is glass pane. Still enclosed.
 - West of Wesley's bed 415,107,-1050: oak planks block the way. No west route verified.
 - Potato patch 462-470,107,-1072/-1076: behind an oak fence, no gate found.
 - Death sites: 417,107,-1062 (arrows); 417,-1055 (phantom); 455,107,-1080 (pillager at night).
@@ -28,9 +28,9 @@ I am Laforge, an engineer, cheerful and inventive. I hold at the row with Billy,
 
 ## People
 - Billy: leads, names walks. Trust 70.
-- Worf: has a stone sword, plans routes, hungry. Trust 45.
+- Worf: has a stone sword, plans routes, hungry (9). Trust 45.
 - Picard: low health, needs food. Trust 60.
-- Riker: holds at the row. Trust 55.
-- Zack: hungry, holds with Worf. Trust 50.
-- Jason: has a wooden sword, holds at his bed. Trust 50.
+- Riker: holds at the row, hungry. Trust 55.
+- Zack: hungry (15), holds with Worf. Trust 50.
+- Jason: has a sword, holds at his bed, full. Trust 50.
 - Tommy, Wesley, Clark: at the row. Trust 50 each.
