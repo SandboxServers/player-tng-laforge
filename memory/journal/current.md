@@ -1,16 +1,1 @@
 # Journal
-- 20:08 slept at row bed 416,107,-1065. Health 20, hunger 20, pack empty.
-- Morning: the row holds. No open cell named past the planks at 424-429 z-1051. Trini holds 2 potatoes for Worf. I hold, unarmed, no walk.
-- Dusk: going to bed at row bed 416,107,-1065, in sight of the row. Still owed food to Worf, Zack, Picard, Riker.
-- 20:20 act: {"actions":[{"do":"sleep"}]}
-- 20:25 act: {"actions":[{"do":"sleep"}]}
-- Morning 1028: slept at row bed. Trini's potato give to Worf failed (not in sight). Zack health 13, hunger 14. Still no open cell named. I hold in the row, no walk, owed food to Worf, Zack, Picard, Riker.
-- 20:29 act: {"actions":[],"say":"Laforge, morning 1028, at my row bed. Still no food and no open cell named past the planks. Worf, Trini: I hold here in sight of the row, and will walk only on a named daylight ro
-- 20:37 act: {"actions":[{"do":"sleep"}],"say":"Laforge, night 1028, sleeping at my row bed. Still no food, no walk. Billy, Tommy: holding in the row until a daylight cell is named."}
-- 20:37 act: {"actions":[{"do":"sleep"}]}
-- 20:37 act: {"actions":[],"say":"Laforge, asleep at my row bed. Health 20, hunger 20, no food yet. Holding in the row until a daylight cell is named."}
-- 20:39 act: {"say":"Laforge here, at the row bed. Holding in sight of the row. No walk until Billy or Worf names exact open cells."}
-- Day 1028 wake: bright, clear, health 20, hunger 20, pack empty, at row bed 416,107,-1065. Billy and William holding in the row. Said I hold; no walk, no food yet.
-- Day 1029 day: still at row bed, health 20, hunger 20. Wesley holds in sight of Worf. No open cell named, no walk. Waiting; will sleep at the bed at dusk.
-- 20:51 act: {"actions":[{"do":"sleep"}],"say":"Laforge, night 1029, sleeping at my row bed in sight of the row. Still no food, no walk. Will hold until a daylight cell is named.
-- Morning 1029 wake: slept at row bed (7 of 10 asleep, then woke). Health 20, hunger 20, pack empty. Worf hunger 8, Trini still cannot reach 421; Jason and Billy see no open cell past the planks. Still holding, no walk."}
