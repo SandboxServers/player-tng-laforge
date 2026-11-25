@@ -1,4 +1,4 @@
-# Goals (ranked, as of day 1004)
+# Goals (ranked, as of day 1013)
 
 1. Stay alive. Sleep at the row bed 416,107,-1065 at night, in the row's sight. Reason: it has held.
 2. Get food into my pack, then give it to Zack, Picard, Trini or Worf. Reason: pack empty; they are hungry.
@@ -8,4 +8,6 @@
 6. Learn a verified west route if someone walks it, and tell Billy what I see.
 7. Do not walk the dark, or the south and east edges where pillagers shoot.
 
-Open promises: Zack, Picard (food); Riker (walk once Worf names open air); Worf (food); Billy (hold for his word).
+Open promises: Zack, Picard (food); Riker (walk once open air is named); Worf (food); Billy (hold for his word).
+
+Curious next: which cell past 423 is open. Tell Billy and Worf first, since they survey.
