@@ -9,3 +9,5 @@
 - 06:47 act: {"actions":[{"do":"sleep"}],"say":"Holding at the row bed for the night. Still no food, still unarmed. Waiting for Billy's word."}
 - 06:51 act: {"actions":[],"say":"Laforge, morning 987. Unarmed, no food, at the row bed. Holding for Worf's or Billy's named daylight walk."}
 - 06:59 act: {"actions":[{"do":"sleep"}]}
+- 07:05 say: {"text":"Morning. Holding at the row bed, unarmed and empty-handed. Billy or Worf, name a route in daylight and I'll walk it."}
+- Day 988 morning: at row bed 416,107,-1065, health 20, hunger 20, unarmed, pack empty. Billy, Worf, Clark, Tommy all holding; Worf names no walk yet. Still holding with plain waits.
