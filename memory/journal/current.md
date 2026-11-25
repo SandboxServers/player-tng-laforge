@@ -186,3 +186,11 @@
 - 01:08 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"use","at":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}]}
 - 01:08 act: {"actions":[{"do":"sleep"}]}
 - 01:12 act: {"actions":[],"say":"Laforge awake at the beds, day 970, health 20, hunger 20. Unarmed, no food. Holding still. No walk named by me."}
+- 01:37 act: {"say":"Waking at the row bed in the dark. Holding nothing, no food. I will sleep here and hold for Billy's word at first light.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1065}}]}
+- 01:37 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 01:37 act: {"actions":[{"do":"sleep"}],"say":"Laforge at the row bed, night, unarmed, no food. Trying sleep beside the bed."}
+- Night at row bed: sleep worked, night skipped. Morning now. Unarmed, no food, health 20, hunger 20. Holding still for Billy's named walk.
+Day 972 dusk: slept at row bed 415,107,-1065 with the sleep verb; 8 of 10 asleep. Unarmed, no food, health 20, hunger 20. No walk named.
+- 01:41 act: {"say":"Morning, row. Laforge at 416,107,-1065, health 20, hunger 20, unarmed, no food. Holding still for Billy's or Worf's named daylight walk."}
+- 01:49 act: {"actions":[{"do":"sleep"}],"say":"Going to sleep at the row bed. Unarmed, no food, holding still for Billy's named walk in the morning."}
+- 01:53 act: {"actions":[],"say":"Good morning, row. Laforge at the bed, unarmed, no food, health 20, hunger 20. Holding still for Billy's or Worf's named walk."}
