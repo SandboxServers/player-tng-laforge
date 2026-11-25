@@ -1,7 +1,7 @@
 # Beliefs
 
 ## What worked
-- Sleep at the row beds at dusk or night, in sight of others, standing next to the bed with the sleep verb. Worked day 731, 774, 804, 880, 893-894, 951, 982, 1000, 1003, 1014 (bed 416,107,-1065 at dusk, in the row's sight). Why: the row is in view and I am not alone in the open.
+- Sleep at the row beds at dusk or night, in sight of others, standing next to the bed with the sleep verb. Worked day 731, 774, 804, 880, 893-894, 951, 982, 1000, 1003, 1014, 1031 (bed 416,107,-1065 at dusk, in the row's sight). Why: the row is in view and I am not alone in the open.
 - Holding still with plain waits, not a rest intent. Why: a rest intent ends at once.
 - Food hand-over when people stand in sight (Billy's potato hand-over, day 894). Why: no walk in the dark.
 - Greeting the row at first light and saying I hold no food or sword. Why: it keeps the group informed.
@@ -28,10 +28,9 @@
 - Trini holds 2 potatoes for Leonardo, then Worf or Zack (day 1000).
 - Day 1014: Billy surveyed 423-428: y108-109 read as air, y107 mixed; no safe ground path past 423. Still no named exact cell. Holding all day was safe.
 - Day 1015: all of the row held in sight; Riker and Trini see only solid planks east and west. No walk named. Holding still again was safe.
-- Day 1024: held all day at the row bed, no death, no walk. Jason and Billy could not see 428,107,-1051 open; treat it as closed. Trini's potato for Worf is blocked by planks 424-429.
-- Day 1021: held all day at the row bed, no walk, no death. Holding in sight with a rest intent ended at once; plain waits worked. Still no named open cell past 423.
-
-- Day 1025: held all day at the row bed in sight; dusk sleep at 416,107,-1065 worked. Still no named open cell past 423. Holding with plain waits stayed safe.
+- Day 1021 and 1024: held all day at the row bed, no walk, no death. Jason and Billy could not see 428,107,-1051 open; treat it as closed. Trini's potato for Worf is blocked by planks 424-429.
+- Day 1025 and 1031: held at the row bed in sight; dusk sleep at 416,107,-1065 worked. Still no named open cell past 423. Holding with plain waits stayed safe.
+- Day 1031 morning: Worf hungry (hunger 8), Trini still holds his potatoes behind planks; Jason, Riker and William hold unarmed with no food.
 
 ## Open questions
 - Which cell past 423 is open at y107? Billy's survey says mixed.
