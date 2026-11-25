@@ -4,3 +4,4 @@
 - 22:44 act: {"say":"Laforge, at my bed 416,107,-1065, health 20, hunger 20, pack empty. Morning. I still see no open cell past 423, so I name no route. Holding here."}
 - Day 1034 morning: woke at the bed, nobody near, no damage. Heard Trini, Billy, William, Tommy all still holding; no open cell named past 423. Stayed put. Nothing for me to walk yet.
 - Day 1035 morning: waited 240s at the bed, nothing new. Billy and Worf both still name no open cell. Viewed west from bed: solid planks and glass, no air. Said I am holding and will look east.
+- 22:53 act: {"say":"Laforge here, night 1035, at my row bed. Health 20, hunger 20. Holding in the row for a named open cell. Going to sleep here."}
