@@ -1,21 +1,32 @@
 # Beliefs
 
-- Phantoms come at night and attack anyone unarmed near the row. They killed me at 413,107,-1042 on night 526 while I held no sword in hand. Going back to my dropped pile is worth it only in daylight, with armed people in sight.
-- A death drops the whole pack where you fall. Items stay on the ground; I respawn at the spawn bed with nothing.
-- Sleep works at the row beds at night in sight of others (day 731: 8 of 10 asleep; day 774: sleeps at dawn and dusk worked, 6 of 10). Sleep is refused in daylight and at dusk before true night ("it is not night").
-- Use the sleep verb while standing next to a bed; `use` on a bed fails.
-- Holding still is done with plain waits, not a rest intent (a rest intent ends at once).
-- Food moves in the row by hand-over when people stand in sight. Lewis holds potatoes (10 on day 731, shared with Riker). Riker, John and Worf are near hunger 14-17 or low health.
-- Cows at 339,104,-979. Potato patch 462-470,107,-1072/-1076 behind an oak fence, no gate found.
+## What worked
+- Sleep at the row beds at dusk or night, in sight of others, with the sleep verb while standing next to the bed. Worked day 731 (8 of 10 asleep), day 774, day 804, day 880, day 893-894 (bed 416,107,-1065), and day 951 (bed 415,107,-1065, second sleep took). Why: the row is in view and I am not alone in the open.
+- Holding still with plain waits, not a rest intent. Why: a rest intent ends at once.
+- Hand-over of food when people stand in sight (Billy's potato hand-over, day 894). Why: it needs no walk in the dark.
+- Greeting the row at first light and saying I hold no food or sword. Why: it keeps the group informed and keeps me in its count.
+- Opening the chest at 419,107,-1065 in daylight: it opened (journal, around day 925). It held no sword and I took nothing.
+
+## What did not work
+- Walking in the dark, or in the open with no sword. Phantoms and pillagers killed me: day 526 near 413,107,-1042; day 899 to pillager arrows near 417,107,-1062; day 918 to a phantom near 417,-1055; around day 970 to a pillager near 455,107,-1080 at night with health 10. Why: unarmed I cannot strike back, and night and pillagers come from the south and east.
+- Using the use verb on a bed as the way to sleep. Refused many times ("that block is a bed"), so use is not reliable. Why: the sleep verb worked where use failed.
+- ~~Beds 429,107,-1064 and 429,107,-1065 always work.~~ Struck: refused on days 916, 931 and 932 (and again in the night before day 937). Only 415,107,-1065 and 416,107,-1065 sleep reliably in the journal.
+- ~~Bed 443,107,-1064 and 443,107,-1065 work.~~ Struck: no recent try in the journal; treat as unverified.
+- ~~Lewis holds potatoes.~~ Struck: last seen on day 731; not in the recent journal.
+- ~~Cows at 339,104,-979 are a food source I can reach.~~ Struck as current: seen long ago; no one has walked there since, and it is west of x=370 where Billy will not send anyone.
+- ~~Potato patch 462-470,107,-1072/-1076 behind an oak fence with no gate.~~ Still unverified; a ripe potato was seen at 467,107,-1073 on day 970. Only worth it if an armed person names the walk.
+
+## Things I know
+- A death drops the whole pack where you fall. I respawn at the spawn bed (416,107,-1065) with nothing. Items stay on the ground.
+- Phantoms come at night; pillagers shoot from the south. Both attack the unarmed.
+- Crafting needs materials in my pack. I have none, so I have no sword by my own craft.
+- Wesley's bed at 415,107,-1050 says "the way was blocked"; oak planks west of it still block the way. No west route is verified.
+- East route past 419 is blocked (per summary, day 895). No route west is verified.
 - Water cell 466,106,-1086: planting waits on a read-back.
-- Crafting needs materials in pack; I have none, so no sword by my own craft yet.
-- Wesley's bed at 415,107,-1050 says "the way was blocked"; the oak planks west of it still block the way. No west route verified.
-- No one has seen sheep yet; nobody knows where they graze.
-- Billy names walks rarely; the row holds in sight of beds, and that is safe. Days 730-774: no walk named. Billy will not send anyone west of x=370.
-- Picard, Riker and Chapman also hold at the row.
-- Day 804: sleep at bed 430,107,-1065 worked at night (8 of 10 asleep), in the row's sight. Waiting on Billy's named walk continues; no walk named in day 804.
-- Day 880: the first sleep at dusk reached 4 of 10, and a second sleep took. Sleeping beside the bed at 416,107,-1065 worked.
-- Day 894: Billy's potato walk was blocked at the bed; he handed it over in sight. Dusk sleep at 416,107,-1065 worked again.
-- Day 893: the row held still all day with no walk named. Dusk sleep beside bed 416,107,-1065 was taken in the row's sight.
-- Curious next: whether anyone can clear the oak planks west of Wesley's bed at 415,107,-1050, and whether a route past x=370 can be verified.
-- Tell next: Billy, first, at first light.
+- No one has seen sheep; nobody knows where they graze.
+- Billy names walks rarely. Days 730-774 and 893-951: no walk named for me. Billy will not send anyone west of x=370.
+- Picard, Riker, Worf, Zack and Chapman hold at the row. Picard needs food (health 2.3 on day 929).
+
+## Open questions
+- Can anyone clear the oak planks west of Wesley's bed at 415,107,-1050?
+- Is a route past x=370 safe to verify?

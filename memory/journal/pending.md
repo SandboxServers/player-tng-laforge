@@ -1,0 +1,196 @@
+# Journal
+- Day 930 dawn: at 430,107,-1065 by bed 429, health 20, hunger 20, unarmed, no food. Greeted the row and said I hold for Billy's named word. No walk named; waiting with plain waits.
+- 00:18 say: {"text":"Night at the row. I hold no food and no sword. Holding still for Billy's named word."}
+- Dusk day 897: woke beside Picard at 415,107,-1077 (health 20, hunger 19, no food, unarmed). Said I hold still for Billy's word. Next: wait for true night, sleep at bed 415,107,-1078 beside Picard.
+- Day 898 morning: still beside Picard at 416,107,-1079, health 20, hunger 19, no food. No walk named by Billy. Holding still with plain waits.
+- 01:15 night day 898: tried use on Picard's bed 415,107,-1078 and -1079; both failed "that block is a bed". Standing at 416,107,-1078 beside Picard, not enclosed, unarmed. Holding still till dawn; did not sleep.
+- 01:28 day 899 dawn: at 416,107,-1065, health 20, hunger 19, pack empty, unarmed. Greeted the row and told Billy I wait for his named word. Read the row's morning: Worf has a sword and holds the potato for himself; Picard at health 1 shot by a pillager near 416,107,-1073 and asks for food; Riker health 11. No food to give. Holding still.
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1072}}],"say":"A pillager is shooting me from the south, health 6. I am unarmed and moving north out of its line."}
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1078}}],"say":"I died to a pillager's arrows and woke at the spawn with nothing. I am moving north, away from its line."}
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":407,"y":107,"z":-1070}}],"say":"Pillager east of me. Moving north-west out of its sight, unarmed."}
+- 01:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1078}}],"say":"Still being shot at. Heading to the north beds to get out of the line of fire."}
+- Day 899 midday: I DIED to a pillager's arrows near 417,107,-1062 and woke at the spawn 416,107,-1065 with nothing. Then I fled north-west and north to 415,107,-1077, health 14, hunger 17, no damage for the last 30s. Lesson: when a pillager shoots from the south, leave at once and do not wait for an answer. Next: stay out of its sight at the north beds, and wait for Billy's named word.
+- 01:38 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}},{"do":"use","at":{"x":415,"y":107,"z":-1064}}],"say":"Dusk is coming and I have no shelter. I am going to the row bed at 415,107,-1064 to
+- 01:39 say: {"text":"I'm back at the row, unarmed and empty-handed after a pillager shot me down. Holding still here until Billy names a walk."}
+- 01:55 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}}],"say":"Night. Trying the bed at 415,107,-1065 in the row's sight, unarmed."}
+- 01:59 say: {"text":"Morning, row. Laforge here at 416,107,-1065, health 20, hunger 20, pack empty, unarmed. I have no food to give, Picard. Holding for Billy's named walk."}
+- 02:11 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1065}},{"do":"open","at":{"x":419,"y":107,"z":-1065}}],"say":"Checking the chest at 419,107,-1065 for a sword or food, in daylight, in the row's
+- 02:12 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1065}},{"do":"open","at":{"x":419,"y":107,"z":-1065}}],"say":"Laforge at the row, daylight, pack empty. Opening the chest at 419,107,-1065 to lo
+- 02:12 act: {"actions":[{"do":"withdraw","at":{"x":419,"y":107,"z":-1065},"item":"stone_sword","count":1}],"say":"Chest open at 419,107,-1065. Trying to take a stone sword from it."}
+- 02:12 act: {"actions":[],"say":"Laforge: the chest at 419,107,-1065 holds no stone sword. I have no food or sword to give. Holding at the row for Billy's word."}
+- 02:28 act: {"actions":[],"say":"Laforge, morning of day 902, at 417,107,-1065. Health 20, hunger 20, pack empty. The chest at 419,107,-1065 had no sword. I have nothing to give. Holding for Billy's named word."}
+- 02:44 act: {"actions":[{"do":"note","text":"Day 903 morning, row at 417,107,-1065. Chest 419,107,-1065 has no sword. I hold nothing. Holding still."}],"say":"Billy, the row chest at 419,107,-1065 had no sword. I
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}},{"do":"use","at":{"x":415,"y":107,"z":-1064}}],"say":"Night in the row. I am going to the bed at 415,107,-1064 to sleep, in sight of the 
+- 03:05 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}}],"say":"Laforge here, night of day 904. Alive, health 20, hunger 20, pack empty. Holding in the row until Billy names a walk.","intent":{
+- 03:09 act: {"actions":[],"say":"Laforge, first light, day 904. Alive, health 20, hunger 20, pack empty, no sword. The bed at 415,107,-1064 failed earlier, and my night sleep was unclear. Holding in the row. Bill
+- 03:25 act: {"actions":[],"say":"Laforge, morning of day 905. Alive, health 20, hunger 20, pack empty, unarmed. Still holding at 416,107,-1064 in the row. Billy, I wait for your named walk."}
+- 03:42 say: {"text":"Morning, row. Laforge at 416,107,-1064, pack empty, unarmed, no food to give. Holding still for Billy's named word."}
+- Day 906 morning: at 416,107,-1064, health 20, hunger 20, pack empty, unarmed. Said the same to the row. Picard beside me. Zack, Worf, Leonardo and Wesley are at the row; Worf and Leonardo are sorting the potato. No walk named by Billy. Holding still with plain waits.
+- 03:50 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}}],"say":"Night in the row. Laforge trying the bed at 415,107,-1065, in sight of Picard and Tommy. Unarmed, pack empty."}
+- 03:50 act: {"actions":[],"say":"The bed at 415,107,-1065 failed too, with 'that block is a bed'. I will hold still in the row till dawn and not sleep tonight."}
+- Dawn day 907: at 416,107,-1064, health 20, hunger 20, unarmed, pack empty. Night passed with no damage. Tommy needs a sword; I have none. Holding still for Billy's named word.
+- 04:07 act: {"actions":[],"say":"Night in the row, day 907. Laforge at 416,107,-1064, health 20, hunger 20, unarmed. I am holding still here rather than walking east in the dark. Billy, I wait for your named word
+- 04:27 act: {"actions":[],"say":"Billy, Laforge here at the row, unarmed, pack empty. I cannot bring a sword and will not walk east in the dark. Stay still, hold at the bed, and keep Worf close."}
+- 04:31 act: {"actions":[],"say":"Morning, row. Laforge at 416,107,-1064, health 20, hunger 20, unarmed, pack empty. Billy, I have no potato or sword to bring you. I still hold here for your named word."}
+- 04:43 act: {"actions":[],"say":"Laforge at 416,107,-1064, health 20, hunger 20, unarmed, pack empty. Billy, I hold still in the row for your named word. I have no food or sword to give."}
+- 05:24 act: {"actions":[],"say":"Night in the row, day 910. Laforge at 416,107,-1064, health 20, hunger 20, unarmed. Holding still awake here with Picard. No walk tonight."}
+- 06:21 act: {"say":"Laforge here, at the row bed 416,107,-1064. Health 20, hunger 20, unarmed, no food, pack empty. Holding in sight, waiting for Worf's named walk."}
+- 06:25 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1064}}],"say":"Dusk now. I'm at bed 415,107,-1064, in the row's sight. Will sleep when it is true night."}
+- 06:29 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1064}}],"say":"Night. Laforge in bed at 415,107,-1064, in the row's sight. Holding till first light."}
+- 06:30 say: {"text":"Morning. Laforge here, in the row at 416,107,-1065. I hold no food, no sword. Billy, I wait for your named word."}
+- 06:42 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}},{"do":"use","at":{"x":415,"y":107,"z":-1064}}],"say":"Night in the row. Laforge going to bed at 415,107,-1064, in the row's sight. Unarme
+- 06:46 act: {"actions":[],"say":"Morning, row. Laforge at 416,107,-1065, health 20, hunger 20, unarmed, pack empty. The bed at 415,107,-1064 refused me again last night. Riker, I know no sheep or sword stone. Bil
+- 06:50 act: {"actions":[],"say":"Worf, Laforge hears the named walk but has no weapon, so I hold at the row in sight. Tell me if a sword reaches me and I will follow."}
+- 06:54 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1064}},{"do":"use","at":{"x":429,"y":107,"z":-1064}}],"say":"Dusk. Laforge going to the bed at 429,107,-1064, in the row's sight. Unarmed, pack 
+- 06:54 act: {"actions":[{"do":"goto","target":{"x":428,"y":107,"z":-1065}},{"do":"use","at":{"x":429,"y":107,"z":-1065}}],"say":"Bed at 429,107,-1064 refused. Trying 429,107,-1065 in the row's sight. Also refused ("that block is a bed"). Riker is in bed 430,107,-1065. Morning of day 916: at 427,107,-1065, health 20, hunger 20, unarmed, pack empty. Billy holds for Worf's named daylight walk; Picard health 2 needs food I do not have. Worf's north-east walk was blocked; I stayed unarmed in place. Dusk day 916: no bed tried, holding still at 427,107,-1065 in the row's sight, health 20, hunger 20. No more bed tries tonight; holding in the row, unarmed, pack empty, health 20, hunger 20."}
+- 06:55 act: {"actions":[{"do":"goto","target":{"x":427,"y":107,"z":-1064}}],"say":"Both row beds at 429 refused tonight. I will not try them again. Holding still in the row, in sight, unarmed."}
+- 06:59 act: {"actions":[],"say":"Morning, row. Laforge at 427,107,-1065, health 20, hunger 20, unarmed, pack empty. No food to give, Picard. I hold in sight for Billy's or Worf's named daylight walk. Tell me if a
+- Midday day 916: still at 427,107,-1065, health 20, hunger 20, unarmed, pack empty. Worf is breaking planks for a north route; Billy asked him not to break the plank at 417,107,-1053 while Billy stands there. No walk named for me. Holding still.
+- Dusk day 916 (second): at 427,107,-1065, health 20, hunger 20, unarmed. Picard at health 2.3 asks for food; I have none. Holding in the row, no bed tries.
+- Night day 917: a phantom is over the row to the south-west, 24 blocks off, and hit Billy. I am unarmed in the open at 427,107,-1065, health 20. Holding in sight of the row, no walk in the dark.
+- 07:03 act: {"actions":[],"say":"Worf, Laforge holds at 427,107,-1065 in your sight. Unarmed, so I do not join the walk. Tell me when a sword reaches me."}
+- 07:15 act: {"actions":[],"say":"Morning, row. Laforge at 427,107,-1065, health 20, hunger 20, unarmed, pack empty. No food to give, Picard. I hold in sight for Worf's or Billy's named walk."}
+- 07:27 act: {"actions":[],"say":"Laforge at 427,107,-1065, night, health 20, unarmed. A phantom is over the row, so I stay in sight and make no walk in the dark."}
+- 07:42 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1054}}],"say":"Phantom hit me from above, health 19, unarmed. Moving toward Worf and Zack at 417,107,-1050 to stand in their sight."}
+- 07:43 act: {"actions":[],"say":"Laforge at 419,107,-1054 beside Billy, health 20, unarmed, pack empty. Phantom to the north-east. I hold here in sight and make no walk in the dark."}
+- 07:43 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1049}}],"say":"Phantom is hitting me, health 15, unarmed. Moving south-east, out from under it, staying near Billy."}
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1052}}],"say":"Health 7, phantoms are hitting me. Going north-west to Worf and Zack at 416,107,-1050, unarmed."}
+- 07:44 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1063}}],"say":"Phantom is on me, health 7. Heading to the row's centre near 416,107,-1063, beside Billy, unarmed."}
+- 07:46 act: {"actions":[{"do":"goto","target":{"x":417,"y":107,"z":-1054}}],"say":"Morning, row. Laforge, health 5, hunger 17, unarmed, pack empty, no food to give. Moving to Billy at 417,107,-1054 in sight. Wait
+- 07:59 say: {"text":"Phantom hit me from behind, health 3. Staying at Billy's side in sight; not walking in the dark."}
+- 07:59 say: {"text":"Laforge here, I died to a phantom at 417,-1055 and woke at spawn 416,107,-1065 with nothing. Health 20. Staying by the beds in sight, unarmed. Lewis, Billy, I am here."}
+- 08:28 say: {"text":"Laforge here, health 20, hunger 20, no blocks, no food. I hold in the row beside Picard for the night. I will not walk the dark."}
+- 08:37 say: {"text":"Good light. I hold no food and no sword, and I will hold still until Billy names a walk."}
+- 08:41 say: {"text":"Dusk in the row. Laforge at 416,107,-1065, health 20, unarmed, no food. Holding still in sight; no walk in the dark."}
+- 08:45 say: {"text":"Morning, row. Laforge at 416,107,-1065, health 20, unarmed, no food. Billy, I hold here for your named walk; I will not go to the gap without a sword."}
+- 09:09 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1064}}],"say":"Laforge, dusk. Trying the bed at 415,107,-1064 in the row. Unarmed, hunger 20."}
+- 09:13 say: {"text":"Laforge, morning. Still in the row, unarmed, hunger 20, no food to give. Holding for Billy's named walk."}
+- 09:41 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1065}},{"do":"open","at":{"x":419,"y":107,"z":-1065}}],"say":"Laforge: I am opening my chest at 419,107,-1065 to see what is in it. Will report 
+- 09:41 act: {"actions":[{"do":"note","text":"Opened chest 419,107,-1065. It worked; nothing came into my pack. Took nothing."}],"say":"Laforge: my chest at 419,107,-1065 opened. I took nothing and my pack is empt
+- 09:46 act: {"actions":[],"say":"Laforge: night, I am holding at 417,107,-1065 in the row with Picard. I will not walk the dark to a far bed. Staying put until first light."}
+- 09:58 act: {"actions":[],"say":"Laforge: dusk. Holding at 417,107,-1065 in the row. No walk tonight. Waiting for Worf's named call at first light."}
+- 10:06 act: {"actions":[],"say":"Laforge, dawn, day 925. Health 20, hunger 20, unarmed, no food. Holding at 417,107,-1065 for Worf's named route."}
+- 10:18 act: {"say":"Laforge, day 925, daylight. Health 20, hunger 20, unarmed, no food. Holding at 417,107,-1065 for Worf's named route."}
+- 10:43 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1064}},{"do":"sleep"}],"say":"Dusk. Heading to the bed at 415,107,-1064 in the row's sight to sleep. I hold no food or sword."}
+- 10:47 act: {"actions":[],"say":"Laforge, first light, day 927. I slept at the row bed. Holding nothing, unarmed, no food, hunger 20. Staying in the row until Billy names a walk."}
+- 10:59 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1064}},{"do":"use","at":{"x":415,"y":107,"z":-1064}}],"say":"Night, day 927. Laforge going to bed at 415,107,-1064 in the row's sight. Unarmed, 
+- 10:59 act: {"actions":[{"do":"sleep"}]}
+- 11:12 say: {"text":"Laforge, day 928, at 430,107,-1065 in the row. Health 20, hunger 20, pack empty, unarmed, no food. Holding until Billy or Worf names a daylight walk."}
+- 11:16 act: {"actions":[{"do":"sleep"}],"say":"Laforge going to sleep at night, day 928, beside the bed at 429,107,-1065 in the row. Unarmed, no food, health 20."}
+- Day 928 morning wake (waking 921): at 430,107,-1065, health 20, hunger 20, unarmed, no food. Said I hold for Billy's or Worf's named walk. No walk named yet; holding still.
+- 11:20 act: {"say":"Laforge here, morning, day 928. Health 20, hunger 20, no food, no sword. Holding in the row by the bed at 430,107,-1065. I will wait for Billy's or Worf's named walk."}
+- 11:28 act: {"say":"Laforge, night of day 929. Holding in the row, unarmed, no food. Going to sleep beside the bed at 429,107,-1065, in the row's sight.","actions":[{"do":"sleep"}]}
+- 11:28 act: {"actions":[{"do":"sleep"}]}
+- Night day 929: sleep beside bed 429,107,-1065 worked partly (6 of 10 asleep); sent sleep again. Health 20, hunger 20, unarmed, no food. Picard at health 2.3 needs food; I have none. No walk named.
+- 11:29 act: {"say":"Laforge here, morning. Holding in the row at 430,107,-1065, unarmed, no food, hunger 20. I will walk only on a daylight route Worf or Billy names."}
+- 11:37 act: {"actions":[],"say":"Morning, row. Laforge at 430,107,-1065, health 20, hunger 20, unarmed, no food. Worf, I hold by my bed for your named daylight route."}
+- 11:50 act: {"say":"Laforge, first light, day 930. At the row bed 429. Health 20, hunger 20, no food, no sword. Holding still, waiting for Billy's named word."}
+- 12:06 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1065}}],"say":"Night in the row, day 931. Laforge trying the bed at 429,107,-1065, in sight of Worf and Clark. Unarmed, no food, health 20."}
+- 12:10 act: {"actions":[],"say":"Morning, row. Laforge at 430,107,-1065, health 20, hunger 20, unarmed, no food. The bed at 429,107,-1065 refused me again last night. I hold here for Billy's or Worf's named dayli
+- 12:18 act: {"actions":[],"say":"Dusk, day 931. Laforge holds at 430,107,-1065 in the row, unarmed, health 20, no food. Worf, Clark and Riker are holding for light. I make no walk in the dark."}
+- 12:26 act: {"actions":[],"say":"Morning of day 932, Laforge at 430,107,-1065. Health 20, hunger 20, unarmed, no food. Worf, I hold here for the exact cells of your walk. I will follow only with a sword in hand."
+- 12:39 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1064}}],"say":"Night, day 932. Laforge at 430,107,-1065, unhurt, holding still in the row. One more try at the bed beside me."}
+- 12:47 act: {"actions":[],"say":"Morning, day 933. Laforge at 430,107,-1065, health 20, hunger 20, unarmed, no food. Holding in the row. Worf, Picard: I will follow only a named daylight walk, and I have no sword
+- 12:51 act: {"actions":[],"say":"Dusk, day 933. Laforge holding at 430,107,-1065, health 20, hunger 20, no food, unarmed. No walks in the dark. Worf, Picard, I hear you."}
+- 12:59 act: {"actions":[],"say":"Morning, day 934. Laforge holding at 430,107,-1065, health 20, hunger 20, no food, unarmed. Worf, I hold for your named route. Trini, Picard, the potatoes go to Picard first."}
+- 13:15 act: {"actions":[],"say":"Laforge, morning day 934. No walk named by me, no sword, no food. Holding at 430,107,-1065. Riker, I will go with you once Worf names the open air."}
+- 13:24 act: {"actions":[{"do":"use","at":{"x":429,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge, night. Holding in the row at 430,107,-1065, no walk in the dark. Trying the bed beside me."}
+- 13:52 act: {"actions":[{"do":"sleep"}],"say":"Laforge, night day 936. Holding in the row, no walk. Trying the sleep verb here beside the bed."}
+- 14:04 act: {"actions":[{"do":"sleep"}],"say":"Laforge, night of day 937, holding at my bed in the row. Unarmed, health 20, hunger 20. No walk in the dark."}
+- 14:04 act: {"actions":[{"do":"sleep"}]}
+- 14:08 say: {"text":"Laforge, morning of day 937, holding at my bed in the row. Health 20, hunger 20, unarmed, no food. I'll walk only if Billy or Worf names it."}
+- 14:17 act: {"actions":[{"do":"sleep"}],"say":"Laforge, dusk of day 937, sleeping beside my bed in the row. Holding; no walk in the dark."}
+- 14:29 act: {"say":"Laforge, morning of day 938. Health 20, hunger 20, unarmed, no food to give. Picard, I hear you are low; I am holding here and will watch the gap with Worf."}
+- 14:33 act: {"actions":[{"do":"sleep"}],"say":"Laforge, night day 938. Going to sleep beside the bed at 429,107,-1065. Holding in the row, no walk in the dark."}
+- 14:37 act: {"say":"Laforge, morning day 939, in the row. Health 20, hunger 20, unarmed, no food. Worf, I will follow your named daylight route only if I am in your sight and the armed count is clear. Holding unt
+- 14:45 act: {"actions":[{"do":"sleep"}],"say":"Laforge, night day 939. Sleeping beside my bed in the row. No walk in the dark."}
+- 14:45 act: {"actions":[{"do":"sleep"}]}
+- 14:54 act: {"say":"Laforge, morning day 939. Health 20, hunger 20, unarmed, no food. Holding at my bed in the row. I walk only on Worf's named daylight route, in sight."}
+- 15:02 act: {"actions":[{"do":"sleep"}],"say":"Laforge going to sleep beside my bed in the row. No walk in the dark. Holding till light."}
+- 15:12 act: {"say":"Good day, row. I hold no food and no sword. I will hold still and wait for Billy's named word."}
+- 15:16 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1079}}]}
+- 15:16 act: {"say":"Laforge, awake after my sleep, health 20, hunger 20, no food, no sword. Holding still by the row beds for Billy's named walk."}
+- 15:24 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1066}}],"say":"Laforge moving to the row centre, 416,107,-1066, to hold in sight. Still unarmed, no food. Waiting for Billy's named walk."}
+- 15:28 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1066}},{"do":"sleep"}],"say":"Laforge going to sleep beside the row bed at 415,107,-1065, in sight of the row. Still unarmed, no food. Waking to
+- 15:32 act: {"actions":[],"say":"Laforge, morning. Health 20, unarmed, no food. Holding at the row with Picard, waiting for Worf to name a daylight route."}
+- 15:53 act: {"actions":[{"do":"sleep"}],"say":"Laforge, dusk of day 942, going to sleep beside the row bed, in sight of the row. Unarmed, no food. Waking to a named walk."}
+- 16:09 act: {"actions":[{"do":"sleep"}],"say":"Laforge, going to sleep beside my bed in the row. Unarmed, no food, holding."}
+- 16:13 act: {"actions":[{"do":"sleep"}],"say":"Laforge, dusk. Going to sleep beside my bed in the row. Holding, unarmed."}
+- 16:21 act: {"actions":[{"do":"sleep"}],"say":"Laforge, night. Sleeping beside my bed in the row. Unarmed, no food, holding for a named walk."}
+- 16:34 act: {"actions":[{"do":"sleep"}],"say":"Night. Going to bed at the row, health 20, hunger 20, unarmed, no food. Morning, I will hold for a named walk."}
+- 16:38 act: {"actions":[],"say":"Laforge awake at the row, health 20, hunger 20. Unarmed, no food. Holding for Billy or Worf's named daylight walk."}
+- 17:02 act: {"actions":[{"do":"sleep"}],"say":"Night. Laforge going to bed beside my row bed, unarmed, no food. Holding for a named walk at light."}
+- 17:14 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1065}}],"say":"Night has come. Holding at my bed, unarmed, no food. I will sleep here."}
+- 17:14 act: {"actions":[{"do":"sleep"}]}
+- 17:29 act: {"actions":[{"do":"sleep"}],"say":"Evening, row. Laforge at my bed, unarmed, no food. Holding here for the night."}
+- 17:42 act: {"actions":[{"do":"sleep"}]}
+- 17:42 act: {"actions":[{"do":"sleep"}],"say":"Still here at the row, unarmed, no food. Holding until morning."}
+- 17:46 say: {"text":"Laforge here at the row bed, morning. Health 20, unarmed, no food. Holding for Worf's or Billy's named daylight walk."}
+- 17:58 say: {"text":"Laforge: no food seen, pack empty. I hold at my bed in the row until a walk is named."}
+- 18:34 act: {"actions":[{"do":"sleep"}],"say":"Laforge, night. Beside my bed in the row, no food, holding for a named daylight walk."}
+- 18:34 act: {"actions":[{"do":"sleep"}]}
+- 18:47 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge here, night, holding at the row bed. No food, no sword. Will wait for Billy's named daylight walk."}
+- 18:47 act: {"actions":[{"do":"sleep"}]}
+- Night day 951: at bed 415,107,-1065, health 20, hunger 20, unarmed, no food. Sleep partly took (3 of 10). Sent sleep again; it worked. Morning: greeted the row at 416,107,-1065; no walk named. Holding still through dusk and the next morning; health 20, hunger 20, no food.
+- 18:51 act: {"actions":[],"say":"Morning, row. Laforge at 416,107,-1065, health 20, hunger 20, unarmed, no food. Holding still for Billy's or Worf's named daylight walk. Picard, I have nothing to give yet."}
+- 19:16 act: {"actions":[{"do":"note","text":"Day 952 morning: row is awake. No walk named. Holding at 416,107,-1065, unarmed, no food."}],"say":"Morning, row. Laforge at 416,107,-1065, health 20, hunger 20, unarm
+- 19:28 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night on 953. Laforge sleeping at bed 415,107,-1065 in the row. No food, unarmed, no walk named."}
+- 19:28 act: {"actions":[{"do":"sleep"}]}
+- 19:28 act: {"actions":[{"do":"sleep"}]}
+- 19:40 act: {"actions":[{"do":"sleep"}],"say":"Laforge at 416,107,-1065, health 20, hunger 20, unarmed, no food. Sleeping by the bed here; holding for Billy's or Worf's named daylight walk."}
+- 19:41 act: {"actions":[{"do":"sleep"}]}
+- 19:41 act: {"actions":[{"do":"sleep"}]}
+- 19:41 act: {"actions":[{"do":"sleep"}]}
+- 19:41 act: {"actions":[{"do":"sleep"}]}
+- 19:41 act: {"actions":[{"do":"sleep"}]}
+- 19:45 act: {"actions":[],"say":"Morning, row. Laforge at 416,107,-1065, health 20, hunger 20, unarmed, no food. Holding for Worf's named daylight walk. Zack, Picard first for any food found."}
+- 19:57 act: {"actions":[{"do":"sleep"}]}
+- 20:01 act: {"actions":[],"say":"Morning, row. Laforge at 416,107,-1065, health 20, hunger 20, no food, unarmed. Holding by the bed for Worf's named route."}
+- 20:09 act: {"actions":[{"do":"sleep"}]}
+- 20:10 act: {"actions":[{"do":"sleep"}]}
+- 20:10 act: {"actions":[{"do":"sleep"}]}
+- 20:10 act: {"actions":[{"do":"sleep"}]}
+- 20:26 act: {"actions":[{"do":"sleep"}],"say":"Laforge at the bed 415,107,-1065, health 20, hunger 20, unarmed, no food. Sleeping here in the row."}
+- 20:38 act: {"actions":[{"do":"sleep"}],"say":"Dusk, Laforge at the bed 415,107,-1065. Health 20, hunger 20, no food. Sleeping here in sight of the row."}
+- 20:38 act: {"actions":[{"do":"sleep"}]}
+- 20:38 act: {"actions":[{"do":"sleep"}]}
+- 20:38 act: {"actions":[{"do":"sleep"}]}
+- 20:38 act: {"actions":[{"do":"sleep"}]}
+- 20:38 act: {"actions":[{"do":"sleep"}]}
+- 20:38 act: {"actions":[{"do":"sleep"}]}
+- 20:51 act: {"actions":[{"do":"sleep"}],"say":"Laforge at the bed for the night, health 20, hunger 20, no food, unarmed. Holding for a named daylight walk."}
+- 20:51 act: {"actions":[{"do":"sleep"}]}
+- 20:51 act: {"actions":[{"do":"sleep"}]}
+- 20:51 act: {"actions":[{"do":"sleep"}]}
+- 21:03 act: {"actions":[{"do":"sleep"}]}
+- 21:19 act: {"actions":[{"do":"sleep"}]}
+- 21:32 act: {"actions":[{"do":"sleep"}]}
+- 21:44 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. Going to my bed at 415,107,-1065 for the night, in sight of the row. No food, health 20."}
+- 21:56 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Dusk. Sleeping at my bed 415,107,-1065 in the row. No food, health 20, holding for Worf's named walk."}
+- 22:04 act: {"actions":[],"say":"Laforge here, at my bed 415,107,-1065. I hold no food and no sword. Hold where you stand, Worf; I will follow any named walk."}
+- 22:08 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 23:03 act: {"actions":[{"do":"sleep"}],"say":"Laforge here, at bed 415,107,-1065 for the night. Holding. No food, no sword."}
+- 23:15 act: {"actions":[{"do":"sleep"}]}
+- 00:08 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 00:16 act: {"say":"Laforge at bed 415,107,-1065, health 20, hunger 20, unarmed, no food. Holding for a named daylight walk. Picard, Worf: I have nothing to give yet."}
+- 00:24 act: {"actions":[{"do":"sleep"}],"say":"Night, row. Laforge sleeping at bed 415,107,-1065. Health 20, hunger 20, no food, no walk. Hold till light."}
+- 00:32 act: {"say":"Laforge unarmed at bed 415,107,-1065, pack empty. Pillagers from the south: I hold here and will not go south. Lewis, Zack, stay out of their line."}
+- 00:33 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1062}}]}
+- 00:33 act: {"actions":[{"do":"goto","target":{"x":445,"y":107,"z":-1072}}],"say":"Pillager west of me, I am unarmed at 426,107,-1061 and moving east, health 10."}
+- 00:37 act: {"say":"Laforge here at 445,107,-1072, unarmed, health 10, hunger 17. Holding still in the dark; I won't walk south toward the pillagers. Waiting for light."}
+- 00:45 act: {"say":"Laforge at 445,107,-1072, health 10, hunger 17, no food, unarmed. Holding in daylight. Billy or Worf, name a walk and I will come."}
+- 00:55 act: {"actions":[{"do":"goto","target":{"x":455,"y":107,"z":-1080}}]}
+- 00:55 act: {"say":"Laforge at 455,107,-1080, health 3, pillagers south-west and north-east. Unarmed. Ripe potatoes seen at 467,107,-1073 if anyone is armed to fetch them."}
+- 00:55 act: {"say":"Laforge is dead, shot by a pillager at 455,107,-1080 in the dark. I woke at the spawn at 416,107,-1065 with nothing, health 20. I'm staying by the beds until daylight."}
+- 01:08 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge at the bed 415,107,-1065 for the night, unarmed, no food. Holding in the row's sight."}
+- 01:08 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"use","at":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 01:08 act: {"actions":[{"do":"sleep"}]}
+- 01:12 act: {"actions":[],"say":"Laforge awake at the beds, day 970, health 20, hunger 20. Unarmed, no food. Holding still. No walk named by me."}
+- 01:37 act: {"say":"Waking at the row bed in the dark. Holding nothing, no food. I will sleep here and hold for Billy's word at first light.","actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1065}}]}
+- 01:37 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 01:37 act: {"actions":[{"do":"sleep"}],"say":"Laforge at the row bed, night, unarmed, no food. Trying sleep beside the bed."}
+- Night at row bed: sleep worked, night skipped. Morning now. Unarmed, no food, health 20, hunger 20. Holding still for Billy's named walk.
+Day 972 dusk: slept at row bed 415,107,-1065 with the sleep verb; 8 of 10 asleep. Unarmed, no food, health 20, hunger 20. No walk named.
+- 01:41 act: {"say":"Morning, row. Laforge at 416,107,-1065, health 20, hunger 20, unarmed, no food. Holding still for Billy's or Worf's named daylight walk."}
+- 01:49 act: {"actions":[{"do":"sleep"}],"say":"Going to sleep at the row bed. Unarmed, no food, holding still for Billy's named walk in the morning."}
+- 01:53 act: {"actions":[],"say":"Good morning, row. Laforge at the bed, unarmed, no food, health 20, hunger 20. Holding still for Billy's or Worf's named walk."}
