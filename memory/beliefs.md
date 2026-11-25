@@ -32,6 +32,8 @@
 - Day 1025 and 1031: held at the row bed in sight; dusk sleep at 416,107,-1065 worked. Still no named open cell past 423. Holding with plain waits stayed safe.
 - Day 1031 morning: Worf hungry (hunger 8), Trini still holds his potatoes behind planks; Jason, Riker and William hold unarmed with no food.
 
+- Day 1038: holding at the row bed all day and sleeping there at dusk worked again, no death. Still no open cell named past 423.
+
 ## Open questions
 - Which cell past 423 is open at y107? Billy's survey says mixed.
 - Can anyone clear the oak planks west of Wesley's bed at 415,107,-1050?
