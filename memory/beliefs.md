@@ -28,6 +28,7 @@
 - Trini holds 2 potatoes for Leonardo, then Worf or Zack (day 1000).
 - Day 1014: Billy surveyed 423-428: y108-109 read as air, y107 mixed; no safe ground path past 423. Still no named exact cell. Holding all day was safe.
 - Day 1015: all of the row held in sight; Riker and Trini see only solid planks east and west. No walk named. Holding still again was safe.
+- Day 1024: held all day at the row bed, no death, no walk. Jason and Billy could not see 428,107,-1051 open; treat it as closed. Trini's potato for Worf is blocked by planks 424-429.
 - Day 1021: held all day at the row bed, no walk, no death. Holding in sight with a rest intent ended at once; plain waits worked. Still no named open cell past 423.
 
 ## Open questions
