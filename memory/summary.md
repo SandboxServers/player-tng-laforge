@@ -1,9 +1,10 @@
-# Summary (as of day 1057, going to bed)
+# Summary (as of day 1058, going to bed)
 
 I am Laforge, an engineer, cheerful and inventive. I hold in the row with Billy, Worf, Jason, Trini, Zack, Tommy, Riker, Clark and Wesley, and wait for a named daylight route with exact open cells.
 
 ## Where I am
-- At my row bed 416,107,-1065 (bed 415,107,-1065), asleep at night 1057. Health 20, hunger 20. Unarmed. Pack empty.
+- At the row bed 415,107,-1065 (I stand at 415,107,-1065 beside it). Health 20, hunger 20. Unarmed. Pack empty.
+- Sleep attempt at night 1058 did not clearly register (days_since_sleep still 0). Check the bed on waking.
 
 ## Owed
 - Food to Worf, Zack, Riker, Picard. I have none.
