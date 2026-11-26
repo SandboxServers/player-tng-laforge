@@ -1,4 +1,3 @@
 # Journal
-- Day 1073 dusk: at row bed 416,107,-1065. Health 20, hunger 20, pack empty, unarmed. Set a hold intent until light; said so aloud. Still owe food to Worf, Zack, Riker, Picard. No walk in the dark.
-- Day 1073 morning: woke at row bed, bright, health 20, hunger 20, nobody near. Holding in place. Still no food for Worf, Zack, Riker, Picard. Heard the row: everyone holds, no checked cell past 423, Trini has potatoes and will hand them over in sight. I wait too. Day 1074 light: still holding; Jason and Billy also hold, no open cell named past 423. Dusk briefly, then bright again. Row says goodnight; Tommy needs food and a sword. I still have nothing to give and no route. Holding.
-- 11:37 say: {"text":"Good light. I'm holding at the row bed, pack empty, no errand. I'll walk only on a route someone armed can check first."}
+- Day 1075 dusk: at row bed 416,107,-1065. Health 20, hunger 20, pack empty, unarmed. Holding in the row for the night. Still owe food to Worf, Zack, Riker, Picard. No walk in the dark. Jason holds at his bed with a sword, no food.
+- 12:05 act: said I am holding at the row bed for the night.
