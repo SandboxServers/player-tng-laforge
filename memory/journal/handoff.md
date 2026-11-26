@@ -1,7 +1,8 @@
 # Handoff
 
-- Dusk of day 1081, at row bed 416,107,-1065. Health 20, hunger 20, unarmed, pack empty.
+- Night of day 1082, at row bed 416,107,-1065. Health 20, hunger 20, unarmed, pack empty.
 - Sheltered in the row, not in danger, no errand running, no walk.
 - Owed food to Worf, Zack, Riker, Picard, Tommy (potato or sword). None yet.
-- Trini went to 423,107,-1050 to look east; no open cells named yet.
-- Next at light: stay in the row, read Trini's named cells if any, need two readers, one armed. No walk past 423.
+- Worf will come to 429,107,-1049 only when the route reads bright and is seen. Jason holds with a sword, no walk.
+- Potatoes seen at 467,107,-1073 and 467,107,-1074, far east, outside my route.
+- Next at light: stay in the row, read named cells, need two readers, one armed. No walk past 423.
