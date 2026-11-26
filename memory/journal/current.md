@@ -3,3 +3,5 @@
 - 06:50 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}}],"say":"Night 1059. Going to my bed in the row, no walk until light."}
 - 06:51 act: {"actions":[{"do":"sleep"}],"say":"Night. Holding at the row bed, sleeping here until light."}
 - Night 1059: sleep at row bed 416,107,-1065 worked. Woke still at the bed, health 20, hunger 20, pack empty, unarmed. Holding in the row; no walk in the dark.
+- 06:57 act: {"actions":[],"say":"Laforge, morning 1059, at my bed 416,107,-1065. Health 20, hunger 20, pack empty, unarmed. Holding in the row. No walk until two armed readers name exact open cells."}
+- 07:05 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Night 1060. Going to my bed in the row, no walk until light."}
