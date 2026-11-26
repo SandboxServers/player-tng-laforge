@@ -35,6 +35,8 @@
 - Day 1038: holding at the row bed all day and sleeping there at dusk worked again, no death. Still no open cell named past 423.
 - Day 1044: sleep is refused at dusk ("not night"); wait until full night, then sleep. Held all day at the row, no death, no walk. Still no named open cell.
 
+- Day 1044 (dusk): sleep is refused until full night; wait for night, then sleep at 416,107,-1065. Held all day, no death, no walk.
+
 ## Open questions
 - Which cell past 423 is open at y107? Billy's survey says mixed.
 - Can anyone clear the oak planks west of Wesley's bed at 415,107,-1050?
