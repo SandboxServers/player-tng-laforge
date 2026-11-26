@@ -49,6 +49,8 @@
 
 - Day 1077: held all day at the row bed, no death, no walk. Dusk sleep at 416,107,-1065 worked after full night. Still no open cell named past 423; Jason could not read 424-430 at z -1051.
 
+- Day 1078: held all day at the row bed, no death, no walk. Dusk sleep at 416,107,-1065 worked after full night. Still no open cell named past 423; Trini reads 420-425 open, others do not confirm.
+
 ## Open questions
 - Which cell past 423 is open at y107? Billy's survey says mixed.
 - Can anyone clear the oak planks west of Wesley's bed at 415,107,-1050?
