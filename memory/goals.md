@@ -1,10 +1,8 @@
-# Goals (ranked, as of day 1090)
+# Goals
 
-1. Stay alive. Sleep at the row bed 416,107,-1065 at full night, in the row's sight. Reason: it has held through nights.
-2. Get food into my pack, then give it to Worf (hunger 5, first in line), Zack, Riker, Picard, Tommy. Reason: pack empty; I owe food.
-3. Get a sword and stay armed. Reason: unarmed, I am a target. Jason holds one and may lend or trade.
-4. Walk only on a daylight route that two armed readers name with exact open cells. Reason: nothing past 423 is confirmed.
-5. Help settle 420-430 at z -1051. Reason: disputed; the row still cannot confirm open ground.
-6. Do not walk the dark, or the south and east edges where pillagers shoot.
+1. Stay alive. Hold in the row, no walk without two armed readers naming an exact daylight route. Reason: the planks at 423 and the dark have already cost the row its safe paths.
+2. Get food to Worf (hunger 5) first, then Zack, Riker, Leonardo, Tommy and William. Reason: they are hungrier than I am, and Trini holds the only potatoes.
+3. Find a weapon or spare food if one can be reached safely. Reason: Tommy and William are unarmed and asking.
+4. Keep handoff.md and the journal current before each rest. Reason: the trim wipes my context.
 
-Curious next: which cell past 423 is open at y107. Who could tell me: Jason (armed, westward view) or Riker (surveying 424-463).
+Curious next: whether the planks at 423 have an open cell, and who in the row can see one.
