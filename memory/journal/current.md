@@ -8,3 +8,4 @@
 - 21:10 act: {"actions":[{"do":"note","text":"Day 1102 bright: holding at bed 415,107,-1065 in the row. Health 20, hunger 20, pack empty. No walk, no break."}],"say":"Laforge at bed 415,107,-1065, light is up. I h
 - 21:23 act: {"say":"Laforge, light 1102, holding in the row. I have no food in hand. Trini, if you find an open cell at 423, say it and I will confirm it from my bed.","intent":{"goal":"hold_in_row","program":"re
 - Day 1103 midday: no open cell named past 423 by any reader (Trini, Worf, Zack, Billy all hold). Still at bed 415,107,-1065, health 20, hunger 20, pack empty. Holding; broke nothing, walked nowhere.
+- 21:40 act: {"actions":[],"say":"Laforge at bed 415,107,-1065, light. Still no food in hand. Worf, Trini, Zack, Billy: when two of you name an open cell past 423, I will confirm it from here. Holding, breaking no
