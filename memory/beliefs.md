@@ -37,6 +37,8 @@
 
 - Day 1044 (dusk): sleep is refused until full night; wait for night, then sleep at 416,107,-1065. Held all day, no death, no walk.
 
+- Day 1045: held all day at the row, no death, no walk. Billy and Worf read 420-422 as air on z -1051; 423 still unconfirmed. Dusk sleep at 416,107,-1065 worked after waiting for full night.
+
 ## Open questions
 - Which cell past 423 is open at y107? Billy's survey says mixed.
 - Can anyone clear the oak planks west of Wesley's bed at 415,107,-1050?
