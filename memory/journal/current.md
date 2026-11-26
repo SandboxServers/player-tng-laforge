@@ -4,3 +4,4 @@
 - 22:07 say: {"text":"Laforge, daylight 1105, still at 416,107,-1065. Trini, I see you are at 423 with the planks between. I hold here and break nothing; Worf, Zack, name a cell you can both see."}
 - 22:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}}],"say":"Laforge going to my bed for the night, holding in the row."}
 - 22:15 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}}]}
+- 22:17 act: {"say":"Laforge, awake in the row at bed 415. Health and hunger full, nothing to give. Holding here until light; no walks in the dark."}
