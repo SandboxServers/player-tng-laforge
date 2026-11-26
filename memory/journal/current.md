@@ -14,3 +14,5 @@
 - 10:32 say: {"text":"Laforge, morning 1070. Health 20, hunger 20, no food, no sword. Holding at 416,107,-1065 in the row. Worf and Zack first with Trini's potatoes. I name no route yet."}
 - 10:57 say: {"text":"Laforge, morning. Health 20, hunger 20, no food, no sword. Still holding at my bed in the row. No walk until two armed readers name an exact open cell past 423."}
 - 11:05 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}}],"intent":{"goal":"hold_at_bed_until_light","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondi
+- 11:06 say: {"text":"Laforge here, at the row bed, dusk. Holding in place. No walk in the dark. I have no food yet, and I owe Worf, Zack, Riker and Picard."}
+- 11:10 say: {"text":"Good morning, Laforge here. Jason, you are armed: could you name the exact open cells from the row to the potatoes at 467,107,-1073? I will walk only with you in sight."}
