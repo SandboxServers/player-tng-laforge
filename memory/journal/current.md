@@ -5,3 +5,4 @@
 - 22:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}}],"say":"Laforge going to my bed for the night, holding in the row."}
 - 22:15 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}}]}
 - 22:17 act: {"say":"Laforge, awake in the row at bed 415. Health and hunger full, nothing to give. Holding here until light; no walks in the dark."}
+- 22:29 act: {"actions":[],"say":"Dusk here. Holding in the row by my bed, with nothing to give yet."}
