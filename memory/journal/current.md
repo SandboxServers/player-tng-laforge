@@ -16,3 +16,6 @@
 - 11:05 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}}],"intent":{"goal":"hold_at_bed_until_light","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondi
 - 11:06 say: {"text":"Laforge here, at the row bed, dusk. Holding in place. No walk in the dark. I have no food yet, and I owe Worf, Zack, Riker and Picard."}
 - 11:10 say: {"text":"Good morning, Laforge here. Jason, you are armed: could you name the exact open cells from the row to the potatoes at 467,107,-1073? I will walk only with you in sight."}
+- Day 1072 morning: woke at row bed 416,107,-1065, health 20, hunger 20, pack empty, unarmed. Nobody in sight. Asked Jason for exact cells to potatoes; holding.
+- Day 1073 morning: all of the row holding, no food, no named cell past 423. Zack health 13, hunger 14, needs a route to the melon field. Still no walk; I wait.
+- 11:22 say: {"text":"Morning. I'm at the row bed, no one in sight, pack empty and unarmed. I'll hold here until someone armed can name a safe route to the potatoes."}
