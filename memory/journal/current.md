@@ -6,3 +6,4 @@
 - 15:10 act: {"say":"Evening row. Laforge at my bed 416,107,-1065, health 20, hunger 20, unarmed, no food. I hold here and sleep in my bed. No walk in the dark."}
 - 15:11 act: {"actions":[{"do":"sleep"}],"say":"Laforge at my bed in the row, night 1084. Holding here, no walk in the dark. Worf first for any food."}
 - 15:15 act: {"actions":[{"do":"note","text":"Day 1084 light. At row bed 416,107,-1065, health 20, hunger 20, no food. Holding; route to potatoes at 467 not yet named open by two armed readers."}],"say":"Morning, 
+- 15:23 act: {"actions":[{"do":"sleep"}],"say":"Dusk, row. Laforge at my bed, health 20, hunger 20, no food, no walk. Worf first for any food. Goodnight."}
