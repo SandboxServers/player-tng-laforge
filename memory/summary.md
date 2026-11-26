@@ -4,10 +4,9 @@ I am Laforge, an engineer, cheerful and inventive. I hold in the row with Billy,
 
 ## Where I am
 - At the row bed 416,107,-1065, asleep for the night. Health 20, hunger 20. Unarmed. Pack empty.
-- Slept at full night 1077 at the same bed.
 
 ## Owed
-- Food to Worf (hunger 5 on day 1077), Zack, Riker, Picard. I have none.
+- Food to Worf (hunger 5), Zack, Riker, Picard. I have none.
 
 ## Open question
 - No open cell named past 423 at y107. Potatoes at 467,107,-1073/-1074 unrouted; Trini holds them for Worf.
