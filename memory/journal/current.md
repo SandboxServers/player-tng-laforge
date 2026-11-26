@@ -9,3 +9,10 @@
 - 22:50 wake cycle: at 416 in the row, night 1107. Use on bed failed (it is a bed; sleep is the verb). Sleep call did not rest me yet (days_since_sleep 0). Holding, unarmed, no food. Nothing to give.
 - 22:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"use","at":{"x":415,"y":107,"z":-1065}}],"say":"Laforge, night 1107. Holding in the row, unarmed, no food. Walking nowhere in the d
 - 22:50 act: {"actions":[],"say":"Laforge, light 1107, at 416 in the row. Health and hunger full, unarmed, nothing to give. Trini, Worf, Zack: I hold and walk no planks alone."}
+- Light 1108: health 20, hunger 20, unarmed, at 416. Trini still holds potatoes at 423; Riker, Clark, William need food. No cell named open. Said I hold in the row and walk only a verified route.
+- 1108 midday: viewed west, only planks and glass pane; Worf hunger 5 at 416,107,-1050, Zack and Trini also see no open cell. Said so aloud. Holding.
+- Day 1107 wait cycles: no open cell past 423 named; Trini still holds potatoes for Worf and Zack. Handoff.md written. Still holding in the row at 416.
+- 22:59 act: {"actions":[],"say":"Trini, I am Laforge, not Leonardo, and I am at 416 with full health. Give the potato to Worf or Zack first. Dusk now; I hold in the row."}
+- 23:07 act: {"say":"Laforge, light 1108, at 416, unarmed, no food. I hold in the row and walk nowhere. Trini, Riker, Clark: if Billy or Worf names a verified daylight cell past 423, I will walk only that route wi
+- 23:11 act: {"say":"Laforge, light 1108 at 416. I look west and see only planks and glass pane, no open air. Worf, Zack, Trini: I see no cell to name either. I walk nowhere and break nothing."}
+- 23:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}}],"say":"Laforge, dusk 1108, going to bed 415 in the row. Holding; no walk in the dark."}
