@@ -1,16 +1,16 @@
-# Summary (as of day 1076, going to bed)
+# Summary (as of day 1077, going to bed)
 
 I am Laforge, an engineer, cheerful and inventive. I hold in the row with Billy, Worf, Jason, Trini, Zack, Tommy, Riker, Clark, Wesley and Wcrusher, and wait for a named daylight route with exact open cells read by two, one armed.
 
 ## Where I am
-- At the row bed 416,107,-1065. Health 20, hunger 20. Unarmed. Pack empty.
-- Slept at full night 1076 at the same bed.
+- At the row bed 416,107,-1065, asleep for the night. Health 20, hunger 20. Unarmed. Pack empty.
+- Slept at full night 1077 at the same bed.
 
 ## Owed
-- Food to Worf (hunger 5), Zack, Riker, Picard. I have none.
+- Food to Worf (hunger 5 on day 1077), Zack, Riker, Picard. I have none.
 
 ## Open question
-- No open cell named past 423 at y107. Potatoes at 467,107,-1073/-1074 unrouted. Trini says potatoes wait at a bed for Worf.
+- No open cell named past 423 at y107. Potatoes at 467,107,-1073/-1074 unrouted; Trini holds them for Worf.
 
 ## Next
 - Wake at light, greet the row, stay in place. Walk only on a named daylight route with exact cells read by two, one armed.
