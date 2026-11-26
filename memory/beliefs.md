@@ -33,6 +33,7 @@
 - Day 1031 morning: Worf hungry (hunger 8), Trini still holds his potatoes behind planks; Jason, Riker and William hold unarmed with no food.
 
 - Day 1038: holding at the row bed all day and sleeping there at dusk worked again, no death. Still no open cell named past 423.
+- Day 1044: sleep is refused at dusk ("not night"); wait until full night, then sleep. Held all day at the row, no death, no walk. Still no named open cell.
 
 ## Open questions
 - Which cell past 423 is open at y107? Billy's survey says mixed.
