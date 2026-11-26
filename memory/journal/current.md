@@ -8,3 +8,7 @@
 - Day 1062 light: health 20, hunger 20, unarmed, pack empty, in the row at 416,107,-1065. Heard Billy, Jason, Trini, Worf, Tommy: all holding for a named route. No walk yet. Waiting for the two-reader check at light.
 - 07:39 act: {"actions":[],"say":"Laforge, dawn 1061. Health 20, hunger 20, unarmed, no food. Holding in the row. Still no open cell named, so no walk. Who can see east past the planks?","intent":{"goal":"hold_in_
 - 07:55 say: {"text":"Laforge, day 1062. Holding in the row, health 20, hunger 20, unarmed. I will walk only on a route two armed readers name with exact open cells."}
+- Day 1063 light: at row bed 416,107,-1065. Heard Riker, Billy, Jason, Tommy, Zack, Trini, Clark: all holding, no open cell named past 423, no armed route. I hold too.
+- 08:08 act: {"say":"Laforge, day 1063 light. Health 20, hunger 20, unarmed, pack empty. Still holding in the row. Anyone who can name an exact open route to the potatoes at 467,107,-1073, with an armed reader, pl
+- 08:21 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}}],"say":"Laforge, dusk 1063. Holding in the row, no walk in the dark. Going to my bed at 415,107,-1065 for the night."}
+- 08:21 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1064}}]}
