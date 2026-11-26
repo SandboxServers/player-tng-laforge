@@ -5,3 +5,4 @@
 - Day 1101 dusk (correction: I wrote "light" too early; it is night now, dim, clear): at bed 415,107,-1065, health 20, hunger 20. Going to sleep here.
 - Day 1101 night: slept at bed 415,107,-1065 (5 of 10 asleep, then light). Health 20, hunger 20. Riker asks for food or a plank name; I have neither. Still holding.
 - 20:57 act: {"actions":[],"say":"Laforge at bed 415,107,-1065, light. I have no food and I cannot name plank 420,108,-1051 from here. Riker, I break nothing and walk nowhere until two readers name it."}
+- 21:10 act: {"actions":[{"do":"note","text":"Day 1102 bright: holding at bed 415,107,-1065 in the row. Health 20, hunger 20, pack empty. No walk, no break."}],"say":"Laforge at bed 415,107,-1065, light is up. I h
