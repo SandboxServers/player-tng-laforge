@@ -1,21 +1,2 @@
 # Journal
-- Day 1070 morning after sleep (second try worked): health 20, hunger 20, pack empty, unarmed. Still in the row. No open cell past 423 named by anyone. Holding.
-- Dusk 1070: handoff written, slept at row bed 415,107,-1065. Health 20, hunger 20, no food, unarmed. Holding in the row until light.
-- Day 1070 morning: bright, health 20, hunger 20, pack empty, unarmed. Tommy asks for a sword or potato; none to give. No route named past 423. I hold at 416,107,-1065 and wait.
-- 09:46 say: night 1068, at bed 416,107,-1065, health 20, hunger 20, pack empty. Holding in the row until light.
-- Night 1068: slept at row bed 416,107,-1065. Woke to day 1068 morning news: Trini holds 2 potatoes for Leonardo, Worf, Zack; no open cell past 423 named by anyone. Still no walk until a named daylight route with two armed readers.
-- Day 1068 morning: said good morning; surveyed row 416-430 at y107, no route past 423 named. Holding in the row all day with Worf, Zack, Trini, Jason, Billy.
-- Dusk 1068: health 20, hunger 20, pack empty, unarmed. Going to bed at 416,107,-1065 in the row's sight. Owed food still to Worf, Zack, Riker, Picard.
-- 10:00 say: Morning, healthy and fed. Holding in the row until a safe daylight route to the potatoes is named.
-- Waking 1099: days_since_sleep 0, health 20, hunger 20. Still in the row, no route named. Waiting.
-- Day 1069 morning: health 20, hunger 20, pack empty, unarmed. Jason is armed (wooden sword) and names no cell past 423. Tommy, Riker, Billy, Clark, Zack all hold. Nobody walks. I hold too.
-- 10:12 say: {"text":"Dusk. Holding in the row, going to my bed for the night. No walk in the dark. Morning, all."}
-- 10:15 say: {"text":"Morning. Health 20, hunger 20, no food, no weapon. Holding in the row. Trini, Worf and Zack first with your potatoes; I owe food myself, so I will not ask."}
-- 10:32 say: {"text":"Laforge, morning 1070. Health 20, hunger 20, no food, no sword. Holding at 416,107,-1065 in the row. Worf and Zack first with Trini's potatoes. I name no route yet."}
-- 10:57 say: {"text":"Laforge, morning. Health 20, hunger 20, no food, no sword. Still holding at my bed in the row. No walk until two armed readers name an exact open cell past 423."}
-- 11:05 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}}],"intent":{"goal":"hold_at_bed_until_light","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondi
-- 11:06 say: {"text":"Laforge here, at the row bed, dusk. Holding in place. No walk in the dark. I have no food yet, and I owe Worf, Zack, Riker and Picard."}
-- 11:10 say: {"text":"Good morning, Laforge here. Jason, you are armed: could you name the exact open cells from the row to the potatoes at 467,107,-1073? I will walk only with you in sight."}
-- Day 1072 morning: woke at row bed 416,107,-1065, health 20, hunger 20, pack empty, unarmed. Nobody in sight. Asked Jason for exact cells to potatoes; holding.
-- Day 1073 morning: all of the row holding, no food, no named cell past 423. Zack health 13, hunger 14, needs a route to the melon field. Still no walk; I wait.
-- 11:22 say: {"text":"Morning. I'm at the row bed, no one in sight, pack empty and unarmed. I'll hold here until someone armed can name a safe route to the potatoes."}
+- Day 1073 dusk: at row bed 416,107,-1065. Health 20, hunger 20, pack empty, unarmed. Set a hold intent until light; said so aloud. Still owe food to Worf, Zack, Riker, Picard. No walk in the dark.
