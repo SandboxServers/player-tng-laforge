@@ -1,4 +1,6 @@
 # Journal
-- 14:56 act: {"say":"Staying at the bed for the night. Unarmed, no food yet. I'll find food and a sword at light.","actions":[{"do":"sleep"}]}
-- Night 1083: slept at row bed 416,107,-1065. Sleep partly worked, then fully. Health 20, hunger 20, still unarmed and empty-handed. Worf is at his bed 415,107,-1050. Next at light: food and a sword, no walk in the dark.
-- 14:57 act: {"say":"Good night. Holding at my bed in the row, no walk in the dark."}
+- 14:56 act: slept at row bed 416,107,-1065 for the night. Health 20, hunger 20, unarmed, pack empty.
+- Night 1083: woke at light. Row is holding; no two armed readers have named an open cell past 423. Tommy, Jason, Trini, Worf, Zack, Riker, Billy, Wesley, Clark all hold at their beds.
+- 15:02 act: said good morning, stated I hold and walk only on two-reader open cells.
+- Day 1084 wait: nothing new. Still holding at bed, no walk. Next: wait for an armed reader to name open cells, or a route from Jason or Billy.
+- 15:10 act: {"say":"Evening row. Laforge at my bed 416,107,-1065, health 20, hunger 20, unarmed, no food. I hold here and sleep in my bed. No walk in the dark."}
