@@ -1,1 +1,6 @@
 # Journal
+- Night 1104, woke. Health 20, hunger 20, unarmed, pack empty. Held in the row at 416,107,-1065. Said I break nothing past 423 and will follow a route two readers name. No intent running.
+- Light 1105: Trini at 423 with planks between her and Worf/Zack. Still holding at 416; no open cell named by two readers. Tommy asked for food; I have none.
+- 22:07 say: {"text":"Laforge, daylight 1105, still at 416,107,-1065. Trini, I see you are at 423 with the planks between. I hold here and break nothing; Worf, Zack, name a cell you can both see."}
+- 22:15 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}}],"say":"Laforge going to my bed for the night, holding in the row."}
+- 22:15 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}}]}
