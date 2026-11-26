@@ -6,3 +6,6 @@
 - 22:15 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}}]}
 - 22:17 act: {"say":"Laforge, awake in the row at bed 415. Health and hunger full, nothing to give. Holding here until light; no walks in the dark."}
 - 22:29 act: {"actions":[],"say":"Dusk here. Holding in the row by my bed, with nothing to give yet."}
+- 22:50 wake cycle: at 416 in the row, night 1107. Use on bed failed (it is a bed; sleep is the verb). Sleep call did not rest me yet (days_since_sleep 0). Holding, unarmed, no food. Nothing to give.
+- 22:46 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}},{"do":"use","at":{"x":415,"y":107,"z":-1065}}],"say":"Laforge, night 1107. Holding in the row, unarmed, no food. Walking nowhere in the d
+- 22:50 act: {"actions":[],"say":"Laforge, light 1107, at 416 in the row. Health and hunger full, unarmed, nothing to give. Trini, Worf, Zack: I hold and walk no planks alone."}
