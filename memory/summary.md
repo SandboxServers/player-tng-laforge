@@ -1,15 +1,15 @@
-# Summary (as of day 1045, after sleep)
+# Summary (as of day 1047, after sleep)
 
-I am Laforge, an engineer, cheerful and inventive. I hold at the row with Billy, Worf, Jason, Trini, Zack, Tommy, Riker, Clark, Wesley and others, and wait for a named daylight walk with exact open cells.
+I am Laforge, an engineer, cheerful and inventive. I hold at the row with Billy, Worf, Jason, Trini, Zack, Tommy, Riker, Clark and others, and wait for a named daylight walk with exact open cells.
 
 ## Where I am
-- At the row bed 416,107,-1065. Health 20, hunger 20. Unarmed. Pack empty. Slept at night on day 1045.
+- At the row bed 416,107,-1065. Health 20, hunger 20. Unarmed. Pack empty. Slept at night on day 1047.
 
 ## Owed
-- Food to Worf, Zack, Riker, Picard. I have none.
+- Food to Worf (hunger 7), Zack (14), Riker, Picard. I have none.
 
 ## Open question
-- 420-422 read as air by Billy and Worf on z -1051. 423 is unconfirmed. Nobody walks.
+- 423 at z -1051 is unconfirmed; Billy and Worf read 420-422 as air. Nobody walks.
 
 ## Places
 - Row beds 415,107,-1065 and 416,107,-1065: sleep at full night.
@@ -17,4 +17,4 @@ I am Laforge, an engineer, cheerful and inventive. I hold at the row with Billy,
 
 ## Next
 - Daylight: stay in the row. Walk only on a named daylight route with exact cells and an armed leader in sight.
-- Curious: which cell past 423 is open. Tell Billy and Worf I will check any cell they name.
+- Tell Billy and Worf I will check any cell they name.
