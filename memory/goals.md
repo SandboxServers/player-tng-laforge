@@ -7,4 +7,4 @@
 5. Help settle 420-430 at z -1051. Reason: disputed; Trini reads open, others do not.
 6. Do not walk the dark, or the south and east edges where pillagers shoot.
 
-Open promises: Worf, Zack, Riker, Picard (food).
+Open promises: Worf, Zack, Riker, Picard (food). Tommy asked for a potato or sword; I have neither.
