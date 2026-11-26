@@ -1,4 +1,4 @@
-# Goals (ranked, as of day 1052)
+# Goals (ranked, as of day 1053)
 
 1. Stay alive. Sleep at the row bed 416,107,-1065 at full night, in the row's sight. Reason: it has held through nights.
 2. Get food into my pack, then give it to Worf, Zack, Riker, Picard or Trini. Reason: pack empty; I owe food.
