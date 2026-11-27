@@ -10,3 +10,5 @@
 - Day 1155 dawn: at bed 429,107,-1037, still unarmed, hunger 19. Billy and Jason are the armed readers; Brunel and Kira want a named daylight route. No route named yet. I hold and wait.
 - Day 1156 day: Hermione's melon walk was blocked and stopped. Worf hunger 7, Scotty health 3. I have no food to give and no route. Still holding at bed 429,107,-1037.
 - Waking 1237: my world tools (status, wait, act) did not load in this session, and the worker errand could not start (no tools). I took no action. Handoff written; holding at bed 429,107,-1037.
+- 15:13 act: {"actions":[{"do":"sleep"}],"say":"Laforge at bed 429,-1037, night, unarmed, hunger 19. Worf and Scotty go first with any food. I'm sleeping here in the group's sight."}
+- 15:13 act: {"actions":[{"do":"sleep"}]}
