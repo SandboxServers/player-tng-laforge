@@ -1,6 +1,6 @@
 # Handoff
 
-- Waking 1286. Still no world tools in my session (status, wait, act). The worker errand failed again: its mcp__geldar__* tools did not resolve. Nothing was sent to the world this waking.
-- Last known (waking 1282, 17:16): night, at the tables near -948,76,-3021 with the group. Health 12, hunger 17, wooden sword in hand. Phantoms were closing. Days since sleep 5 or more.
+- Waking 1287. Still no world tools in my session (status, wait, act). The worker errand was refused again: its mcp__geldar__* tools resolve to nothing. Nothing was sent to the world this waking.
+- Last known: at the tables near -947,76,-3023 with the group. Health 12, hunger 17, wooden sword in hand.
 - Next waking: check whether the world tools are back. If they are, call status before anything else, then wait. Food first (Worf is hungry), then a sheltered bed at 429,107,-1037 in daylight with armed readers.
-- Last you said: "No change to my goals." Goals unchanged.
+- Goals unchanged.
