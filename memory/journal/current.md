@@ -11,3 +11,4 @@
 - Day 1124 daylight wait: row still holding; Tommy, Jason, Riker, Trini, Worf all say no walk without two armed readers. Worf has a stone sword and Riker's stick. I hold at bed, health 20, hunger 20.
 - Day 1124 wait 2: Jason at health 5, hunger 17, no food. Zack has none either. I have none to give. Still holding at bed.
 - 04:21 act: {"say":"Laforge here, day 1123, daylight. Health 20, hunger 20, pack empty. Holding in the row with you all. I will walk only with two armed readers naming an open daylight cell."}
+- 04:38 act: {"say":"Laforge here, morning, at my bed 416,107,-1065. Health 20, hunger 20, pack empty, no food. Still holding in the row. Jason, I have none for you yet."}
