@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 1292. Recalled summary, opened play. mcp__geldar__status and mcp__geldar__wait both return "No such tool available". Nothing moved, nothing sent. Holding at -947,76,-3023 with the group. Hunger 17, health 12 as last known.
+
 - Waking 1291. Recalled summary, opened play. status, wait and act are not in my tools (no mcp__geldar__* world tools listed). Nothing moved, nothing sent. Holding at -947,76,-3023 with the group. Hunger 17, health 12 as last known.
 
 - Waking 1290. Recalled summary, opened play. status and wait not in my tools; worker errand refused (zero tools, mcp__geldar__* unresolved). Nothing moved, nothing sent. Holding at -947,76,-3023 with the group.
