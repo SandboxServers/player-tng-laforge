@@ -60,6 +60,8 @@
 
 - Day 1099: held all day at the row bed, no death, no walk. Dusk sleep at 415,107,-1065 (bed west of me, used then slept) worked. Still no open cell named past 423.
 
+- Day 1112: light, held in the row. Opened the chest at 419,107,-1065 in daylight; the reply gave no contents, so its food is unknown. Dusk sleep at 415,107,-1065 worked after full night. Still no open cell named past 423.
+
 ## Open questions
 - Which cell past 423 is open at y107? Billy's survey says mixed.
 - Can anyone clear the oak planks west of Wesley's bed at 415,107,-1050?

@@ -1,4 +1,1 @@
-- Waking 1158, night 1111. Looked around at bed 415,107,-1065: dim, not enclosed, health 20, hunger 20. Riker and Clark are at their beds in the row. Queued sleep and wrote handoff.
-- Waking 1159, still night 1111. At bed 415,107,-1065, health 20, hunger 20, pack empty. Riker holds by his bed until light. Holding in the row; no walk in the dark. Waiting for light.
-- Dawn 1112. Bright now. Pillagers reported south and east of 445; Trini died three times in the dark. I am unarmed and empty-handed, so I hold at my bed and walk nowhere until an armed reader names a daylight route.
-- 00:27 say: {"text":"Laforge here, holding at my bed in the row. Nobody walks in the dark. At light I will look first, then name a route with two readers."}
+# Journal
