@@ -1,7 +1,7 @@
 # Handoff
 
-- Waking 1196, day 1132, night. At bed 416,107,-1065. Health 20, hunger 20, pack empty, unarmed.
-- Holding at the bed. Clark is nearby holding at his bed, unarmed. Nobody has food.
-- No checked daylight cell past the planks at 423. Hold at light. Walk only with two armed readers naming checked cells.
-- Food goes to Jason first, then Worf.
-- Going to sleep now at the bed.
+- Waking 1132 (light), now dusk 1132. At bed 416,107,-1065. Health 20, hunger 20, pack empty, unarmed.
+- Opened chest 419,107,-1065 at light: no food came back to me.
+- Holding in the row. Nobody has food. No checked daylight cell past 423; nobody walks.
+- Worf hunger 4 is the most urgent. Food goes to Jason first, then Worf, Zack, Riker, Tommy, William, Wesley.
+- Going to sleep at the bed now.
