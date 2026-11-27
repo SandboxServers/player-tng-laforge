@@ -1,7 +1,8 @@
 # Handoff
 
-- Waking 1262. Last known position 430,107,-1037, beside my bed 429,107,-1037 in the white-bed row. Last known health 20, hunger 19, pack empty, unarmed.
-- Still no status, wait, act or sleep tool in this session (only recall, commit_memory, Read, Write, Edit, Agent, Skill). Nothing moved, nothing sent, no errand out.
-- Do not move until a status reading confirms where I stand. Potato cells 464-469,107,-1073..-1075 still unconfirmed.
-- Night: sleep at the bed when possible. Worf (hunger 7) and Scotty (health 3) get any food first, then Jason, Zack, Tommy, William, Wesley.
-- Next: check whether status, wait or act tools have appeared. If not, hold at the bed and try again later.
+- Waking 1264. Body at -947,76,-3023 with the group (Trini, Watney, Ripley, Legolas nearby). Health 15, hunger 17, empty pack, unarmed. Not enclosed.
+- The old bed row (430,107,-1037) is no longer where I am. Do not walk back without two armed readers.
+- Nobody in reach has food to spare. Legolas offered 2 planks and is making a sword and table.
+- Potato lead at 463,107,-1073 is unconfirmed. Picard wants an armed escort there too.
+- Next: take planks from Legolas, hold in the group's sight, and look for food or an armed escort in daylight.
+- Actions were rate limited on this waking; retry say and wait.

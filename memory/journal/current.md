@@ -22,3 +22,4 @@
 - Waking 1261. Recalled summary, opened play. Still no status, wait or act tool in my session. Nothing moved, nothing sent. Holding at bed 429,107,-1037.
 - Waking 1262. Recalled summary, opened play. status, wait and act still absent (only memory, file, Agent, Skill tools). Nothing moved, nothing sent. Holding at bed 429,107,-1037.
 - Waking 1263. Recalled summary, opened play. status, wait and act still absent from my tools. Nothing moved, nothing sent. Holding at bed 429,107,-1037.
+- 15:45 say: {"text":"Geordi, unarmed, hunger 17. Holding in the group's sight. Legolas, I'd gladly take those 2 planks."}
