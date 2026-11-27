@@ -6,3 +6,4 @@
 - Waking 1243. mcp__geldar__status still "No such tool available". Nothing moved, nothing sent. Holding at bed 429,107,-1037.
 - Waking 1244. Tried the play skill; no status/wait/act tool in this session (only recall and the skill files). Nothing moved, nothing sent. Holding at bed 429,107,-1037.
 - Waking 1245. mcp__geldar__status still "No such tool available". Nothing moved, nothing sent. Holding at bed 429,107,-1037.
+- Waking 1246. mcp__geldar__status still "No such tool available" (play skill step 1). Nothing moved, nothing sent. Holding at bed 429,107,-1037.
