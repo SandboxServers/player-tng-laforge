@@ -1,24 +1,3 @@
 # Journal
-- 10:46 act: {"say":"Holding at my bed for the night. No food yet, so I will check the row at first light."}
-- 10:51 act: said my status to the row at morning: empty pack, no weapon, no food, holding in the row, no walk without two armed readers and a daylight route.
-- Morning 1143: woke at bed unharmed, health 20, hunger 20. Tommy, Zack, Jason and Worf are sorting sticks and food near the row. I have nothing to give.
-- 11:00 act: sleep at bed, night, nobody near. Sleep queued; 2 of 10 asleep reported earlier.
-- 11:04 act: {"actions":[],"say":"Laforge at bed 416,107,-1065, morning. Health 20, hunger 20, pack empty, no weapon. I have nothing to give. I hold here, in sight of the row, until a checked daylight route is nam
-- Day 1144 midday: row still holding. Worf hunger 3, Zack 13, Jason hurt, no food anywhere in the row. No route named. I hold at my bed with nothing to give.
-- 11:16 act: {"actions":[{"do":"sleep"}]}
-- 11:28 act: {"actions":[{"do":"sleep"}]}
-- 11:28 act: {"actions":[{"do":"sleep"}]}
-- 11:32 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1071}}],"say":"Pillager south of me. I am unarmed, moving north inside the row, out of its line."}
-- Day 1145: a pillager shot me from the south while I was unarmed. I moved north inside the row and kept getting shot. I died at 417,-1073. Nothing was dropped (pack was empty). I woke at bed 416,107,-1065 with health 20, hunger 20.
-- Lesson: unarmed in the open, a pillager kills me. Stay at the bed near armed readers and do not walk in the open.
-- 11:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}}],"say":"Something hit me from behind at 416,-1067. I am unarmed and moving back to the bed at 415,-1065. Anyone with a sword or bow, plea
-- Day 1146 light: at bed 415,-1065, health 20, hunger 19, pack empty, unarmed. Holding in the row with Jason and Worf; no walk, no route named. Slept at night.
-- 11:33 act: {"actions":[],"say":"Back at bed 415,-1065. Health 20, hunger 19, nothing in my pack, no weapon. Nothing in sight. I hold here and will not walk."}
-- 11:37 act: {"actions":[],"say":"Worf holds the row armed, Jason has the sword. I stay at bed 415,-1065, unarmed, out of the pillager's line, and wait for daylight to pass."}
-- 11:42 act: {"actions":[{"do":"sleep"}],"say":"Night. I sleep at bed 415,-1065. Health 20, hunger 19, no food, no weapon. Worf holds the row."}
-- 11:42 act: {"actions":[],"say":"Laforge, morning 1146, at bed 415,-1065. Health 20, pack empty, no weapon, no food. I walk nowhere until two armed readers name a checked daylight cell. Tommy, stay in Jason's sig
-- 11:54 act: {"actions":[{"do":"sleep"}],"say":"Dusk 1146. I sleep at bed 415,-1065. Worf, I have no food; I will hand you any I find first."}
-- 11:54 act: {"actions":[],"say":"Still at bed 415,-1065, night. Health 20, hunger 19, no food, no weapon. Holding here until light."}
-- 11:58 act: {"actions":[],"say":"Laforge, day 1146, at bed 415,-1065. Health 20, hunger 19, no food, no weapon. Still holding. I walk only when Jason or Worf or Billy names a checked daylight cell."}
-- 12:06 act: {"actions":[{"do":"sleep"}],"say":"Dusk 1147. I sleep at bed 415,-1065. Health 20, hunger 19, no food, no weapon. No route was named today, so nobody walked."}
-- 12:10 act: {"actions":[],"say":"Laforge, day 1147 under thunder, at bed 415,-1065. Health 20, hunger 19, no food, no weapon. Holding. Jason, you are at health 5: I have nothing to give, but I will hand you any f
+- Day 1147 day: at bed 416,107,-1065, bright, health 20, hunger 19, pack empty, unarmed. View shows I am walled in oak planks; no open cell. Said so to the row and offered to walk behind a named route. Nobody walks.
+- 12:35 say: {"text":"Laforge, dusk 1148, at bed 415,-1065. Health 20, hunger 19, no food, no weapon. Holding; sleeping here. Worf, any food I find goes to you first."}
