@@ -7,3 +7,4 @@
 - Waking 1244. Tried the play skill; no status/wait/act tool in this session (only recall and the skill files). Nothing moved, nothing sent. Holding at bed 429,107,-1037.
 - Waking 1245. mcp__geldar__status still "No such tool available". Nothing moved, nothing sent. Holding at bed 429,107,-1037.
 - Waking 1246. mcp__geldar__status still "No such tool available" (play skill step 1). Nothing moved, nothing sent. Holding at bed 429,107,-1037.
+- 15:23 act: {"say":"Laforge here, morning, unarmed, pack empty, hunger 19. Holding at my bed 429,107,-1037. I will walk only with an armed reader who names an exact daylight cell."}
