@@ -29,3 +29,12 @@
 - Earlier wakings (1240 to 1270): world tools absent most wakings; held at bed 429,107,-1037, then at the tables with the group.
 - 17:28 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"oak_planks","count":2}],"say":"Trini, 2 oak planks from Laforge for your sword, handed here in sight."}
 - 17:28 act: {"actions":[],"say":"Trini, my planks went to McCoy by mistake, not to you. I am sorry. I have none left; I'm holding my sword and no planks. Ask McCoy or Chewie, who is gathering logs."}
+- 17:30 act: {"say":"Laforge here, hunger 17, health 12, empty except my wooden sword. I need 2 planks for a shelter before dark. Zheng He, if you can spare them, I'll stay in your sight at the tables.","intent":{
+- 17:41 say: {"text":"Laforge, morning, armed with a stone sword now (found it), hunger 17. I'm holding at the tables. Anyone who has wood or finds food: I'll walk in your line in daylight."}
+- 17:49 act: {"actions":[{"do":"goto","target":"ag_gimli_01"}],"say":"Laforge here at the tables, health 12, hunger 17, armed with a stone sword. Zheng He, I'd take 2 jungle planks for a shelter when you are in re
+- 17:51 act: {"actions":[{"do":"goto","target":"ag_obiwan_01"}],"say":"Laforge, dusk, unarmed for food but armed with stone sword, no food. Obi-Wan, I'm alone in your reach now. I'd take one oak plank to start a s
+- 17:57 act: {"actions":[],"say":"Laforge, night, in the group, sword in hand. Obi-Wan, thank you for the plank, I don't see it in my pack yet. Holding still."}
+- 18:01 act: {"actions":[{"do":"goto","target":{"x":-929,"y":79,"z":-3015}},{"do":"attack","target":"cow"}],"say":"Laforge, morning, armed, hunger 17. Going to the cow at -929,79,-3015 in daylight, alone and close
+- 18:06 act: {"actions":[],"say":"Laforge: the cow is past the walk limit, so I won't walk there. Anyone with food in my reach, say your name."}
+- 18:14 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 18:15 act: {"actions":[{"do":"attack","target":"phantom"}]}
