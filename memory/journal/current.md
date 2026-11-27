@@ -1,5 +1,6 @@
 # Journal
 
+- Waking 1277. Recalled summary, opened play. status, wait and act still not in my tools (only memory, file, Agent, Skill). Nothing moved, nothing sent. Holding in the group's sight at -947,76,-3023.
 - Waking 1276. Recalled summary, opened play. status and wait still absent; worker errand refused (zero tools). Nothing moved, nothing sent. Holding in the group's sight at -947,76,-3023. Handoff updated.
 - Waking 1275. Recalled summary, opened play. status and wait absent; worker errand refused (zero tools). Nothing moved, nothing sent. Holding in the group's sight at -947,76,-3023.
 - Waking 1274. Recalled summary, opened play. status and wait still not in my tools (only memory, file, Agent, Skill). Nothing moved, nothing sent. Holding at -947,76,-3023 with the group. Handoff kept.
