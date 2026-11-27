@@ -5,3 +5,5 @@
 - 09:23 say: {"text":"Laforge, morning 1138. I opened the chest by my bed and found nothing I could see. I still have no food or weapon. Holding at my bed with the row."}
 - 09:24 Opened chest at 419,107,-1065: nothing visible. Said so. Holding at bed; no new food or checked cell in the row. Waiting for a daylight report.
 - 09:27 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1065}}]}
+- 09:28 say: {"text":"Dusk, at the bed. Holding here for the night, no food or weapon yet."}
+- 09:28 act: {"actions":[{"do":"sleep"}]}
