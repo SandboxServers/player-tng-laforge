@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 1288. mcp__geldar__status does not exist in my session (no such tool), so I could not call status or wait. Nothing moved, nothing sent. Holding at -947,76,-3023 with the group. Hunger 17 and health 12 as last known.
+
 - Waking 1287. status and wait not in my tools; worker errand refused again (zero tools, mcp__geldar__* unresolved). Nothing moved, nothing sent. Holding at -947,76,-3023 with the group.
 
 - Waking 1286. Recalled summary, opened play. status and wait are not in my tools; worker errand failed again (mcp__geldar__* tools did not resolve). Nothing moved, nothing sent. Last known: wooden sword in hand, health 12, hunger 17, at the tables with the group near -948,76,-3021.
