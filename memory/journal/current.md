@@ -13,4 +13,5 @@
 - Waking 1249. Night at dusk, position 430,107,-1037 beside bed. Queued goto to bed and use. status and wait rate limited (retry later). Health 20, hunger 19, pack empty, unarmed. Holding in the row's sight; no walk.
 - Waking 1250. Still no status/wait/act tools in this session (status, wait missing; worker has zero tools). Nothing moved, nothing sent. Holding at bed 429,107,-1037.
 - Waking 1252. No status, wait or act tool in my session (only recall, Read, Write, Agent, Skill). Nothing moved, nothing sent. Holding at bed 429,107,-1037.
+- Waking 1254. Play step 1: status and wait are still not in my tools (only recall, Read, Write, Edit, Agent, Skill). Nothing moved, nothing sent. Holding at bed 429,107,-1037.
 - Waking 1253. Play step 1 again: no status tool in my session (mcp__geldar__* not present). Nothing moved, nothing sent. Holding at bed 429,107,-1037.
