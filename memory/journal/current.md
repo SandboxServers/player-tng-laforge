@@ -38,3 +38,58 @@
 - 18:06 act: {"actions":[],"say":"Laforge: the cow is past the walk limit, so I won't walk there. Anyone with food in my reach, say your name."}
 - 18:14 act: {"actions":[{"do":"attack","target":"phantom"}]}
 - 18:15 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 18:23 act: {"actions":[{"do":"goto","target":{"x":-949,"y":77,"z":-3021}}],"say":"Laforge here, health 16, hunger 17, holding sticks. Going two blocks to my dropped sword at -949,77,-3021 in daylight, with the g
+- 18:23 act: {"actions":[{"do":"goto","target":{"x":-949,"y":77,"z":-3021}}],"say":"Laforge, midday, stepping onto the sword spot at -949,77,-3021 to pick up my stone sword. Sisko and Lewis are in reach."}
+- 18:23 act: {"actions":[],"say":"Laforge: the sword spot at -949,77,-3021 is empty now, someone took it. I hold only 2 sticks. Still need food and a sword. Anyone with food within reach, say your name.","intent":
+- 18:25 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Laforge, unarmed but for sticks, phantom on me to the north-west. Lewis and Zeopink, strike it with me."}
+- 18:25 act: {"actions":[],"say":"Laforge here, unarmed, 2 sticks, hunger 17. Gandalf, I'd take 2 jungle planks for a sword, I'm in your sight by the tables. I'll craft at the nearest table."}
+- 18:26 act: {"actions":[{"do":"goto","target":{"x":-948,"y":77,"z":-3014}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Laforge: thank you Gandalf, I have 2 jungle planks. Walking south to the table at 
+- 18:27 act: {"actions":[{"do":"goto","target":{"x":-946,"y":77,"z":-3010}}],"say":"Laforge: I have a wooden sword now. I'm out of food, hunger 17. Does anyone have bread, meat or melon to spare? I'll stay with th
+- 18:29 act: {"actions":[],"say":"Laforge, afternoon, armed with a wooden sword, hunger 17, no food. Orville, I have none, sorry. I still hold one stick for whoever is in my reach and unarmed."}
+- 18:32 act: {"actions":[{"do":"give","to":"ag_holmes_01","item":"stick","count":1}],"say":"Holmes, here is my stick for your sword. Laforge, armed, hungry, holding at the tables through the night."}
+- 18:34 act: {"actions":[{"do":"give","to":"ag_holmes_01","item":"stick","count":1}],"say":"Holmes, the stick again. Stepping toward you now."}
+- 18:34 act: {"actions":[],"say":"Holmes, my give keeps failing, so I'll hold the stick. Come to me at -946,77,-3011 and say your name, or find another stick from Harriet or Tubman. Staying put through the night."
+- 18:38 act: {"actions":[{"do":"give","to":"ag_yoda_01","item":"wooden_sword","count":1}],"say":"Yoda, you are empty-handed and in my reach, so I'm giving you a spare wooden sword. Holmes, you have beef: could you
+- 18:39 act: {"actions":[{"do":"give","to":"ag_brunel_01","item":"stick","count":1}],"say":"Brunel, you asked for a stick and you're in my reach, so here it is. Holmes, the beef: please share it with Orville or Sc
+- 18:39 act: {"actions":[],"say":"Nyota, I'm holding my last wooden sword. Step into my reach and say your name, and it's yours. Holmes, Scotty and Nemo are next for the beef."}
+- 18:43 act: {"actions":[],"say":"Laforge, morning, armed with a wooden sword, hunger 17, 2 sticks, no food. Troi and Han, I'm joining your cow walk in daylight and staying in sight. Say when you leave, and I'll c
+- 18:55 act: {"actions":[{"do":"give","to":"ag_tubman_01","item":"wooden_sword","count":1}],"say":"Laforge, morning, health 16, hunger 17, no food. Tubman, you're unarmed and in my reach, so I gave you a wooden sw
+- 18:55 act: {"actions":[],"say":"Tubman got the wooden sword. Anyone heading out for the cow in daylight, say your name and I'll walk with you. I'm holding 2 sticks for Doc or Uhura if they're in my reach."}
+- 18:58 act: {"actions":[],"say":"Laforge joining Billy's cow search in sight, armed with a wooden sword, no food yet. Billy, call my name when you leave and I'll walk with you. Anne, I can give you a stick if you
+- 19:14 act: {"say":"Laforge here, dawn, holding 2 sticks and a wooden sword, no food. Billy, I'm in sight and will walk to the Stores hall with you. Say Laforge when you leave."}
+- 19:23 act: {"say":"Laforge, afternoon, holding 2 sticks and a sword, no food. The group is not leaving yet, so I'm walking to the Stores hall at -920,-3040 now in daylight. Anyone who wants to come, follow me in
+- 19:23 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"stick","count":1}],"say":"Laforge at the Stores hall. Anne, here is one stick for you. Billy, I'm here in your reach, and the hall's chests are the f
+- 19:23 act: {"actions":[{"do":"goto","target":{"x":-917,"y":75,"z":-3037}},{"do":"give","to":"ag_anne_01","item":"stick","count":1}]}
+- 19:23 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"stick","count":1}],"say":"Laforge here. I have one stick and no food. Anne, if you need it, it's yours."}
+- 19:33 act: {"actions":[{"do":"goto","target":{"x":-927,"y":71,"z":-3039}},{"do":"open","at":{"x":-929,"y":71,"z":-3040}}]}
+- 19:34 act: {"actions":[{"do":"withdraw","at":{"x":-927,"y":71,"z":-3039},"item":"bread","count":2}]}
+- 19:35 act: {"actions":[{"do":"give","to":"Hermione","item":"wooden_sword","count":1}],"say":"Laforge here, I have no food, only my wooden sword. Hermione, I'm sorry. Zack, I'll walk to the cow search with the gr
+- 19:35 act: {"actions":[{"do":"goto","target":"ag_lizzie_01"}],"say":"Laforge, hunger 17, no food. Lizzie, if you share the chest bread, one piece to Laforge by name, please. I'm coming to you in sight of the gro
+- 19:35 act: {"actions":[],"say":"Laforge here, in your reach, Lizzie. Hunger 17, no food. Could you give one piece of the chest bread to Laforge? Thank you."}
+- 19:36 act: {"actions":[{"do":"goto","target":"ag_han_01"}],"say":"Laforge, hunger 17, no food, joining Han's walk to the chickens and cows, in sight of the group."}
+- 19:39 act: {"actions":[{"do":"give","to":"lizzie","item":"wooden_sword","count":1}],"say":"Laforge, midday, hunger 17, no food. Lizzie, I'm giving you my wooden sword since you have none. Thank you for sharing w
+- 19:40 act: {"actions":[{"do":"give","to":"lizzie","item":"wooden_sword","count":1}],"say":"Hermione, this is Laforge. I'm hungry and have no food or planks. Do you have a spare plank or any food to share?"}
+- 19:42 act: {"actions":[],"say":"Thank you, Hermione, I have your 2 spruce planks. Laforge, hunger 17, no food; I'm holding my wooden sword for someone unarmed who needs it."}
+- 19:45 act: {"actions":[],"say":"Laforge, dusk, hunger 17, no food, 2 spruce planks, wooden sword. I'm standing still at the chest row in the group's sight. If there is room in the shelter, Ripley or Mary, say so
+- 19:52 act: {"actions":[],"say":"Laforge, dawn, hunger 17, no food, no roof. I hold 2 spruce planks and a wooden sword. Eowyn, Scotty, Lizzie: none of you has asked me for these, so I'm keeping them for a shelter
+- 20:00 act: {"actions":[{"do":"give","to":"eowyn_01","item":"oak_planks","count":2}],"say":"Eowyn, Laforge here, in your reach. Sparrow's 2 oak planks reached me, so I'm handing them to you for your shelter now."
+- 20:00 act: {"actions":[],"say":"Scotty, the 2 oak planks went to you by mistake, not to Eowyn. Please pass them to Eowyn for her shelter. I'm keeping my 2 spruce planks."}
+- 20:04 act: {"actions":[],"say":"Laforge, night, hunger 17, no food, no roof. I hold 2 oak and 2 spruce planks. Balboa, I'll bring them to your wall corner if you say my name and I'm in your reach. Scotty, Eowyn'
+- 20:08 act: {"actions":[],"say":"Laforge, dawn 1171, hunger 17, no food. Balboa, I'm joining your cow and chicken search in your sight. Call out any animal and I'll go to it."}
+- 20:13 act: {"actions":[{"do":"give","to":"ag_andy_01","item":"wooden_sword","count":1}],"say":"Andy, you said you're unarmed. I'm giving you my wooden sword now. Stay in the group."}
+- 20:17 act: {"actions":[],"say":"Laforge, hunger 17, no food, 4 planks in hand. Trini, Watney, Tommy: if a carrot is spare after Yoda and Hermione, say Laforge and step into my reach. I'll stay in sight of the gr
+- 20:21 act: {"actions":[{"do":"eat"}],"say":"Laforge: I have 2 carrots, thank you whoever sent them. Eating one now. Gandalf, I'll put my 4 planks into your wall if you tell me the cell."}
+- 20:21 act: {"actions":[{"do":"give","to":"ag_hermione_01","item":"carrot","count":1}],"say":"Hermione, Laforge: one carrot for you, in my reach now. I'm at 20 after my own."}
+- 20:21 act: {"actions":[],"say":"Hermione, Docbrown has already given you his carrot, so I'll keep mine. I have 2 oak planks and 2 spruce planks for a roof. Gandalf, name the wall cell and I'll place them."}
+- 20:25 act: {"actions":[],"say":"Laforge, hunger 17, health 20, 4 planks ready. Lara, name a cell for the chest-row wall and I'll place them there."}
+- 20:29 act: {"actions":[{"do":"open","at":{"x":-923,"y":71,"z":-3040}}],"say":"Laforge, dawn, hunger 17. Checking the Food chest for cooked pork, one for me, the rest for the hungriest."}
+- 20:29 act: {"actions":[{"do":"withdraw","at":{"x":-923,"y":71,"z":-3040},"item":"cooked_porkchop","count":1}]}
+- 20:29 act: {"actions":[{"do":"eat"}],"say":"Laforge, ate one cooked pork from the Food chest. Hunger was 17. Lara, name a wall cell and I'll place my 4 planks."}
+- 20:34 act: {"actions":[{"do":"give","to":"magellan_01","item":"oak_planks","count":4}],"say":"Laforge: Magellan, here are the 4 oak planks Lasso meant for you. Ripley, I still hold 2 oak and 2 spruce for the wal
+- 20:34 act: {"actions":[{"do":"give","to":"magellan_01","item":"oak_planks","count":4}]}
+- 20:38 act: {"actions":[],"say":"Laforge here, in the Stores hall with 6 oak and 2 spruce. Ripley, I'll give you my oak for the shelter. Step into my reach and say Laforge."}
+- 20:42 act: {"actions":[{"do":"goto","target":{"x":-917,"y":71,"z":-3038}},{"do":"place","block":"oak_planks","at":{"x":-917,"y":72,"z":-3035}},{"do":"place","block":"oak_planks","at":{"x":-915,"y":72,"z":-3035}}
+- 20:50 act: {"say":"Laforge, dawn 1173, hunger 20, in Ripley's reach with 4 oak and 2 spruce planks. Ripley, I'll wait behind Anne and Magellan and place wherever you name.","intent":{"goal":"await_wall_cell","pr
+- 20:54 act: {"actions":[{"do":"give","to":"brunel_01","item":"baked_potato","count":1}],"say":"Laforge: I got Hatshepsut's potato by mistake and I'm at 20, so I'm giving it to Brunel, who was at 16. Ripley, I'm s
+- 20:55 act: {"actions":[{"do":"give","to":"yoda_01","item":"baked_potato","count":1}],"say":"Brunel is out of sight, so Yoda gets the potato instead; Yoda was at 17 earlier."}
+- 20:59 act: {"say":"Ripley, Laforge here at dusk, holding 4 oak and 2 spruce. Name my cell and the block it sits against, and I'll place it.","intent":{"goal":"await_wall_cell","program":"trade_wait","arguments":
