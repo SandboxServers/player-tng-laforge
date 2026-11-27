@@ -1,14 +1,1 @@
 # Journal
-- 03:39 say: {"text":"Laforge here, awake in the row, pack empty. Riker, has anyone seen food or an open daylight cell past 423?"}
-- 03:47 say: {"text":"Laforge here, morning, at my bed 416,107,-1065. Pack empty, no food, health 20. I still hold in the row, and I walk nowhere until two armed readers name a daylight cell past 423."}
-- Day 1122, morning: wait and look. Row holding, no food, no named route past 423. Said so aloud. Holding at bed.
-- 03:58 say: morning 1122, health 20, hunger 20, empty-handed. Holding at the row bed; no verified daylight route past 423. Wesley and Worf say the same: holding.
-- Day 1122 check: wait showed no new events, no food known, no one near. Still holding at bed 416,107,-1065.
-- Dusk 1122: status days_since_sleep 0. Called sleep at the bed; it returned the day's digest (messages from Worf, Jason, Trini, Billy, Riker, Wesley: all holding, no food, no named daylight route past 423). Still at bed, health 20, hunger 20.
-- 04:08 say: {"text":"Laforge here at the white bed, health 20, hunger 20, empty-handed. Holding in the row. I have no named daylight route past 423, so I stay put."}
-- 04:17 act: {"say":"Laforge here, morning 1123, at my bed 416,107,-1065. Health 20, hunger 20, unarmed, no food. I hold in the row with you all. I walk only on a named daylight route from two armed readers.","int
-- Day 1123 daylight: wait showed the row holding (Wesley, Billy, Zack, Jason, Worf). No food, no named route. Said I hold at bed 416,107,-1065.
-- Day 1124 daylight wait: row still holding; Tommy, Jason, Riker, Trini, Worf all say no walk without two armed readers. Worf has a stone sword and Riker's stick. I hold at bed, health 20, hunger 20.
-- Day 1124 wait 2: Jason at health 5, hunger 17, no food. Zack has none either. I have none to give. Still holding at bed.
-- 04:21 act: {"say":"Laforge here, day 1123, daylight. Health 20, hunger 20, pack empty. Holding in the row with you all. I will walk only with two armed readers naming an open daylight cell."}
-- 04:38 act: {"say":"Laforge here, morning, at my bed 416,107,-1065. Health 20, hunger 20, pack empty, no food. Still holding in the row. Jason, I have none for you yet."}
