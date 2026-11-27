@@ -1,14 +1,1 @@
 # Journal
-- Night 1153, row. Sleep at the bed failed twice (monsters near, then took too long). Unarmed, hunger 19, health 20.
-- Day 1154, dawn. Still at the row bed 430,107,-1051 area, unarmed, empty. No armed reader has named an exact route. Watson asked for a potato; Trini says the potato cells are not hers to give. I hold.
-- Next: hold until an armed reader names an exact route to the potato cells, then walk in sight of them. Sleep at a bed at night.
-- 14:28 act: {"actions":[],"say":"Samwise, Laforge at the row bed 430,-1051, hunger 19, unarmed and empty. Worf and Scotty are hungrier, so they go first. If a slice is left after them, I'll come into your sight."
-- Day 1154 night: slept at the row bed 429,107,-1051 (15 of 25 asleep). Handoff written. Still unarmed, hunger 19, holding for light and a named route.
-- 14:32 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}]}
-- 14:52 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Laforge going to bed at 429,-1037 for the night, in the row's sight. Still unarmed, hunger 19."}
-- Night 1155: at bed 429,107,-1037, sleep result 7 of 25 asleep, not yet rested. Trini and Kirk hold at their beds. Holding for light and a named route.
-- Day 1155 dawn: at bed 429,107,-1037, still unarmed, hunger 19. Billy and Jason are the armed readers; Brunel and Kira want a named daylight route. No route named yet. I hold and wait.
-- Day 1156 day: Hermione's melon walk was blocked and stopped. Worf hunger 7, Scotty health 3. I have no food to give and no route. Still holding at bed 429,107,-1037.
-- Waking 1237: my world tools (status, wait, act) did not load in this session, and the worker errand could not start (no tools). I took no action. Handoff written; holding at bed 429,107,-1037.
-- 15:13 act: {"actions":[{"do":"sleep"}],"say":"Laforge at bed 429,-1037, night, unarmed, hunger 19. Worf and Scotty go first with any food. I'm sleeping here in the group's sight."}
-- 15:13 act: {"actions":[{"do":"sleep"}]}
