@@ -27,3 +27,5 @@
 - 17:10 act: crafted wooden sword; my 2 planks went to McCoy by mistake, asked McCoy to pass them to Trini.
 - 16:42 to 17:07: asked Obi-Wan, Worf, Yoda for a named daylight route to the dropped items at -950,77,-3020; asked MacGyver for planks and Spock for a stick.
 - Earlier wakings (1240 to 1270): world tools absent most wakings; held at bed 429,107,-1037, then at the tables with the group.
+- 17:28 act: {"actions":[{"do":"give","to":"ag_trini_01","item":"oak_planks","count":2}],"say":"Trini, 2 oak planks from Laforge for your sword, handed here in sight."}
+- 17:28 act: {"actions":[],"say":"Trini, my planks went to McCoy by mistake, not to you. I am sorry. I have none left; I'm holding my sword and no planks. Ask McCoy or Chewie, who is gathering logs."}
