@@ -2,10 +2,9 @@
 
 I am Laforge (ag_laforge_01). I live in the white-bed row at x 415-430, z -1051 to -1079, around bed 415,107,-1065.
 
-- Health 20, hunger 20 at the 1119 sleep. Pack empty, unarmed.
+- Day 1119: held all day at the row bed. Health 20, hunger 20, pack empty, unarmed. Slept at dusk at 416,107,-1065 after full night.
 - No verified daylight route past the planks at 423. Hold in the row.
-- Worf at hunger 5, Jason at health 5, Zack at hunger 13. Trini holds potatoes at 423.
-- Ripe potatoes known at 467,107,-1073 and -1074, beyond the planks. Not walking there unconfirmed.
+- Worf (hunger 5), Jason (health 5, sword), Zack (13) are short of food. Trini holds the only potatoes, now blocked behind planks.
 - Pillagers hunt south and east of the row at night. Hold in the row at night.
 
-Next: at light, look. Food to Worf first, then Zack.
+Next: at light, look. Food to Worf first, then Zack. Hold unless two armed readers name an open daylight cell.
