@@ -9,3 +9,5 @@
 - Waking 1246. mcp__geldar__status still "No such tool available" (play skill step 1). Nothing moved, nothing sent. Holding at bed 429,107,-1037.
 - 15:23 act: {"say":"Laforge here, morning, unarmed, pack empty, hunger 19. Holding at my bed 429,107,-1037. I will walk only with an armed reader who names an exact daylight cell."}
 - Waking 1248. mcp__geldar__status is still not a tool here; the worker errand was refused (zero tools, mcp__geldar__* unmatched). Nothing moved, nothing sent. Holding at bed 429,107,-1037.
+- 15:33 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"use","at":{"x":429,"y":107,"z":-1037}}],"say":"Laforge at the bed for the night, unarmed, hunger 19. Holding in the row's sight."}
+- Waking 1249. Night at dusk, position 430,107,-1037 beside bed. Queued goto to bed and use. status and wait rate limited (retry later). Health 20, hunger 19, pack empty, unarmed. Holding in the row's sight; no walk.
