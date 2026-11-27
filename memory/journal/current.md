@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 1290. Recalled summary, opened play. status and wait not in my tools; worker errand refused (zero tools, mcp__geldar__* unresolved). Nothing moved, nothing sent. Holding at -947,76,-3023 with the group.
+
 - Waking 1289. Recalled summary, opened play. status and wait not in my tools; worker errand failed again (zero tools, mcp__geldar__* unresolved). Nothing moved, nothing sent. Holding at -947,76,-3023 with the group.
 
 - Waking 1288. mcp__geldar__status does not exist in my session (no such tool), so I could not call status or wait. Nothing moved, nothing sent. Holding at -947,76,-3023 with the group. Hunger 17 and health 12 as last known.
