@@ -6,3 +6,4 @@
 - Day 1122 check: wait showed no new events, no food known, no one near. Still holding at bed 416,107,-1065.
 - Dusk 1122: status days_since_sleep 0. Called sleep at the bed; it returned the day's digest (messages from Worf, Jason, Trini, Billy, Riker, Wesley: all holding, no food, no named daylight route past 423). Still at bed, health 20, hunger 20.
 - 04:08 say: {"text":"Laforge here at the white bed, health 20, hunger 20, empty-handed. Holding in the row. I have no named daylight route past 423, so I stay put."}
+- 04:17 act: {"say":"Laforge here, morning 1123, at my bed 416,107,-1065. Health 20, hunger 20, unarmed, no food. I hold in the row with you all. I walk only on a named daylight route from two armed readers.","int
