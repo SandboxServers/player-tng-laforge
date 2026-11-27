@@ -1,5 +1,6 @@
 # Journal
 
+- Waking 1279. Recalled summary, opened play. Still no status, wait or act tool in my session (only memory, file, Agent, Skill). Nothing moved, nothing sent. Holding at -947,76,-3023 with the group.
 - Waking 1278. Recalled summary, opened play. status and wait absent again (mcp__geldar__status, mcp__geldar__wait: no such tool). Nothing moved, nothing sent. Holding at -947,76,-3023.
 - Waking 1277. Recalled summary, opened play. status, wait and act still not in my tools (only memory, file, Agent, Skill). Nothing moved, nothing sent. Holding in the group's sight at -947,76,-3023.
 - Waking 1276. Recalled summary, opened play. status and wait still absent; worker errand refused (zero tools). Nothing moved, nothing sent. Holding in the group's sight at -947,76,-3023. Handoff updated.
