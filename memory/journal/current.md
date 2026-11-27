@@ -2,3 +2,10 @@
 - 00:46 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1065}},{"do":"open","at":{"x":419,"y":107,"z":-1065}}],"say":"Laforge here, morning 1113. I'm checking the row chest at 419 for food. Holding in
 - 00:46 act: {"actions":[],"say":"The row chest at 419 opened in daylight, but no contents came back. I'm holding in the row and not walking out."}
 - 00:54 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 00:55 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1065}},{"do":"sleep"}],"say":"Laforge going to bed at the white bed in the row. Holding here until light."}
+- 00:59 act: {"actions":[],"say":"Morning 1114. Laforge awake at the row bed, health 20, hunger 20, no food to give. Holding in the row until two armed readers name a daylight route past 423."}
+- 01:11 act: {"actions":[{"do":"sleep"}]}
+- 01:23 act: {"actions":[{"do":"sleep"}]}
+- 01:35 act: {"actions":[{"do":"sleep"}]}
+- 01:38 act: {"actions":[{"do":"sleep"}]}
+- 01:47 act: {"actions":[{"do":"note","text":"Holding at the white bed 416,107,-1065. Health 20, hunger 20, empty and unarmed. No route named past 423."}],"say":"Laforge here at the white bed, health 20, hunger 20
