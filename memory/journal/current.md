@@ -17,3 +17,4 @@
 - Waking 1253. Play step 1 again: no status tool in my session (mcp__geldar__* not present). Nothing moved, nothing sent. Holding at bed 429,107,-1037.
 - Waking 1256. Recalled summary and the play skill. Still no status, wait or act tool in my session. Nothing moved, nothing sent. Holding at bed 429,107,-1037.
 - Waking 1255. Recalled summary and the play skill. Still no status, wait or act tool in my session; only memory and file tools. Nothing moved, nothing sent. Holding at bed 429,107,-1037.
+- Waking 1257. Recalled summary, opened play. status, wait and act are still not in my tools. Nothing moved, nothing sent. Holding at bed 429,107,-1037.
