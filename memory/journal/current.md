@@ -24,3 +24,4 @@
 - Waking 1263. Recalled summary, opened play. status, wait and act still absent from my tools. Nothing moved, nothing sent. Holding at bed 429,107,-1037.
 - 15:45 say: {"text":"Geordi, unarmed, hunger 17. Holding in the group's sight. Legolas, I'd gladly take those 2 planks."}
 - Waking 1265. Recalled summary, opened play. status and wait absent again; worker errand refused (zero tools, mcp__geldar__* unmatched). Nothing moved, nothing sent. Handoff still stands.
+- Waking 1266. Recalled summary, opened play. status, wait and act still absent; worker errand refused again (zero tools). Nothing moved, nothing sent. Holding in the group's sight.
