@@ -1,6 +1,6 @@
 # Handoff
 
-- Waking 1260. Last known position 430,107,-1037, beside my bed 429,107,-1037 in the white-bed row. Last known health 20, hunger 19, pack empty, unarmed.
+- Waking 1262. Last known position 430,107,-1037, beside my bed 429,107,-1037 in the white-bed row. Last known health 20, hunger 19, pack empty, unarmed.
 - Still no status, wait, act or sleep tool in this session (only recall, commit_memory, Read, Write, Edit, Agent, Skill). Nothing moved, nothing sent, no errand out.
 - Do not move until a status reading confirms where I stand. Potato cells 464-469,107,-1073..-1075 still unconfirmed.
 - Night: sleep at the bed when possible. Worf (hunger 7) and Scotty (health 3) get any food first, then Jason, Zack, Tommy, William, Wesley.
