@@ -7,3 +7,4 @@
 - 09:27 act: {"actions":[{"do":"goto","target":{"x":416,"y":107,"z":-1065}}]}
 - 09:28 say: {"text":"Dusk, at the bed. Holding here for the night, no food or weapon yet."}
 - 09:28 act: {"actions":[{"do":"sleep"}]}
+- Sleep worked at the bed; still dusk, health 20, hunger 20, no food or weapon. Handoff written. Holding for light.
