@@ -4,3 +4,7 @@
 - Day 1122, morning: wait and look. Row holding, no food, no named route past 423. Said so aloud. Holding at bed.
 - 03:49 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}}]}
 - 03:49 act: {"actions":[{"do":"note","text":"Woke in the row. Everyone holds; no one has food or a named daylight route past 423."}],"say":"Laforge, morning. Holding at my bed. I have no food and no route past 42
+- 03:52 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}},{"do":"sleep"}]}
+- 03:52 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1064}},{"do":"sleep"}]}
+- 03:52 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1064}}]}
+- 03:56 say: {"text":"Laforge, morning. Still unarmed, pack empty, health 20. Holding at my bed; no daylight route named past 423 yet. Food goes to Worf first."}
