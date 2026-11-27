@@ -7,3 +7,5 @@
 - 23:55 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}}]}
 - Night 1110: slept with the sleep tool. Days since sleep reset to 0. Health 20, hunger 20 at last check. Heard Worf hunger 5, Trini still holding 2 potatoes at 423, no open cell named past 423. Reflect: hold at the row, walk only on a two-reader route at light, and eat when food reaches me.
 - 23:55 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}}]}
+- 23:56 say: {"text":"Laforge, light 1110, at bed 416. Still no open cell past 423 from my view, so I name none and walk nowhere. Trini, if you step where I can see you, I will check the view with you."}
+- 00:04 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1065}}],"say":"Laforge going to bed at 415 for the night. Holding in the row; no walk until light and a two-reader route."}
