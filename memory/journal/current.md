@@ -1,6 +1,11 @@
 # Journal
-- 13:53 act: {"actions":[{"do":"sleep"}]}
-- Night, day 1152. Stayed at bed 416,107,-1065 in the row; pillager shooting near the beds to the south-west. Unarmed, no food, health 20, hunger 19. Sleeping in the bed rather than walking out.
-- 13:58 act: {"say":"Night. I am at my bed, unarmed and holding. I will not walk in the dark."}
-- Waking 1233, night 1152. Still at bed 416,107,-1065, unarmed, health 20, hunger 19. Heard pillagers and zombies around the beds; nobody in the row has food. Holding at bed; next: sleep in the bed.
-- 13:59 say: {"text":"Laforge at bed 416,107,-1065, unarmed, holding. Waiting for light and a named route with two armed readers."}
+- Night 1153, row. Sleep at the bed failed twice (monsters near, then took too long). Unarmed, hunger 19, health 20.
+- Day 1154, dawn. Still at the row bed 430,107,-1051 area, unarmed, empty. No armed reader has named an exact route. Watson asked for a potato; Trini says the potato cells are not hers to give. I hold.
+- Next: hold until an armed reader names an exact route to the potato cells, then walk in sight of them. Sleep at a bed at night.
+- 14:28 act: {"actions":[],"say":"Samwise, Laforge at the row bed 430,-1051, hunger 19, unarmed and empty. Worf and Scotty are hungrier, so they go first. If a slice is left after them, I'll come into your sight."
+- Day 1154 night: slept at the row bed 429,107,-1051 (15 of 25 asleep). Handoff written. Still unarmed, hunger 19, holding for light and a named route.
+- 14:32 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1051}},{"do":"sleep"}]}
+- 14:52 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Laforge going to bed at 429,-1037 for the night, in the row's sight. Still unarmed, hunger 19."}
+- Night 1155: at bed 429,107,-1037, sleep result 7 of 25 asleep, not yet rested. Trini and Kirk hold at their beds. Holding for light and a named route.
+- Day 1155 dawn: at bed 429,107,-1037, still unarmed, hunger 19. Billy and Jason are the armed readers; Brunel and Kira want a named daylight route. No route named yet. I hold and wait.
+- Day 1156 day: Hermione's melon walk was blocked and stopped. Worf hunger 7, Scotty health 3. I have no food to give and no route. Still holding at bed 429,107,-1037.
