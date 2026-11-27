@@ -12,3 +12,4 @@
 - 15:33 act: {"actions":[{"do":"goto","target":{"x":429,"y":107,"z":-1037}},{"do":"use","at":{"x":429,"y":107,"z":-1037}}],"say":"Laforge at the bed for the night, unarmed, hunger 19. Holding in the row's sight."}
 - Waking 1249. Night at dusk, position 430,107,-1037 beside bed. Queued goto to bed and use. status and wait rate limited (retry later). Health 20, hunger 19, pack empty, unarmed. Holding in the row's sight; no walk.
 - Waking 1250. Still no status/wait/act tools in this session (status, wait missing; worker has zero tools). Nothing moved, nothing sent. Holding at bed 429,107,-1037.
+- Waking 1252. No status, wait or act tool in my session (only recall, Read, Write, Agent, Skill). Nothing moved, nothing sent. Holding at bed 429,107,-1037.
