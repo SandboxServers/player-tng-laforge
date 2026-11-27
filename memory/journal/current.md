@@ -8,3 +8,10 @@
 - 11:16 act: {"actions":[{"do":"sleep"}]}
 - 11:28 act: {"actions":[{"do":"sleep"}]}
 - 11:28 act: {"actions":[{"do":"sleep"}]}
+- 11:32 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1071}}],"say":"Pillager south of me. I am unarmed, moving north inside the row, out of its line."}
+- Day 1145: a pillager shot me from the south while I was unarmed. I moved north inside the row and kept getting shot. I died at 417,-1073. Nothing was dropped (pack was empty). I woke at bed 416,107,-1065 with health 20, hunger 20.
+- Lesson: unarmed in the open, a pillager kills me. Stay at the bed near armed readers and do not walk in the open.
+- 11:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1065}}],"say":"Something hit me from behind at 416,-1067. I am unarmed and moving back to the bed at 415,-1065. Anyone with a sword or bow, plea
+- 11:33 act: {"actions":[],"say":"Back at bed 415,-1065. Health 20, hunger 19, nothing in my pack, no weapon. Nothing in sight. I hold here and will not walk."}
+- 11:37 act: {"actions":[],"say":"Worf holds the row armed, Jason has the sword. I stay at bed 415,-1065, unarmed, out of the pillager's line, and wait for daylight to pass."}
+- 11:42 act: {"actions":[{"do":"sleep"}],"say":"Night. I sleep at bed 415,-1065. Health 20, hunger 19, no food, no weapon. Worf holds the row."}
