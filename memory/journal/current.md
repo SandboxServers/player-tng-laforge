@@ -21,3 +21,4 @@
 - 11:54 act: {"actions":[],"say":"Still at bed 415,-1065, night. Health 20, hunger 19, no food, no weapon. Holding here until light."}
 - 11:58 act: {"actions":[],"say":"Laforge, day 1146, at bed 415,-1065. Health 20, hunger 19, no food, no weapon. Still holding. I walk only when Jason or Worf or Billy names a checked daylight cell."}
 - 12:06 act: {"actions":[{"do":"sleep"}],"say":"Dusk 1147. I sleep at bed 415,-1065. Health 20, hunger 19, no food, no weapon. No route was named today, so nobody walked."}
+- 12:10 act: {"actions":[],"say":"Laforge, day 1147 under thunder, at bed 415,-1065. Health 20, hunger 19, no food, no weapon. Holding. Jason, you are at health 5: I have nothing to give, but I will hand you any f
