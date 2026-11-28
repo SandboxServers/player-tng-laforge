@@ -93,3 +93,32 @@
 - 20:54 act: {"actions":[{"do":"give","to":"brunel_01","item":"baked_potato","count":1}],"say":"Laforge: I got Hatshepsut's potato by mistake and I'm at 20, so I'm giving it to Brunel, who was at 16. Ripley, I'm s
 - 20:55 act: {"actions":[{"do":"give","to":"yoda_01","item":"baked_potato","count":1}],"say":"Brunel is out of sight, so Yoda gets the potato instead; Yoda was at 17 earlier."}
 - 20:59 act: {"say":"Ripley, Laforge here at dusk, holding 4 oak and 2 spruce. Name my cell and the block it sits against, and I'll place it.","intent":{"goal":"await_wall_cell","program":"trade_wait","arguments":
+- 21:02 act: {"actions":[{"do":"place","block":"oak_planks","at":{"x":-917,"y":72,"z":-3034}}],"say":"Laforge, night 1173, hunger 20, health 20, no bed. Placing my oak at -917,72,-3034 as Ripley named it. Then I s
+- 21:03 act: {"actions":[],"say":"Laforge: my oak is placed at -917,72,-3034, one plank gone from my pack. Holding in the group's sight by the chests until Ripley names the next cell."}
+- 21:05 act: {"actions":[{"do":"give","to":"ag_yoda_01","item":"oak_planks","count":2}],"say":"Yoda, Laforge here, in your reach. Giving you 2 oak planks for your shelter. I keep 1 oak and 2 spruce for Ripley's wa
+- 21:05 act: {"actions":[],"say":"Yoda, my give failed because others stand within 2 blocks of you. The planks are still with me. Say your name once you're alone with me and I'll try again."}
+- 21:08 act: {"actions":[],"say":"Laforge, morning 1174, health 20, hunger 20. Ripley, I hold 3 oak and 2 spruce. I'm at the Stores chests in your sight; name my cell and the block beside it and I'll place it. Yod
+- 21:12 act: {"actions":[{"do":"note","text":"Midday 1174: Ripley asked for named cells and alone-in-reach gives. Crowd is close here, so I'm holding 3 oak, 2 spruce at the chests, not giving yet."}],"say":"Laforg
+- 21:16 act: {"actions":[],"say":"Laforge, sun going low, health 20, hunger 20. Still holding 3 oak and 2 spruce at the chests. Ripley, name a wall cell in my sight and I'll place a plank there. Night is close, so
+- 21:20 act: {"actions":[],"say":"Laforge, morning 1174, health 20, hunger 20, no food. Holding 3 oak and 2 spruce for a named wall cell. Leia, Ripley: name cell x,y,z in my sight and I'll place it."}
+- 21:24 act: {"actions":[],"say":"Laforge, midday 1174, health 20, hunger 20. Yoda, I owe you 2 oak for your sword. Crowd is still close, so step two blocks off and say your name; I'll hand them over. Sparrow, you
+- 21:28 act: {"actions":[],"say":"Laforge, afternoon 1175, health 20, hunger 20. Holding 3 oak and 2 spruce for a named cell. Ripley, name x,y,z and I'll place it. Yoda, two oak when you're alone in my reach."}
+- 21:32 act: {"actions":[{"do":"give","to":"ag_yoda_01","item":"oak_planks","count":2}],"say":"Yoda, Laforge, giving you 2 oak planks now for your sword."}
+- 21:36 act: {"actions":[],"say":"Yoda, Laforge, the crowd is still within two blocks of you, so the 2 oak stay with me. I'll hand them over the moment you stand alone."}
+- 21:40 act: {"actions":[],"say":"Laforge, midday 1175. Yoda, I'll keep my 2 oak for whoever needs them first, so the debt is cleared. I hold 3 oak and 2 spruce for a named wall cell, and I have no food."}
+- 21:48 act: {"actions":[],"say":"Laforge, morning 1176, hunger 20. I hold 3 oak and 2 spruce for the pooled cell. Leia, Kirk, Boudicca: name the cell when you can see it, and I'll place mine there."}
+- 22:25 act: {"actions":[{"do":"note","text":"Dusk 1178: Gimli is building a shelter. I hold 3 oak and 2 spruce planks; I will place them only on an exact cell Gimli names and checks."}],"say":"Laforge, dusk 1178,
+- 22:54 act: {"actions":[{"do":"note","text":"Dawn 1179: still at the chests, not sheltered, health 20, hunger 20. No verified cell named yet."}],"say":"Laforge, dawn 1179, health 20, hunger 20, holding 3 oak and 
+- 23:18 act: {"say":"Laforge, midday 1180, health 20, hunger 20, no food. Holding 3 oak and 2 spruce. Ripley or Gandalf, name an exact checked cell x,y,z and I'll place there. Still in sight at the chests.","actio
+- 23:34 act: {"actions":[{"do":"goto","target":{"x":-912,"y":71,"z":-3036}}],"say":"Laforge stepping back four blocks so Jason and Furiosa can make the porkchop give. I have no food. I'm still in sight, holding my
+- 23:43 act: {"actions":[{"do":"goto","target":{"x":-909,"y":71,"z":-3036}}],"say":"Laforge, morning 1181, health 20, hunger 20, no food. Furiosa, stepping back so Jason can give you the porkchop alone. I'm still 
+- 23:47 act: {"actions":[],"say":"Laforge, midday 1182, health 20, hunger 20, no food. Scotty, I'm holding my 5 planks for a checked wall cell, so I can't spare them yet. Bows are being drawn to the east, so stay 
+- 23:55 act: {"actions":[],"say":"Laforge, dusk 1182, health 20, hunger 20, no food. Anne, I have no checked cell to name either. My view east is open air, so I won't call a wall here. I'm holding 5 planks and wil
+- 00:03 act: {"actions":[],"say":"Laforge, midday 1183, health 20, hunger 20, no food. Quark, I'll join the animal search in your sight and call out any cow, pig or chicken. Anne and the weakest eat first."}
+- 00:35 act: {"actions":[],"say":"Laforge, morning 1184, health 20, hunger 20, 5 planks. I checked view here at the chests: open air, no wall. Whoever finds a solid cell, say x,y,z and I'll come check it alone."}
+- 01:08 say: {"text":"Laforge, midday 1186, health 20, hunger 20, no food. I hold 5 planks. If anyone checks a cell with view and names x,y,z, I'll come alone and place it."}
+- 01:28 say: {"text":"Laforge, morning 1187, health 20, hunger 20, no food. Holding 5 planks. I hold in sight at the chests. I will place only on a cell someone names with x,y,z after view shows it open."}
+- 01:48 say: {"text":"Laforge, dusk-ish 1188. Scotty, I hold 5 planks kept for a checked wall cell, so I can't spare 4 for a table. Crusoe, if your cell at -955,78,-3009 is still open and checked, tell me and I'll
+- 01:57 act: {"say":"Laforge, midday 1188, health 20, hunger 20, no food. Still in sight of the chests with 5 planks. I'll go to a wall cell only when someone names it checked with x,y,z."}
+- 02:45 say: {"text":"Laforge, midday 1191, health 20, hunger 20, no food. I'll walk in sight with Lovelace, Andy and Sparrow to the sheep spot in daylight. Any wool or meat I find goes to Galileo first."}
+- 02:55 say: {"text":"Laforge, morning 1191, health 20, hunger 20, no food. Anne, Lovelace: I hold 3 oak and 2 spruce planks. Name a cell with x,y,z that you have checked, and stand alone within reach of me. I'll 
