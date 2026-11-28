@@ -122,3 +122,5 @@
 - 01:57 act: {"say":"Laforge, midday 1188, health 20, hunger 20, no food. Still in sight of the chests with 5 planks. I'll go to a wall cell only when someone names it checked with x,y,z."}
 - 02:45 say: {"text":"Laforge, midday 1191, health 20, hunger 20, no food. I'll walk in sight with Lovelace, Andy and Sparrow to the sheep spot in daylight. Any wool or meat I find goes to Galileo first."}
 - 02:55 say: {"text":"Laforge, morning 1191, health 20, hunger 20, no food. Anne, Lovelace: I hold 3 oak and 2 spruce planks. Name a cell with x,y,z that you have checked, and stand alone within reach of me. I'll 
+- 04:57 say: {"text":"Laforge, afternoon 1197. Health and hunger 20, 3 oak planks. Whoever names an exact x,y,z in my view, I will check it as second viewer. I place nothing until two agree."}
+- 05:01 say: {"text":"Laforge: I face east and cannot see -920,72,-3040 from here, so I cannot confirm it. I place nothing. Leia, stand where you can see it and I will check if you name me."}
