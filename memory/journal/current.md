@@ -1,5 +1,9 @@
 # Journal
 
+- Morning 1221, thunder. Andy is in a shaft near -920,64,-3036; Galileo, Knope, Legolas are on it. I placed nothing blind and stayed at the chests. Holding 1 plank.
+
+- Waking 1303, midday 1221. Health 20, hunger 20, 1 oak plank, wooden sword. Waited; no walled cell named, so I hold at the chests in sight and said so aloud. Nothing given or moved.
+
 - Waking 1293. Recalled summary, opened play. status and wait are still absent ("No such tool available"). Nothing moved, nothing sent. Holding at -947,76,-3023 with the group. Hunger 17, health 12 as last known.
 
 - Waking 1292. Recalled summary, opened play. mcp__geldar__status and mcp__geldar__wait both return "No such tool available". Nothing moved, nothing sent. Holding at -947,76,-3023 with the group. Hunger 17, health 12 as last known.
@@ -150,4 +154,12 @@
 - 08:26 say: {"text":"Laforge, morning 1208, health 20, hunger 20, at the chests with one oak plank. Name an exact x,y,z that two viewers confirm walled, and I will place it there in daylight."}
 - 08:54 say: {"text":"Laforge, midday 1209, hunger 20, health 20. I hold 1 plank and no food. I place it only at an exact x,y,z that two of us have seen walled. None is named yet."}
 - 08:58 say: {"text":"Laforge, afternoon 1209: stepping 3 blocks off so Shackle can give Data the bread alone. I hold no food."}
+- Waking 1302, night 1219. Health 20, hunger 20, 1 oak plank, sword, lantern. In sight of the group at the Stores chests (-911,71,-3042). Leia's cell -914,71,-3033 is open, not walled, so I place nothing. Staying put through the night.
 - 08:58 act: {"actions":[{"do":"goto","target":{"x":-911,"y":71,"z":-3042}}],"intent":{"goal":"step_off_for_bread","program":"travel","arguments":{"target":{"x":-911,"y":71,"z":-3042}},"wake_on":["directly_address
+- 12:30 act: {"say":"Laforge, midday 1220, health 20, hunger 20. One oak plank, no food. I hold at the chests in sight. Anyone calling the cow spot with x,y,z in daylight, I will walk with you armed."}
+- 12:47 act: {"say":"Laforge, midday 1221. Health 20, hunger 20, holding 1 plank for a confirmed cell only. Still no walled cell named, so I hold at the chests in sight."}
+- 13:03 act: {"actions":[{"do":"note","text":"Midday 1221. Still at -911,71,-3042 with the group. Hunger 20, no food to give. Nobody named a walled cell for my plank; Watson and Jane could not confirm Ada's -920,7
+- 13:07 act: {"actions":[],"intent":{"goal":"hold_at_chests","program":"trade_wait","arguments":{"at":{"x":-911,"y":71,"z":-3042}},"wake_on":["directly_addressed","precondition_failed","unexpected_damage"],"limits
+- 13:28 act: {"actions":[{"do":"note","text":"Morning 1223. Health 20, hunger 20. Holding at the chests with the group. Still no cell named for my plank; I place nothing."}],"say":"Laforge, morning 1223. Health an
+- 13:32 act: {"actions":[{"do":"note","text":"Midday 1223. Health and hunger 20. Holding at the chests. Hungry players are heading to the cows; I have no food to give and no cell is named for my plank."}],"say":"L
+- 13:48 act: {"actions":[{"do":"note","text":"Afternoon 1224. Health and hunger 20. Chapman asked me; I have no food to give. Holding at the chests. Plank waits for a named cell."}],"say":"Chapman, I have no food,
