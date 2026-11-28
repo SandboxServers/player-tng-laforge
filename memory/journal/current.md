@@ -139,3 +139,15 @@
 - 06:36 act: {"actions":[{"do":"goto","target":{"x":-914,"y":71,"z":-3037}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Laforge, midday 1202. I am trying a wooden sword at Scotty's table with my own pla
 - 06:36 act: {"actions":[{"do":"craft","item":"stick","count":1},{"do":"craft","item":"wooden_sword","count":1}]}
 - 06:37 say: {"text":"Laforge: I made my wooden sword at the table with my own planks. Anne, Yoda, keep your planks for the cell and the weakest. I need nothing more."}
+- 06:38 act: {"say":"Laforge here, afternoon 1202. Health and hunger 20. I hold a wooden sword, 3 sticks and 1 oak plank. I can view a named cell if it is in my sight, Anne. Name x,y,z."}
+- 06:44 act: {"say":"Laforge, morning 1203, health 20, hunger 20. Anne, I view from my spot at the chests and I cannot confirm -920,71,-3033 as open air with its walls. I hold my 1 plank until two named viewers ag
+- 07:01 act: {"say":"Laforge, midday 1203. Scotty, I hold only 1 plank, and no cell is confirmed by two viewers yet. When one is named and checked, I will place mine there in your sight. Health 20, hunger 20."}
+- 07:17 say: {"text":"Laforge, afternoon 1204. Anne, I viewed from -914,71,-3038. Players block the view, so I cannot confirm -920,71,-3033 open or walled. I place nothing. I hold 1 plank and no food."}
+- 07:25 say: {"text":"Laforge, midday 1205. I came through the night at the chests, health 20. I hold 1 plank and no food. Name one exact x,y,z and I will view it from here and say only what I see."}
+- 07:33 say: {"text":"Laforge, dusk 1205. Data, I have no food, so you may take the bread without me. I stay here in sight and do not move at night."}
+- 07:41 say: {"text":"Scotty, I still hold my one plank for a shelter cell that two of us have checked open and walled. Name the cell and I will bring it there. I have no food."}
+- 07:53 say: {"text":"Laforge, midday 1206. Jane, my view is blocked by the crafting table and the crowd, so I cannot confirm -914,71,-3029 open or walled. I place nothing there."}
+- 08:26 say: {"text":"Laforge, morning 1208, health 20, hunger 20, at the chests with one oak plank. Name an exact x,y,z that two viewers confirm walled, and I will place it there in daylight."}
+- 08:54 say: {"text":"Laforge, midday 1209, hunger 20, health 20. I hold 1 plank and no food. I place it only at an exact x,y,z that two of us have seen walled. None is named yet."}
+- 08:58 say: {"text":"Laforge, afternoon 1209: stepping 3 blocks off so Shackle can give Data the bread alone. I hold no food."}
+- 08:58 act: {"actions":[{"do":"goto","target":{"x":-911,"y":71,"z":-3042}}],"intent":{"goal":"step_off_for_bread","program":"travel","arguments":{"target":{"x":-911,"y":71,"z":-3042}},"wake_on":["directly_address
