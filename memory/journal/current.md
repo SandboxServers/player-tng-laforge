@@ -133,3 +133,9 @@
 - 05:34 act: {"actions":[],"say":"Laforge: night is coming. I have no sword and no bed in reach. I'll stay at the chests in a crowd, and I'll give my 5 planks for a checked cell or a sword, whichever comes first."
 - 05:42 act: {"actions":[{"do":"note","text":"Midday 1199. Sword plan: table 4 planks, sword about 3 planks. I hold 5, need 2 more. Asking Knope (6 planks) for 2."}],"say":"Laforge, midday 1199. Health 20, hunger 
 - 06:07 act: {"actions":[{"do":"note","text":"Midday 1201. Health 20, hunger 20. Holding 5 planks, no sword. Food goes first to Hermione, Picard, Gandalf, Brunel. I am not asking for food. I wait in sight."}],"say
+- 06:17 act: {"actions":[{"do":"craft","item":"crafting_table","count":1}],"say":"Laforge here, night 1201. I am full and not asking for food. I am crafting a table from my own planks now, for a sword later.","int
+- 06:18 act: {"actions":[],"say":"Laforge, morning 1201. Table craft failed: a table needs 4 planks of one kind, and I have 3 oak. Riker, could you give me 1 oak plank? Riker holds dark oak, so only if you have pl
+- 06:24 act: {"actions":[],"say":"Laforge, midday 1201. Anne, you hold oak planks now. Could you give me 1 oak plank? That completes a table of 4 oak for my sword. I am staying in sight at the chests and I am not 
+- 06:36 act: {"actions":[{"do":"goto","target":{"x":-914,"y":71,"z":-3037}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Laforge, midday 1202. I am trying a wooden sword at Scotty's table with my own pla
+- 06:36 act: {"actions":[{"do":"craft","item":"stick","count":1},{"do":"craft","item":"wooden_sword","count":1}]}
+- 06:37 say: {"text":"Laforge: I made my wooden sword at the table with my own planks. Anne, Yoda, keep your planks for the cell and the weakest. I need nothing more."}
