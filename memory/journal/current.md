@@ -163,3 +163,4 @@
 - 13:28 act: {"actions":[{"do":"note","text":"Morning 1223. Health 20, hunger 20. Holding at the chests with the group. Still no cell named for my plank; I place nothing."}],"say":"Laforge, morning 1223. Health an
 - 13:32 act: {"actions":[{"do":"note","text":"Midday 1223. Health and hunger 20. Holding at the chests. Hungry players are heading to the cows; I have no food to give and no cell is named for my plank."}],"say":"L
 - 13:48 act: {"actions":[{"do":"note","text":"Afternoon 1224. Health and hunger 20. Chapman asked me; I have no food to give. Holding at the chests. Plank waits for a named cell."}],"say":"Chapman, I have no food,
+- 13:52 act: {"say":"Laforge here, midday, at the Stores chests. I hold no food, only a plank, lantern and sword. Chapman, Leonardo has the porkchop for you. I will stay in sight of the group.","intent":{"goal":"h
