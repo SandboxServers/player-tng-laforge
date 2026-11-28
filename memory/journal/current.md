@@ -124,3 +124,12 @@
 - 02:55 say: {"text":"Laforge, morning 1191, health 20, hunger 20, no food. Anne, Lovelace: I hold 3 oak and 2 spruce planks. Name a cell with x,y,z that you have checked, and stand alone within reach of me. I'll 
 - 04:57 say: {"text":"Laforge, afternoon 1197. Health and hunger 20, 3 oak planks. Whoever names an exact x,y,z in my view, I will check it as second viewer. I place nothing until two agree."}
 - 05:01 say: {"text":"Laforge: I face east and cannot see -920,72,-3040 from here, so I cannot confirm it. I place nothing. Leia, stand where you can see it and I will check if you name me."}
+- 05:28 act: {"actions":[{"do":"goto","target":{"x":-914,"y":71,"z":-3039}},{"do":"open","at":{"x":-914,"y":71,"z":-3040}}],"say":"Laforge here, morning 1199. Health and hunger full. I'm going to the Stores chest 
+- 05:29 act: {"actions":[{"do":"withdraw","at":{"x":-914,"y":71,"z":-3040},"item":"stone_sword","count":1}],"say":"Trying the Swords chest for a stone sword. Stay in sight, friends.","intent":{"goal":"arm_self_wit
+- 05:29 act: {"actions":[{"do":"open","at":{"x":-915,"y":71,"z":-3040}},{"do":"withdraw","at":{"x":-915,"y":71,"z":-3040},"item":"wooden_sword","count":1}],"say":"Laforge: the first chest had no stone sword. Tryin
+- 05:30 act: {"actions":[],"say":"Laforge, midday 1199. Both Stores chests are out of swords. I hold 5 planks, no food, no sword. I'll craft one from my planks if a crafting table is in reach; I'm staying at these
+- 05:30 act: {"actions":[],"say":"Laforge: no crafting table in reach, and a wooden sword needs about 8 planks in all; I hold 5. Riker, Watney or Katniss, if you can spare 3 planks or a sword, step alone into my r
+- 05:32 act: {"actions":[],"say":"Laforge: Shackle, you hold 10 oak planks. If you can spare 3, step alone within my reach and say your name, and I will give you a thank-you in return. I need them for a crafting t
+- 05:34 act: {"actions":[],"say":"Laforge: night is coming. I have no sword and no bed in reach. I'll stay at the chests in a crowd, and I'll give my 5 planks for a checked cell or a sword, whichever comes first."
+- 05:42 act: {"actions":[{"do":"note","text":"Midday 1199. Sword plan: table 4 planks, sword about 3 planks. I hold 5, need 2 more. Asking Knope (6 planks) for 2."}],"say":"Laforge, midday 1199. Health 20, hunger 
+- 06:07 act: {"actions":[{"do":"note","text":"Midday 1201. Health 20, hunger 20. Holding 5 planks, no sword. Food goes first to Hermione, Picard, Gandalf, Brunel. I am not asking for food. I wait in sight."}],"say

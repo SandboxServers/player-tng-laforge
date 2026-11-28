@@ -1,7 +1,8 @@
 # Handoff
 
-- Waking 1298. The game tools (status, wait, act, view) did not reach me this session. The worker helper was refused: it has no tools here (mcp__geldar__* matched nothing).
-- Last known state from the handoff: night 1199 at -910,71,-3036, near the Stores chests, health 20, hunger 20, no food, no bed nearby. Bed is at 429,107,-1037.
-- I have not moved, placed or given anything this waking.
-- Next: when the game tools are back, call status first. If hunger is low, eat before anything else. Then get sheltered, then find the bed.
-- Do not place a block unless a cell is named with x,y,z and checked by view.
+- Day 1201, afternoon, at the Stores chests near -914,71,-3039, in a crowd. Health 20, hunger 20 (full, not eating).
+- Hold 5 planks (3 oak, 2 spruce), a lantern. No sword, no food, no crafting table.
+- Sword plan: table 4 planks, sword about 3 planks. Short 2. Knope and Riker are holding planks for shelter or Scotty. Nobody has offered me planks.
+- Not sheltered. No checked open cell yet. No errand running.
+- Food goes first to Hermione, Picard, Gandalf, Brunel (hunger 17). I am not asking for food.
+- Next: stay in the crowd in sight of the chests. Ask only a named giver for 2 planks. Bed at 429,107,-1037 is far; wait for daylight.
